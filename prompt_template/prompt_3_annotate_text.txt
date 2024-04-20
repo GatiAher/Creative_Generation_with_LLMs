@@ -1,0 +1,9 @@
+Annotate the following text. 
+
+Surround in double curly braces any words, phrases, and adjectives related to ${source_domain}, chemistry, or scientific jargon.
+
+Surround in square braces any words, phrases, and adjectives related to geometry, math, engineering, and design.
+
+Text: """${text}"""
+
+Output annotated text:

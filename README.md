@@ -1,1 +1,3 @@
-# Metaphor_Generation_with_LLMs
+# Metaphor Generation with LLMs
+*Author:* Gati Aher
+

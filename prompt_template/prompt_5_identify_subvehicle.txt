@@ -1,0 +1,7 @@
+Describe a feature in the domain of ${target_domain} that satisfies all the features of the following spec.
+
+Spec:```
+${schema}
+```
+
+A feature in the domain of ${target_domain} that satisfies all the features of the spec is:

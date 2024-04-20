@@ -1,0 +1,13 @@
+Given the following redacted text, create a list of engineering design principles used.
+
+text: """${text}"""
+
+Desired format of output: json list of objects.
+```
+[{
+	description: name of engineering design principles
+	mechanism: summarize description of purpose for and mechanism utilized by the design principle
+},
+…
+]
+```
