@@ -113,7 +113,7 @@ def run_prompt_1(filled_strings):
         else:
             # call model
             out = Completion(filled_strings[idx].filled, is_json=True)
-            out_content = json.loads(out.choices[idx].message.content)
+            out_content = json.loads(out.choices[0].message.content)
             
             # save output
             save_json(out_content, save_path)
@@ -160,7 +160,7 @@ def run_prompt_2(filled_strings):
         else:
             # call model
             out = Completion(filled_strings[idx].filled, is_json=True)
-            out_content = json.loads(out.choices[idx].message.content)
+            out_content = json.loads(out.choices[0].message.content)
             
             # save output
             save_json(out_content, save_path)
@@ -253,7 +253,7 @@ def run_prompt_3(filled_strings):
         else:
             # call model
             out = Completion(filled_strings[idx].filled, is_json=False)
-            out_content = out.choices[idx].message.content
+            out_content = out.choices[0].message.content
             
             # save output
             with open(save_path, 'w+') as file:
@@ -320,7 +320,7 @@ def run_prompt_4(filled_strings):
         else:
             # call model
             out = Completion(filled_strings[idx].filled, is_json=True)
-            out_content = json.loads(out.choices[idx].message.content)
+            out_content = json.loads(out.choices[0].message.content)
             
             # save output
             save_json(out_content, save_path)
@@ -390,7 +390,7 @@ def run_prompt_5(filled_strings):
         else:
             # call model
             out = Completion(filled_strings[idx].filled, is_json=False, is_short_ans=True)
-            out_content = out.choices[idx].message.content
+            out_content = out.choices[0].message.content
             
             # save output
             with open(save_path, 'w+') as file:
@@ -465,7 +465,7 @@ def run_prompt_6(filled_strings):
         else:
             # call model
             out = Completion(filled_strings[idx].filled, is_json=True)
-            out_content = json.loads(out.choices[idx].message.content)
+            out_content = json.loads(out.choices[0].message.content)
             
             # save output
             save_json(out_content, save_path)
@@ -543,7 +543,7 @@ def run_prompt_7(filled_strings):
         else:
             # call model
             out = Completion(filled_strings[idx].filled, is_json=False)
-            out_content = out.choices[idx].message.content
+            out_content = out.choices[0].message.content
             
             # save output
             with open(save_path, 'w+') as file:
