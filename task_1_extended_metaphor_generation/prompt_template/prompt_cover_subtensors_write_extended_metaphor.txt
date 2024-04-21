@@ -1,0 +1,3 @@
+Write a concise extended metaphor comparing ${tensor_name} to ${target_domain}.
+
+Cover the following aspects: ${list_of_subtensors}

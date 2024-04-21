@@ -59,23 +59,23 @@ target_domains = ["Kpop", "baseball", "Iron Man", "money"]
 ##################
 
 # Save every call
-prompt_1_output_save_to_prefix = pathlib.Path("../generations/script_run/prompt_1_output")
-prompt_2_output_save_to_prefix = pathlib.Path("../generations/script_run/prompt_2_output")
-prompt_3_output_save_to_prefix = pathlib.Path("../generations/script_run/prompt_3_output")
-prompt_4_output_save_to_prefix = pathlib.Path("../generations/script_run/prompt_4_output")
-prompt_5_output_save_to_prefix = pathlib.Path("../generations/script_run/prompt_5_output")
-prompt_6_output_save_to_prefix = pathlib.Path("../generations/script_run/prompt_6_output")
-prompt_7_output_save_to_prefix = pathlib.Path("../generations/script_run/prompt_7_output")
+prompt_1_output_save_to_prefix = pathlib.Path("../generations/script_run_GPT35Turbo/prompt_1_output")
+prompt_2_output_save_to_prefix = pathlib.Path("../generations/script_run_GPT35Turbo/prompt_2_output")
+prompt_3_output_save_to_prefix = pathlib.Path("../generations/script_run_GPT35Turbo/prompt_3_output")
+prompt_4_output_save_to_prefix = pathlib.Path("../generations/script_run_GPT35Turbo/prompt_4_output")
+prompt_5_output_save_to_prefix = pathlib.Path("../generations/script_run_GPT35Turbo/prompt_5_output")
+prompt_6_output_save_to_prefix = pathlib.Path("../generations/script_run_GPT35Turbo/prompt_6_output")
+prompt_7_output_save_to_prefix = pathlib.Path("../generations/script_run_GPT35Turbo/prompt_7_output")
 
 
 # Consolidated to csv
-prompt_1_output_save_to = pathlib.Path("../generations/script_run/prompt_1_output.csv")
-prompt_2_output_save_to = pathlib.Path("../generations/script_run/prompt_2_output.csv")
-prompt_3_output_save_to = pathlib.Path("../generations/script_run/prompt_3_output.csv")
-prompt_4_output_save_to = pathlib.Path("../generations/script_run/prompt_4_output.csv")
-prompt_5_output_save_to = pathlib.Path("../generations/script_run/prompt_5_output.csv")
-prompt_6_output_save_to = pathlib.Path("../generations/script_run/prompt_6_output.csv")
-prompt_7_output_save_to = pathlib.Path("../generations/script_run/prompt_7_output.csv")
+prompt_1_output_save_to = pathlib.Path("../generations/script_run_GPT35Turbo/prompt_1_output.csv")
+prompt_2_output_save_to = pathlib.Path("../generations/script_run_GPT35Turbo/prompt_2_output.csv")
+prompt_3_output_save_to = pathlib.Path("../generations/script_run_GPT35Turbo/prompt_3_output.csv")
+prompt_4_output_save_to = pathlib.Path("../generations/script_run_GPT35Turbo/prompt_4_output.csv")
+prompt_5_output_save_to = pathlib.Path("../generations/script_run_GPT35Turbo/prompt_5_output.csv")
+prompt_6_output_save_to = pathlib.Path("../generations/script_run_GPT35Turbo/prompt_6_output.csv")
+prompt_7_output_save_to = pathlib.Path("../generations/script_run_GPT35Turbo/prompt_7_output.csv")
 
 
 ###################

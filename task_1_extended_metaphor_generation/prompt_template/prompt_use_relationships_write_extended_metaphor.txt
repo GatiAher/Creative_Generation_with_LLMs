@@ -1,0 +1,8 @@
+Write a concise extended metaphor comparing ${tensor_name} to ${target_domain}.
+
+Use the following relationships: ${list_of_is_like}
+
+Use the following information:
+```
+${list_of_extended_metaphor}
+```

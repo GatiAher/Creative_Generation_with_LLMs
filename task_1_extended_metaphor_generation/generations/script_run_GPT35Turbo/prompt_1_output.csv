@@ -1,0 +1,92 @@
+,level_of_difficulty,tensor_name,source_domain,subtensor_name,subtensor_definition
+0,Elementary,solar system,Astronomy,Planets,Celestial bodies that orbit the Sun
+1,Elementary,solar system,Astronomy,Moons,Natural satellites that orbit planets
+2,Elementary,solar system,Astronomy,Asteroids,Small rocky bodies that orbit the Sun
+3,Elementary,solar system,Astronomy,Comets,Small icy bodies that orbit the Sun
+4,Elementary,solar system,Astronomy,Dwarf Planets,Celestial bodies that are not considered full-fledged planets
+5,Intermediate,big bang theory,Astronomy,Cosmic Microwave Background Radiation,"Faint radiation left over from the Big Bang, expanding across the universe"
+6,Intermediate,big bang theory,Astronomy,Inflation Theory,The theory explaining the rapid expansion of the universe in the early stages after the Big Bang
+7,Intermediate,big bang theory,Astronomy,Singularity,A point in space-time where gravitational forces cause matter to be compressed to infinite density
+8,Intermediate,big bang theory,Astronomy,Dark Matter,Hypothesized matter that does not emit light or energy but interacts with gravity to influence the cosmos
+9,Advanced,theory of the naked singularity,Astronomy,Naked Singularity,A type of singularity that is not hidden behind an event horizon in a black hole
+10,Advanced,theory of the naked singularity,Astronomy,Singularities,Points in space where the laws of physics break down and the quantities like density and gravity become infinite
+11,Advanced,theory of the naked singularity,Astronomy,Event Horizon,"The boundary surrounding a black hole beyond which nothing can escape, not even light"
+12,Advanced,theory of the naked singularity,Astronomy,Black Holes,Objects in space with extremely strong gravitational fields that not even light can escape from within its boundary
+13,Elementary,ecosystems,Biology,Biome,"A large geographical area of distinctive plant and animal groups, which are adapted to that particular environment."
+14,Elementary,ecosystems,Biology,Food Chain,A series of organisms each dependent on the next as a source of food.
+15,Elementary,ecosystems,Biology,Habitat,The natural home or environment of an organism.
+16,Elementary,ecosystems,Biology,Biodiversity,The variety of life forms present in different habitats and ecosystems.
+17,Intermediate,DNA,Biology,Genes,Segments of DNA that contain the instructions for building proteins.
+18,Intermediate,DNA,Biology,Nucleotides,"The building blocks of DNA, consisting of a sugar, a phosphate group, and a nitrogenous base."
+19,Intermediate,DNA,Biology,Chromosomes,Structures composed of DNA wrapped around proteins found in the nucleus of eukaryotic cells.
+20,Intermediate,DNA,Biology,Double Helix,"The twisted-ladder structure of DNA, consisting of two strands of nucleotides held together by hydrogen bonds."
+21,Advanced,endocrine system,Biology,Hormones,Chemical messengers produced by endocrine glands and secreted directly into the bloodstream
+22,Advanced,endocrine system,Biology,Endocrine Glands,Ductless glands that secrete hormones directly into the bloodstream
+23,Advanced,endocrine system,Biology,Pituitary Gland,Master gland that controls other endocrine glands and regulates various body functions
+24,Advanced,endocrine system,Biology,Thyroid Gland,"Regulates metabolism, growth, and development"
+25,Advanced,endocrine system,Biology,Adrenal Glands,"Produce hormones that help regulate stress response, metabolism, and blood pressure"
+26,Elementary,chemical reaction,Chemistry,Reactants,Substances that undergo a chemical change in a reaction.
+27,Elementary,chemical reaction,Chemistry,Products,Substances formed as a result of a chemical reaction.
+28,Elementary,chemical reaction,Chemistry,Catalysts,Substances that increase the rate of a chemical reaction without being consumed in the process.
+29,Elementary,chemical reaction,Chemistry,Equilibrium,A state in which the rate of the forward reaction equals the rate of the reverse reaction.
+30,Elementary,chemical reaction,Chemistry,Exothermic Reaction,A reaction that releases heat energy to its surroundings.
+31,Elementary,chemical reaction,Chemistry,Endothermic Reaction,A reaction that absorbs heat energy from its surroundings.
+32,Intermediate,molecular compounds,Chemistry,Covalent Bonds,Bonds formed by sharing electrons between atoms
+33,Intermediate,molecular compounds,Chemistry,Lewis Structures,Structural formulas that represent the arrangement of atoms and electrons in a molecule
+34,Intermediate,molecular compounds,Chemistry,Molecular Geometry,The 3D arrangement of atoms in a molecule
+35,Intermediate,molecular compounds,Chemistry,Intermolecular Forces,Forces of attraction between molecules
+36,Intermediate,molecular compounds,Chemistry,Isomerism,Compounds with the same molecular formula but different structures
+37,Advanced,chemical kinetics,Chemistry,Reaction rate,The speed at which reactants are converted into products in a chemical reaction.
+38,Advanced,chemical kinetics,Chemistry,Rate laws,Mathematical expressions that relate the rate of a reaction to the concentration of reactants.
+39,Advanced,chemical kinetics,Chemistry,Rate-determining step,The slowest step in a reaction mechanism that determines the overall rate of the reaction.
+40,Advanced,chemical kinetics,Chemistry,Catalysis,The process of increasing the rate of a chemical reaction by adding a substance known as a catalyst.
+41,Elementary,computer program,Computer Science,Algorithms,Step-by-step instructions to solve a specific problem or perform a specific task.
+42,Elementary,computer program,Computer Science,Data Structures,"Organized collection of data that allows efficient access, modification, and storage."
+43,Elementary,computer program,Computer Science,Software Development,"Process of designing, coding, testing, and maintaining software applications."
+44,Elementary,computer program,Computer Science,Programming Languages,Formal languages used to communicate instructions to a computer.
+45,Elementary,computer program,Computer Science,Debugging,Process of identifying and fixing errors or bugs in a computer program.
+46,Intermediate,API,Computer Science,RESTful API,A type of web API that follows the principles of REST (Representational State Transfer) architecture for designing networked applications
+47,Intermediate,API,Computer Science,SOAP API,A protocol for exchanging structured information in the implementation of web services in computer networks
+48,Intermediate,API,Computer Science,GraphQL API,A query language for APIs and runtime for executing those queries written in a server-side runtime environment
+49,Intermediate,API,Computer Science,RPC API,Remote Procedure Call API allows a program to execute code on another address space in a network
+50,Advanced,distributed computing,Computer Science,Distributed Systems,A system in which components located on networked computers communicate and coordinate their actions by passing messages.
+51,Advanced,distributed computing,Computer Science,Concurrency,The ability of a system to deal with multiple tasks executing simultaneously.
+52,Advanced,distributed computing,Computer Science,Parallel Computing,A type of computation in which many calculations or processes are carried out simultaneously.
+53,Advanced,distributed computing,Computer Science,Cluster Computing,A type of computing in which multiple computers (often called nodes) work together as a single system.
+54,Advanced,distributed computing,Computer Science,Grid Computing,A distributed computing approach that involves coordinating and sharing computing resources across multiple administrative domains.
+55,Elementary,atmosphere,Geography,Composition of the Atmosphere,The gases present in the Earth's atmosphere and their respective proportions.
+56,Elementary,atmosphere,Geography,Atmospheric Layers,"The different layers of the Earth's atmosphere, such as troposphere, stratosphere, mesosphere, thermosphere, and exosphere."
+57,Elementary,atmosphere,Geography,Atmospheric Circulation,Global patterns of wind and pressure systems that redistribute heat around the Earth.
+58,Elementary,atmosphere,Geography,Greenhouse Effect,The process by which gases in the atmosphere trap heat and warm the Earth's surface.
+59,Intermediate,topographic maps,Geography,Contour Lines,Lines on a map connecting points of equal elevation
+60,Intermediate,topographic maps,Geography,Scale,Ratio of distance on the map to actual distance on the ground
+61,Intermediate,topographic maps,Geography,Legend,Key providing information on symbols used in the map
+62,Intermediate,topographic maps,Geography,Topographic Profiles,Cross-sectional view of the terrain along a specific line
+63,Intermediate,topographic maps,Geography,Relief,Representation of the height and depth of terrain features
+64,Advanced,polar vortex,Geography,Arctic Oscillation,A climate pattern characterized by winds circulating counterclockwise around the Arctic that can influence the strength and position of the polar vortex.
+65,Advanced,polar vortex,Geography,Jet Stream,A narrow band of strong winds that circulate high in the atmosphere and can affect the movement and intensity of the polar vortex.
+66,Advanced,polar vortex,Geography,Stratosphere,The layer of the Earth's atmosphere above the troposphere where the polar vortex forms and is influenced by changes in temperature and wind patterns.
+67,Elementary,volcano,Geology,Magma,Molten rock beneath the Earth's surface
+68,Elementary,volcano,Geology,Lava,Magma that reaches the Earth's surface
+69,Elementary,volcano,Geology,Volcanic Eruptions,"The release of magma, gases, and ash from a volcano"
+70,Elementary,volcano,Geology,Volcanic Vent,An opening in the Earth's crust through which volcanic materials are emitted
+71,Intermediate,plate tectonics,Geology,Plate Boundaries,"The boundaries where tectonic plates interact with each other, leading to various geological phenomena."
+72,Intermediate,plate tectonics,Geology,Subduction Zones,"Areas where one tectonic plate is forced underneath another plate, often leading to seismic activity and volcanic eruptions."
+73,Intermediate,plate tectonics,Geology,Mid-Ocean Ridges,"Underwater mountain ranges formed by tectonic plates moving apart, allowing magma to rise and create new oceanic crust."
+74,Intermediate,plate tectonics,Geology,Plate Movements,"The ways in which tectonic plates shift and interact, driving geological processes such as earthquakes and mountain formation."
+75,Intermediate,plate tectonics,Geology,Continental Drift,The theory that continents have moved and shifted over time due to the movement of tectonic plates.
+76,Advanced,isotope analysis,Geology,Stable Isotope Analysis,"A scientific technique used to determine the isotopic composition of elements in a sample, usually for the purpose of understanding various geological processes."
+77,Advanced,isotope analysis,Geology,Radiogenic Isotope Analysis,"A technique used to determine the isotopic composition of elements that have undergone radioactive decay, providing information on the age and origin of geological samples."
+78,Advanced,isotope analysis,Geology,Isotope Fractionation,"The process by which isotopes of an element are separated or fractionated during natural processes, allowing scientists to study the mechanisms behind these fractionations."
+79,Elementary,energy,Physics,Kinetic Energy,Energy possessed by an object due to its motion.
+80,Elementary,energy,Physics,Potential Energy,Energy that is stored in an object due to its position.
+81,Elementary,energy,Physics,Mechanical Energy,Sum of kinetic energy and potential energy in an object.
+82,Elementary,energy,Physics,Thermal Energy,Internal energy of a system that arises from the motion of its particles.
+83,Elementary,energy,Physics,Chemical Energy,Energy stored in the bonds of chemical compounds.
+84,Intermediate,momentum,Physics,Linear momentum,"The quantity of motion of an object, which is the product of its mass and velocity."
+85,Intermediate,momentum,Physics,Impulse,The change in momentum of an object when a force is applied over a period of time.
+86,Intermediate,momentum,Physics,Angular momentum,"The quantity of rotational motion of an object, which is the product of its moment of inertia and angular velocity."
+87,Advanced,superstring theory,Physics,Calabi-Yau manifolds,Complex manifolds studied in superstring theory for compactification
+88,Advanced,superstring theory,Physics,Extra dimensions,The additional dimensions beyond the usual three that are posited in superstring theory
+89,Advanced,superstring theory,Physics,String compactification,The process of reducing the dimensions of strings from ten to four in order to describe our observable universe
+90,Advanced,superstring theory,Physics,D-branes,Extended objects in string theory that can exist in various dimensions and play a key role in superstring theory
