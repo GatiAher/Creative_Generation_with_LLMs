@@ -602,3 +602,7 @@ def main():
 
     print("Finished running script.")
     print(f"Final number of rows: {len(final_output)}")
+
+
+if __name__ == "__main__":
+    main()
