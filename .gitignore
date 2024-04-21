@@ -1,5 +1,6 @@
 */generations/*/prompt_*_output_idx_*.json
 */generations/*/prompt_*_output_idx_*.txt
+*log.txt*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
