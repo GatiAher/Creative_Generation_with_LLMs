@@ -1,0 +1,40 @@
+,level_of_difficulty,tensor_name,source_domain,subtensor_name,subtensor_definition,subtensor_purpose,subtensor_mechanism,text,text_annotated,text_redacted,schema,target_domain,subvehicle_name,subtensor_name_as_json_key,subvehicle_name_as_json_key,extended_metaphor
+0,Elementary,solar system,Astronomy,Sun,The star at the center of the solar system,"The Sun serves as the gravitational anchor that holds the solar system together, providing the necessary force to keep planets in stable orbits.","The Sun's massive size and gravitational pull create a central point of attraction, around which planets move in elliptical orbits according to Kepler's laws of planetary motion. The Sun's design as a massive ball of hot plasma generates energy through nuclear fusion, which maintains its internal pressure and heat, allowing it to emit light and heat essential for sustaining life on Earth.","The Sun serves as the gravitational anchor that holds the solar system together, providing the necessary force to keep planets in stable orbits. The Sun's massive size and gravitational pull create a central point of attraction, around which planets move in elliptical orbits according to Kepler's laws of planetary motion. The Sun's design as a massive ball of hot plasma generates energy through nuclear fusion, which maintains its internal pressure and heat, allowing it to emit light and heat essential for sustaining life on Earth.","""""""The Sun serves as the gravitational anchor that holds the solar system together, providing the necessary force to keep planets in stable orbits. The Sun's massive size and gravitational pull create a central point of attraction, around which planets move in elliptical orbits according to {{Kepler's laws of planetary motion}}. The Sun's design as a massive ball of hot plasma generates energy through {{nuclear fusion}}, which maintains its internal pressure and heat, allowing it to emit light and heat essential for sustaining life on Earth.""""""","XXX XXX serves as the gravitational anchor that holds the XXX XXX together, providing the necessary force to keep planets in stable orbits. XXX XXX's massive size and gravitational pull create a central point XXX attraction, around which planets move in elliptical orbits according to XXX XXX XXX XXX XXX. XXX XXX's design as a massive ball XXX hot plasma generates energy through XXX XXX, which maintains its internal pressure and heat, allowing it to emit light and heat essential for sustaining life on XXX.","[
+  {
+    ""description"": ""Gravitational Force"",
+    ""mechanism"": ""Provides the necessary force to keep planets in stable orbits by being an anchor and creating a central point of attraction""
+  },
+  {
+    ""description"": ""Elliptical Orbits"",
+    ""mechanism"": ""Planets move in elliptical paths around a central point of attraction based on gravitational forces""
+  },
+  {
+    ""description"": ""Thermodynamics"",
+    ""mechanism"": ""Design of the star as a massive ball of hot plasma generating energy through nuclear fusion to maintain internal pressure and emit light and heat""
+  },
+  {
+    ""description"": ""Sustainability"",
+    ""mechanism"": ""Enables sustaining life on the planet by emitting light and heat necessary for life""
+  }
+]",Kpop,"Superstar or ""idol"" status",sun,"superstar_or_""idol""_status","[
+  {
+    ""metaphor"": ""both Sun in solar system and Superstar or 'idol' status in Kpop have Gravitational Force"",
+    ""sun"": ""The gravitational force of the Sun provides the necessary anchor to keep planets in stable orbits, creating a central point of attraction for celestial bodies."",
+    ""superstar_or_idol_status"": ""Similarly, the 'idol' status in Kpop acts as a gravitational force, anchoring fans' attention and creating a central point of attraction for the audience.""
+  },
+  {
+    ""metaphor"": ""both Sun in solar system and Superstar or 'idol' status in Kpop have Elliptical Orbits"",
+    ""sun"": ""Planets move in elliptical paths around the Sun, following gravitational forces that dictate their trajectory based on the central point of attraction."",
+    ""superstar_or_idol_status"": ""Likewise, the journey of a Kpop 'idol' can be likened to an elliptical orbit, revolving around fame and success as dictated by the gravitational pull of fans and industry forces.""
+  },
+  {
+    ""metaphor"": ""both Sun in solar system and Superstar or 'idol' status in Kpop have Thermodynamics"",
+    ""sun"": ""The Sun's design as a ball of hot plasma allows for nuclear fusion, generating energy to emit light and heat, sustaining its internal pressure and radiating warmth and illumination."",
+    ""superstar_or_idol_status"": ""In a similar vein, the 'idol' status in Kpop is fueled by the 'thermodynamics' of talent and charisma, generating energy in the form of captivating performances and music that sustain the artist's popularity and shine brightly in the entertainment industry.""
+  },
+  {
+    ""metaphor"": ""both Sun in solar system and Superstar or 'idol' status in Kpop have Sustainability"",
+    ""sun"": ""The Sun's sustainability is crucial for life on planets as it emits light and heat necessary for survival, fostering habitats and ecosystems to thrive."",
+    ""superstar_or_idol_status"": ""Likewise, the 'idol' status in Kpop is essential for sustaining the artist's career and influence, radiating a positive impact on fans and the industry, creating an environment where talent and creativity can flourish.""
+  }
+]"

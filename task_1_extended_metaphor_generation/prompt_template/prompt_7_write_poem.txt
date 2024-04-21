@@ -1,0 +1,5 @@
+Write a concise analogy in the form of a poem given the following information.
+
+Information: ```
+${extended_metaphor}
+```

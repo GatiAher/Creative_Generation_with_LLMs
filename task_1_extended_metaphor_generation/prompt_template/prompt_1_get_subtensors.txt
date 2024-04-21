@@ -1,11 +1,14 @@
 List the sub-concepts associated with ${tensor_name} from ${source_domain} in json format.
 
-Desired format of output: json list of objects format.
+Desired format of output: json list of objects.
 ```
-[{
-	name: sub-concept’s name (string)
-	definition: sub-concept definition (string)
-},
-…
-]
+{
+	"sub_concepts": [
+		{
+			"name": sub-concept’s name (string)
+			"definition": sub-concept definition (string)
+		},
+	...
+	]
+}
 ```

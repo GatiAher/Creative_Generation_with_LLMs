@@ -1,4 +1,4 @@
-Write an analogy for how ${subtensor_name} in ${tensor_name} is similar in mechanism and function to ${subvehicle_name} in ${target_domain}. Both ${subtensor_name} in ${tensor_name} and ${subvehicle_name} in ${target_domain} have the following characteristics in common:
+Write an extended metaphor for how ${subtensor_name} in ${tensor_name} is similar in mechanism and function to ${subvehicle_name} in ${target_domain}. Both ${subtensor_name} in ${tensor_name} and ${subvehicle_name} in ${target_domain} have the following characteristics in common:
 
 Spec:```
 ${schema}
@@ -6,10 +6,13 @@ ${schema}
 
 Desired format of output: json list of objects.
 ```
-[{
-	metaphor: both ${subtensor_name} in ${tensor_name} and ${subvehicle_name} in ${target_domain} have {description of design principle and mechanism in spec}
-	${subtensor_name_as_json_key}: describe the purpose and mechanism utilized by the design principle in cell membrane
-	${subvehicle_name_as_json_key}: explain how the purpose and mechanism utilized by the concept of "Fan Clubs" in Kpop mirrors that used in the cell_membrane above
-},
-…
-]
+{
+	"extended_metaphor": [
+		{
+			"metaphor": both ${subtensor_name} in ${tensor_name} and ${subvehicle_name} in ${target_domain} have {description of first design principle and mechanism in spec}
+			"${subtensor_name_as_json_key}": describe the purpose and mechanism utilized by the design principle in ${subtensor_name}
+			"${subvehicle_name_as_json_key}": explain how the purpose and mechanism utilized by ${subvehicle_name} in ${target_domain} mirrors that used in the ${subtensor_name} above
+		},
+		...
+	]
+}

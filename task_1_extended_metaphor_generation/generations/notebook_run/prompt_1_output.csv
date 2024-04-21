@@ -1,0 +1,7 @@
+,level_of_difficulty,tensor_name,source_domain,subtensor_name,subtensor_definition
+0,Elementary,solar system,Astronomy,Sun,The star at the center of the solar system
+1,Elementary,solar system,Astronomy,Planets,Celestial bodies that revolve around the Sun in elliptical orbits
+2,Elementary,solar system,Astronomy,Moons,Natural satellites that orbit planets
+3,Elementary,solar system,Astronomy,Asteroids,Small rocky bodies that orbit the Sun
+4,Elementary,solar system,Astronomy,Comets,Icy bodies that orbit the Sun and have a tail when close to the Sun
+5,Elementary,solar system,Astronomy,Dwarf Planets,Celestial bodies similar to planets but have not cleared their neighboring region of other debris
