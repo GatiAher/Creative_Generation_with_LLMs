@@ -18,7 +18,7 @@ sys.path.insert(0, str(pathlib.Path('../../src')))
 from file_IO_handler import get_plaintext_file_contents, save_json, load_json
 from fill_string_template import get_filled_strings_from_dataframe, FilledString
 
-MAX_NUMBER_API_CALLS = 5
+MAX_NUMBER_API_CALLS = 20
 
 ###############################
 # Get Access to Replicate API #
@@ -115,7 +115,10 @@ def fix_JSON(json_message=None):
     result = None
     try:        
         result = json.loads(json_message)
-    except Exception as e:      
+    except Exception as e:
+        print("in fix_json I see Exception")
+        print(json_message)
+        print(e)      
         # Find the offending character index:
         idx_to_replace = int(str(e).split(' ')[-1].replace(')', ''))        
         # Remove the offending character:

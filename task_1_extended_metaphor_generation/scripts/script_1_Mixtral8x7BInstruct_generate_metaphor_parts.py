@@ -116,7 +116,10 @@ def fix_JSON(json_message=None):
     result = None
     try:        
         result = json.loads(json_message)
-    except Exception as e:      
+    except Exception as e:
+        print("in fix_json I see Exception")
+        print(json_message)
+        print(e)      
         # Find the offending character index:
         idx_to_replace = int(str(e).split(' ')[-1].replace(')', ''))        
         # Remove the offending character:
