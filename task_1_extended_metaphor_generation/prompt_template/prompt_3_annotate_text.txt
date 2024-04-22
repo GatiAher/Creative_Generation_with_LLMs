@@ -6,4 +6,4 @@ Surround in square braces any words, phrases, and adjectives related to geometry
 
 Text: """${text}"""
 
-Output annotated text:
+Output annotated text: (string)

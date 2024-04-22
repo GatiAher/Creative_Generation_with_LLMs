@@ -9,9 +9,9 @@ Desired format of output: json list of objects.
 {
 	"extended_metaphor": [
 		{
-			"metaphor": both ${subtensor_name} in ${tensor_name} and ${subvehicle_name} in ${target_domain} have {description of first design principle and mechanism in spec}
-			"${subtensor_name_as_json_key}": describe the purpose and mechanism utilized by the design principle in ${subtensor_name}
-			"${subvehicle_name_as_json_key}": explain how the purpose and mechanism utilized by ${subvehicle_name} in ${target_domain} mirrors that used in the ${subtensor_name} above
+			"metaphor": both ${subtensor_name} in ${tensor_name} and ${subvehicle_name} in ${target_domain} have {description of first design principle and mechanism in spec} (string)
+			"${subtensor_name_as_json_key}": describe the purpose and mechanism utilized by the design principle in ${subtensor_name} (string)
+			"${subvehicle_name_as_json_key}": explain how the purpose and mechanism utilized by ${subvehicle_name} in ${target_domain} mirrors that used in the ${subtensor_name} above (string)
 		},
 		...
 	]

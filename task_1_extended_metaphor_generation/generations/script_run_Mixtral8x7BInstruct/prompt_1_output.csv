@@ -1,0 +1,173 @@
+,level_of_difficulty,tensor_name,source_domain,subtensor_name,subtensor_definition
+0,Elementary,solar system,Astronomy,Sun,"The star at the center of our solar system, around which the planets orbit."
+1,Elementary,solar system,Astronomy,Planets,"Eight large celestial bodies in our solar system that orbit the Sun. They are, in order from the Sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+2,Elementary,solar system,Astronomy,Dwarf Planets,"Celestial bodies that orbit the Sun, are spherical in shape, but have not cleared their orbit of other debris. Pluto is an example of a dwarf planet."
+3,Elementary,solar system,Astronomy,Asteroid Belt,A region of space between the orbits of Mars and Jupiter where a large number of asteroids are found.
+4,Elementary,solar system,Astronomy,Comets,Icy bodies that originate from the outer regions of the solar system and can become visible when they get close to the Sun and vaporize to create a glowing tail.
+5,Elementary,solar system,Astronomy,Meteoroids,"Small particles of rock or metal that orbit the Sun. When they enter the Earth's atmosphere, they become meteors (or shooting stars)."
+6,Elementary,solar system,Astronomy,Kuiper Belt,A region of the solar system beyond the orbit of Neptune that contains many small icy bodies.
+7,Elementary,solar system,Astronomy,Oort Cloud,"A distant, spherical shell of icy bodies surrounding the solar system that is thought to be the source of many comets."
+8,Intermediate,big bang theory,Astronomy,Cosmic Microwave Background Radiation,"The residual heat of the big bang, now cooled to a temperature of about 2.73 Kelvin."
+9,Intermediate,big bang theory,Astronomy,Expanding Universe,"The observation that galaxies are moving away from us, and the farther they are, the faster they are moving."
+10,Intermediate,big bang theory,Astronomy,Inflationary Universe,A period of extremely rapid (exponential) expansion of the universe during its early stages.
+11,Intermediate,big bang theory,Astronomy,Hubble's Law,The observation that the velocity of a galaxy is directly proportional to its distance from us.
+12,Intermediate,big bang theory,Astronomy,Redshift of Distant Galaxies,"The observation that the light from distant galaxies is shifted towards longer (redder) wavelengths, indicating that those galaxies are moving away from us."
+13,Intermediate,big bang theory,Astronomy,Elemental Abundances,"The relative abundances of the different elements in the universe, which provide evidence for the big bang."
+14,Advanced,theory of the naked singularity,Astronomy,Black hole,"A region of space where gravity is so strong that nothing, not even light, can escape from it."
+15,Advanced,theory of the naked singularity,Astronomy,Spacetime singularity,A point in space or spacetime where density becomes infinite and the laws of physics as we know them cease to be useful.
+16,Advanced,theory of the naked singularity,Astronomy,Gravitational collapse,"The inward fall of matter under the influence of gravity, which can result in the formation of a naked singularity or a black hole."
+17,Advanced,theory of the naked singularity,Astronomy,Cosmic censorship hypothesis,"A conjecture in theoretical physics which suggests that naked singularities cannot form in nature, and are always hidden behind event horizons."
+18,Advanced,theory of the naked singularity,Astronomy,Exotic matter,"A hypothetical form of matter with negative mass or negative energy density, which could potentially stabilize a naked singularity and prevent the formation of a black hole."
+19,Elementary,ecosystems,Biology,Producers,"Organisms that produce their own food, typically through photosynthesis."
+20,Elementary,ecosystems,Biology,Consumers,"Organisms that consume other organisms for food. They can be further classified into herbivores, carnivores, and omnivores."
+21,Elementary,ecosystems,Biology,Decomposers,"Organisms that break down dead organic material, returning nutrients to the ecosystem."
+22,Elementary,ecosystems,Biology,Biotic Factors,"Living components of an ecosystem, such as plants, animals, and microorganisms."
+23,Elementary,ecosystems,Biology,Abiotic Factors,"Non-living components of an ecosystem, such as temperature, light, and water."
+24,Elementary,ecosystems,Biology,Trophic Levels,"Levels in an ecosystem that represent feeding relationships between organisms, from producers at the bottom to apex predators at the top."
+25,Elementary,ecosystems,Biology,Energy Flow,"The movement of energy through an ecosystem, from producers to consumers."
+26,Elementary,ecosystems,Biology,Nutrient Cycling,"The process by which nutrients are recycled within an ecosystem, moving between biotic and abiotic components."
+27,Elementary,ecosystems,Biology,Biodiversity,"The variety of living organisms in an ecosystem, including genetic diversity within species, species diversity, and ecosystem diversity."
+28,Elementary,ecosystems,Biology,Habitat,The natural environment in which a particular organism lives.
+29,Elementary,ecosystems,Biology,Niche,"The role and position a species has in its environment, including its interactions with other species and its use of resources."
+30,Elementary,ecosystems,Biology,Food Chain,A linear sequence of organisms through which nutrients and energy pass as one organism eats another.
+31,Elementary,ecosystems,Biology,Food Web,"A complex network of food chains in an ecosystem, showing the feeding relationships among organisms."
+32,Elementary,ecosystems,Biology,Succession,The process by which the species in a biological community change over time.
+33,Elementary,ecosystems,Biology,Climax Community,"The final stage of ecological succession, characterized by a stable community of organisms and a relatively constant environment."
+34,Intermediate,DNA,Biology,Nucleotides,"The building blocks of DNA, each consisting of a sugar molecule, a phosphate group, and a nitrogenous base."
+35,Intermediate,DNA,Biology,Double Helix,"The structural shape of DNA, formed by two strands of nucleotides coiled together and held by hydrogen bonds."
+36,Intermediate,DNA,Biology,Deoxyribose,The sugar molecule that makes up the backbone of a DNA molecule.
+37,Intermediate,DNA,Biology,Nitrogenous Bases,"The specific pairing of nitrogenous bases in DNA, with adenine always pairing with thymine and guanine always pairing with cytosine."
+38,Intermediate,DNA,Biology,Central Dogma,The process by which the genetic information in DNA is transcribed into RNA and then translated into proteins.
+39,Intermediate,DNA,Biology,Genes,Sections of DNA that code for specific proteins or RNA molecules.
+40,Intermediate,DNA,Biology,Promoter,A region of DNA where RNA polymerase binds to initiate transcription.
+41,Intermediate,DNA,Biology,Introns and Exons,"Non-coding and coding regions, respectively, of DNA that are transcribed into RNA and then spliced together to form a mature RNA molecule."
+42,Intermediate,DNA,Biology,Replication,The process by which DNA makes an exact copy of itself during cell division.
+43,Advanced,endocrine system,Biology,Pituitary Gland,"The pituitary gland is a small, pea-sized gland at the base of the brain that controls growth and development. It is sometimes called the 'master gland' because it controls the functions of many other glands."
+44,Advanced,endocrine system,Biology,Thyroid Gland,"The thyroid gland is a butterfly-shaped gland located at the base of the neck. It produces hormones that regulate body metabolism, growth, and development."
+45,Advanced,endocrine system,Biology,Parathyroid Glands,"The parathyroid glands are four small glands located on the thyroid gland. They produce parathyroid hormone, which helps regulate the level of calcium in the blood."
+46,Advanced,endocrine system,Biology,Adrenal Glands,"The adrenal glands are two small glands located on top of the kidneys. They produce hormones that help regulate metabolism, blood pressure, and stress response."
+47,Advanced,endocrine system,Biology,Pancreas,"The pancreas is a long, flat gland located behind the stomach. It produces hormones, including insulin, that help regulate blood sugar levels."
+48,Advanced,endocrine system,Biology,Pineal Gland,"The pineal gland is a small gland located in the center of the brain. It produces melatonin, a hormone that helps regulate sleep-wake cycles."
+49,Advanced,endocrine system,Biology,Sex Glands (Ovaries and Testes),"The sex glands, also known as the gonads, are two sets of glands located in the reproductive system. The ovaries in females and the testes in males produce sex hormones that are essential for reproduction and secondary sexual characteristics."
+50,Elementary,chemical reaction,Chemistry,Reactants,The starting materials or substances in a chemical reaction.
+51,Elementary,chemical reaction,Chemistry,Products,The new substances formed as a result of a chemical reaction.
+52,Elementary,chemical reaction,Chemistry,Chemical Equation,A symbolic representation of a chemical reaction using chemical formulas.
+53,Elementary,chemical reaction,Chemistry,Balancing Chemical Equations,The process of ensuring that the number of atoms of each element is the same on both sides of the equation.
+54,Elementary,chemical reaction,Chemistry,Law of Conservation of Mass,The total mass of the reactants equals the total mass of the products in a chemical reaction.
+55,Elementary,chemical reaction,Chemistry,Catalyst,A substance that increases the rate of a chemical reaction without being consumed in the process.
+56,Elementary,chemical reaction,Chemistry,Reverse Reactions,A chemical reaction that can proceed in both the forward and backward directions.
+57,Elementary,chemical reaction,Chemistry,Exothermic and Endothermic Reactions,"Chemical reactions that release or absorb heat, respectively."
+58,Elementary,chemical reaction,Chemistry,Reaction Kinetics,The study of the rates of chemical reactions.
+59,Elementary,chemical reaction,Chemistry,Activation Energy,The minimum amount of energy required for a chemical reaction to occur.
+60,Intermediate,molecular compounds,Chemistry,Covalent Bonding,A type of chemical bond where two atoms share electrons to achieve stability.
+61,Intermediate,molecular compounds,Chemistry,Ionic Bonding,"A type of chemical bond where one atom donates an electron to another atom, forming ions with opposite charges that are attracted to each other."
+62,Intermediate,molecular compounds,Chemistry,Lewis Structures,"A diagram that represents the valence electrons of an atom, which is used to predict the formation of chemical bonds."
+63,Intermediate,molecular compounds,Chemistry,Formula Unit,"The simplest ratio of atoms in a compound, represented by its chemical formula."
+64,Intermediate,molecular compounds,Chemistry,Naming Binary Compounds,The rules and conventions used to name compounds consisting of two elements.
+65,Intermediate,molecular compounds,Chemistry,Polarity,"A property of a molecule that results from an uneven distribution of electron density, causing one end of the molecule to be slightly positive and the other to be slightly negative."
+66,Intermediate,molecular compounds,Chemistry,Molecular Geometry,"The three-dimensional arrangement of atoms in a molecule, determined by the shape of its electron cloud."
+67,Advanced,chemical kinetics,Chemistry,Rate of Reaction,"The speed at which a chemical reaction occurs, often measured by the decrease in concentration of a reactant or the increase in concentration of a product over time."
+68,Advanced,chemical kinetics,Chemistry,Reaction Mechanism,The detailed series of steps that occur at the molecular level during a chemical reaction.
+69,Advanced,chemical kinetics,Chemistry,Activation Energy,The minimum amount of energy required for a chemical reaction to occur. This energy is provided by the collision of reactant molecules.
+70,Advanced,chemical kinetics,Chemistry,Collision Theory,A theory that explains how chemical reactions occur by describing the collision of reactant molecules and the energy required for a reaction to take place.
+71,Advanced,chemical kinetics,Chemistry,Rate Law,An equation that describes the relationship between the rate of a reaction and the concentration of the reactants.
+72,Advanced,chemical kinetics,Chemistry,Order of Reaction,"The relationship between the rate of a reaction and the concentration of the reactants. The order of reaction can be zero, first, or second order, or even fractional or negative."
+73,Advanced,chemical kinetics,Chemistry,Equilibrium Constant,"A value that describes the ratio of the concentrations of products to reactants at equilibrium, and can be used to predict the direction and extent of a reaction."
+74,Advanced,chemical kinetics,Chemistry,Temperature Dependence,"The effect of temperature on the rate of a chemical reaction, often described by the Arrhenius equation."
+75,Advanced,chemical kinetics,Chemistry,Catalysis,The process by which a substance increases the rate of a chemical reaction without being consumed in the reaction. A catalyst lowers the activation energy required for the reaction to occur.
+76,Elementary,computer program,Computer Science,Algorithm,A well-defined procedure that takes input and produces output.
+77,Elementary,computer program,Computer Science,Data Structures,A way of organizing and storing data for efficient use in a program.
+78,Elementary,computer program,Computer Science,Variables and Types,A way of representing and manipulating data in a program.
+79,Elementary,computer program,Computer Science,Control Structures,The way in which a program makes decisions and determines the order in which operations are performed.
+80,Elementary,computer program,Computer Science,Functions and Procedures,"A named sequence of instructions that performs a specific task, which can be called multiple times from different parts of a program."
+81,Elementary,computer program,Computer Science,Modules and Packages,"A way of organizing a program into smaller, reusable pieces."
+82,Elementary,computer program,Computer Science,Exception Handling,A mechanism for handling and responding to errors that occur during program execution.
+83,Elementary,computer program,Computer Science,Input/Output,"The means by which a program interacts with the outside world, including reading from and writing to files, devices, and networks."
+84,Elementary,computer program,Computer Science,Object-Oriented Programming,A programming paradigm that uses the concept of 'objects' to represent data and methods for manipulating that data.
+85,Elementary,computer program,Computer Science,Concurrency and Parallelism,"The ability of a program to execute multiple tasks simultaneously, either on a single processor or on multiple processors."
+86,Intermediate,API,Computer Science,Web API,A Web API is a development in Web technology that provides an efficient and effective way of building HTTP and URL-based web services for exchanging data between the client and the server.
+87,Intermediate,API,Computer Science,RESTful API,"REST or Representational State Transfer is an architectural style for an API that uses HTTP requests to access and use data. It is stateless, meaning that each HTTP request from a client to a server must contain all the information needed to understand and process the request."
+88,Intermediate,API,Computer Science,SOAP API,"SOAP (Simple Object Access Protocol) is a messaging protocol that allows programs running on disparate operating systems to communicate with each other. It relies heavily on other application layer protocols, most notably HTTP and SMTP."
+89,Intermediate,API,Computer Science,GraphQL API,"GraphQL is an open-source data query and manipulation language for APIs, and a runtime for executing those queries with your existing data. GraphQL provides an efficient and powerful alternative to REST and offers significant benefits for data retrieval, such as allowing clients to specify exactly what data they need, which can help to avoid over-fetching or under-fetching of data."
+90,Intermediate,API,Computer Science,API Key,"An API key is a unique identifier that is issued by an API provider to an API consumer, allowing the consumer to access the provider's services and resources in a controlled manner. The key is used to track and control the usage of the API and to identify the API consumer in case of any issues or abuse."
+91,Intermediate,API,Computer Science,API Gateway,"An API Gateway is a server that acts as an entry point into a system and handles all API requests. It provides a number of features, including routing, authentication, rate limiting, and caching, and can help to simplify the management of complex API infrastructures."
+92,Intermediate,API,Computer Science,OpenAPI Specification,"The OpenAPI Specification (OAS) is a widely adopted industry standard for defining APIs. It provides a formal, language-agnostic way of describing the capabilities of a RESTful API, including the endpoints, operations, parameters, and data models that it supports."
+93,Advanced,distributed computing,Computer Science,Clustering,A method of grouping a set of computers together to work as a single system for enhancing the processing power and providing load balancing.
+94,Advanced,distributed computing,Computer Science,Grid Computing,"A type of distributed computing where a virtual supercomputer is composed of networked, loosely coupled computers acting in concert to perform large tasks."
+95,Advanced,distributed computing,Computer Science,Peer-to-Peer Networking,"A distributed application architecture that partitions tasks or workloads among peers. Peers are equally privileged, equipotent participants in the application."
+96,Advanced,distributed computing,Computer Science,Cloud Computing,"A model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction."
+97,Advanced,distributed computing,Computer Science,Fog Computing,"A decentralized computing infrastructure in which data, compute, storage and applications are distributed in the most logical, efficient place between the data source and the cloud."
+98,Advanced,distributed computing,Computer Science,Edge Computing,"A method of optimizing cloud computing systems by performing data processing at the edge of the network, near the source of the data. This minimizes the need for long distance communication with the cloud, thereby reducing latency and bandwidth use."
+99,Advanced,distributed computing,Computer Science,Distributed Databases,"A type of database that is spread across multiple computers and locations. It allows for high availability, reliability, and scalability."
+100,Advanced,distributed computing,Computer Science,Distributed Algorithms,"Algorithms designed to run on multiple computers in a distributed system, where communication and coordination between the computers is a key concern."
+101,Elementary,atmosphere,Geography,Troposphere,"The lowest layer of the Earth's atmosphere, extending from the surface to a height of about 8 km at the poles and 18 km at the equator, containing 75% of the atmosphere's mass and almost all of its water vapor."
+102,Elementary,atmosphere,Geography,Stratosphere,"The second layer of the Earth's atmosphere, lying above the troposphere and extending to a height of about 50 km, containing the ozone layer which filters out harmful ultraviolet radiation from the sun."
+103,Elementary,atmosphere,Geography,Mesosphere,"The third layer of the Earth's atmosphere, lying above the stratosphere and extending to a height of about 80 km, where meteors burn up upon entering the atmosphere."
+104,Elementary,atmosphere,Geography,Thermosphere,"The fourth layer of the Earth's atmosphere, lying above the mesosphere and extending to a height of about 600 km, where the aurora borealis and aurora australis occur."
+105,Elementary,atmosphere,Geography,Ionosphere,"The upper part of the Earth's atmosphere, from about 60 km to 1000 km, where the atmosphere is ionized by solar radiation, allowing for radio wave propagation."
+106,Elementary,atmosphere,Geography,Exosphere,"The outermost layer of the Earth's atmosphere, extending from the top of the thermosphere to outer space, where the atmosphere thins out and becomes space."
+107,Elementary,atmosphere,Geography,Weather,"The state of the atmosphere at a particular place and time, with respect to temperature, humidity, cloudiness, wind, and atmospheric pressure."
+108,Elementary,atmosphere,Geography,Climate,"The long-term average of weather conditions in a particular region, describing the usual range of temperatures, precipitation, and other atmospheric conditions."
+109,Intermediate,topographic maps,Geography,Contour lines,Contour lines are imaginary lines connecting points of equal elevation on a topographic map.
+110,Intermediate,topographic maps,Geography,Scale,Scale on a topographic map shows the relationship between distance on the map and the corresponding distance in the real world.
+111,Intermediate,topographic maps,Geography,Symbols,"Symbols on a topographic map represent different features such as buildings, roads, and vegetation."
+112,Intermediate,topographic maps,Geography,Legend,The legend on a topographic map explains the symbols and other features shown on the map.
+113,Intermediate,topographic maps,Geography,Relief,Relief on a topographic map refers to the variations in elevation and terrain features.
+114,Intermediate,topographic maps,Geography,Grid system,The grid system on a topographic map is used to locate specific features and to measure distances.
+115,Intermediate,topographic maps,Geography,Contour interval,Contour interval on a topographic map is the vertical distance between adjacent contour lines.
+116,Advanced,polar vortex,Geography,Arctic Oscillation,A large scale weather phenomenon in the Northern Hemisphere that involves the North Atlantic Oscillation and the North Pacific Oscillation. It affects the strength and location of the polar vortex.
+117,Advanced,polar vortex,Geography,Stratosphere,"The second major layer of Earth's atmosphere, just above the troposphere, where the polar vortex exists. It extends to about 30 miles above the Earth's surface."
+118,Advanced,polar vortex,Geography,Temperature Inversion,"A meteorological phenomenon where the temperature of the atmosphere increases with altitude, which can lead to the weakening or displacement of the polar vortex."
+119,Advanced,polar vortex,Geography,Jet Stream,"A narrow, fast-moving air current found in the atmosphere around 30,000 feet, often at the boundary between the troposphere and the stratosphere. The polar vortex is closely related to the polar jet stream."
+120,Advanced,polar vortex,Geography,Stratospheric Warming,"A phenomenon that can lead to the weakening or displacement of the polar vortex, where sudden warming occurs in the stratosphere over the Arctic."
+121,Advanced,polar vortex,Geography,Sudden Stratospheric Warming,"A rapid and intense warming in the polar stratosphere, which can cause the polar vortex to weaken, split or displace, leading to extreme weather events in the mid-latitudes."
+122,Advanced,polar vortex,Geography,Polar Cell,"A large-scale circulation cell in the atmosphere over the polar regions, which helps to drive the polar vortex."
+123,Elementary,volcano,Geology,Shield Volcano,"A type of volcano that is broad and flat, with gently sloping sides, formed mainly by the eruption of low-viscosity lava that can flow a long way from the vent."
+124,Elementary,volcano,Geology,Stratovolcano,"A type of volcano that is tall and conical, formed by the eruption of viscous lava, ash, and rock fragments that pile up around the vent to form steep slopes."
+125,Elementary,volcano,Geology,Cinder Cone Volcano,"A small, steep-sided volcano that forms around a single vent and is composed of loose volcanic fragments called cinders or scoria."
+126,Elementary,volcano,Geology,Magma,Molten rock that originates deep within the Earth and can solidify to form igneous rock. Magma that reaches the surface is called lava.
+127,Elementary,volcano,Geology,Lava,"Magma that has reached the surface of the Earth. There are different types of lava, depending on their chemical composition and temperature."
+128,Elementary,volcano,Geology,Silica,"A chemical compound (SiO2) that is a major component of many types of rocks and minerals, including magma and lava. The amount of silica in magma or lava affects its viscosity and eruptive behavior."
+129,Elementary,volcano,Geology,Tephra,"Fragmental material produced by volcanic explosions, such as ash, lapilli, and volcanic bombs."
+130,Elementary,volcano,Geology,Pyroclastic Flow,A fast-moving current of hot gas and volcanic fragments that can travel at high speeds down the slopes of a volcano during an eruption.
+131,Elementary,volcano,Geology,Volcanic Gas,"Gases that are released during volcanic eruptions, such as water vapor, carbon dioxide, sulfur dioxide, and hydrogen sulfide."
+132,Elementary,volcano,Geology,Monogenetic Volcano,"A volcano that forms from a single eruption or a short series of eruptions, usually producing a small cone or hill."
+133,Intermediate,plate tectonics,Geology,Continental Drift,A theory that the continents were once joined together and have since drifted apart.
+134,Intermediate,plate tectonics,Geology,Seafloor Spreading,The process by which new oceanic crust is formed at mid-ocean ridges and then spreads away from the ridge.
+135,Intermediate,plate tectonics,Geology,Transform Boundary,A boundary between tectonic plates where the plates move horizontally relative to each other.
+136,Intermediate,plate tectonics,Geology,Convergent Boundary,"A boundary between tectonic plates where the plates move toward each other, resulting in the formation of mountain ranges or volcanic activity."
+137,Intermediate,plate tectonics,Geology,Divergent Boundary,"A boundary between tectonic plates where the plates move away from each other, resulting in the formation of mid-ocean ridges."
+138,Intermediate,plate tectonics,Geology,Lithosphere,"The rigid outer layer of the Earth, including the crust and uppermost mantle."
+139,Intermediate,plate tectonics,Geology,Asthenosphere,The semi-fluid layer of the Earth's mantle below the lithosphere.
+140,Intermediate,plate tectonics,Geology,Plate Motion,"The movement of the Earth's lithospheric plates, driven by convection currents in the underlying asthenosphere."
+141,Intermediate,plate tectonics,Geology,Hotspots,Areas of intense volcanic activity resulting from the movement of tectonic plates over a stationary mantle plume.
+142,Advanced,isotope analysis,Geology,Stable Isotopes,"Isotopes of an element that have the same number of protons but different number of neutrons in their nucleus, and therefore, differ in atomic mass. These isotopes do not undergo radioactive decay and are used in various fields including geology to study processes and environments."
+143,Advanced,isotope analysis,Geology,Radiogenic Isotopes,Isotopes of an element that are produced by the radioactive decay of other isotopes. These isotopes are used in geology to determine the age of rocks and minerals.
+144,Advanced,isotope analysis,Geology,Isotope Fractionation,The process by which isotopes of an element are separated or distributed unequally between two or more substances during a chemical or physical process. This phenomenon is used in geology to understand various geological processes and environments.
+145,Advanced,isotope analysis,Geology,Mass Spectrometry,"An analytical technique used to measure the mass-to-charge ratio of ions in a sample. In the context of isotope analysis, mass spectrometry is used to determine the relative abundance of isotopes in a sample, which can provide information about the sample's origin, age, or history."
+146,Advanced,isotope analysis,Geology,Isotope Ratio,"The ratio of the abundance of two isotopes of an element in a sample. Isotope ratios can provide information about various geological processes and environments, such as the temperature, pressure, or fluid composition during mineral formation."
+147,Elementary,energy,Physics,Kinetic Energy,Energy possessed by an object due to its motion.
+148,Elementary,energy,Physics,Potential Energy,Energy possessed by an object due to its position or configuration.
+149,Elementary,energy,Physics,Thermal Energy,Energy associated with the random motion of particles.
+150,Elementary,energy,Physics,Electromagnetic Energy,"Energy associated with electromagnetic waves, such as light."
+151,Elementary,energy,Physics,Chemical Energy,Energy stored in the bonds of chemical compounds.
+152,Elementary,energy,Physics,Nuclear Energy,Energy stored in the nucleus of an atom.
+153,Elementary,energy,Physics,Mechanical Energy,Energy associated with a system's motion and position.
+154,Elementary,energy,Physics,Sound Energy,Energy associated with sound waves.
+155,Elementary,energy,Physics,Radiant Energy,Energy associated with electromagnetic waves.
+156,Elementary,energy,Physics,Elastic Energy,Energy stored in the deformation of an elastic material.
+157,Intermediate,momentum,Physics,Linear Momentum,"The momentum of an object is the product of its mass and velocity. It is a vector quantity, having both magnitude and direction."
+158,Intermediate,momentum,Physics,Impulse,The impulse of a force is the integral of the force over time and is equal to the change in momentum.
+159,Intermediate,momentum,Physics,Conservation of Momentum,"In a closed system, the total momentum before and after an interaction remains constant, provided no external forces are acting on the system."
+160,Intermediate,momentum,Physics,Momentum in Circular Motion,"In circular motion, the momentum is always directed tangent to the circle, while the velocity changes in direction but not in magnitude."
+161,Intermediate,momentum,Physics,Relativistic Momentum,"In special relativity, the momentum of an object increases with its speed, approaching infinity as the speed of light is approached."
+162,Advanced,superstring theory,Physics,String Theory,A theoretical framework in which the point-like particles of particle physics are replaced by one-dimensional objects called strings.
+163,Advanced,superstring theory,Physics,Bosonic String Theory,"The original version of string theory, which only includes bosons."
+164,Advanced,superstring theory,Physics,Superstring Theory,A type of string theory that includes both bosons and fermions in its spectrum.
+165,Advanced,superstring theory,Physics,Type I String Theory,A superstring theory that includes open and closed strings.
+166,Advanced,superstring theory,Physics,Type IIA String Theory,"A superstring theory that includes only closed strings, with both orientations."
+167,Advanced,superstring theory,Physics,Type IIB String Theory,"A superstring theory that includes only closed strings, but with one orientation."
+168,Advanced,superstring theory,Physics,Heterotic String Theory,A superstring theory that includes both a bosonic string and a superstring.
+169,Advanced,superstring theory,Physics,M-Theory,A conjectured theory that unifies the five different versions of string theory.
+170,Advanced,superstring theory,Physics,Branes,Objects in string theory that generalize the notion of a point particle to higher dimensions.
+171,Advanced,superstring theory,Physics,Calabi-Yau Spaces,Complex manifolds that are used to compactify extra dimensions in string theory.

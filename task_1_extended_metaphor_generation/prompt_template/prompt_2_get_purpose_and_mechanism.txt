@@ -6,7 +6,7 @@ Definition: ${subtensor_definition}
 Desired format of output: json object.
 ```
 {
-	"purpose": what purpose the ${subtensor_name} fulfills and why, without using ${source_domain}-specific terms.
-	"mechanism": how the ${subtensor_name} is structured and how that structure supports the purpose
+	"purpose": what purpose the ${subtensor_name} fulfills and why, without using ${source_domain}-specific terms. (string)
+	"mechanism": how the ${subtensor_name} is structured and how that structure supports the purpose (string)
 }
 ```

@@ -7,8 +7,8 @@ Desired format of output: json list of objects.
 {
 	"engineering_design_principles": [
 		{
-			"description": name of engineering design principles
-			"mechanism": summarize description of purpose for and mechanism utilized by the design principle
+			"description": name of engineering design principles (string)
+			"mechanism": summarize description of purpose for and mechanism utilized by the design principle (string)
 		},
 		...
 	]
