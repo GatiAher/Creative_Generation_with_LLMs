@@ -18,6 +18,8 @@ sys.path.insert(0, str(pathlib.Path('../../src')))
 from file_IO_handler import get_plaintext_file_contents, save_json, load_json
 from fill_string_template import get_filled_strings_from_dataframe, FilledString
 
+MAX_NUMBER_API_CALLS = 5
+
 ###############################
 # Get Access to Replicate API #
 ###############################
@@ -145,9 +147,16 @@ def run_prompt_1(filled_strings):
             print(f"Loading from {save_path}")
             out_content = load_json(save_path)
         else:
-            # call model
-            out = Completion(filled_strings[idx].filled, is_json=True)
-            out_content = fix_JSON(out)
+            num_calls = 0
+            while (num_calls < MAX_NUMBER_API_CALLS):
+                try:
+                    # call model
+                    out = Completion(filled_strings[idx].filled, is_json=True)
+                    out_content = fix_JSON(out)
+                    break
+                except Exception as e:
+                    num_calls = num_calls + 1
+                    print(f"Prompt 1 ran into error #{num_calls}. {e}")
             
             # save output
             save_json(out_content, save_path)
@@ -192,9 +201,16 @@ def run_prompt_2(filled_strings):
             print(f"Loading from {save_path}")
             out_content = load_json(save_path)
         else:
-            # call model
-            out = Completion(filled_strings[idx].filled, is_json=True)
-            out_content = fix_JSON(out)
+            num_calls = 0
+            while (num_calls < MAX_NUMBER_API_CALLS):
+                try:
+                    # call model
+                    out = Completion(filled_strings[idx].filled, is_json=True)
+                    out_content = fix_JSON(out)
+                    break
+                except Exception as e:
+                    num_calls = num_calls + 1
+                    print(f"Prompt 2 ran into error #{num_calls}. {e}")
             
             # save output
             save_json(out_content, save_path)
@@ -351,9 +367,16 @@ def run_prompt_4(filled_strings):
             print(f"Loading from {save_path}")
             out_content = load_json(save_path)
         else:
-            # call model
-            out = Completion(filled_strings[idx].filled, is_json=True)
-            out_content = fix_JSON(out)
+            num_calls = 0
+            while (num_calls < MAX_NUMBER_API_CALLS):
+                try:
+                    # call model
+                    out = Completion(filled_strings[idx].filled, is_json=True)
+                    out_content = fix_JSON(out)
+                    break
+                except Exception as e:
+                    num_calls = num_calls + 1
+                    print(f"Prompt 4 ran into error #{num_calls}. {e}")
             
             # save output
             save_json(out_content, save_path)
@@ -495,9 +518,16 @@ def run_prompt_6(filled_strings):
             print(f"Loading from {save_path}")
             out_content = load_json(save_path)
         else:
-            # call model
-            out = Completion(filled_strings[idx].filled, is_json=True)
-            out_content = fix_JSON(out)
+            num_calls = 0
+            while (num_calls < MAX_NUMBER_API_CALLS):
+                try:
+                    # call model
+                    out = Completion(filled_strings[idx].filled, is_json=True)
+                    out_content = fix_JSON(out)
+                    break
+                except Exception as e:
+                    num_calls = num_calls + 1
+                    print(f"Prompt 6 ran into error #{num_calls}. {e}")
             
             # save output
             save_json(out_content, save_path)
