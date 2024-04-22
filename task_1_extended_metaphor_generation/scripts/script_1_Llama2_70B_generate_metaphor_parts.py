@@ -160,6 +160,9 @@ def run_prompt_1(filled_strings):
             # save output
             save_json(out_content, save_path)
             print(f"Called model and saved to {save_path}")
+            
+            if (num_calls == MAX_NUMBER_API_CALLS):
+                raise Exception(f"Too Many Calls, look at {save_path}")
         
         for obj in out_content["sub_concepts"]:
             pre_df["level_of_difficulty"].append(level_of_difficulty)
@@ -214,6 +217,9 @@ def run_prompt_2(filled_strings):
             # save output
             save_json(out_content, save_path)
             print(f"Called model and saved to {save_path}")
+
+            if (num_calls == MAX_NUMBER_API_CALLS):
+                raise Exception(f"Too Many Calls, look at {save_path}")
         
         pre_df["level_of_difficulty"].append(level_of_difficulty)
         pre_df["tensor_name"].append(tensor_name)
@@ -381,6 +387,9 @@ def run_prompt_4(filled_strings):
             save_json(out_content, save_path)
             print(f"Called model and saved to {save_path}")
 
+            if (num_calls == MAX_NUMBER_API_CALLS):
+                raise Exception(f"Too Many Calls, look at {save_path}")
+
         for target_idx in range(len(target_domains)):
             pre_df["level_of_difficulty"].append(level_of_difficulty)
             pre_df["tensor_name"].append(tensor_name)
@@ -531,6 +540,9 @@ def run_prompt_6(filled_strings):
             # save output
             save_json(out_content, save_path)
             print(f"Called model and saved to {save_path}")
+
+            if (num_calls == MAX_NUMBER_API_CALLS):
+                raise Exception(f"Too Many Calls, look at {save_path}")
 
         pre_df["level_of_difficulty"].append(level_of_difficulty)
         pre_df["tensor_name"].append(tensor_name)
