@@ -147,6 +147,7 @@ def run_prompt_1(filled_strings):
             out_content = load_json(save_path)
         else:
             num_calls = 0
+            out_content = None
             while (num_calls < MAX_NUMBER_API_CALLS):
                 try:
                     # call model
@@ -204,6 +205,7 @@ def run_prompt_2(filled_strings):
             out_content = load_json(save_path)
         else:
             num_calls = 0
+            out_content = None
             while (num_calls < MAX_NUMBER_API_CALLS):
                 try:
                     # call model
@@ -373,6 +375,7 @@ def run_prompt_4(filled_strings):
             out_content = load_json(save_path)
         else:
             num_calls = 0
+            out_content = None
             while (num_calls < MAX_NUMBER_API_CALLS):
                 try:
                     # call model
@@ -527,6 +530,7 @@ def run_prompt_6(filled_strings):
             out_content = load_json(save_path)
         else:
             num_calls = 0
+            out_content = None
             while (num_calls < MAX_NUMBER_API_CALLS):
                 try:
                     # call model

@@ -18,7 +18,7 @@ sys.path.insert(0, str(pathlib.Path('../../src')))
 from file_IO_handler import get_plaintext_file_contents, save_json, load_json
 from fill_string_template import get_filled_strings_from_dataframe, FilledString
 
-MAX_NUMBER_API_CALLS = 5
+MAX_NUMBER_API_CALLS = 20
 
 ###############################
 # Get Access to Replicate API #
@@ -148,6 +148,7 @@ def run_prompt_1(filled_strings):
             out_content = load_json(save_path)
         else:
             num_calls = 0
+            out_content = None
             while (num_calls < MAX_NUMBER_API_CALLS):
                 try:
                     # call model
@@ -205,6 +206,7 @@ def run_prompt_2(filled_strings):
             out_content = load_json(save_path)
         else:
             num_calls = 0
+            out_content = None
             while (num_calls < MAX_NUMBER_API_CALLS):
                 try:
                     # call model
@@ -374,6 +376,7 @@ def run_prompt_4(filled_strings):
             out_content = load_json(save_path)
         else:
             num_calls = 0
+            out_content = None
             while (num_calls < MAX_NUMBER_API_CALLS):
                 try:
                     # call model
@@ -528,6 +531,7 @@ def run_prompt_6(filled_strings):
             out_content = load_json(save_path)
         else:
             num_calls = 0
+            out_content = None
             while (num_calls < MAX_NUMBER_API_CALLS):
                 try:
                     # call model
