@@ -203,12 +203,18 @@ def is_like(row):
 
 
 def main():
-    df = pd.read_csv(pathlib.Path("../generations/script_run_Mixtral8x7BInstruct/prompt_7_output.csv"), index_col=0)
+    df = pd.read_csv(pathlib.Path("../generations/script_run_Mixtral8x7BInstruct/prompt_6_output.csv"), index_col=0)
     df['is_like'] = df.apply(is_like, axis=1)
     df['list_of_is_like'] = df[['tensor_name','target_domain', 'is_like']].groupby(['tensor_name','target_domain'])['is_like'].transform(lambda x: ' '.join(x))
     df['list_of_subtensors'] = df[['tensor_name','target_domain', 'subtensor_name']].groupby(['tensor_name','target_domain'])['subtensor_name'].transform(lambda x: ', '.join(x))
     df['list_of_subvehicles'] = df[['tensor_name','target_domain', 'subvehicle_name']].groupby(['tensor_name','target_domain'])['subvehicle_name'].transform(lambda x: ', '.join(x))
-    df['list_of_extended_metaphor'] = df[['tensor_name','target_domain', 'extended_metaphor']].groupby(['tensor_name','target_domain'])['extended_metaphor'].transform(lambda x: ','.join(x))
+    
+    # # WARNING: for Mixtral, giving information in json format frequently leads to output in json format.
+    # # Or the model just error out for some reason...
+    # # Use text data instead...
+    # df['list_of_extended_metaphor'] = df[['tensor_name','target_domain', 'extended_metaphor']].groupby(['tensor_name','target_domain'])['extended_metaphor'].transform(lambda x: ','.join(x))
+    df['list_of_extended_metaphor'] = df[['tensor_name','target_domain', 'explaination']].groupby(['tensor_name','target_domain'])['explaination'].transform(lambda x: '\n###\n'.join(x))
+    
     df_slice = df[[
         'level_of_difficulty',
         'tensor_name',

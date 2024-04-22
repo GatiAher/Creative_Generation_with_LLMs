@@ -468,6 +468,7 @@ def run_prompt_5(filled_strings):
         "schema": [],
         "target_domain": [],
         "subvehicle_name": [],
+        "explaination": [],
         "subtensor_name_as_json_key": [],
         "subvehicle_name_as_json_key": [],
     }
@@ -516,6 +517,7 @@ def run_prompt_5(filled_strings):
         # new
         first_phrase = get_first_phrase(out_content).replace('\"', "")
         pre_df["subvehicle_name"].append(first_phrase)
+        pre_df["explaination"].append(out_content) # for Mixtral this might be good to capture, for analysis
         pre_df["subtensor_name_as_json_key"].append(subtensor_name.replace(" ", "_").lower())
         pre_df["subvehicle_name_as_json_key"].append(first_phrase.replace(" ", "_").lower())
 
@@ -540,13 +542,14 @@ def run_prompt_6(filled_strings):
         "schema": [],
         "target_domain": [],
         "subvehicle_name": [],
+        "explaination": [],
         "subtensor_name_as_json_key": [],
         "subvehicle_name_as_json_key": [],
         "extended_metaphor": [], 
     }
 
     for idx in range(len(filled_strings)):
-        save_path = pathlib.Path(f"{prompt_6_output_save_to_prefix}_idx_{idx}.json")
+        save_path = pathlib.Path(f"{prompt_6_output_save_to_prefix}_idx_{idx}.txt")
 
         level_of_difficulty = filled_strings[idx].values["level_of_difficulty"]
         tensor_name = filled_strings[idx].values["tensor_name"]
@@ -561,31 +564,48 @@ def run_prompt_6(filled_strings):
         schema = filled_strings[idx].values["schema"]
         target_domain = filled_strings[idx].values["target_domain"]
         subvehicle_name = filled_strings[idx].values["subvehicle_name"]
+        explaination = filled_strings[idx].values["explaination"]
         subtensor_name_as_json_key = filled_strings[idx].values["subtensor_name_as_json_key"]
         subvehicle_name_as_json_key = filled_strings[idx].values["subvehicle_name_as_json_key"]
         
+        # WARNING: don't need this to be a proper json, only going to use it in string form.
+
+        # if save_path.exists():
+        #     print(f"Loading from {save_path}")
+        #     out_content = load_json(save_path)
+        # else:
+        #     num_calls = 0
+        #     out_content = None
+        #     while (num_calls < MAX_NUMBER_API_CALLS):
+        #         try:
+        #             # call model
+        #             out = Completion(filled_strings[idx].filled, is_json=True)
+        #             out_content = fix_JSON(out)
+        #             break
+        #         except Exception as e:
+        #             num_calls = num_calls + 1
+        #             print(f"Prompt 6 ran into error #{num_calls}. {e}")
+            
+        #     # save output
+        #     save_json(out_content, save_path)
+        #     print(f"Called model and saved to {save_path}")
+
+        #     if (num_calls == MAX_NUMBER_API_CALLS):
+        #         raise Exception(f"Too Many Calls, look at {save_path}")
+
         if save_path.exists():
             print(f"Loading from {save_path}")
-            out_content = load_json(save_path)
+            with open(save_path, 'r') as file:
+                out_content = file.read()
         else:
-            num_calls = 0
-            out_content = None
-            while (num_calls < MAX_NUMBER_API_CALLS):
-                try:
-                    # call model
-                    out = Completion(filled_strings[idx].filled, is_json=True)
-                    out_content = fix_JSON(out)
-                    break
-                except Exception as e:
-                    num_calls = num_calls + 1
-                    print(f"Prompt 6 ran into error #{num_calls}. {e}")
+            # call model
+            out_content = Completion(filled_strings[idx].filled, is_json=False, is_short_ans=True)
             
             # save output
-            save_json(out_content, save_path)
+            with open(save_path, 'w+') as file:
+                file.write(out_content)
             print(f"Called model and saved to {save_path}")
 
-            if (num_calls == MAX_NUMBER_API_CALLS):
-                raise Exception(f"Too Many Calls, look at {save_path}")
 
         pre_df["level_of_difficulty"].append(level_of_difficulty)
         pre_df["tensor_name"].append(tensor_name)
@@ -600,10 +620,12 @@ def run_prompt_6(filled_strings):
         pre_df["schema"].append(schema)
         pre_df["target_domain"].append(target_domain)
         pre_df["subvehicle_name"].append(subvehicle_name)
+        pre_df["explaination"].append(explaination)
         pre_df["subtensor_name_as_json_key"].append(subtensor_name_as_json_key)
         pre_df["subvehicle_name_as_json_key"].append(subvehicle_name_as_json_key)
         # new
-        pre_df["extended_metaphor"].append(json.dumps(out_content["extended_metaphor"], indent=2))
+        # pre_df["extended_metaphor"].append(json.dumps(out_content["extended_metaphor"], indent=2))
+        pre_df["extended_metaphor"].append(out_content)
 
     df_prompt_7_input = pd.DataFrame(pre_df)
     df_prompt_7_input.to_csv(prompt_6_output_save_to)
@@ -611,83 +633,83 @@ def run_prompt_6(filled_strings):
     return df_prompt_7_input
 
 
-def run_prompt_7(filled_strings):
-    pre_df = {
-        "level_of_difficulty": [],
-        "tensor_name": [],
-        "source_domain": [],
-        "subtensor_name": [],
-        "subtensor_definition": [],
-        "subtensor_purpose": [],
-        "subtensor_mechanism": [],
-        "text": [],
-        "text_annotated": [],
-        "text_redacted": [],
-        "schema": [],
-        "target_domain": [],
-        "subvehicle_name": [],
-        "subtensor_name_as_json_key": [],
-        "subvehicle_name_as_json_key": [],
-        "extended_metaphor": [],
-        "final_output": [], 
-    }
+# def run_prompt_7(filled_strings):
+#     pre_df = {
+#         "level_of_difficulty": [],
+#         "tensor_name": [],
+#         "source_domain": [],
+#         "subtensor_name": [],
+#         "subtensor_definition": [],
+#         "subtensor_purpose": [],
+#         "subtensor_mechanism": [],
+#         "text": [],
+#         "text_annotated": [],
+#         "text_redacted": [],
+#         "schema": [],
+#         "target_domain": [],
+#         "subvehicle_name": [],
+#         "subtensor_name_as_json_key": [],
+#         "subvehicle_name_as_json_key": [],
+#         "extended_metaphor": [],
+#         "final_output": [], 
+#     }
 
-    for idx in range(len(filled_strings)):
-        save_path = pathlib.Path(f"{prompt_7_output_save_to_prefix}_idx_{idx}.txt")
+#     for idx in range(len(filled_strings)):
+#         save_path = pathlib.Path(f"{prompt_7_output_save_to_prefix}_idx_{idx}.txt")
 
-        level_of_difficulty = filled_strings[idx].values["level_of_difficulty"]
-        tensor_name = filled_strings[idx].values["tensor_name"]
-        source_domain = filled_strings[idx].values["source_domain"]
-        subtensor_name = filled_strings[idx].values["subtensor_name"]
-        subtensor_definition = filled_strings[idx].values["subtensor_definition"]
-        subtensor_purpose = filled_strings[idx].values["subtensor_purpose"]
-        subtensor_mechanism = filled_strings[idx].values["subtensor_mechanism"]
-        text = filled_strings[idx].values["text"]
-        text_annotated = filled_strings[idx].values["text_annotated"]
-        text_redacted = filled_strings[idx].values["text_redacted"]
-        schema = filled_strings[idx].values["schema"]
-        target_domain = filled_strings[idx].values["target_domain"]
-        subvehicle_name = filled_strings[idx].values["subvehicle_name"]
-        subtensor_name_as_json_key = filled_strings[idx].values["subtensor_name_as_json_key"]
-        subvehicle_name_as_json_key = filled_strings[idx].values["subvehicle_name_as_json_key"]
-        extended_metaphor = filled_strings[idx].values["extended_metaphor"]
+#         level_of_difficulty = filled_strings[idx].values["level_of_difficulty"]
+#         tensor_name = filled_strings[idx].values["tensor_name"]
+#         source_domain = filled_strings[idx].values["source_domain"]
+#         subtensor_name = filled_strings[idx].values["subtensor_name"]
+#         subtensor_definition = filled_strings[idx].values["subtensor_definition"]
+#         subtensor_purpose = filled_strings[idx].values["subtensor_purpose"]
+#         subtensor_mechanism = filled_strings[idx].values["subtensor_mechanism"]
+#         text = filled_strings[idx].values["text"]
+#         text_annotated = filled_strings[idx].values["text_annotated"]
+#         text_redacted = filled_strings[idx].values["text_redacted"]
+#         schema = filled_strings[idx].values["schema"]
+#         target_domain = filled_strings[idx].values["target_domain"]
+#         subvehicle_name = filled_strings[idx].values["subvehicle_name"]
+#         subtensor_name_as_json_key = filled_strings[idx].values["subtensor_name_as_json_key"]
+#         subvehicle_name_as_json_key = filled_strings[idx].values["subvehicle_name_as_json_key"]
+#         extended_metaphor = filled_strings[idx].values["extended_metaphor"]
         
-        if save_path.exists():
-            print(f"Loading from {save_path}")
-            with open(save_path, 'r') as file:
-                out_content = file.read()
-        else:
-            # call model
-            out_content = Completion(filled_strings[idx].filled, is_json=False)
+#         if save_path.exists():
+#             print(f"Loading from {save_path}")
+#             with open(save_path, 'r') as file:
+#                 out_content = file.read()
+#         else:
+#             # call model
+#             out_content = Completion(filled_strings[idx].filled, is_json=False)
             
-            # save output
-            with open(save_path, 'w+') as file:
-                file.write(out_content)
-            print(f"Called model and saved to {save_path}")
+#             # save output
+#             with open(save_path, 'w+') as file:
+#                 file.write(out_content)
+#             print(f"Called model and saved to {save_path}")
 
-        pre_df["level_of_difficulty"].append(level_of_difficulty)
-        pre_df["tensor_name"].append(tensor_name)
-        pre_df["source_domain"].append(source_domain)
-        pre_df["subtensor_name"].append(subtensor_name)
-        pre_df["subtensor_definition"].append(subtensor_definition)
-        pre_df["subtensor_purpose"].append(subtensor_purpose)
-        pre_df["subtensor_mechanism"].append(subtensor_mechanism)
-        pre_df["text"].append(text)
-        pre_df["text_annotated"].append(text_annotated)
-        pre_df["text_redacted"].append(text_redacted)
-        pre_df["schema"].append(schema)
-        pre_df["target_domain"].append(target_domain)
-        pre_df["subvehicle_name"].append(subvehicle_name)
-        pre_df["subtensor_name_as_json_key"].append(subtensor_name_as_json_key)
-        pre_df["subvehicle_name_as_json_key"].append(subvehicle_name_as_json_key)
-        pre_df["extended_metaphor"].append(extended_metaphor)
-        # new
-        pre_df["final_output"].append(out_content)
+#         pre_df["level_of_difficulty"].append(level_of_difficulty)
+#         pre_df["tensor_name"].append(tensor_name)
+#         pre_df["source_domain"].append(source_domain)
+#         pre_df["subtensor_name"].append(subtensor_name)
+#         pre_df["subtensor_definition"].append(subtensor_definition)
+#         pre_df["subtensor_purpose"].append(subtensor_purpose)
+#         pre_df["subtensor_mechanism"].append(subtensor_mechanism)
+#         pre_df["text"].append(text)
+#         pre_df["text_annotated"].append(text_annotated)
+#         pre_df["text_redacted"].append(text_redacted)
+#         pre_df["schema"].append(schema)
+#         pre_df["target_domain"].append(target_domain)
+#         pre_df["subvehicle_name"].append(subvehicle_name)
+#         pre_df["subtensor_name_as_json_key"].append(subtensor_name_as_json_key)
+#         pre_df["subvehicle_name_as_json_key"].append(subvehicle_name_as_json_key)
+#         pre_df["extended_metaphor"].append(extended_metaphor)
+#         # new
+#         pre_df["final_output"].append(out_content)
 
-    df_final = pd.DataFrame(pre_df)
-    df_final.to_csv(prompt_7_output_save_to)
+#     df_final = pd.DataFrame(pre_df)
+#     df_final.to_csv(prompt_7_output_save_to)
     
-    return df_final
+#     return df_final
 
 
 def main():
