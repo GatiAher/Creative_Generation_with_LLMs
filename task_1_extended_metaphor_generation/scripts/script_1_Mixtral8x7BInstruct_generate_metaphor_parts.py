@@ -18,7 +18,7 @@ sys.path.insert(0, str(pathlib.Path('../../src')))
 from file_IO_handler import get_plaintext_file_contents, save_json, load_json
 from fill_string_template import get_filled_strings_from_dataframe, FilledString
 
-MAX_NUMBER_API_CALLS = 20
+MAX_NUMBER_API_CALLS = 10
 
 ###############################
 # Get Access to Replicate API #
@@ -330,13 +330,17 @@ def run_prompt_3(filled_strings):
         pre_df["text"].append(text)
         # new
         pre_df["text_annotated"].append(out_content)
-        pre_df["text_redacted"].append(
-            redact_func(
-                text, 
-                out_content, 
-                [tensor_name, source_domain, subtensor_name]
-            )
-        )
+    
+        # # WARNING: annotation is too finicky (after prompt 4, idx 28 switched away from using redacted text)
+        # # Just use the annotated text as the redacted text.
+        # pre_df["text_redacted"].append(
+        #     redact_func(
+        #         text, 
+        #         out_content, 
+        #         [tensor_name, source_domain, subtensor_name]
+        #     )
+        # )
+        pre_df["text_redacted"].append(out_content)
 
     df_prompt_4_input = pd.DataFrame(pre_df)
     df_prompt_4_input.to_csv(prompt_3_output_save_to)
@@ -378,6 +382,10 @@ def run_prompt_4(filled_strings):
             print(f"Loading from {save_path}")
             out_content = load_json(save_path)
         else:
+            # # WARNING: skipping the rest of the not run prompts (after prompt 4, idx 48)
+            # # Want to run end to end, don't need to run the rest of the metaphors...
+            continue
+
             num_calls = 0
             out_content = None
             while (num_calls < MAX_NUMBER_API_CALLS):
@@ -417,6 +425,32 @@ def run_prompt_4(filled_strings):
     df_prompt_5_input.to_csv(prompt_4_output_save_to)
     
     return df_prompt_5_input
+
+
+def get_first_phrase(vehicle_output):
+    """Get first phrase in output (vehicle name). 
+    
+    Mixtral 8x7B is outputting both name and explanation.
+    """
+    if '\"' in vehicle_output:
+        out = vehicle_output.split('\"')
+        return out[1]
+    if '\n' in vehicle_output:
+        out = vehicle_output.split('\n')
+        return out[0]
+    if ',' in vehicle_output:
+        out = vehicle_output.split(',')
+        return out[0]
+    if ':' in vehicle_output:
+        out = vehicle_output.split(':')
+        return out[0]
+    if '-' in vehicle_output:
+        out = vehicle_output.split('-')
+        return out[0]
+    if '.' in vehicle_output:
+        out = vehicle_output.split('.')
+        return out[0]
+    return vehicle_output
 
 
 def run_prompt_5(filled_strings):
@@ -480,9 +514,10 @@ def run_prompt_5(filled_strings):
         pre_df["schema"].append(schema)
         pre_df["target_domain"].append(target_domain)
         # new
-        pre_df["subvehicle_name"].append(out_content)
+        first_phrase = get_first_phrase(out_content).replace('\"', "")
+        pre_df["subvehicle_name"].append(first_phrase)
         pre_df["subtensor_name_as_json_key"].append(subtensor_name.replace(" ", "_").lower())
-        pre_df["subvehicle_name_as_json_key"].append(out_content.replace(" ", "_").lower())
+        pre_df["subvehicle_name_as_json_key"].append(first_phrase.replace(" ", "_").lower())
 
     df_prompt_6_input = pd.DataFrame(pre_df)
     df_prompt_6_input.to_csv(prompt_5_output_save_to)
@@ -677,11 +712,11 @@ def main():
     filled_strings = get_filled_strings_from_dataframe(prompt_6_template, df_prompt_6_input)
     df_prompt_7_input = run_prompt_6(filled_strings)
 
-    filled_strings = get_filled_strings_from_dataframe(prompt_7_template, df_prompt_7_input)
-    final_output = run_prompt_7(filled_strings)
+    # filled_strings = get_filled_strings_from_dataframe(prompt_7_template, df_prompt_7_input)
+    # final_output = run_prompt_7(filled_strings)
 
     print("Finished running script.")
-    print(f"Final number of rows: {len(final_output)}")
+    print(f"Final number of rows: {len(df_prompt_7_input)}")
 
 
 if __name__ == "__main__":
