@@ -1,4 +1,4 @@
-# Script to run final consolidated extended metaphor generation with Open AI models
+# Script to run consolidated extended metaphor generation with Open AI models
 
 import tqdm
 import pandas as pd
@@ -208,6 +208,10 @@ def main():
 
     filled_strings = get_filled_strings_from_dataframe(prompt_cover_subtensors_style_template, df_slice)
     df_cover_subtensors = run_prompt_cover_subtensors_extended_metaphors(filled_strings)
+
+    print("Finished running script.")
+    print(f"Final number of rows: {len(df_use_relationships)}")
+    print(f"Final number of rows: {len(df_cover_subtensors)}")
 
 
 if __name__ == "__main__":

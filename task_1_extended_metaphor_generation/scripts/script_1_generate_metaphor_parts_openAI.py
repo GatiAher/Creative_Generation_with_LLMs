@@ -1,4 +1,4 @@
-# Script to run extended metaphor generation with Open AI models
+# Script to generate schema and subvehicle metaphors with Open AI models
 
 import tqdm
 import pandas as pd
