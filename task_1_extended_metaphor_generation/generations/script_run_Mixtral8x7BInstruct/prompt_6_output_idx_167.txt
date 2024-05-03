@@ -1,0 +1,24 @@
+{
+"extended\_metaphor": \[
+{
+"metaphor": "both Pituitary Gland in endocrine system and Central Banking System in money have Coordination and Regulation (string)",
+"pituitary\_gland": "The pituitary gland coordinates and regulates the functions of other endocrine glands through the release of hormones, ensuring the body maintains homeostasis and proper growth and development.",
+"central\_banking\_system": "Similarly, the central banking system coordinates and regulates the money supply in an economy through monetary policies, such as setting interest rates and controlling the amount of money in circulation, to ensure economic stability and growth."
+},
+{
+"metaphor": "both Pituitary Gland in endocrine system and Central Banking System in money have Modular Design (string)",
+"pituitary\_gland": "The pituitary gland is divided into two parts, the anterior and posterior pituitary, each with a unique set of hormones and functions, working together to maintain the body's equilibrium and growth.",
+"central\_banking\_system": "Likewise, the central banking system is divided into different departments and functions, such as monetary policy, financial stability, and payment systems, all working together to maintain the stability and growth of the economy."
+},
+{
+"metaphor": "both Pituitary Gland in endocrine system and Central Banking System in money have Feedback Control (string)",
+"pituitary\_gland": "The hypothalamus receives information from the body and uses this information to produce releasing hormones that stimulate or inhibit the pituitary gland to release its own hormones, creating a feedback control system.",
+"central\_banking\_system": "Similarly, the central banking system receives information from the economy, such as inflation and unemployment rates, and uses this information to adjust monetary policies, creating a feedback control system for the economy."
+},
+{
+"metaphor": "both Pituitary Gland in endocrine system and Central Banking System in money have Efficient Communication (string)",
+"pituitary\_gland": "Hormones are transported through the bloodstream to target glands and organs, allowing for efficient communication and coordination between different parts of the body.",
+"central\_banking\_system": "The central banking system communicates and coordinates with commercial banks and other financial institutions through various tools, such as open market operations, discount window lending, and reserve requirements, allowing for efficient communication and coordination of monetary policies."
+}
+\]
+}

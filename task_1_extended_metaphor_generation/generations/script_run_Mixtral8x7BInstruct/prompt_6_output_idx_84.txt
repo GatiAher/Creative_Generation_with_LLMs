@@ -1,0 +1,9 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Spaghettification in theory of the naked singularity and Vocal dynamics and expressiveness in Kpop utilize the curvature of spacetime to determine their respective forces and expressions.",
+"spaghettification": "In the theory of the naked singularity, the curvature of spacetime is used to determine the gravitational force, which becomes infinite near a massive object, leading to extreme conditions and the stretching and deformation of an object, also known as spaghettification.",
+"vocal\_dynamics\_and\_expressiveness": "In Kpop, vocal dynamics and expressiveness utilize the curvature of spacetime in a metaphorical sense, where the vocalist's control over their voice and delivery creates a unique and expressive sound that can vary in pitch, tone, and volume, leading to a dynamic and captivating performance."
+}
+]
+}

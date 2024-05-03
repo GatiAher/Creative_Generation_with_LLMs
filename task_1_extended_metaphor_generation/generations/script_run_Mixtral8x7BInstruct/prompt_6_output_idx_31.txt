@@ -1,0 +1,26 @@
+{
+"extended\_metaphor": \[
+{
+"metaphor": "both Meteors (or Shooting Stars) in solar system and Monetary value of rare meteorite artifacts in money have a natural method of transport (string)",
+"meteors\_(or\_shooting\_stars)": "Meteoroids, which are small particles of matter floating in space, serve as a natural method for transporting extraterrestrial material through space and depositing it onto a planet's surface, contributing to the planet's geological and biological evolution.",
+"monetary\_value\_of\_rare\_meteorite\_artifacts": "Rare meteorite artifacts, which are pieces of extraterrestrial material that have survived the journey through the atmosphere and struck the ground, are transported from one person to another, serving as a means of exchange and contributing to the economic and cultural evolution of society."
+},
+{
+"metaphor": "both Meteors (or Shooting Stars) in solar system and Monetary value of rare meteorite artifacts in money use friction-based propulsion (string)",
+"meteors\_(or\_shooting\_stars)": "Friction generated between a meteoroid and atmospheric gases causes the meteoroid to heat up and vaporize, producing a bright streak of light and propelling the meteoroid towards the planet's surface.",
+"monetary\_value\_of\_rare\_meteorite\_artifacts": "The rarity and desirability of meteorite artifacts creates a friction in the market, driving up the value and price of these items, and propelling them towards collectors and investors who are willing to pay a premium for them."
+},
+{
+"metaphor": "both Meteors (or Shooting Stars) in solar system and Monetary value of rare meteorite artifacts in money have size and speed-dependent brightness (string)",
+"meteors\_(or\_shooting\_stars)": "The size of the meteoroid and its speed determine the brightness and duration of the meteor, allowing for a visible indication of the meteoroid's size and speed.",
+"monetary\_value\_of\_rare\_meteorite\_artifacts": "The size, rarity, and desirability of meteorite artifacts determine the brightness and price of these items, allowing for a visible indication of their value and significance in the market."
+},
+{
+"metaphor": "both Meteors (or Shooting Stars) in solar system and Monetary value of rare meteorite artifacts in money have survivability of larger meteoroids (string)",
+"meteors\_(or\_shooting\_stars)": "Larger meteoroids may survive the journey through the atmosphere and strike the ground as meteorites, delivering extraterrestrial material to the planet's surface.",
+"monetary\_value\_of\_rare\_meteorite\_artifacts": "Larger and more significant meteorite artifacts may survive the test of time and changing market conditions, delivering value and significance to collectors and investors who hold onto them for the long term."
+}
+\]
+}
+
+Please note that this is just an example of how the output might look like, and the actual metaphors and descriptions used may vary.

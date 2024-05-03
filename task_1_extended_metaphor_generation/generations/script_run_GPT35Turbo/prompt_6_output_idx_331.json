@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Thermal Energy in energy and Interest rate in money have mechanisms to quantify the internal dynamics of a system",
+      "thermal_energy": "In Thermodynamics, Thermal Energy allows us to quantify the kinetic energy of particles within a system by considering their temperature and specific heat capacities. This helps us understand the internal dynamics and behavior of the system as a whole.",
+      "interest_rate": "Similarly, in the financial world, Interest rates serve the purpose of quantifying and reflecting the internal dynamics of the economy. They help us understand how money flows within the system and how it impacts various economic activities."
+    },
+    {
+      "metaphor": "both Thermal Energy in energy and Interest rate in money facilitate the transfer of energy/money within a system",
+      "thermal_energy": "Through Heat Transfer, Thermal Energy facilitates the transfer of heat within a system by accounting for the vibrational, rotational, and translational motions of particles. This process ensures that energy is distributed efficiently throughout the system.",
+      "interest_rate": "Likewise, Interest rates facilitate the transfer of money within the economy by influencing borrowing, lending, and investment decisions. They account for the dynamic movements of capital and help regulate the flow of money to ensure economic stability."
+    }
+  ]
+}

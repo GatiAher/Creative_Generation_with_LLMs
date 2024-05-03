@@ -1,0 +1,8 @@
+"Monetary Inflation Index"
+
+Explanation:
+
+* Proportionality: The rate of monetary inflation is directly proportional to the amount of money in circulation. Thus, measuring the amount of money in circulation allows for the estimation of the inflation rate.
+* Predictive Modeling: Economists use linear regression and other statistical models to predict future inflation rates based on past data and current monetary policies.
+* Observation and Measurement: Central banks and financial institutions measure the money supply and inflation rate through observation and measurement of various economic indicators.
+* Scientific Inquiry: Economists use evidence from observations of monetary policies and their impact on inflation rates to support theories and models of monetary economics.

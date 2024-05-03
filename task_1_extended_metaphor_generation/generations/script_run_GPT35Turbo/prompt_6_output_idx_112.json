@@ -1,0 +1,26 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Catalysts in chemical reaction and Choreography in Kpop have Optimization as a fundamental design principle",
+      "catalysts": {
+        "purpose": "Facilitating faster pathways and enhancing system efficiency without altering the process",
+        "mechanism": "Recalibrating energy barriers and minima to achieve optimal performance"
+      },
+      "choreography": {
+        "purpose": "Creating smoother and more efficient dance routines without changing the essence of the performance",
+        "mechanism": "Adjusting the choreography to ensure optimal execution and visual appeal"
+      }
+    },
+    {
+      "metaphor": "both Catalysts in chemical reaction and Choreography in Kpop have Simplification as a core design principle",
+      "catalysts": {
+        "purpose": "Enabling a more streamlined route for reactants to traverse",
+        "mechanism": "Redesigning a complex system to achieve optimal performance with minimal resources"
+      },
+      "choreography": {
+        "purpose": "Simplifying dance moves for efficient and impactful performances",
+        "mechanism": "Creating straightforward movements that enhance the overall choreography with minimal complexity"
+      }
+    }
+  ]
+}

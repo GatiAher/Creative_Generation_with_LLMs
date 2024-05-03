@@ -1,0 +1,28 @@
+ ```
+The Magma chamber serves as a storage and transportation system for molten rock, allowing it to accumulate and cool before being released through the volcano's vents and fissures, thus regulating the flow of lava and maintaining the volcano's shape and structural integrity. The Magma chamber is typically located beneath the volcano's vent or crater, and its walls and floor are made up of solidified magma or other resistant rocks. Its shape can vary from circular to elliptical or irregular, depending on the stress fields and the type of magmatic activity. The chamber's size can range from tens to hundreds of meters in diameter and height, with a capacity to hold millions of cubic meters of magma. The magma inside the chamber is in a state of convection, with hotter material rising to the top and cooler material sinking, creating a circulating current. This circulation helps to mix the magma and create a homogeneous composition, which is important for the quality of the final product, such as obsidian or rhyolite. The chamber's roof can be covered by a layer of more solidified magma, acting as a barrier that allows pressure to build up inside the chamber, increasing the likelihood of an eruption when the pressure becomes too great.
+```
+Double curly braces:
+
+* Magma chamber
+* Molten rock
+* Solidified magma
+* Resistant rocks
+* Magmatic activity
+* Convection
+* Homogeneous composition
+* Final product
+
+Square braces:
+
+* Circular
+* Elliptical
+* Irregular
+* Tens
+* Hundreds
+* Meters
+* Diameter
+* Height
+* Millions
+* Cubic meters
+* Pressure
+* Barrier

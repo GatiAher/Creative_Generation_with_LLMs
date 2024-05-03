@@ -1,0 +1,19 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Translation in DNA and Signal-calling system in baseball are like a blueprint-to-product assembly line",
+"translation": "During Translation, the genetic code is converted into a physical protein product through a series of precise steps and calculations, similar to a manufacturing process in engineering.",
+"signal-calling\_system\_in\_baseball": "In baseball, the coach uses a system of hand signals to communicate specific instructions to the players on the field, creating a step-by-step process to carry out the play. This is similar to the assembly line process in Translation, where the genetic code is systematically converted into a protein product through a series of precise steps."
+},
+{
+"metaphor": "both Translation in DNA and Signal-calling system in baseball utilize a systematic mapping process",
+"translation": "Translation utilizes a 'reader' (Ribosome) and 'instructional guides' (tRNA molecules) that interact in a coordinated and geometrically-constrained manner to convert the genetic code into amino acids.",
+"signal-calling\_system\_in\_baseball": "In baseball, the coach uses a system of hand signals that each have a specific meaning and are used in a specific order to convey the play. This systematic mapping process is similar to the one used in Translation, where the genetic code is mapped to specific amino acids through the use of tRNA molecules and the ribosome."
+},
+{
+"metaphor": "both Translation in DNA and Signal-calling system in baseball have a start-stop mechanism",
+"translation": "Translation has a strict mechanism to ensure accurate and controlled protein synthesis, similar to a programming language.",
+"signal-calling\_system\_in\_baseball": "In baseball, the coach's signal-calling system also has a start-stop mechanism, where specific signals indicate when the play should begin and end. This is similar to the start-stop mechanism in Translation, where the process of protein synthesis is strictly controlled to ensure accuracy and efficiency."
+}
+]
+}

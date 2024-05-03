@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Debugging in computer program and Video Replay Review in baseball ensure the final outcome is error-free by following a systematic approach",
+      "debugging": "Debugging ensures the final design functions correctly by analyzing, identifying errors, and applying corrections step by step.",
+      "video_replay_review": "Video Replay Review in baseball follows a systematic approach to analyze plays, identify errors, and make corrections to uphold the integrity of the game."
+    },
+    {
+      "metaphor": "both Debugging in computer program and Video Replay Review in baseball rely on logical reasoning to isolate and address issues efficiently",
+      "debugging": "Debugging utilizes logical reasoning to understand the system and determine the best course of action for corrections.",
+      "video_replay_review": "Video Replay Review in baseball relies on logical reasoning to review plays, interpret rules, and make informed decisions to uphold fair play."
+    },
+    {
+      "metaphor": "both Debugging in computer program and Video Replay Review in baseball involve testing methodologies to verify correctness and avoid failures",
+      "debugging": "Debugging uses testing methodologies to verify the functionality of the design and validate corrections applied to the system.",
+      "video_replay_review": "Video Replay Review in baseball employs testing methodologies to review plays accurately, ensure correct decisions, and maintain the integrity of the game."
+    }
+  ]
+}

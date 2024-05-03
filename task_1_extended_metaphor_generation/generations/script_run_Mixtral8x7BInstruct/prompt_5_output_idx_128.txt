@@ -1,0 +1,9 @@
+"Catchy Melody Hooks"
+
+Modularity: Each catchy melody hook can be seen as a fundamental building block of a Kpop song, which can be combined with other elements like rhythm, lyrics, and instrumentation to form a complete song.
+
+Standardization: The consistent composition of a catchy melody hook, with a specific rhythm, pitch, and lyrics, allows for predictable and reliable interaction between the hook and the listener's brain, making it easier to remember and sing along to.
+
+Scalability: The ability to connect multiple catchy melody hooks in a song allows for the creation of a longer and more complex piece of music, enabling the encoding of a large amount of musical information in a single Kpop song.
+
+Abstraction: The specific sequence of notes and lyrics in a catchy melody hook encodes musical information, abstracting the musical instructions from the physical sound of the hook itself, making it easier for listeners to recall and enjoy the song.

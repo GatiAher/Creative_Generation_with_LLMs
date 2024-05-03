@@ -1,0 +1,24 @@
+ Here is the annotated text with the requested surroundings:
+
+"The Meteors provide a means for the Earth's atmosphere to be cleansed of small, foreign objects that could potentially cause harm if they were to collide with the planet. By burning up in the atmosphere, these objects are rendered harmless and their impact is minimized. The Meteors are designed to enter the Earth's atmosphere at high speeds, typically around 10-40 km/s. As they travel through the atmosphere, they experience intense friction due to the air resistance, which causes them to heat up and eventually burn up completely. This process produces a bright streak of light across the sky, commonly known as a shooting star or meteor. The remaining debris is then dispersed into tiny particles that can be easily carried away by wind currents, further reducing any potential impact on the planet."
+
+Double curly braces:
+
+* Meteors
+* Earth's atmosphere
+* foreign objects
+* burn up
+* high speeds
+* km/s
+* air resistance
+* heat up
+* burn up
+* shooting star
+* meteor
+
+Square braces:
+
+* geometry
+* math
+* engineering
+* design

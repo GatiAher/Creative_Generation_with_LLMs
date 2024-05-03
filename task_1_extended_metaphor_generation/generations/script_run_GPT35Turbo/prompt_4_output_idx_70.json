@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Pressure Release",
+      "mechanism": "Creating a pathway for the release of pressure and gases from beneath the crust to prevent explosive eruptions"
+    },
+    {
+      "description": "Geometric Design",
+      "mechanism": "Using a geometric opening to allow magma, ash, and gases to rise to the surface with a narrow conduit minimizing resistance"
+    }
+  ]
+}

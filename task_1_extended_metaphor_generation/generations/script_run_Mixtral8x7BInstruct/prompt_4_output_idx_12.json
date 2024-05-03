@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Homogeneity and isotropy",
+      "mechanism": "Assuming the largest scales of the universe to be the same in all points and directions, allowing for a uniform model of the universe"
+    },
+    {
+      "description": "Curvature concept",
+      "mechanism": "Using curvature to describe the geometry of the space section, determining whether it's closed, flat, or open and its volume"
+    },
+    {
+      "description": "Scale factor and second-order differential equation",
+      "mechanism": "Utilizing the scale factor and a differential equation to describe the changing distances between points and the rate of change in the space section"
+    },
+    {
+      "description": "Computer simulations and mathematical models",
+      "mechanism": "Employing sophisticated computer simulations and mathematical models to understand the evolution of initial conditions and interactions between different types of matter and energy in the universe"
+    }
+  ]
+}

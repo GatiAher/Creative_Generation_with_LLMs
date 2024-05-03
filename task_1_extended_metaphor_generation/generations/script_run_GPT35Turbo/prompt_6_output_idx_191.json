@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both SOAP API in API and Cryptocurrency in money have Blueprint Design",
+      "soap_api": "SOAP API acts as a precise blueprint that outlines dimensions, shapes, and materials required for constructing an interconnected system of web services by defining the structure and connections between various components in a systematic manner.",
+      "cryptocurrency": "Similarly, Cryptocurrency serves as a blueprint for a decentralized digital financial system, outlining the rules, protocols, and cryptographic functions required for creating and managing a secure and trustless peer-to-peer network of transactions."
+    },
+    {
+      "metaphor": "both SOAP API in API and Cryptocurrency in money have Standardized Message Format",
+      "soap_api": "SOAP API employs a standardized message format to specify a consistent structure for messages exchanged between different software systems, ensuring that the data being transmitted is clearly defined and can be processed uniformly by both the sender and receiver.",
+      "cryptocurrency": "Likewise, Cryptocurrency adopts a standardized message format for transactions, employing cryptographic algorithms and protocols to define the content, format, and security features of transaction data, making it universally recognized and processed across the distributed ledger network."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Linear Momentum",
+      "definition": "The product of the mass of an object and its velocity. It is a vector quantity and is conserved in closed systems."
+    },
+    {
+      "name": "Impulse",
+      "definition": "The force applied to an object over a period of time, resulting in a change in its momentum. It is calculated as the integral of force over time."
+    },
+    {
+      "name": "Conservation of Momentum",
+      "definition": "A fundamental principle of physics that states the total momentum of a closed system remains constant unless acted upon by an external force."
+    },
+    {
+      "name": "Momentum Transfer",
+      "definition": "The process of transferring momentum from one object to another through collisions or other interactions. It is an important concept in the study of kinetics."
+    },
+    {
+      "name": "Relativistic Momentum",
+      "definition": "A modification of the classical momentum concept to account for the effects of special relativity. It is calculated as the product of the relativistic mass and velocity of an object."
+    }
+  ]
+}

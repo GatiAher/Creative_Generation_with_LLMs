@@ -1,0 +1,5 @@
+ Here is the annotated text with the requested surroundings for Computer Science, chemistry, scientific jargon, geometry, math, engineering, and design:
+
+{Computer Science}{distributed system}, {Message Queueing}, {efficient communication}, {reliable delivery}, {order}, {preventing message loss}, {duplication}, {optimal performance}, {post office}, {mailbox}, {worker}, {clerk}, {FIFO}, {queue}, {finite size}, {delay}, {loss}
+
+[Math]{geometry}, {engineering}, {design}

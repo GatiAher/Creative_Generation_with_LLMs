@@ -1,0 +1,5 @@
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "both serve as a regulatory hub,",
+	

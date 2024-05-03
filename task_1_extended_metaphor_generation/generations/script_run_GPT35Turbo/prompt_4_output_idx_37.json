@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Mathematical modeling",
+      "mechanism": "Using concepts from differential equations and other mathematical tools to model the behavior and performance of engineering systems."
+    },
+    {
+      "description": "Predictive modeling",
+      "mechanism": "Utilizing equations to forecast the behavior of systems under different conditions, allowing for the optimization of design parameters."
+    },
+    {
+      "description": "Optimization",
+      "mechanism": "Maximizing efficiency and effectiveness by finding the best possible design parameters based on mathematical modeling and predictive analysis."
+    }
+  ]
+}

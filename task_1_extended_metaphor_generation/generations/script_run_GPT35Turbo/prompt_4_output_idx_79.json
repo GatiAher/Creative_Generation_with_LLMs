@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Energy principle",
+      "mechanism": "Helps in calculating the work required for moving objects by considering factors like velocity and mass. It enables understanding the energy associated with the motion of objects without direct measurement."
+    },
+    {
+      "description": "Kinetic energy",
+      "mechanism": "Determines the energy associated with the motion of objects by taking into account the squared value of velocity. Objects with higher velocities or greater mass possess more kinetic energy, reflecting their potential impact."
+    }
+  ]
+}

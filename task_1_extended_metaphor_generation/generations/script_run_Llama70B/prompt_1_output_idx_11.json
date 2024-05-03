@@ -1,0 +1,36 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Client-Server Architecture",
+      "definition": "A design pattern where a client and server communicate over a network to provide services or resources."
+    },
+    {
+      "name": "Peer-to-Peer Networking",
+      "definition": "A decentralized networking model where equal peers communicate directly with each other without a central server."
+    },
+    {
+      "name": "Distributed File Systems",
+      "definition": "A way of organizing and storing large amounts of data across multiple machines to improve performance and reliability."
+    },
+    {
+      "name": "Distributed Databases",
+      "definition": "A database system that spreads data across multiple servers to increase scalability and availability."
+    },
+    {
+      "name": "Message Queueing",
+      "definition": "A method of communication between processes or systems where messages are queued up for processing when capacity allows."
+    },
+    {
+      "name": "Load Balancing",
+      "definition": "Techniques used to distribute incoming traffic across multiple servers to improve responsiveness, reliability, and scalability."
+    },
+    {
+      "name": "Fault Tolerance",
+      "definition": "Design techniques aimed at ensuring that distributed systems continue operating correctly even in the presence of failures or errors."
+    },
+    {
+      "name": "Consistency Models",
+      "definition": "Theories and algorithms used to ensure that data is consistent across all nodes in a distributed system, despite concurrent updates and failures."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "both the pancreas and the pitcher's mound act as regulatory hubs, orchestrating intricate sequences of events through the release of specific signals.",
+			"pancreas": "The pancreas, through the release of hormones such as insulin and glucagon, maintains optimal glucose levels in the bloodstream.",
+			"the_pitcher's_mound_and_its_role_in_the_intricate_choreography_of_pitching_delivery": "The pitcher's mound, through the precise movements of the pitcher, controls the speed, direction, and spin of the ball, influencing the outcome of the play."
+		},
+		{
+	

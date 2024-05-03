@@ -1,0 +1,8 @@
+"Pitch selection and sequencing by a pitching coach"
+
+Explanation:
+
+* Control system: The pitching coach constantly monitors the game situation, the opposing team's hitters, and the performance of the pitcher, and makes decisions about which pitches to call for in order to give the team the best chance of success.
+* Dual structure: The pitching coach and the pitcher form a dual structure, with the coach serving as the sensor and decision-maker, and the pitcher serving as the actuator, physically throwing the pitches called by the coach.
+* Hormones as control signals: In this analogy, the pitches called by the coach can be thought of as control signals, affecting the performance of the hitters and the outcome of the at-bat.
+* Engineering control system: The pitch selection and sequencing process can be compared to an engineering control system, with the input being the game situation and the opposing hitters, and the output being the pitches called by the coach.

@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Stable Orbit",
+      "mechanism": "Maintaining a stable orbit at a safe distance from a central body, in this case the sun, to ensure the longevity and stability of the system."
+    },
+    {
+      "description": "Flat Structure",
+      "mechanism": "Organizing the system in a flat, disk-like structure to minimize gravitational interactions and maintain stability."
+    },
+    {
+      "description": "Temperature Control",
+      "mechanism": "Positioning the system at a distance from the central body to regulate temperature and prevent melting or sublimation of icy bodies."
+    },
+    {
+      "description": "Gravitational Perturbations",
+      "mechanism": "Utilizing gravitational interactions with nearby objects to perturb the orbits of icy bodies and send them on trajectories towards the inner solar system."
+    }
+  ]
+}

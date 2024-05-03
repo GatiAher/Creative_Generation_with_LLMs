@@ -1,0 +1,24 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Modularity",
+      "mechanism": "The use of fundamental units (Nitrogenous Bases) that store genetic information, enabling precise replication and construction of biological organisms."
+    },
+    {
+      "description": "Standardized Interfaces",
+      "mechanism": "The specific bonding pairs between Nitrogenous Bases (Adenine-Thymine and Guanine-Cytosine) that ensure proper base pairing and maintain the structure of the DNA double helix."
+    },
+    {
+      "description": "Redundancy",
+      "mechanism": "The presence of sugar-phosphate backbones on the outside of the DNA double helix, which stabilizes the structure and allows for faithful duplication of genetic information."
+    },
+    {
+      "description": "Scalability",
+      "mechanism": "The ability of the DNA double helix to replicate and transmit genetic information during cell division, allowing for the creation of new organisms and the growth of existing ones."
+    },
+    {
+      "description": "Modifiability",
+      "mechanism": "The transcription of genetic codes into messenger RNA for protein synthesis, enabling genetic information to be used to modify and create new biological structures."
+    }
+  ]
+}

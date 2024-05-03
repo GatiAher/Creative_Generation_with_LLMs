@@ -1,0 +1,10 @@
+"Rotating pitchers' roles (starting, relief, closing)"
+
+Explanation:
+
+* Redundancy: Having multiple pitchers with different roles provides a backup option in case one pitcher gets injured or performs poorly.
+* Modular Design: Each pitcher has a specific role in the game, and they can be easily replaced or moved around depending on the situation.
+* Standardization: The rules and strategies for each pitching role are well-established and standardized, ensuring compatibility and consistency.
+* Segregation: Pitchers specialize in specific roles, which helps to reduce the chance of errors and increases the overall effectiveness of the pitching staff.
+* Automation: While not fully automated, the use of analytics and data-driven decision-making has become more prevalent in baseball, helping teams to optimize their pitching rotations and decisions.
+* Fault Tolerance: By having multiple pitchers in different roles, the team can absorb the impact of a single pitcher's poor performance or injury, ensuring that the overall performance of the pitching staff remains high.

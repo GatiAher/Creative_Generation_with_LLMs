@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Algorithms",
+      "mechanism": "Breaking down a problem into smaller parts and using mathematical processes and patterns to guide the design and execution of a solution"
+    },
+    {
+      "description": "Structured Approach",
+      "mechanism": "Organizing design steps as a series of well-defined instructions for consistent outcomes and ease of replication and optimization"
+    }
+  ]
+}

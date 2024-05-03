@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Mathematical modeling",
+      "mechanism": "Utilizing mathematical models to calculate the time since the radioactive decay process began"
+    },
+    {
+      "description": "Precision engineering",
+      "mechanism": "Providing precise age estimation and trace the origins of materials with accuracy"
+    }
+  ]
+}

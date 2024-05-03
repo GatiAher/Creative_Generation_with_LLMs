@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both SOAP API in API and Scoreboard in baseball have a precise blueprint design as the foundation",
+      "soap_api": "SOAP API utilizes a blueprint design to outline the structure and components required for integrating various web services in a systematic manner.",
+      "scoreboard": "Similarly, the scoreboard in baseball serves as a blueprint that precisely displays the current state of the game - detailing scores, innings, and player statistics in an organized manner to keep track of progress."
+    },
+    {
+      "metaphor": "both SOAP API in API and Scoreboard in baseball involve a standardized message format for communication",
+      "soap_api": "SOAP API employs a standardized message format to ensure consistency and clarity in the data exchange process between different applications or systems.",
+      "scoreboard": "Likewise, the scoreboard in baseball follows a standardized format to convey essential game information such as runs, hits, errors, and player performances in a structured way, facilitating accurate communication of the game's progress."
+    }
+  ]
+}

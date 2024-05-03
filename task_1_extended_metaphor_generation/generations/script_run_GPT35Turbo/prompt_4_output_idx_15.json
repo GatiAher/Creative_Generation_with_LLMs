@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Geometric Optimization",
+      "mechanism": "Optimizing the space layout to meet organism's survival and reproduction requirements efficiently."
+    },
+    {
+      "description": "Efficient Resource Utilization",
+      "mechanism": "Maximizing resource usage without exceeding capacity constraints."
+    },
+    {
+      "description": "Interconnected Patterns",
+      "mechanism": "Utilizing elements of geometry to create patterns that maximize space and provide connectivity."
+    },
+    {
+      "description": "Complex Network Design",
+      "mechanism": "Creating a network of habitats interconnected to enable organism thriving and maintain ecological balance."
+    }
+  ]
+}

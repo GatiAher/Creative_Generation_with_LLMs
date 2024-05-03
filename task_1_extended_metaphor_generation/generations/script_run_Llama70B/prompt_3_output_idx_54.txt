@@ -1,0 +1,18 @@
+ ```
+"The percentage yield" {chemistry} "serves as a measure of efficiency for a chemical reaction. It compares the actual amount of product obtained from the reaction to the maximum theoretically possible amount, providing insight into the effectiveness of the reaction conditions and the quality of the raw materials used. The percentage yield is calculated by dividing the actual yield by the theoretical yield, both of which are expressed in units of mass or volume. This ratio is then multiplied by 100 to convert it to a percentage. The theoretical yield is determined by stoichiometry, which utilizes the balanced equation for the reaction to calculate the maximum amount of product that could be produced based on the limiting reactant. By comparing the actual yield to the theoretical yield, the percentage yield provides a quantitative assessment of the reaction's efficiency and identifies opportunities for improvement."
+```
+Surrounded in double curly braces are words related to chemistry, including:
+
+* Percentage yield
+* Chemical reaction
+* Stoichiometry
+* Theoretical yield
+* Limiting reactant
+
+Surrounded in square braces are words related to geometry, math, engineering, and design:
+
+* Actual yield
+* Theoretical yield
+* Ratio
+* Mass
+* Volume

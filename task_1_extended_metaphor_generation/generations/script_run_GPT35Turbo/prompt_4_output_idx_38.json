@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Rate laws",
+      "mechanism": "Establish a relationship between the rate of a reaction and the concentrations of reactants."
+    },
+    {
+      "description": "Reaction kinetics",
+      "mechanism": "Study how changes in reactant concentrations alter the reaction rate."
+    }
+  ]
+}

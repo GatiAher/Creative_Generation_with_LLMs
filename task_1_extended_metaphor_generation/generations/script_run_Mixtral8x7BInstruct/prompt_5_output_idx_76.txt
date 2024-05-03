@@ -1,0 +1,3 @@
+"Idol training system"
+
+The idol training system in Kpop acts as an abstraction barrier by hiding the complex underlying training and development processes that idols go through, and only presenting the polished and predictable end product to the audience. This system leverages fundamental laws of performance and entertainment, such as the need to captivate an audience through synchronized dancing, singing, and visuals, to achieve the desired outcome of creating popular idols. The training system also acts as a buffer zone by separating the idols from the external environment during their training period, effectively hiding them from view and preventing direct interaction with the public until they are ready to debut.

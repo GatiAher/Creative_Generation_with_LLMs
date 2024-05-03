@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Principle of Motion Analysis",
+      "mechanism": "Used to understand and predict the behavior of objects in motion by analyzing the mass and velocity of an object, resulting in a vector quantity to indicate direction and magnitude of motion."
+    },
+    {
+      "description": "Mechanical Design Principles",
+      "mechanism": "Enables engineers and designers to analyze and manipulate the motion of objects in a mathematical and systematic way based on the principles of mechanics."
+    }
+  ]
+}

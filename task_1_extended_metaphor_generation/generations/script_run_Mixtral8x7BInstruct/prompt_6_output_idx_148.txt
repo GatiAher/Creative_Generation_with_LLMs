@@ -1,0 +1,31 @@
+{
+"extended\_metaphor": \[
+{
+"metaphor": "both Genome in DNA and Standardized Choreography in Kpop have Modularity (string)",
+"genome": "The Genome serves as a modular blueprint, encoding information for different aspects of the organism's growth, development, and function separately.",
+"standardized\_choreography": "Similarly, standardized choreography in Kpop breaks down complex dance routines into smaller, reusable and easily interchangeable modules or sequences. This allows for flexibility in creating and adapting choreography for different songs and performances."
+},
+{
+"metaphor": "both Genome in DNA and Standardized Choreography in Kpop have Standardization (string)",
+"genome": "The specific pairing of nucleotide bases (A-T and C-G) ensures consistent and reliable encoding and decoding of genetic information.",
+"standardized\_choreography": "Similarly, standardized choreography utilizes a consistent set of movements, formations, and transitions that are easily understood and replicated by the dancers. This ensures a unified and cohesive performance."
+},
+{
+"metaphor": "both Genome in DNA and Standardized Choreography in Kpop have Redundancy (string)",
+"genome": "The use of base pairs as units of information provides redundancy in the storage of genetic information, improving reliability and robustness.",
+"standardized\_choreography": "Similarly, redundancy in standardized choreography is achieved through the repetition of specific movements, formations, and transitions throughout the routine. This reinforces the dancers' memory and muscle memory, improving the overall performance's reliability and robustness."
+},
+{
+"metaphor": "both Genome in DNA and Standardized Choreography in Kpop have Abstraction (string)",
+"genome": "The Genome encodes information at different levels of abstraction, from the sequence of base pairs to the instructions for building proteins and regulating cellular processes.",
+"standardized\_choreography": "Similarly, standardized choreography is abstracted in different levels, from the overall structure and concept of the routine, to the specific movements, formations, and transitions."
+},
+{
+"metaphor": "both Genome in DNA and Standardized Choreography in Kpop have Hierarchy (string)",
+"genome": "The structure of the Genome is organized hierarchically, with the double helix of DNA molecules forming the foundation for the encoding and storage of genetic information.",
+"standardized\_choreography": "Similarly, standardized choreography is organized hierarchically, with the overall concept and structure of the routine forming the foundation, and the specific movements, formations, and transitions building upon it."
+}
+\]
+}
+
+Note: The text above is a description of the format of the output and the actual output is in the specified format of json list of objects.

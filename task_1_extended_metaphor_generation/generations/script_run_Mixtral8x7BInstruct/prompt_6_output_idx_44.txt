@@ -1,0 +1,5 @@
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "are both foundational baselines for measuring uniformity and complexity",
+	

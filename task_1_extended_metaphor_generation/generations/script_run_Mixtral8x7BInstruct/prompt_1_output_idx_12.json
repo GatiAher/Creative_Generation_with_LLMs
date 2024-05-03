@@ -1,0 +1,44 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Troposphere",
+      "definition": "The lowest layer of the Earth's atmosphere, extending from the surface to approximately 8 km at the poles and 18 km at the equator, where temperature decreases with height."
+    },
+    {
+      "name": "Stratosphere",
+      "definition": "The second layer of the Earth's atmosphere, extending from the top of the troposphere to about 50 km above the surface, where temperature increases with height due to the presence of the ozone layer."
+    },
+    {
+      "name": "Mesosphere",
+      "definition": "The third layer of the Earth's atmosphere, extending from the top of the stratosphere to about 80 km above the surface, where temperature decreases with height."
+    },
+    {
+      "name": "Thermosphere",
+      "definition": "The fourth layer of the Earth's atmosphere, extending from the top of the mesosphere to about 600 km above the surface, where temperature increases with height."
+    },
+    {
+      "name": "Ionosphere",
+      "definition": "The upper part of the Earth's atmosphere, from about 60 km to 1000 km above the surface, where ionizing radiation from the sun causes the air to become electrically charged."
+    },
+    {
+      "name": "Exosphere",
+      "definition": "The outermost layer of the Earth's atmosphere, extending from the top of the thermosphere to about 10,000 km above the surface, where the atmosphere thins out and merges with outer space."
+    },
+    {
+      "name": "Atmospheric pressure",
+      "definition": "The force exerted by the weight of the atmosphere on a unit surface area, decreasing with height and affecting weather patterns and the boiling point of liquids."
+    },
+    {
+      "name": "Atmospheric circulation",
+      "definition": "The large-scale movement of air masses in the Earth's atmosphere, driven by differences in temperature, pressure, and Coriolis effect, and affecting weather patterns and climate."
+    },
+    {
+      "name": "Air pollution",
+      "definition": "The presence of harmful or excessive substances in the Earth's atmosphere, caused by human activities such as burning fossil fuels, industrial processes, and agriculture, and affecting air quality and human health."
+    },
+    {
+      "name": "Greenhouse effect",
+      "definition": "The trapping of heat in the Earth's atmosphere by certain gases, such as carbon dioxide and methane, leading to global warming and climate change."
+    }
+  ]
+}

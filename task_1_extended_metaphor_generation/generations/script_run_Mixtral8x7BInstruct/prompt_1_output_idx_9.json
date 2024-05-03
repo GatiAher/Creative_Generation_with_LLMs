@@ -1,0 +1,44 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Algorithm",
+      "definition": "a well-defined procedure that takes input and produces output"
+    },
+    {
+      "name": "Data Structures",
+      "definition": "a way of organizing and storing data for efficient access and modification"
+    },
+    {
+      "name": "Variables and Types",
+      "definition": "a named location used to store data in memory, and a classification of data based on its properties"
+    },
+    {
+      "name": "Control Structures",
+      "definition": "a way of controlling the flow of a program through the use of conditionals and loops"
+    },
+    {
+      "name": "Functions",
+      "definition": "a named sequence of instructions that can be called and executed multiple times within a program"
+    },
+    {
+      "name": "Error Handling",
+      "definition": "the ability of a program to detect, diagnose, and handle unexpected conditions or inputs"
+    },
+    {
+      "name": "Software Engineering",
+      "definition": "the application of engineering principles to the development and maintenance of software systems"
+    },
+    {
+      "name": "Databases",
+      "definition": "a collection of organized data that can be queried and manipulated by a computer program"
+    },
+    {
+      "name": "Operating Systems",
+      "definition": "the software that manages and controls the computer hardware and provides services to other software"
+    },
+    {
+      "name": "Computer Networks",
+      "definition": "a collection of interconnected computers that can communicate and share resources with each other"
+    }
+  ]
+}

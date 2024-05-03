@@ -1,0 +1,28 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Superstrings",
+      "definition": "One-dimensional strings that are the fundamental objects in string theory."
+    },
+    {
+      "name": "D-branes",
+      "definition": "Higher-dimensional objects that endow string theory with supersymmetry and provide a framework for understanding the behavior of strings at low energies."
+    },
+    {
+      "name": "Calabi-Yau manifolds",
+      "definition": "Complex geometric structures that play a central role in compactifying spacetime dimensions in string theory."
+    },
+    {
+      "name": "Gravitons",
+      "definition": "Hypothetical particles thought to mediate the force of gravity, which are predicted by some versions of string theory."
+    },
+    {
+      "name": "Branes",
+      "definition": "Higher-dimensional generalizations of D-branes that can interact with each other and give rise to new phenomena such as brane cosmology."
+    },
+    {
+      "name": "String dualities",
+      "definition": "Equivalences between different string theories that reveal hidden symmetries and provide insights into the structure of the universe."
+    }
+  ]
+}

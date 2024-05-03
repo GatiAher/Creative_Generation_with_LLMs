@@ -1,0 +1,44 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Reactants",
+      "definition": "Substances that undergo a chemical reaction and are changed into new substances."
+    },
+    {
+      "name": "Products",
+      "definition": "Substances that are formed as a result of a chemical reaction."
+    },
+    {
+      "name": "Reaction Equation",
+      "definition": "A shorthand way of representing a chemical reaction by using chemical formulas."
+    },
+    {
+      "name": "Balancing Chemical Equations",
+      "definition": "The process of ensuring that the number of atoms of each element is the same on both sides of the equation."
+    },
+    {
+      "name": "Law of Conservation of Mass",
+      "definition": "The total mass of the reactants equals the total mass of the products."
+    },
+    {
+      "name": "Catalyst",
+      "definition": "A substance that increases the rate of a reaction without being consumed in the process."
+    },
+    {
+      "name": "Reverse Reactions",
+      "definition": "Chemical reactions that can proceed in both the forward and backward directions."
+    },
+    {
+      "name": "Exothermic and Endothermic Reactions",
+      "definition": "Chemical reactions that release or absorb heat, respectively."
+    },
+    {
+      "name": "Activation Energy",
+      "definition": "The minimum energy required for a reaction to occur."
+    },
+    {
+      "name": "Collision Theory",
+      "definition": "A model that explains how reactant molecules must collide with sufficient energy for a reaction to occur."
+    }
+  ]
+}

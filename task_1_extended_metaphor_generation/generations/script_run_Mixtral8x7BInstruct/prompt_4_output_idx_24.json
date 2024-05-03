@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Conversion and storage of solar energy in a usable form",
+      "mechanism": "The use of a primary energy source, such as plants, to convert and store solar energy in a usable form, such as chemical energy, which can then be consumed and utilized by other organisms."
+    },
+    {
+      "description": "Optimization of energy conversion and storage",
+      "mechanism": "The application of mathematical calculations and geometric arrangements, such as the conversion of light energy into chemical energy, to optimize the efficiency of energy conversion and storage."
+    },
+    {
+      "description": "Complex structure for light absorption",
+      "mechanism": "The design of complex structures, such as those found in plant cells, that contain pigments and enable the absorption of light energy from the sun."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+In GraphQL and baseball's game,
+Principles unify in their aim.
+Single Responsibility, like a function's call,
+Retrieves data efficiently for all.
+
+Modularity, a geometry to mold,
+Customizes components, flexible and bold.
+Separation of Concerns, in structured array,
+Processes inputs with efficiency each day.
+
+In API and Inning, principles align,
+Efficiency and flexibility intertwine.
+From data retrieval to inning play,
+The shared characteristics pave the way.

@@ -1,0 +1,24 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Modularity",
+      "mechanism": "The Genome serves as a modular blueprint, encoding information for different aspects of the organism's growth, development, and function separately."
+    },
+    {
+      "description": "Standardization",
+      "mechanism": "The specific pairing of nucleotide bases (A-T and C-G) ensures consistent and reliable encoding and decoding of genetic information."
+    },
+    {
+      "description": "Redundancy",
+      "mechanism": "The use of base pairs as units of information provides redundancy in the storage of genetic information, improving reliability and robustness."
+    },
+    {
+      "description": "Abstraction",
+      "mechanism": "The Genome encodes information at different levels of abstraction, from the sequence of base pairs to the instructions for building proteins and regulating cellular processes."
+    },
+    {
+      "description": "Hierarchy",
+      "mechanism": "The structure of the Genome is organized hierarchically, with the double helix of DNA molecules forming the foundation for the encoding and storage of genetic information."
+    }
+  ]
+}

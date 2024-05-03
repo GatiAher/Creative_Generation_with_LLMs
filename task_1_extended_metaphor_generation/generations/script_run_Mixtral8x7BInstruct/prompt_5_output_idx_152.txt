@@ -1,0 +1,8 @@
+"Standardized training system"
+
+* Redundancy: Kpop trainees often learn the same skills and choreographies repeatedly to ensure accurate transmission and mastery.
+* Modular Design: Trainees are taught individual skills and components of performances, which can be easily replaced or modified as needed.
+* Standardization: There is a standardized system for training and evaluating Kpop idols, ensuring compatibility and accurate transmission of performance and music production knowledge.
+* Segregation: Trainees are often separated into different groups based on skill level, reducing the chance of errors and allowing for more focused training.
+* Automation: The training system is facilitated by coaches and trainers, reducing the chance of human error and ensuring a consistent level of quality.
+* Fault Tolerance: The standardized training system ensures that new Kpop idols have at least a basic level of skill and knowledge, reducing the chance of errors and increasing the overall reliability of the system.

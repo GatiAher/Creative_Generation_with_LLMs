@@ -1,0 +1,37 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Parallel Computing in distributed computing and Subunit formations in Kpop have Divide and Conquer",
+      "parallel_computing": {
+        "purpose": "Breaking down a complex problem into smaller, more manageable parts that can be solved independently or simultaneously.",
+        "mechanism": "Divide the task into smaller sub-tasks that can be processed in parallel by multiple units, optimizing efficiency and speed."
+      },
+      "subunit_formations": {
+        "purpose": "Dividing a larger music group into smaller subunits that focus on specific concepts, styles, or genres within the group's overall identity.",
+        "mechanism": "Creating specialized subunits within the group allows each unit to maximize its strengths and talents, enhancing creativity and audience engagement."
+      }
+    },
+    {
+      "metaphor": "both Parallel Computing in distributed computing and Subunit formations in Kpop have Parallel Processing",
+      "parallel_computing": {
+        "purpose": "Harnessing the combined power of multiple processors to work on different parts of a problem concurrently, leading to faster computation.",
+        "mechanism": "Allocating tasks to various processors that work simultaneously on different aspects of the problem, leading to improved performance and reduced processing time."
+      },
+      "subunit_formations": {
+        "purpose": "Utilizing the diverse talents and skills of individual members within subunits to create distinct performances within the larger group.",
+        "mechanism": "Allowing subunits to operate concurrently on their unique music or performance styles within the group, offering variety and depth to the overall group's output."
+      }
+    },
+    {
+      "metaphor": "both Parallel Computing in distributed computing and Subunit formations in Kpop have Collaborative Engineering",
+      "parallel_computing": {
+        "purpose": "Encouraging specialists in different areas to work together, each handling a specific portion of the project to expedite the design and development process.",
+        "mechanism": "Teams of experts collaborate on distinct components of a project, combining their expertise to achieve complex objectives efficiently."
+      },
+      "subunit_formations": {
+        "purpose": "Bringing together members with diverse skills and strengths to enhance the group's overall performance and creativity.",
+        "mechanism": "Encouraging collaboration among subunit members who contribute their unique abilities to create innovative music or performances, enriching the group's artistic output."
+      }
+    }
+  ]
+}

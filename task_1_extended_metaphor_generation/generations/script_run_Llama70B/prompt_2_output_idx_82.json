@@ -1,0 +1,4 @@
+{
+  "purpose": "API Versioning allows for the gradual evolution of APIs, ensuring that changes do not break existing functionality and giving clients time to adapt to new versions. It's like having a roadmap for a city's infrastructure development, where old roads are still accessible while new ones are built to accommodate growth and progress.",
+  "mechanism": "API Versioning works by assigning unique version numbers or IDs to each API iteration. These versions are documented and made available to clients, who can then choose which version they want to use. When a new version is released, it is initially optional, allowing clients to test and migrate at their own pace. Once the old version is deprecated, clients must update to the new version to continue accessing the API. It's like having a building code that changes over time, but grandfathered buildings can still exist while new ones are built with the latest safety standards."
+}

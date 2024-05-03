@@ -1,0 +1,29 @@
+ Gravitational Lensing enables us to observe distant objects in the universe by exploiting the {gravitational force} of a massive object like a galaxy or black hole, which creates a kind of lens that magnifies and distorts light from far away, allowing us to study things that would otherwise be too small or faint to see. The {gravitational force} of the massive object warps space and time around it, creating a region where light travels more slowly than usual. When light from a distant source enters this region, it gets bent towards the center of the massive object due to the {curvature of space-time}, effectively acting as a lens. This bending effect can create multiple images of the same source, arcs, rings, or even magnify the appearance of distant galaxies, providing valuable information about their mass, distance, and composition.
+
+Surrounded in double curly braces are words related to astronomy:
+
+* Gravitational Lensing
+* Universe
+* Galaxy
+* Black hole
+* Light
+* Space-time
+* Curvature
+
+Surrounded in square braces are words related to geometry, math, engineering, and design:
+
+* Distant objects
+* Massive object
+* Warps
+* Region
+* Light travels
+* Bent
+* Center
+* Acting
+* Lens
+* Multiple images
+* Arcs
+* Rings
+* Magnify
+* Appearance
+* Composition

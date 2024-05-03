@@ -1,0 +1,9 @@
+ Here's the annotated text with the requested surroundings:
+
+{Programming Languages} {provide} {a set of instructions} {that a computer can execute} {to perform a specific task or solve a problem}. They act as a blueprint for the computer, allowing it to understand and carry out the desired actions. This allows humans to communicate their ideas and solutions to the computer in a way that it can understand and execute, enabling the creation of complex software systems, apps, and algorithms.
+
+{Programming Languages} {are composed of} {a series of symbols}, {keywords}, and syntax rules that form a formal language. The language is designed to be unambiguous, meaning that the instructions must be clear and easy to understand for both humans and computers.
+
+{The structure of a programming language} includes {variables}, {data types}, {control structures}, {functions}, and {objects}, which allow programmers to create complex programs with modularity, reusability, and maintainability. Additionally, programming languages have {libraries} and {frameworks} that provide pre-written code to simplify common tasks and improve productivity.
+
+{Geometry}, {math}, {engineering}, and {design} are not explicitly mentioned in the given text, so there are no annotations for those topics.

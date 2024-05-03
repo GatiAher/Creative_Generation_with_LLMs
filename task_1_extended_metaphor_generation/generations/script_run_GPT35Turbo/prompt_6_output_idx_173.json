@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Software Development in computer program and Pitcher Rotation in baseball have Modularity",
+      "software_development": "Modularity in Software Development involves breaking down the overall design into smaller, manageable pieces (modules) that can be systematically crafted, tested, and refined. This approach enables developers to focus on specific functionalities without the complexity of the entire system at once.",
+      "pitcher_rotation": "Similarly, Pitcher Rotation in baseball showcases modularity by dividing the pitching responsibilities among different pitchers in a rotational manner. Each pitcher focuses on their specific role in the pitching strategy, contributing towards the overall success of the team."
+    },
+    {
+      "metaphor": "both Software Development in computer program and Pitcher Rotation in baseball have Hierarchy",
+      "software_development": "Hierarchy in Software Development entails arranging and interconnecting modules within a well-defined framework (architecture) to ensure the final product functions as intended. This structured approach helps in maintaining clarity and organization throughout the development process.",
+      "pitcher_rotation": "Likewise, Pitcher Rotation in baseball exemplifies hierarchy by strategically arranging and orchestrating the sequence of pitchers based on their strengths, roles, and pitch types. The hierarchy ensures that each pitcher contributes to the overall pitching strategy in a coordinated and effective manner."
+    }
+  ]
+}

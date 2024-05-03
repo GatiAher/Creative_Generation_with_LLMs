@@ -1,0 +1,24 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Black Hole",
+      "definition": "A region of space where gravity is so strong that nothing, not even light, can escape from it."
+    },
+    {
+      "name": "Gravitational Singularity",
+      "definition": "A point in space where gravity is infinite and the laws of physics as we know them cease to be useful."
+    },
+    {
+      "name": "Cosmic Censorship Hypothesis",
+      "definition": "A conjecture in theoretical physics which suggests that naked singularities cannot exist in our universe."
+    },
+    {
+      "name": "Event Horizon",
+      "definition": "The boundary around a black hole beyond which nothing can escape."
+    },
+    {
+      "name": "Spaghettification",
+      "definition": "A hypothetical process by which an object would be stretched and spaghetti-like when falling into a black hole."
+    }
+  ]
+}

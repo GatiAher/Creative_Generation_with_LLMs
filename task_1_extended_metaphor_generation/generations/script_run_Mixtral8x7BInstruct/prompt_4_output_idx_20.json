@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Demarcation Point",
+      "mechanism": "Defining a limit beyond which matter and energy cannot return to the external universe, ensuring isolation and preservation of a system."
+    },
+    {
+      "description": "Extreme Gravitational Forces",
+      "mechanism": "Utilizing the distortion of spacetime caused by extreme gravitational forces to create a spherical surface that acts as a one-way membrane."
+    },
+    {
+      "description": "One-Way Membrane",
+      "mechanism": "Creating a surface that only allows matter and energy to pass through in one direction, preventing anything from escaping the system's grasp."
+    },
+    {
+      "description": "Field Equations",
+      "mechanism": "Representing the underlying mathematics of the system's behavior, controlling the interaction between matter and energy."
+    }
+  ]
+}

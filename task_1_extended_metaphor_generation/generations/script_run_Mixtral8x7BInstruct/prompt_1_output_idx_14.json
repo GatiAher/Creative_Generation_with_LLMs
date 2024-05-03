@@ -1,0 +1,28 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Arctic Oscillation",
+      "definition": "A large scale climate pattern in the Northern Hemisphere that affects the strength and location of the polar vortex."
+    },
+    {
+      "name": "Stratosphere",
+      "definition": "The second major layer of Earth's atmosphere, located above the troposphere and below the mesosphere, where the polar vortex forms."
+    },
+    {
+      "name": "Jet Stream",
+      "definition": "A fast-moving, narrow air current found in the atmosphere around 30 km above the Earth's surface, often associated with the polar vortex."
+    },
+    {
+      "name": "Temperature Inversion",
+      "definition": "A meteorological phenomenon that occurs when the temperature in the atmosphere increases with altitude, which can lead to a stronger polar vortex."
+    },
+    {
+      "name": "Polar Stratospheric Clouds",
+      "definition": "Clouds that form in the cold temperatures of the polar vortex, playing a role in the chemical reactions that lead to the depletion of the ozone layer."
+    },
+    {
+      "name": "Sudden Stratospheric Warming",
+      "definition": "A rapid warming of the stratosphere that can cause the polar vortex to weaken or even break down, leading to extreme weather events."
+    }
+  ]
+}

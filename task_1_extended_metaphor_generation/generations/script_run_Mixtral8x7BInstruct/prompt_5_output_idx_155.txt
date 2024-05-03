@@ -1,0 +1,10 @@
+"Digital ledger technology with smart contracts"
+
+Explanation:
+
+* Redundancy: Digital ledger technology (DLT), such as blockchain, stores multiple copies of the same data across a network of nodes, providing a backup copy.
+* Modular Design: DLT allows for easy replacement and repair of damaged or mutated parts, as each node contains a copy of the ledger that can be used to update the network.
+* Standardization: DLT uses a standardized format for storing and transmitting data, ensuring compatibility and accurate transmission of financial information.
+* Segregation: DLT separates financial transactions into individual blocks, reducing the chance of errors and ensuring that each transaction is processed accurately.
+* Automation: Smart contracts, which are self-executing contracts with the terms of the agreement directly written into code, automate the execution of financial transactions, reducing the chance of human error.
+* Fault Tolerance: DLT uses a semi-conservative replication mechanism, where each new block contains at least one correct copy of the previous block, reducing the chance of errors and increasing the overall reliability of the system.

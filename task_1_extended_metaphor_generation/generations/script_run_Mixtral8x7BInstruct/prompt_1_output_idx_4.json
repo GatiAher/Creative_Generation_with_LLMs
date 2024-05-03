@@ -1,0 +1,41 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Nucleotide",
+      "definition": "The basic unit of DNA, consisting of a sugar molecule, a phosphate group, and a nitrogenous base."
+    },
+    {
+      "name": "Double Helix",
+      "definition": "The structural shape of DNA, formed by two strands of nucleotides coiled together and held together by hydrogen bonds between the bases."
+    },
+    {
+      "name": "Deoxyribose",
+      "definition": "The sugar molecule that makes up the backbone of a DNA molecule."
+    },
+    {
+      "name": "Nitrogenous Bases",
+      "definition": "Sections of DNA that contain the instructions for the development and function of an organism.",
+      "},{": "Genes"
+    },
+    {
+      "name": "Chromosomes",
+      "definition": "Thread-like structures made up of DNA and protein that contain genetic information."
+    },
+    {
+      "name": "Genome",
+      "definition": "The complete set of genetic information contained in the DNA of an organism."
+    },
+    {
+      "name": "Replication",
+      "definition": "The process by which DNA makes a copy of itself before cell division."
+    },
+    {
+      "name": "Transcription",
+      "definition": "The process by which the information in a DNA molecule is used to produce an RNA molecule."
+    },
+    {
+      "name": "Translation",
+      "definition": "The process by which the genetic code in an RNA molecule is used to produce a protein."
+    }
+  ]
+}

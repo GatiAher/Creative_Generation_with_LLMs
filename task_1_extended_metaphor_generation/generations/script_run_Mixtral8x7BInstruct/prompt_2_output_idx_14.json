@@ -1,0 +1,4 @@
+{
+  "purpose": "Hubble's Law serves as a tool for measuring vast distances in the universe and supports the Big Bang Theory by providing evidence for an expanding universe.",
+  "mechanism": "The mechanism of Hubble's Law can be understood in terms of geometry and engineering. It states that the speed (v) at which a galaxy is moving away from us is directly proportional to its distance (d) from us, represented as v = H0 * d. Here, H0 is Hubble's constant, a measure of the rate of expansion of the universe. This linear relationship allows us to estimate the distance of a galaxy by measuring its redshift (a shift towards longer, redder wavelengths in light emitted by a galaxy, indicating it is moving away from us). The larger the redshift, the greater the distance and speed at which the galaxy is moving away. This relationship provides evidence for the Big Bang Theory, suggesting that the universe began as a singularity and has been expanding ever since."
+}

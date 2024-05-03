@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Differentiation based on atomic properties",
+      "mechanism": "Leveraging the varying atomic properties of elements to separate them, enabling analysis of fractions for deeper understanding"
+    },
+    {
+      "description": "Utilizing behavior discrepancies for analysis",
+      "mechanism": "Recognizing and utilizing the different behaviors exhibited by elements during natural processes to study underlying mechanisms"
+    }
+  ]
+}

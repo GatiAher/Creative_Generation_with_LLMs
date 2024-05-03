@@ -1,0 +1,4 @@
+{
+  "purpose": "The impulse is a concept that allows for the description and calculation of how forces affect the motion of objects over time, enabling the prediction and analysis of movement in engineering and design systems.",
+  "mechanism": "Impulse is defined as the integral of force with respect to time, representing the total effect of a force applied over a specific duration. This mathematical representation captures the cumulative impact of forces on an object's momentum, accounting for both the magnitude and the duration of the force. By analyzing the impulse, engineers and designers can understand and manipulate the motion of objects in their systems, facilitating the optimization of performance, safety, and efficiency."
+}

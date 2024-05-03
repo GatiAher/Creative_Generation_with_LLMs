@@ -1,0 +1,9 @@
+In software and superheroes, design is key,
+With modularity like pieces of a puzzle, we see.
+Breaking down tasks into manageable bits,
+Enhances flexibility and avoids code that quits.
+
+Hierarchy, too, is a fundamental guide,
+Organizing modules with structure and pride.
+From powering suits to running programs smooth,
+Efficiency and coherence are the goals we choose.

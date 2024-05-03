@@ -1,0 +1,7 @@
+A baseball glove.
+
+The description and mechanism of a baseball glove that satisfies the spec are as follows:
+
+* Absorption and Sacrifice: The outer layer of a baseball glove, typically made of leather or synthetic materials, acts as a sacrificial barrier that absorbs the impact of a baseball when catching. This absorption protects the inner components, such as the hand of the player, from external threats such as the force of the ball.
+* Spherical Formation: While not perfectly spherical, the design of a baseball glove is curved and forms a cavity that provides a large protective zone. This cavity can dissipate and deflect the force of the baseball before it reaches the inner region of the glove where the hand resides.
+* Gravitational Force: When catching a baseball, the player uses the collective gravitational forces of their hand and the glove to attract and capture the incoming baseball. This force enhances the protective function of the glove by securing the ball in the glove and preventing it from causing harm to the player's hand.

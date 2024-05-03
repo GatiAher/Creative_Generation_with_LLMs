@@ -1,0 +1,24 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Deoxyribose in DNA and Consistent Group Dynamics in Kpop have a Stable and durable framework that enables them to maintain their structure and integrity.",
+"deoxyribose": "Deoxyribose sugar provides a stable and durable framework for DNA, allowing it to maintain its structure and integrity within the cell.",
+"consistent\_group\_dynamics": "Consistent group dynamics in Kpop, such as clear roles, established communication, and shared values, create a stable and durable framework that enables the group to maintain its structure and integrity over time, even in the face of challenges and changes."
+},
+{
+"metaphor": "both Deoxyribose in DNA and Consistent Group Dynamics in Kpop enable Efficient information storage and transmission.",
+"deoxyribose": "The geometry and design of deoxyribose and the double helix structure of DNA enable efficient and accurate storage and transmission of genetic information.",
+"consistent\_group\_dynamics": "Consistent group dynamics in Kpop, such as clear communication, established roles, and mutual respect, enable efficient and accurate storage and transmission of knowledge, skills, and values within the group, ensuring continuity and coherence over time."
+},
+{
+"metaphor": "both Deoxyribose in DNA and Consistent Group Dynamics in Kpop have a Compact structure that allows for efficient packing and organization.",
+"deoxyribose": "The absence of one oxygen atom in deoxyribose results in a more stable and compact structure, allowing DNA to pack tightly into the cell.",
+"consistent\_group\_dynamics": "Consistent group dynamics in Kpop, such as clear roles, efficient workflow, and positive group culture, create a compact structure that allows for efficient packing and organization of members' skills, strengths, and contributions, leading to optimal performance and productivity."
+},
+{
+"metaphor": "both Deoxyribose in DNA and Consistent Group Dynamics in Kpop have a Double helix structure that enables complex and dynamic interactions.",
+"deoxyribose": "Phosphate groups link deoxyribose sugar molecules together, forming a double helix structure with bases in the center, enabling DNA to store genetic information in the form of base pair sequences.",
+"consistent\_group\_dynamics": "Consistent group dynamics in Kpop, such as mutual support, trust, and collaboration, create a double helix structure that enables complex and dynamic interactions among members, leading to creative and innovative outcomes."
+}
+]
+}

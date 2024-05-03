@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Storage and Release Principle",
+      "mechanism": "Enabling the storage of potential energy within atomic bonds and subsequent release during chemical reactions"
+    },
+    {
+      "description": "Structural Design Principle",
+      "mechanism": "Designing the specific arrangements of atoms and molecules in a compound to store potential energy in bonds"
+    },
+    {
+      "description": "Transformation Principle",
+      "mechanism": "Facilitating the transformation of energy forms for various uses through chemical reactions"
+    }
+  ]
+}

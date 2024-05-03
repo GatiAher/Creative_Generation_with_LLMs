@@ -1,0 +1,36 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Atomic Structure",
+      "definition": "The study of the arrangement of atoms within a molecule."
+    },
+    {
+      "name": "Molecular Bonding",
+      "definition": "The formation of chemical bonds between atoms to form a molecule."
+    },
+    {
+      "name": "Molecular Shapes",
+      "definition": "The study of the three-dimensional structure of molecules and how they are influenced by the bonding and electron density."
+    },
+    {
+      "name": "Intermolecular Forces",
+      "definition": "The attractive or repulsive forces that exist between molecules."
+    },
+    {
+      "name": "Solubility",
+      "definition": "The ability of a substance to dissolve in another substance."
+    },
+    {
+      "name": "Acids and Bases",
+      "definition": "Substances that donate or accept electrons to form salts."
+    },
+    {
+      "name": "Chemical Reactions",
+      "definition": "The transformation of one or more substances into another substance."
+    },
+    {
+      "name": "Stoichiometry",
+      "definition": "The study of the quantitative relationships between reactants and products in chemical reactions."
+    }
+  ]
+}

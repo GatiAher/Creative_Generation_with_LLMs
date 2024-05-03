@@ -1,0 +1,24 @@
+{
+"extended\_metaphor": \[
+{
+"metaphor": "both Redshift in big bang theory and Advanced Cosmic Telescopic System in Iron Man utilize observation and measurement as a tool to {describe the purpose of the design principle} (string)",
+"redshift": "Redshift in big bang theory uses observation and measurement to understand and quantify the universe's expansion and estimate the time elapsed since the Big Bang.",
+"advanced\_cosmic\_telescopic\_system": "Advanced Cosmic Telescopic System in Iron Man also uses observation and measurement to analyze and gather data about the universe, providing valuable insights to Tony Stark."
+},
+{
+"metaphor": "both Redshift in big bang theory and Advanced Cosmic Telescopic System in Iron Man utilize the redshift effect to {describe the purpose of the design principle} (string)",
+"redshift": "Redshift in big bang theory uses the principle of redshift effect, where the wavelength of light appears to stretch as it moves away from an observer in an expanding universe, shifting it towards longer, redder wavelengths. This helps in estimating the distance and speed of distant galaxies.",
+"advanced\_cosmic\_telescopic\_system": "Advanced Cosmic Telescopic System in Iron Man uses the redshift effect to analyze the wavelength of light from distant galaxies and determine their distance and speed. This helps Tony Stark to understand the history and evolution of the universe."
+},
+{
+"metaphor": "both Redshift in big bang theory and Advanced Cosmic Telescopic System in Iron Man determine distance and speed of distant galaxies based on the redshift effect to {describe the purpose of the design principle} (string)",
+"redshift": "Redshift in big bang theory uses the redshift effect to determine the distance and speed of distant galaxies, providing valuable insights into the history and evolution of the universe.",
+"advanced\_cosmic\_telescopic\_system": "Advanced Cosmic Telescopic System in Iron Man mirrors this mechanism by determining the distance and speed of distant galaxies based on the redshift effect. This helps Tony Stark to analyze and understand the data gathered by the system."
+},
+{
+"metaphor": "both Redshift in big bang theory and Advanced Cosmic Telescopic System in Iron Man use geometric and physical concepts to {describe the purpose of the design principle} (string)",
+"redshift": "Redshift in big bang theory uses concepts from geometry and physics, such as the Doppler effect, to explain the redshift effect and the universe's expansion.",
+"advanced\_cosmic\_telescopic\_system": "Advanced Cosmic Telescopic System in Iron Man also uses geometric and physical concepts to analyze and understand the data gathered from the universe. This helps Tony Stark to make accurate calculations and predictions about the universe."
+}
+\]
+}

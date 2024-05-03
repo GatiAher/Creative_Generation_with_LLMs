@@ -1,0 +1,27 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Hubble's Law in big bang theory and Monetary Inflation Index in money have Proportionality (in their mechanisms) which allows for the estimation of unknown values through the measurement of known ones.",
+"hubble's\_law": "Hubble's Law states that the speed at which a celestial object is moving away from us is directly proportional to its distance from us. This principle allows us to estimate the distance of a celestial object by measuring its redshift.",
+"monetary\_inflation\_index": "The Monetary Inflation Index reflects the relationship between the increase in the money supply and the rise in prices. It is used to estimate the future rate of inflation by measuring the current rate of monetary expansion."
+}
+,
+{
+"metaphor": "both Hubble's Law in big bang theory and Monetary Inflation Index in money use Predictive Modeling to understand and predict the behavior of their respective systems.",
+"hubble's\_law": "Hubble's Law uses a linear relationship to model the expansion of the universe, providing a framework for understanding and predicting the behavior of celestial objects.",
+"monetary\_inflation\_index": "The Monetary Inflation Index uses the historical relationship between the growth of the money supply and inflation to predict future inflation rates. This predictive model helps economists and policymakers make informed decisions about monetary policy."
+}
+,
+{
+"metaphor": "both Hubble's Law in big bang theory and Monetary Inflation Index in money rely on Observation and Measurement to gather data and make inferences.",
+"hubble's\_law": "The measurement of redshift in light emitted by a celestial object serves as an indicator of its movement and distance. Astronomers use this measurement to estimate the distance and speed of the object.",
+"monetary\_inflation\_index": "The Monetary Inflation Index relies on the observation and measurement of the money supply and price levels to calculate the index. This data is used to understand the relationship between the two and make predictions about future inflation rates."
+}
+,
+{
+"metaphor": "both Hubble's Law in big bang theory and Monetary Inflation Index in money are integral parts of Scientific Inquiry, providing evidence to support or refute theories.",
+"hubble's\_law": "Hubble's Law provides evidence for the theory of the expanding universe, giving scientists a tool to understand the origins and evolution of the universe.",
+"monetary\_inflation\_index": "The Monetary Inflation Index serves as a tool for economists to test theories about the relationship between the money supply and inflation. It provides evidence to support or refute these theories, contributing to the broader understanding of the economy."
+}
+]
+}

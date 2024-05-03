@@ -1,0 +1,4 @@
+{
+  "purpose": "The Client-Server Architecture provides a way for different parts of a system to communicate and share resources, much like how different organs in the human body work together to maintain overall health.",
+  "mechanism": "The Client-Server Architecture is structured like a city's transportation system, with clients acting as buses that request and receive services or resources from servers, which are like bus stations that provide and manage those resources. This allows for efficient and organized communication and resource sharing between different parts of the system, just like how a well-designed transportation system helps people move around a city efficiently."
+}

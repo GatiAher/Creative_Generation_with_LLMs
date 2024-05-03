@@ -1,0 +1,20 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Genes",
+      "definition": "Segments of DNA that contain the instructions for building proteins."
+    },
+    {
+      "name": "Nucleotides",
+      "definition": "The building blocks of DNA, consisting of a sugar, a phosphate group, and a nitrogenous base."
+    },
+    {
+      "name": "Chromosomes",
+      "definition": "Structures composed of DNA wrapped around proteins found in the nucleus of eukaryotic cells."
+    },
+    {
+      "name": "Double Helix",
+      "definition": "The twisted-ladder structure of DNA, consisting of two strands of nucleotides held together by hydrogen bonds."
+    }
+  ]
+}

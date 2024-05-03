@@ -1,0 +1,24 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "a control system that constantly monitors and adjusts the environment",
+			"adrenal\_glands": "The Adrenal Glands act as a control system, constantly monitoring the body's internal and external environment and releasing hormones as needed to maintain balance.",
+			"monetary\_policy": "Monetary policy is also a control system that constantly monitors and adjusts the economy, by controlling the money supply, interest rates, and credit availability to maintain economic stability and growth."
+		},
+		{
+			"metaphor": "a dual structure with sensors and actuators",
+			"adrenal\_glands": "The Adrenal Glands have a dual structure, with the cortex and medulla acting as sensors and actuators, allowing for the glands to respond to a wide range of stimuli and maintain homeostasis through the release of specific hormones.",
+			"monetary\_policy": "Monetary policy also has a dual structure, with the central bank acting as the sensor, gathering information on economic indicators and adjusting monetary instruments, and the commercial banks acting as the actuators, implementing the monetary policy decisions in the economy."
+		},
+		{
+			"metaphor": "control signals that travel through the body",
+			"adrenal\_glands": "The hormones produced by the Adrenal Glands can be thought of as control signals, which travel through the body and affect the function of various organs and systems.",
+			"monetary\_policy": "Interest rates, the main instrument of monetary policy, can be thought of as control signals, which travel through the economy and affect the borrowing costs, investment decisions, and savings behavior of households and businesses."
+		},
+		{
+			"metaphor": "an engineering control system",
+			"adrenal\_glands": "The structure and function of the Adrenal Glands can be compared to that of an engineering control system, with the input being the body's internal and external environment, and the output being the hormones that are released to maintain homeostasis.",
+			"monetary\_policy": "Monetary policy can also be compared to an engineering control system, with the input being the economic indicators, and the output being the monetary instruments that are adjusted to maintain economic stability and growth."
+		}
+	]
+}

@@ -1,0 +1,9 @@
+Like a precise blueprint guiding construction,
+SOAP API and J.A.R.V.I.S. serve their function.
+Defining structure and providing critical aid,
+With standardized formats, their purpose is laid.
+
+Utilizing WSDL and XML for their task,
+Ensuring consistency and seamless communication, a hard ask.
+From API functionalities to Tony's commands,
+Both serve as pillars in their respective lands.

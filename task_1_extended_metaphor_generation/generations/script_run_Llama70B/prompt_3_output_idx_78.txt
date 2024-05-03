@@ -1,0 +1,22 @@
+ {{{"Human-Computer Interaction"}}} aim{s} to bridge the gap between huma{ns} and machine{s} by creatin{g} user interface{s} that ar{e} intuitive, user-friendly, and accessibl{e} to a wide range of user{s}. By understandin{g} how peopl{e} interact with technolog{y}, HCI seek{s} to desig{n} system{s} that ar{e} efficien{t}, effectiv{e}, and enjoya{ble} for peopl{e} to us{e}. HCI is structur{ed} around three main component{s}: input, processin{g}, and output. Input refer{s} to the way{s} in which user{s} can interact with a system, such as throu{gh} keyboard stroke{s} or mouse click{s}. Processin{g} refer{s} to the action{s} taken by the system in response to user input, such as executin{g} command{s} or retriev{ing} data. Output refer{s} to the visual representation{s} or feedback provide{d} to the user, such as text on a screen or sound from speaker{s}. Thes{e} component{s} work together to create a seamless interaction experience for the user.
+
+Double Curly Braces:
+
+* Human-Computer Interaction
+* user interfaces
+* intuition
+* user-friendliness
+* accessibility
+* efficiency
+* effectiveness
+* enjoyability
+* input
+* processing
+* output
+
+Square Braces:
+
+* geometry
+* math
+* engineering
+* design

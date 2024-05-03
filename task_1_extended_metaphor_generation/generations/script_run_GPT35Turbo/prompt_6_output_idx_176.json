@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Programming Languages in computer program and Choreography in Kpop have structured with syntax and rules",
+      "programming_languages": "Programming languages provide a precise way to communicate instructions by defining clear syntax rules and structure for coding. They help programmers convey complex algorithms and actions in a way that the computer can understand.",
+      "choreography": "Similarly, choreography in Kpop follows a structured format with specific moves and formations that must be followed by the dancers. Using choreographic language and rules, choreographers communicate sequences of movements and emotions to the performers, ensuring that the final performance is cohesive and visually engaging."
+    },
+    {
+      "metaphor": "both Programming Languages in computer program and Choreography in Kpop use standardized symbols and conventions",
+      "programming_languages": "Programming languages employ standardized symbols and syntax conventions to convey complex information to developers and compilers. By adhering to these conventions, programmers ensure that their code is readable, maintainable, and understandable by others.",
+      "choreography": "In a similar vein, choreography in Kpop relies on standardized dance steps, gestures, and formations to convey a narrative or emotion in the performance. Choreographers use these symbols and conventions to create visually appealing routines that resonate with the audience and enhance the overall artistic expression of the music."
+    },
+    {
+      "metaphor": "both Programming Languages in computer program and Choreography in Kpop rely on a consistent set of symbols and commands",
+      "programming_languages": "Programming languages rely on a consistent set of symbols and commands to convey logical sequences of actions and operations. By using defined functions, variables, and control structures, programmers can create algorithms that implement specific tasks and processes.",
+      "choreography": "Likewise, choreography in Kpop depends on a consistent set of dance movements and commands to guide the performers through the routine. Choreographers use a repertoire of choreographic elements and transitions to choreograph sequences of movements that flow seamlessly and convey a coherent story or theme in the performance."
+    }
+  ]
+}

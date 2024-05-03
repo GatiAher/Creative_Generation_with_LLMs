@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both GraphQL API in API and J.A.R.V.I.S. in Iron Man have Single Responsibility Principle and mechanism of a versatile mathematical function (XXX XXX XXX)",
+      "graphql_api": "In the GraphQL API, the Single Responsibility Principle is akin to Tony Stark's suite of specialized armors for different purposes, where each armor serves a specific function efficiently. This principle allows users to specify data and requirements in a single request, just like how Tony can choose specific armors for different missions.",
+      "j.a.r.v.i.s.": "Similarly, J.A.R.V.I.S. in Iron Man embodies the Single Responsibility Principle by efficiently managing and executing various tasks such as managing the suit's systems, assisting in tactical decisions, and providing crucial information to Tony Stark. J.A.R.V.I.S. processes these tasks seamlessly, akin to how GraphQL API handles diverse data requirements in a single request."
+    },
+    {
+      "metaphor": "both GraphQL API in API and J.A.R.V.I.S. in Iron Man have Modularity Principle and mechanism of a customizable geometry calculator",
+      "graphql_api": "The Modularity Principle in the GraphQL API is analogous to Tony Stark's modular building blocks that allow him to customize and assemble different components for his suits dynamically. Users can provide specific coordinates, equations, or constraints in the query language, promoting flexibility and separability of components.",
+      "j.a.r.v.i.s.": "J.A.R.V.I.S. mirrors this Modularity Principle by functioning as a highly adaptable assistant that can integrate new technologies, adapt to different scenarios, and interact with various systems seamlessly. Just like how GraphQL API components can be customized for different data requirements, J.A.R.V.I.S. can adapt to assist in diverse situations."
+    },
+    {
+      "metaphor": "both GraphQL API in API and J.A.R.V.I.S. in Iron Man have Separation of Concerns and structured processing of user inputs",
+      "graphql_api": "The Separation of Concerns principle in the GraphQL API ensures that data retrieval and delivery are handled in a structured manner, only providing the requested data. This promotes streamlined communication and retrieval of geometry, math, engineering, and design data efficiently.",
+      "j.a.r.v.i.s.": "Likewise, J.A.R.V.I.S. exemplifies the Separation of Concerns by efficiently managing and handling various tasks without mixing functionalities. It processes user inputs methodically, retrieves pertinent information, and delivers precise responses, aligning with how GraphQL API processes user queries to provide targeted data."
+    }
+  ]
+}

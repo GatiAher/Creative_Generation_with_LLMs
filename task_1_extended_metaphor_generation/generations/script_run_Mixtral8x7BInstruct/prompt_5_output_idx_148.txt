@@ -1,0 +1,11 @@
+"Standardized Choreography"
+
+Modularity: Choreography can be broken down into different modules or sections, each with its own unique movements and patterns.
+
+Standardization: There is a consistent and reliable way of encoding and decoding the dance moves through standardized choreography, ensuring that all performers can execute the moves in unison.
+
+Redundancy: The repetition of certain moves or sequences within the choreography provides redundancy, making it easier for performers to remember and execute the dance.
+
+Abstraction: The choreography encodes information at different levels of abstraction, from individual moves to larger sequences and formations.
+
+Hierarchy: The structure of the choreography is organized hierarchically, with individual moves and steps forming the foundation for larger sequences and formations.

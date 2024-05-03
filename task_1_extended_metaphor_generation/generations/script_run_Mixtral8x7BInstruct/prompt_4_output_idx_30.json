@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Redundancy",
+      "mechanism": "Providing multiple ways for a system to perform vital functions and recover from disturbances."
+    },
+    {
+      "description": "Interconnected network",
+      "mechanism": "Connecting each element to and interacting with many others, allowing for multiple pathways for flow of energy and nutrients."
+    },
+    {
+      "description": "Design matrix",
+      "mechanism": "Creating a structure where each element is connected to and interacts with many others, allowing for robustness and adaptability."
+    },
+    {
+      "description": "Complex system",
+      "mechanism": "Structuring a system with various components fulfilling different roles and functions, leading to a robust and adaptable system."
+    }
+  ]
+}

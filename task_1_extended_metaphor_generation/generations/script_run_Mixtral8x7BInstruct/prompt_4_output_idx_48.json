@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Understanding properties and behaviors of substances",
+      "mechanism": "Analyzing the unique properties and characteristics of reactants, such as molecular geometry and chemical composition, to determine their behavior and interaction with other substances."
+    },
+    {
+      "description": "Representation using mathematical terms",
+      "mechanism": "Using variables and coefficients in a chemical equation to represent reactants and indicate stoichiometric relationships between them."
+    },
+    {
+      "description": "Designing experiments and analyzing data",
+      "mechanism": "Creating experiments to optimize reaction conditions and improve reaction efficiency, and analyzing the resulting data to refine the process."
+    },
+    {
+      "description": "Understanding underlying principles",
+      "mechanism": "Gaining a deep understanding of the geometric and mathematical principles that govern chemical reactions."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "purpose": "The velocity of an object provides a measure of how quickly its position changes over time, which is essential for understanding the object's motion and predicting its future location. In other words, velocity describes the rate at which an object covers distance. This information is crucial for various applications such as navigation, collision detection, and motion planning.",
+  "mechanism": "Velocity is calculated by dividing the change in an object's position by the time taken to cover that distance. Mathematically, it can be represented as velocity = displacement / time. Displacement refers to the shortest distance between two points along a straight line, while time indicates the duration over which the displacement occurs. Engineering and design applications often use velocity to determine the acceleration or deceleration required for an object to move along a particular path, thereby ensuring efficient and safe motion."
+}

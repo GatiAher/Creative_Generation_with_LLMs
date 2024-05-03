@@ -1,0 +1,19 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Planets in solar system and The movement and interaction of baseballs, bats, players, and fields in baseball exhibit a diverse range of environments for potential life support through the creation of various celestial bodies and game elements with different masses, sizes, and compositions, resulting in unique gravitational effects and atmospheric conditions for the former and gameplay experiences for the latter.",
+			"planets": "Planets provide unique environments with varying masses, sizes, and compositions, leading to unique gravitational effects and atmospheric conditions that can potentially support life.",
+			"the\_movement\_and\_interaction\_of\_baseballs,\_bats,\_players,\_and\_fields": "Baseballs, bats, players, and fields have different masses, sizes, and compositions, leading to unique gameplay experiences, strategies, and outcomes, contributing to the overall diversity and complexity of the game."
+		},
+		{
+			"metaphor": "both Planets in solar system and The movement and interaction of baseballs, bats, players, and fields in baseball enable the study of celestial phenomena and game mechanics by following laws of geometry and mathematics, specifically Kepler's laws of planetary motion and the rules of baseball, to understand orbital shapes, sizes, and times and gameplay dynamics, contributing to the understanding of the universe and the game itself.",
+			"planets": "Planets follow laws of geometry and mathematics, specifically Kepler's laws of planetary motion, to enable the study of orbital shapes, sizes, and times, contributing to the understanding of the universe.",
+			"the\_movement\_and\_interaction\_of\_baseballs,\_bats,\_players,\_and\_fields": "Baseballs, bats, players, and fields follow the rules of baseball, which are based on geometry and mathematics, to enable the study of gameplay dynamics, contributing to the understanding of the game and the development of strategies."
+		},
+		{
+			"metaphor": "both Planets in solar system and The movement and interaction of baseballs, bats, players, and fields in baseball exhibit dynamic stability and structure through the design of celestial bodies' movement in their orbits and their interactions with other celestial bodies and the movement and interaction of baseballs, bats, players, and fields, contributing to the overall dynamic stability and structure of the celestial system and the game, making them complex and fascinating systems to study.",
+			"planets": "Planets exhibit dynamic stability and structure through the design of their movement in their orbits and their interactions with other celestial bodies, contributing to the overall dynamic stability and structure of the celestial system.",
+			"the\_movement\_and\_interaction\_of\_baseballs,\_bats,\_players,\_and\_fields": "Baseballs, bats, players, and fields exhibit dynamic stability and structure through the movement and interaction of game elements, contributing to the overall dynamic stability and structure of the game, making it a complex and fascinating system to study and play."
+		}
+	]
+}

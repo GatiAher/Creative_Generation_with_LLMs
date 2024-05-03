@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Grid Computing in distributed computing and J.A.R.V.I.S. (Just A Rather Very Intelligent System) in Iron Man have modularity as a design principle where individual resources act as tiles that come together to form a larger, unified grid",
+      "grid_computing": "In Grid Computing, modularity allows for efficient resource sharing and collaboration among different domains. Individual computing resources act as tiles that combine to create a larger system, enabling seamless integration and utilization of computing power.",
+      "j.a.r.v.i.s._(just_a_rather_very_intelligent_system)": "Similarly, J.A.R.V.I.S. in Iron Man exemplifies modularity by functioning as a unified intelligent system composed of different modules that work together harmoniously. Just as in Grid Computing, where individual resources unite to form a larger grid for enhanced performance, J.A.R.V.I.S. operates as a cohesive system leveraging various modules to provide intelligent assistance and support to Tony Stark."
+    },
+    {
+      "metaphor": "both Grid Computing in distributed computing and J.A.R.V.I.S. (Just A Rather Very Intelligent System) in Iron Man have scalability as a design principle with interconnected resources forming a structured network for effective task distribution",
+      "grid_computing": "Scalability in Grid Computing enables the distribution of computational tasks across interconnected resources, allowing for parallel processing of large-scale problems. The structured network created by these resources ensures efficient task delegation and completion.",
+      "j.a.r.v.i.s._(just_a_rather_very_intelligent_system)": "Likewise, J.A.R.V.I.S. showcases scalability through its ability to handle diverse tasks efficiently by distributing them across its interconnected system of intelligent modules. Just as in Grid Computing where computational tasks are distributed for parallel processing, J.A.R.V.I.S. effectively manages tasks through its scalable infrastructure to support Tony Stark in various endeavors."
+    },
+    {
+      "metaphor": "both Grid Computing in distributed computing and J.A.R.V.I.S. (Just A Rather Very Intelligent System) in Iron Man have parallelism in design for cooperative resource utilization and efficient handling of complex computations",
+      "grid_computing": "Parallelism in Grid Computing enables cooperative resource utilization for handling complex computations that demand significant computational power. The design facilitates parallel processing, allowing multiple tasks to be executed simultaneously for quicker and more efficient problem-solving.",
+      "j.a.r.v.i.s._(just_a_rather_very_intelligent_system)": "In a similar manner, J.A.R.V.I.S. leverages parallelism to effectively tackle demanding tasks by utilizing cooperative resource sharing and parallel processing among its intelligent modules. Like in Grid Computing, where parallel processing enhances computational power and efficiency, J.A.R.V.I.S. efficiently handles complex computations through cooperative resource utilization and parallel execution."
+    }
+  ]
+}

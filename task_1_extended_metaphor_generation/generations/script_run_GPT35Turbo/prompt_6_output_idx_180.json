@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Debugging in computer program and Music production process in Kpop have a systematic approach",
+      "debugging": "Ensures the final design functions correctly by discovering and correcting errors, similar to troubleshooting a complex system or mathematical equation. Involves analyzing, identifying errors, and applying corrections step by step.",
+      "music_production_process": "In the music production process of Kpop, a systematic approach is followed to ensure that all elements of the song, such as vocals, instrumentals, and choreography, blend seamlessly to create the desired outcome. It involves analyzing each component, identifying any discrepancies, and making necessary adjustments step by step to produce a polished and harmonious final product."
+    },
+    {
+      "metaphor": "both Debugging in computer program and Music production process in Kpop rely on logical reasoning",
+      "debugging": "Relies on logical reasoning to isolate and address issues efficiently in the engineering design process. Helps in understanding the system and determining the best course of action for corrections.",
+      "music_production_process": "Similarly, in the music production process of Kpop, logical reasoning is essential to ensure that each element of the song complements the others effectively. By applying logical reasoning, producers and artists can identify any discordant elements and make the necessary adjustments to achieve a cohesive and impactful musical piece."
+    },
+    {
+      "metaphor": "both Debugging in computer program and Music production process in Kpop utilize testing methodologies",
+      "debugging": "Involves using testing methodologies to verify the functionality of the design and ensure that potential failures or inaccuracies are avoided. Testing helps in validating the corrections applied to the system.",
+      "music_production_process": "In the music production process of Kpop, testing methodologies play a vital role in ensuring that the final song meets the desired quality standards. By subjecting different components of the song to rigorous testing, producers can identify any shortcomings and refine the sound, choreography, or visual elements to create a cohesive and well-executed final product."
+    }
+  ]
+}

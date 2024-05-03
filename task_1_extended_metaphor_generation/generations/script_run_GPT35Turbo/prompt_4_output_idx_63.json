@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Contour Lines",
+      "mechanism": "Creating a visual representation of topography's height and depth by spacing contour lines based on specific intervals of elevation difference."
+    },
+    {
+      "description": "Shading Techniques",
+      "mechanism": "Enhancing the depiction of terrain features by simulating light and shadow effects on the surfaces based on their relative elevations."
+    }
+  ]
+}

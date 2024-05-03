@@ -1,0 +1,24 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Biodiversity in ecosystems and Decentralized Financial Systems (DeFi) in money provide {redundancy} (string)",
+			"biodiversity": "In Biodiversity, redundancy is provided through multiple species performing similar functions, allowing the ecosystem to recover from disturbances and continue vital functions.",
+			"decentralized\_financial\_systems\_(defi)": "Similarly, in DeFi, redundancy is provided through multiple decentralized protocols performing similar financial functions, allowing the system to recover from failures and continue operations."
+		},
+		{
+			"metaphor": "both Biodiversity in ecosystems and Decentralized Financial Systems (DeFi) in money have an {interconnected network} (string)",
+			"biodiversity": "In Biodiversity, an interconnected network is formed through each species interacting with many others, allowing for multiple pathways for flow of energy and nutrients.",
+			"decentralized\_financial\_systems\_(defi)": "Similarly, in DeFi, an interconnected network is formed through each protocol interacting with many others, allowing for multiple pathways for flow of financial transactions."
+		},
+		{
+			"metaphor": "both Biodiversity in ecosystems and Decentralized Financial Systems (DeFi) in money have a {design matrix} (string)",
+			"biodiversity": "In Biodiversity, a design matrix is created through each species being connected to and interacting with many others, allowing for robustness and adaptability.",
+			"decentralized\_financial\_systems\_(defi)": "Similarly, in DeFi, a design matrix is created through each protocol being connected to and interacting with many others, allowing for robustness and adaptability."
+		},
+		{
+			"metaphor": "both Biodiversity in ecosystems and Decentralized Financial Systems (DeFi) in money are {complex systems} (string)",
+			"biodiversity": "In Biodiversity, a complex system is structured through various species fulfilling different roles and functions, leading to a robust and adaptable ecosystem.",
+			"decentralized\_financial\_systems\_(defi)": "Similarly, in DeFi, a complex system is structured through various protocols fulfilling different financial roles and functions, leading to a robust and adaptable financial system."
+		}
+	]
+}

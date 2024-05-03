@@ -1,0 +1,3 @@
+"Quantitative Financial Analysis"
+
+This feature involves understanding the properties and behaviors of financial instruments and transactions, represented using mathematical terms and equations, and designed and analyzed through experiments and data analysis to optimize financial performance and efficiency, all while gaining a deep understanding of the underlying financial principles and theories.

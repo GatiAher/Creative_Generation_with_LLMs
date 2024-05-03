@@ -1,0 +1,7 @@
+In the world of APIs, RESTful API is like the Baseball scoreboard, breaking down complex systems into manageable components with modularity. Similarly, the scoreboard in baseball displays individual components like runs, hits, and errors independently contributing to the overall game progress.
+
+On the other hand, SOAP API is akin to the Scoreboard, using a precise blueprint design for integration. Just like how the baseball scoreboard meticulously lays out game information, SOAP API follows a standardized message format for clear communication between systems.
+
+When it comes to GraphQL API, it resembles the Inning scoring system with a focus on the Single Responsibility Principle. Both strive for efficiency by retrieving and delivering specific data in a structured manner, ensuring optimal performance and understanding.
+
+And in the realm of RPC API, it shares common ground with Pitch selection in baseball through principles like Decomposition, Abstraction, and Modularity. Both design systems by breaking down complex tasks, abstracting internal details for communication, and structuring components for cohesive outcomes.

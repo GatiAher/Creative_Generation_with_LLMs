@@ -1,0 +1,19 @@
+ {{{Adrenal cortical steroid hormones}}} play a crucial role in maintaining homeostasis in the body by regulating various physiological processes, ensuring the proper functioning of multiple systems and avoiding deviations from the norm that could lead to disease or disorder. The Adrenal cortical steroid hormones are produced by the adrenal gland and work together as a control system, similar to a thermostat in an HVAC system, to regulate the body's metabolism, electrolyte balance, and inflammatory response. They do this by sending signals to different parts of the body, such as the liver, kidneys, and immune cells, instructing them to increase or decrease certain functions, much like a control panel adjusts temperature settings based on input from sensors.
+
+Surrounded in double curly braces are words related to biology, chemistry, and scientific jargon:
+
+* Adrenal cortical steroid hormones
+* Physiological processes
+* Homeostasis
+* Metabolism
+* Electrolyte balance
+* Inflammatory response
+* Immune cells
+
+Surrounded in square braces are words related to geometry, math, engineering, and design:
+
+* Control system
+* Thermostat
+* HVAC system
+* Control panel
+* Sensors

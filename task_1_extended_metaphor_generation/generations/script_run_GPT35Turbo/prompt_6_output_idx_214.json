@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Cluster Computing in distributed computing and J.A.R.V.I.S. (Just A Rather Very Intelligent System) in Iron Man have Divide and Conquer mechanism",
+      "cluster_computing": "Cluster Computing involves dividing a large-scale task into smaller, manageable sub-tasks to coordinate computational power and enable quicker processing. This allows for efficient utilization of resources and faster completion of complex computations.",
+      "j.a.r.v.i.s._(just_a_rather_very_intelligent_system)": "Similarly, J.A.R.V.I.S. in Iron Man exhibits a Divide and Conquer approach by breaking down complex problems into smaller, more manageable parts. This enables J.A.R.V.I.S. to process information rapidly and provide timely assistance to Tony Stark."
+    },
+    {
+      "metaphor": "both Cluster Computing in distributed computing and J.A.R.V.I.S. (Just A Rather Very Intelligent System) in Iron Man have Parallel Processing mechanism",
+      "cluster_computing": "Cluster Computing utilizes multiple interconnected nodes for collaboration and parallel processing to handle assigned sub-tasks efficiently. This concurrent processing leads to improved performance and overall speed in computation.",
+      "j.a.r.v.i.s._(just_a_rather_very_intelligent_system)": "J.A.R.V.I.S. also employs a Parallel Processing strategy by leveraging its interconnected systems to handle tasks simultaneously. This allows J.A.R.V.I.S. to multitask effectively and respond swiftly to various demands placed on it by Tony Stark."
+    },
+    {
+      "metaphor": "both Cluster Computing in distributed computing and J.A.R.V.I.S. (Just A Rather Very Intelligent System) in Iron Man have Load Balancing mechanism",
+      "cluster_computing": "Load Balancing in Cluster Computing involves distributing workloads across multiple nodes to reduce overall processing time and enhance system capacity for intricate computations. This ensures that resources are utilized optimally and tasks are completed efficiently.",
+      "j.a.r.v.i.s._(just_a_rather_very_intelligent_system)": "Likewise, J.A.R.V.I.S. practices Load Balancing by managing its workload distribution effectively among different components. This dynamic allocation of tasks allows J.A.R.V.I.S. to maintain stability and performance while handling diverse operations for Tony Stark."
+    }
+  ]
+}

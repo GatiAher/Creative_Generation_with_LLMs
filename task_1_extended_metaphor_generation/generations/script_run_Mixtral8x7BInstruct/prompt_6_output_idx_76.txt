@@ -1,0 +1,19 @@
+{
+"extended\_metaphor": \[
+{
+"metaphor": "both Cosmic Censorship Hypothesis in theory of the naked singularity and Idol training system in Kpop establish an 'Abstraction Barrier' that hides complex underlying systems and processes, thereby preventing direct interaction and maintaining predictability and orderliness.",
+"cosmic\_censorship\_hypothesis": "The Cosmic Censorship Hypothesis postulates the existence of an event horizon that hides the singularity within a black hole, preventing direct interaction and maintaining the predictability of the universe.",
+"idol\_training\_system": "The Idol training system in Kpop acts as a barrier by controlling the public's exposure to the trainees, carefully managing their image and limiting direct interaction with the outside world, thereby maintaining predictability and orderliness in the entertainment industry."
+},
+{
+"metaphor": "both Cosmic Censorship Hypothesis in theory of the naked singularity and Idol training system in Kpop leverage fundamental laws to achieve their desired outcome.",
+"cosmic\_censorship\_hypothesis": "The Cosmic Censorship Hypothesis utilizes the laws of physics, specifically general relativity and quantum mechanics, to form the basis of the hypothesis and prevent the formation of naked singularities.",
+"idol\_training\_system": "The Idol training system in Kpop utilizes the fundamental laws of entertainment, such as the need for talent, hard work, and market demand, to achieve the desired outcome of creating successful and popular idols."
+},
+{
+"metaphor": "both Cosmic Censorship Hypothesis in theory of the naked singularity and Idol training system in Kpop create a 'Buffer Zone' that separates the system from the external environment.",
+"cosmic\_censorship\_hypothesis": "The Cosmic Censorship Hypothesis creates a buffer zone in the form of the event horizon, separating the singularity from the external environment and preventing direct interaction.",
+"idol\_training\_system": "The Idol training system in Kpop creates a buffer zone by controlling the trainees' exposure to the public, media, and external influences, thereby separating them from the external environment and preventing direct interaction."
+}
+\]
+}

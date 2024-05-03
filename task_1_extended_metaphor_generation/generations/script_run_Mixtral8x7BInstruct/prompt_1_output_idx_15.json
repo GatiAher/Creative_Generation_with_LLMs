@@ -1,0 +1,36 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Shield Volcano",
+      "definition": "A type of volcano with broad, gentle slopes that is formed by the eruption of low-viscosity lava. They are primarily composed of basalt."
+    },
+    {
+      "name": "Stratovolcano",
+      "definition": "A type of volcano that is characterized by steep, symmetrical slopes and is formed by the eruption of viscous lava and the accumulation of volcanic ash and debris."
+    },
+    {
+      "name": "Cinder Cone Volcano",
+      "definition": "A small, steep-sided volcano that is formed by the accumulation of volcanic cinders and bombs around a vent. They are typically less than 300 meters in height."
+    },
+    {
+      "name": "Magma",
+      "definition": "A mixture of molten rock, volcanic gases, and crystals that is found beneath the Earth's surface. When magma reaches the surface it is called lava."
+    },
+    {
+      "name": "Lava",
+      "definition": "The molten rock that is expelled by a volcano during an eruption. The composition and viscosity of lava varies, leading to different types of volcanic features."
+    },
+    {
+      "name": "Tephra",
+      "definition": "The fragmental material that is produced by a volcanic eruption, such as volcanic bombs, cinders, and ash."
+    },
+    {
+      "name": "Volcanic Gas",
+      "definition": "The gases that are released during a volcanic eruption, including water vapor, carbon dioxide, sulfur dioxide, and hydrogen sulfide."
+    },
+    {
+      "name": "Plate Tectonics",
+      "definition": "The theory that explains the movement of the Earth's lithosphere, which is broken into large plates that move relative to each other. Volcanoes are often associated with the boundaries between these plates."
+    }
+  ]
+}

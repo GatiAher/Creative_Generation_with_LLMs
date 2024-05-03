@@ -1,0 +1,36 @@
+ Here is the annotated text with the requested surroundings:
+
+"The Shield volcano's purpose is to provide a stable and gradual release of magma and lava, allowing for the buildup of a broad, gently sloping shape. This shape provides a large surface area for lava to cool and solidify, creating a strong and stable foundation for the volcano. The shield-like shape also helps to distribute the weight of the volcano evenly, reducing the risk of collapse or instability. Additionally, the gentle slope of the Shield volcano allows for easy drainage of lava and ash, reducing the risk of explosive eruptions. The Shield volcano's mechanism is based on its unique geometry and structural design. Its broad base and gentle slope are created by the eruption of fluid lava flows, which accumulate around the vent and flow downslope under their own gravity. As the lava cools and solidifies, it forms a series of layers, building up the volcano's height and width over time. The slope of the Shield volcano is typically between 2-10 degrees, which allows for a steady and controlled release of magma and lava. The structure of the Shield volcano is supported by the rigidity of the cooled lava layers, which act as a natural reinforcement, providing strength and stability to the volcano."
+
+Surrounded in double curly braces:
+
+* Shield volcano
+* Magma
+* Lava
+* Geometry
+* Structural design
+* Eruption
+* Fluid lava flows
+* Accumulate
+* Vent
+* Gravity
+* Layers
+* Cooling
+* Solidifying
+* Slope
+* Rigidity
+* Cooled lava layers
+* Natural reinforcement
+
+Surrounded in square braces:
+
+* Broad
+* Gently sloping shape
+* Large surface area
+* Strong and stable foundation
+* Weight distribution
+* Collapse
+* Instability
+* Explosive eruptions
+* Drainage
+* Ash

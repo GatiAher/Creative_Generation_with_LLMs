@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Extreme concentration of mass",
+      "mechanism": "Representing an extreme concentration of mass that warps the fabric of reality and infinitely intensifies, playing a crucial role in understanding and modeling the behavior of massive objects, particularly in the context of black holes."
+    },
+    {
+      "description": "Divergence of spacetime curvature",
+      "mechanism": "Describing the geometry of spacetime through divergence, a fundamental construct in general relativity, which indicates the breakdown of classical theories at certain curvature invariants, such as the Ricci scalar."
+    },
+    {
+      "description": "Modeling with solutions to field equations",
+      "mechanism": "Modeling the phenomenon of black holes by analyzing solutions to Einstein's field equations, such as the Schwarzschild solution, which describes the geometry around a spherically symmetric, non-rotating mass."
+    },
+    {
+      "description": "Event horizon",
+      "mechanism": "Demonstrating a protective barrier, known as an event horizon, that prevents direct observation or interaction with the singularity at the center of a black hole."
+    }
+  ]
+}

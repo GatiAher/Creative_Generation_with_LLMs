@@ -1,0 +1,5 @@
+ Here is the annotated text with surroundings double curly braces for Astronomy, chemistry, scientific jargon, and square braces for geometry, math, engineering, and design:
+
+"{Dwarf planets} {window} {solar system} {formation} {evolution} {processes} {collisions} {gravitational interactions} {atmospheric loss} {small, rocky bodies} {planets} {life} {other worlds} {low gravity environment} {highly eccentric orbit} {Kuiper Belt objects} {asteroid belt dynamics} {planetary migration} {proximity} {Sun} {technology} {composition} {frozen volatiles} {methane} {ammonia} {chemical building blocks} {planetary development}"
+
+The words surrounded by double curly braces are related to astronomy, chemistry, or scientific jargon, while the words surrounded by square braces are related to geometry, math, engineering, and design.

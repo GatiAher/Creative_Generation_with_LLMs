@@ -1,0 +1,3 @@
+"Investment instruments that convert and store economic value using complex financial structures, optimized for efficient value storage and light (i.e. market) absorption."
+
+This describes financial products, such as stocks, bonds, and mutual funds, that convert and store economic value in a usable form (i.e. a financial asset), using complex financial structures and mechanisms to optimize the efficiency of value conversion and storage. These instruments are designed to absorb and respond to market conditions (i.e. "light energy") in a way that maximizes their value and potential returns.

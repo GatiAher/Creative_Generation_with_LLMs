@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Double Helix in DNA and Pitcher Rotation in baseball have Structural Redundancy",
+      "double_helix": "Double Helix in DNA utilizes two intertwined spirals to increase stability and redundancy in storing genetic information.",
+      "pitcher_rotation": "Pitcher Rotation in baseball involves having multiple starting pitchers in a rotation to increase stability and redundancy in pitching performances over a season."
+    },
+    {
+      "metaphor": "both Double Helix in DNA and Pitcher Rotation in baseball have Efficient Use of Space",
+      "double_helix": "Double Helix in DNA has a compact geometric configuration for high data density and efficient storage of genetic information.",
+      "pitcher_rotation": "Pitcher Rotation in baseball optimizes the efficient use of the limited space in a team's pitching rotation, maximizing performance and minimizing strain on individual pitchers."
+    },
+    {
+      "metaphor": "both Double Helix in DNA and Pitcher Rotation in baseball have Modularity",
+      "double_helix": "Double Helix in DNA encodes genetic information along the length of the strands, allowing for easy separation during replication or protein synthesis.",
+      "pitcher_rotation": "Pitcher Rotation in baseball involves the modular assignment of pitchers to specific roles based on their strengths, facilitating ease of rotation and specialization in different game situations."
+    }
+  ]
+}

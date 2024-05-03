@@ -1,0 +1,48 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "Concurrency in distributed computing and Pitchers rotating in a baseball team are like synchronized dance partners on a grand stage.",
+      "concurrency": {
+        "description": "Parallelism",
+        "mechanism": "Enable different tasks to run at the same time, maximizing resource utilization and reducing wait times"
+      },
+      "pitchers_rotating_in_a_baseball_team": {
+        "description": "Parallelism",
+        "mechanism": "Just as different pitchers take turns on the pitcher's mound, each running independently, maximizing their resource utilization and reducing the strain on any one player."
+      }
+    },
+    {
+      "metaphor": "In the world of distributed computing, concurrency is akin to a well-oiled machine with gears working seamlessly together.",
+      "concurrency": {
+        "description": "Modularity",
+        "mechanism": "Structured like a network of interconnected bridges where each task can run independently"
+      },
+      "pitchers_rotating_in_a_baseball_team": {
+        "description": "Modularity",
+        "mechanism": "Just as each pitcher in a rotation can operate independently, yet together form a cohesive unit, seamlessly transitioning between tasks."
+      }
+    },
+    {
+      "metaphor": "Resource sharing in distributed computing is like a communal potluck where everyone brings a unique dish to create a feast.",
+      "concurrency": {
+        "description": "Resource Sharing",
+        "mechanism": "Ensures resources can be shared efficiently among tasks"
+      },
+      "pitchers_rotating_in_a_baseball_team": {
+        "description": "Resource Sharing",
+        "mechanism": "Similarly, in a baseball team, each pitcher brings their strengths to the mound, sharing the workload effectively to achieve a common goal."
+      }
+    },
+    {
+      "metaphor": "Concurrency's non-blocking design is like a bustling city where traffic flows smoothly with minimal congestion.",
+      "concurrency": {
+        "description": "Non-Blocking Design",
+        "mechanism": "Prevents one task from blocking the progress of others"
+      },
+      "pitchers_rotating_in_a_baseball_team": {
+        "description": "Non-Blocking Design",
+        "mechanism": "In baseball, the rotation of pitchers ensures that no single player hinders the flow of the game, allowing continuous progress and adaptability to changing situations."
+      }
+    }
+  ]
+}

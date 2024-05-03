@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Singular Values in singular value decomposition and Theme in writing a short story have Hierarchy and Importance (Provide a sense of hierarchy and importance to essential elements, allowing for clarity and focus)",
+      "singular_values": "In singular value decomposition, Singular Values provide a sense of hierarchy and importance to essential components of a matrix, allowing for a clearer understanding of the most significant features.",
+      "theme": "Likewise, the Theme in writing a short story acts as a guiding principle that provides hierarchy and importance to key elements of the narrative, ensuring clarity and focus on essential ideas."
+    },
+    {
+      "metaphor": "both Singular Values in singular value decomposition and Theme in writing a short story have Simplification (Break down complex structures into simpler, more meaningful components)",
+      "singular_values": "Singular Values in singular value decomposition simplify complex data by breaking it down into its most important and interpretable components, making it easier to analyze and understand.",
+      "theme": "Similarly, the Theme in writing a short story simplifies the narrative by distilling complex ideas into core themes, making the story more accessible and engaging for readers."
+    },
+    {
+      "metaphor": "both Singular Values in singular value decomposition and Theme in writing a short story have Harmonious Composition (Serve as the foundation for the harmonious composition and arrangement of forms, ensuring coherence and balance)",
+      "singular_values": "Singular Values play a crucial role in the harmonious composition of data, providing the foundation for coherent and balanced representation of information in singular value decomposition.",
+      "theme": "Likewise, the Theme in writing a short story serves as the backbone for the harmonious composition of ideas and events, ensuring that the narrative flows smoothly and maintains coherence throughout."
+    }
+  ]
+}

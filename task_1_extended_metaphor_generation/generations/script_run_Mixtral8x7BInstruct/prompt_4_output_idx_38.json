@@ -1,0 +1,28 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Redundancy",
+      "mechanism": "Having two strands of DNA that are complementary to each other ensures accurate transmission of genetic information by providing a backup copy."
+    },
+    {
+      "description": "Modular Design",
+      "mechanism": "The use of identical base pairs and geometric design in the resulting replicated DNA molecules allows for easy replacement and repair of damaged or mutated parts."
+    },
+    {
+      "description": "Standardization",
+      "mechanism": "The use of a standardized base pairing mechanism (A-T, C-G) ensures compatibility and accurate transmission of genetic information."
+    },
+    {
+      "description": "Segregation",
+      "mechanism": "The separation of the two strands during replication ensures that each new DNA molecule contains only one original strand and one newly synthesized strand, reducing the chance of errors."
+    },
+    {
+      "description": "Automation",
+      "mechanism": "The use of enzymes to facilitate the assembly of new strands ensures that the process is automated, reducing the chance of human error."
+    },
+    {
+      "description": "Fault Tolerance",
+      "mechanism": "The use of a semi-conservative replication mechanism ensures that the new DNA molecule contains at least one correct strand, reducing the chance of errors and increasing the overall reliability of the system."
+    }
+  ]
+}

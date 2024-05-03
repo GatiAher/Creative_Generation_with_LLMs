@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Symbolization",
+      "mechanism": "Categorizing symbols by type, color, size, and pattern to organize them systematically for clear interpretation and correlation with real-world features."
+    },
+    {
+      "description": "Standardization",
+      "mechanism": "Ensuring a consistent and standardized method of decoding information by structuring the approach for differentiation and identification of various features based on graphical representation."
+    }
+  ]
+}

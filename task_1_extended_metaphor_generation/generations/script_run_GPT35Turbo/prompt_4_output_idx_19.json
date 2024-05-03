@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Architectural blueprint",
+      "mechanism": "Provides an overall plan and structure for organizing information or components within a system"
+    },
+    {
+      "description": "Efficient storage and organization",
+      "mechanism": "Maximizes the use of space and resources to store and manage data or components effectively"
+    },
+    {
+      "description": "Complex array of structural proteins",
+      "mechanism": "Utilizes a combination of different proteins to achieve specific structural functions within a system"
+    }
+  ]
+}

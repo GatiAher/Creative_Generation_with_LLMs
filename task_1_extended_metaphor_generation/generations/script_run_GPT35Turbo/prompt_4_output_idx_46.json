@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Modularity",
+      "mechanism": "Dividing a system into smaller parts/modules and defining clear interfaces to facilitate independent development and maintenance."
+    },
+    {
+      "description": "Standardization",
+      "mechanism": "Establishing uniform specifications and formats for components to promote interoperability and consistency."
+    },
+    {
+      "description": "Hierarchy",
+      "mechanism": "Organizing information or components in a structured order based on importance or function to enhance clarity and efficiency."
+    },
+    {
+      "description": "Communication",
+      "mechanism": "Facilitating effective exchange of information between components by specifying clear communication protocols and channels."
+    }
+  ]
+}

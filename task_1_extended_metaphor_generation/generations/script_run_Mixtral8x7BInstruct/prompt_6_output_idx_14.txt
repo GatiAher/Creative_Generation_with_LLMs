@@ -1,0 +1,5 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "serve as a stabilizing force for the rotation of the planet, creating a more predictable and consistent environment",
+	

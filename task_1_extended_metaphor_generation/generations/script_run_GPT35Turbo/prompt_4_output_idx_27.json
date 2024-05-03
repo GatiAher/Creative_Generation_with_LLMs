@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Conservation of mass and energy",
+      "mechanism": "Ensures that the total mass and energy in a system remain constant during a chemical reaction or process."
+    },
+    {
+      "description": "Kinetics and thermodynamics",
+      "mechanism": "Guides the understanding and control of the speed of chemical reactions (kinetics) and the direction of reactions and stability of products (thermodynamics)."
+    }
+  ]
+}

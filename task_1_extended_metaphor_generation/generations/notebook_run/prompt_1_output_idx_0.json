@@ -1,0 +1,28 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Sun",
+      "definition": "The star at the center of the solar system"
+    },
+    {
+      "name": "Planets",
+      "definition": "Celestial bodies that revolve around the Sun in elliptical orbits"
+    },
+    {
+      "name": "Moons",
+      "definition": "Natural satellites that orbit planets"
+    },
+    {
+      "name": "Asteroids",
+      "definition": "Small rocky bodies that orbit the Sun"
+    },
+    {
+      "name": "Comets",
+      "definition": "Icy bodies that orbit the Sun and have a tail when close to the Sun"
+    },
+    {
+      "name": "Dwarf Planets",
+      "definition": "Celestial bodies similar to planets but have not cleared their neighboring region of other debris"
+    }
+  ]
+}

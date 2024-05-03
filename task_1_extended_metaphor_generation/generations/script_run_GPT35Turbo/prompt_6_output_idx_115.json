@@ -1,0 +1,26 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Catalysts in chemical reaction and Blockchain in money have Optimization as a design principle",
+      "catalysts": {
+        "description": "Optimization",
+        "mechanism": "Facilitating faster pathways and enhancing system efficiency without altering the process by recalibrating energy barriers and minima to achieve optimal performance"
+      },
+      "blockchain": {
+        "description": "Optimization",
+        "explanation": "Blockchain technology optimizes the financial system by providing faster and more efficient transactions without altering the core process. It recalibrates the way transactions are recorded and verified to achieve optimal performance."
+      }
+    },
+    {
+      "metaphor": "both Catalysts in chemical reaction and Blockchain in money have Simplification as a design principle",
+      "catalysts": {
+        "description": "Simplification",
+        "mechanism": "Enabling a more streamlined route for reactants to traverse by redesigning a complex system to achieve optimal performance with minimal resources"
+      },
+      "blockchain": {
+        "description": "Simplification",
+        "explanation": "Blockchain technology simplifies the financial system by providing a more streamlined and efficient way for transactions to occur. It redesigns the complex processes of traditional banking to achieve optimal performance with minimal resources."
+      }
+    }
+  ]
+}

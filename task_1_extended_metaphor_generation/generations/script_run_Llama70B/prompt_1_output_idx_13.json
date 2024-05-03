@@ -1,0 +1,32 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Scale",
+      "definition": "The relationship between the distance on a map and the corresponding distance in reality."
+    },
+    {
+      "name": "Projection",
+      "definition": "A method used to transfer the Earth's surface onto a flat sheet of paper or a computer screen."
+    },
+    {
+      "name": "Contour line",
+      "definition": "Imaginary lines that connect points of equal elevation on a terrain."
+    },
+    {
+      "name": "Topography",
+      "definition": "The study of the shape and features of the Earth's surface."
+    },
+    {
+      "name": "Cartography",
+      "definition": "The art and science of creating maps."
+    },
+    {
+      "name": "Map symbols",
+      "definition": "Symbols used to represent different features on a map, such as roads, buildings, and vegetation."
+    },
+    {
+      "name": "Legend",
+      "definition": "A key or explanation of the symbols used on a map."
+    }
+  ]
+}

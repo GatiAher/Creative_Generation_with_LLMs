@@ -1,0 +1,20 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Cosmic Microwave Background Radiation",
+      "definition": "Faint radiation left over from the Big Bang, expanding across the universe"
+    },
+    {
+      "name": "Inflation Theory",
+      "definition": "The theory explaining the rapid expansion of the universe in the early stages after the Big Bang"
+    },
+    {
+      "name": "Singularity",
+      "definition": "A point in space-time where gravitational forces cause matter to be compressed to infinite density"
+    },
+    {
+      "name": "Dark Matter",
+      "definition": "Hypothesized matter that does not emit light or energy but interacts with gravity to influence the cosmos"
+    }
+  ]
+}

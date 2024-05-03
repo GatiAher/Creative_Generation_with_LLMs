@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Software Development in computer program and Fiat currency in money have modularity",
+      "software_development": "Software Development employs modularity by breaking down the overall design into smaller, manageable pieces (modules) that can be systematically crafted, tested, and refined. This allows for better organization, maintenance, and scalability of the software.",
+      "fiat_currency": "Similarly, Fiat currency operates with modularity through the division of currency into smaller units such as notes and coins. These units are designed to be interchangeable and modular, enabling ease of transactions and trade within the economy."
+    },
+    {
+      "metaphor": "both Software Development in computer program and Fiat currency in money have hierarchy",
+      "software_development": "Hierarchy is implemented in Software Development by arranging and interconnecting modules within a well-defined framework (architecture) to ensure the final product functions as intended. This structured approach helps in managing complexity and enabling easier maintenance and updates.",
+      "fiat_currency": "Likewise, Fiat currency relies on hierarchy through the organization of currency into a well-defined system of values and denominations. This hierarchical structure enables the smooth functioning of the monetary system, regulating value exchange and providing a stable medium of exchange."
+    }
+  ]
+}

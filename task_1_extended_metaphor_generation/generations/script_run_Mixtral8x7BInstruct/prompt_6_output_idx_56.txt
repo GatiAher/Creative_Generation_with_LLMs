@@ -1,0 +1,21 @@
+{
+"extended\_metaphor": \[
+{
+"metaphor": "both Hubble's Law in big bang theory and Fandom Growth Patterns in Kpop exhibit a direct proportionality (string)",
+"hubble's\_law": "the speed at which a Kpop fan's interest in a group grows is directly proportional to the amount of content they consume, allowing for the estimation of a fan's level of interest by measuring their engagement.",
+"fandom\_growth\_patterns": "the use of a linear relationship to model the growth of a Kpop fandom, providing a framework for understanding and predicting the behavior of fans and their level of engagement."
+},
+{
+"metaphor": "both Hubble's Law in big bang theory and Fandom Growth Patterns in Kpop are based on observation and measurement (string)",
+"hubble's\_law": "the measurement of redshift in light emitted by a celestial object as an indicator of its movement and distance, and the use of this measurement to estimate the distance and speed of the object.",
+"fandom\_growth\_patterns": "the use of data on fan engagement, such as streaming and social media activity, to estimate the level of interest in a Kpop group and predict future growth."
+},
+{
+"metaphor": "both Hubble's Law in big bang theory and Fandom Growth Patterns in Kpop are based on scientific inquiry (string)",
+"hubble's\_law": "the use of evidence from observations of the universe to support the theory of the expanding universe.",
+"fandom\_growth\_patterns": "the use of data and evidence from observations of fan behavior to support theories about the growth and development of Kpop fandoms."
+}
+\]
+}
+
+Note: The metaphor is just an example and may not be entirely accurate, but it is meant to illustrate the similarities between Hubble's Law and Fandom Growth Patterns in terms of their mechanisms and functions.

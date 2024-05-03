@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Natural Systems",
+      "mechanism": "Utilizing natural processes for recycling materials and facilitating renewal processes."
+    },
+    {
+      "description": "Convergent Boundaries",
+      "mechanism": "Structuring systems to allow one component to slide beneath another based on density and composition differences."
+    },
+    {
+      "description": "Subduction",
+      "mechanism": "Process of one crust sliding beneath another, leading to destruction and recycling of old crust to create new landforms."
+    }
+  ]
+}

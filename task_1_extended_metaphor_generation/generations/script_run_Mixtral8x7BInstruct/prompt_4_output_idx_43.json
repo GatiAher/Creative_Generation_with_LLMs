@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Feedback Mechanism",
+      "mechanism": "A mechanism that regulates the system by providing information about the result of a process, which is then used to adjust future actions. In this case, the Parathyroid Glands detect changes in calcium levels and release or decrease the release of PTH to maintain optimal calcium levels."
+    },
+    {
+      "description": "Specialized Cells",
+      "mechanism": "The use of specialized cells to perform specific functions. Here, chief cells are responsible for producing and releasing PTH in response to changes in calcium levels."
+    },
+    {
+      "description": "Hormonal Regulation",
+      "mechanism": "The use of hormones to regulate various physiological processes. In this case, parathyroid hormone (PTH) is released by the Parathyroid Glands to regulate calcium levels in the body."
+    },
+    {
+      "description": "Precise Regulation",
+      "mechanism": "A mechanism that maintains optimal functioning of various physiological processes by precisely regulating key factors, such as calcium levels in the body. Here, the Parathyroid Glands regulate calcium levels through a feedback mechanism that adjusts the release of PTH in response to changes in calcium levels."
+    }
+  ]
+}

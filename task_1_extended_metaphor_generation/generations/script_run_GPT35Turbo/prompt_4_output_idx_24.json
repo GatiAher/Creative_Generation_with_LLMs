@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Feedback Control System",
+      "mechanism": "Modulates the rate of various processes to maintain balance. Continuously monitors and adjusts based on feedback."
+    },
+    {
+      "description": "Closed-loop System",
+      "mechanism": "Similar to a closed-loop system in engineering. Monitors levels and adjusts secretion to regulate activities."
+    }
+  ]
+}

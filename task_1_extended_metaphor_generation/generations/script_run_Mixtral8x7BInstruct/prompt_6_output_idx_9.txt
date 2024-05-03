@@ -1,0 +1,24 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Dwarf Planets in solar system and Trajectory of a pitched ball in baseball are shaped by gravitational forces and material composition",
+"dwarf\_planets": "Dwarf Planets in the solar system have a spherical shape due to the gravitational forces and their material composition, which allows for better detection and study by maximizing the surface area for a given volume.",
+"trajectory\_of\_a\_pitched\_ball": "Similarly, the trajectory of a pitched ball is influenced by the gravitational forces and the spin of the ball, which affects its movement and behavior in the air."
+},
+{
+"metaphor": "both Dwarf Planets in solar system and Trajectory of a pitched ball in baseball can be described using mathematical equations",
+"dwarf\_planets": "The orbits of Dwarf Planets in the solar system can be described using mathematical equations, which allows for prediction and analysis of their motion.",
+"trajectory\_of\_a\_pitched\_ball": "Similarly, the trajectory of a pitched ball can be described using mathematical equations, which takes into account factors such as air resistance, spin rate, and velocity, allowing for prediction and analysis of its motion."
+},
+{
+"metaphor": "both Dwarf Planets in solar system and Trajectory of a pitched ball in baseball intersect with other objects in their path",
+"dwarf\_planets": "The orbits of Dwarf Planets in the solar system often intersect with other debris, demonstrating the dynamic and ever-changing nature of celestial systems.",
+"trajectory\_of\_a\_pitched\_ball": "Similarly, the trajectory of a pitched ball can intersect with other objects such as bats, gloves, or players, demonstrating the dynamic and ever-changing nature of the game."
+},
+{
+"metaphor": "both Dwarf Planets in solar system and Trajectory of a pitched ball in baseball meet the same geometric, mathematical, and engineering principles",
+"dwarf\_planets": "Despite not having cleared their orbits, Dwarf Planets in the solar system can still meet many of the same geometric, mathematical, and engineering principles that define other planets.",
+"trajectory\_of\_a\_pitched\_ball": "Similarly, the trajectory of a pitched ball can meet many of the same geometric, mathematical, and engineering principles such as angles, velocity, and spin rate, that define the motion of other objects."
+}
+]
+}

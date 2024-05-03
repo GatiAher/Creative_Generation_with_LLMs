@@ -1,0 +1,10 @@
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "both Deoxyribose in DNA and Scoreboard design in baseball provide a stable and durable foundation with a reliable framework",
+			"deoxyribose": "Deoxyribose sugar provides a stable and durable framework for DNA, allowing it to maintain its structure and integrity within the cell.",
+			"scoreboard_design": "A well-designed scoreboard in baseball provides a stable and reliable foundation for displaying real-time game information, allowing spectators to easily follow the game's progress."
+		},
+		{
+			"metaphor": "both Deoxyribose in DNA and Scoreboard design in baseball enable efficient and accurate storage and transmission of information",
+		

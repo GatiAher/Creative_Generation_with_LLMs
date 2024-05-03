@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "Both Asteroids in the solar system and Blockchain in money utilize gravitational forces.",
+      "asteroids": "Gravitational forces are essential for interacting with celestial bodies in space, altering their trajectories, and ensuring the stability of planetary systems.",
+      "blockchain": "In the realm of money, Blockchain leverages a distributed network of nodes and cryptographic algorithms to interact with transactions, alter their flow, and maintain the stability and security of the financial ecosystem."
+    },
+    {
+      "metaphor": "Both Asteroids in the solar system and Blockchain in money utilize orbital mechanics.",
+      "asteroids": "Orbital mechanics are used to organize celestial objects in space, influencing their positions and interactions through various orbits.",
+      "blockchain": "Similarly, Blockchain in money employs different protocols and consensus mechanisms to organize financial transactions and influence their flow, ensuring the efficient and secure operation of the monetary system."
+    }
+  ]
+}

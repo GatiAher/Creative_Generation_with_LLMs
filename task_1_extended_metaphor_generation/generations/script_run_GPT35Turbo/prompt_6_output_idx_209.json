@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "Both Parallel Computing in distributed computing and Pitching Rotation in baseball have the characteristic of 'Divide and Conquer' where they break down a complex problem into smaller, more manageable parts that can be solved independently or simultaneously.",
+      "parallel_computing": "In Parallel Computing, the 'Divide and Conquer' approach involves breaking down a large computational task into smaller subtasks that can be processed in parallel by different processors. This speeds up the overall computation.",
+      "pitching_rotation": "Similarly, Pitching Rotation in baseball divides the pitching responsibilities among different pitchers in the rotation. Each pitcher is tasked with handling a specific portion of the game, allowing the team to strategically manage pitch counts and utilize various strengths and skills throughout the season."
+    },
+    {
+      "metaphor": "Both Parallel Computing in distributed computing and Pitching Rotation in baseball utilize 'Parallel Processing' to harness the combined power of multiple entities for faster results.",
+      "parallel_computing": "Parallel Processing in distributed computing involves multiple processors simultaneously working on different parts of a problem. This parallelism leads to faster computation and improved efficiency.",
+      "pitching_rotation": "In baseball, Pitching Rotation leverages the strengths of multiple pitchers to share the workload and prevent individual pitchers from becoming fatigued. This strategy ensures that the team has fresh arms available for each game, enhancing overall performance."
+    },
+    {
+      "metaphor": "Both Parallel Computing in distributed computing and Pitching Rotation in baseball emphasize 'Collaborative Engineering' by encouraging specialists to work together for expedited results.",
+      "parallel_computing": "Collaborative Engineering in Parallel Computing involves experts from different domains collaborating on a project, with each specializing in a particular aspect. This collaboration accelerates the design and development process by leveraging diverse expertise.",
+      "pitching_rotation": "Likewise, Pitching Rotation in baseball promotes collaboration among pitchers with different skill sets. By working together in rotation, pitchers can complement each other's strengths and cover for weaknesses, ultimately enhancing the team's performance throughout the season."
+    }
+  ]
+}

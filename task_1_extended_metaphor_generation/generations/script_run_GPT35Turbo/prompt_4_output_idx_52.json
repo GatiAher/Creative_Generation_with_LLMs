@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Divide and Conquer",
+      "mechanism": "Breaking down a complex problem into smaller, more manageable parts that can be solved independently or simultaneously."
+    },
+    {
+      "description": "Parallel Processing",
+      "mechanism": "Harnessing the combined power of multiple processors to work on different parts of a problem concurrently, leading to faster computation."
+    },
+    {
+      "description": "Collaborative Engineering",
+      "mechanism": "Encouraging specialists in different areas to work together, each handling a specific portion of the project to expedite the design and development process."
+    }
+  ]
+}

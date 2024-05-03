@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Scale",
+      "mechanism": "Enabling proportionate measurement and accurate representation of physical distance on a map or diagram."
+    },
+    {
+      "description": "Ratio",
+      "mechanism": "Denoting the relationship between measurements on the map/diagram and the actual measurements on the ground, ensuring consistency and accuracy."
+    },
+    {
+      "description": "Consistency",
+      "mechanism": "Maintaining the scale ratio consistently across the entire map/diagram for uniform scaling of distances and dimensions."
+    }
+  ]
+}

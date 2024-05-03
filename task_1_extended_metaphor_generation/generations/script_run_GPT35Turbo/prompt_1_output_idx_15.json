@@ -1,0 +1,20 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Magma",
+      "definition": "Molten rock beneath the Earth's surface"
+    },
+    {
+      "name": "Lava",
+      "definition": "Magma that reaches the Earth's surface"
+    },
+    {
+      "name": "Volcanic Eruptions",
+      "definition": "The release of magma, gases, and ash from a volcano"
+    },
+    {
+      "name": "Volcanic Vent",
+      "definition": "An opening in the Earth's crust through which volcanic materials are emitted"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+"extended\_metaphor": \[
+{
+"metaphor": "both Nucleotide in DNA and Pre-defined baseball positions in baseball exhibit Modularity through their individual building blocks, like how Lego bricks or pixels in a digital image can be combined to form a complete system.",
+"nucleotide": "Nucleotides, the individual building blocks of DNA, each contain a sugar molecule, a phosphate group, and a nitrogenous base, allowing for predictable and reliable interaction between nucleotides in the creation of DNA.",
+"pre-defined\_baseball\_positions": "Similarly, pre-defined baseball positions, such as pitcher, catcher, and infielder, are individual roles that, when combined with other positions, form a complete baseball team. Each position has a specific function and set of responsibilities that contribute to the overall success of the team."
+},
+{
+"metaphor": "both Nucleotide in DNA and Pre-defined baseball positions in baseball demonstrate Standardization through their consistent composition, allowing for predictable and reliable interaction.",
+"nucleotide": "The consistent composition of each nucleotide, with a sugar molecule, a phosphate group, and a nitrogenous base, allows for predictable and reliable interaction between nucleotides in the creation of DNA.",
+"pre-defined\_baseball\_positions": "Similarly, pre-defined baseball positions have a consistent set of responsibilities and expectations associated with each position, allowing for predictable and reliable interaction between players and the ability to work together as a team."
+},
+{
+"metaphor": "both Nucleotide in DNA and Pre-defined baseball positions in baseball enable Scalability by allowing for the creation of larger structures through the connection of individual building blocks.",
+"nucleotide": "The ability to connect the phosphate group of one nucleotide to the sugar molecule of the next allows for the creation of a long chain, enabling the encoding of a large amount of genetic information in a single DNA molecule.",
+"pre-defined\_baseball\_positions": "Similarly, pre-defined baseball positions allow for scalability by allowing for the addition of more players to the team, enabling the team to handle different game situations and strategies."
+},
+{
+"metaphor": "both Nucleotide in DNA and Pre-defined baseball positions in baseball use Abstraction to encode higher-level information in the arrangement of individual building blocks.",
+"nucleotide": "The specific sequence of nitrogenous bases in a DNA molecule encodes genetic information, abstracting the genetic instructions from the physical structure of the DNA molecule itself.",
+"pre-defined\_baseball\_positions": "Similarly, pre-defined baseball positions abstract higher-level information, such as strategy and gameplay, in the arrangement of players on the field and their interactions with each other."
+}
+\]
+}
+
+In this metaphor, the nucleotides in DNA are compared to pre-defined baseball positions in terms of their modularity, standardization, scalability, and abstraction. Nucleotides act as fundamental building blocks, with a consistent composition that allows for predictable and reliable interaction, enabling the encoding of a large amount of genetic information in a single DNA molecule. Similarly, pre-defined baseball positions act as individual roles that, when combined with other positions, form a complete baseball team. Each position has a specific function and set of responsibilities that contribute to the overall success of the team, allowing for scalability, predictability and reliability in interactions and abstraction of higher level information.

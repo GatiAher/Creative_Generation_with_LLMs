@@ -1,0 +1,3 @@
+"Statistical analysis of player performance trends over distance (e.g. home runs hit by a player over their career) to inform predictions of future performance and player value."
+
+This feature involves proportionality (e.g. the relationship between the number of home runs and the number of at-bats over a player's career), predictive modeling (e.g. using linear regression to model the trend of a player's performance), observation and measurement (e.g. tracking and recording statistics on player performance), and scientific inquiry (e.g. using evidence from observations to inform decisions on player evaluation and roster management).

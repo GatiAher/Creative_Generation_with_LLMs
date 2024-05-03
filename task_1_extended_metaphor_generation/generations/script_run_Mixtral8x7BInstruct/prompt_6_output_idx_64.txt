@@ -1,0 +1,19 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Nucleosynthesis in big bang theory and Idol Group Dynamics in Kpop have High Temperatures and Densities (string)",
+			"nucleosynthesis": "The formation of atomic nuclei was driven by the high temperatures and densities of the early universe, allowing for the combination of quarks into protons and neutrons, and eventually into atomic nuclei. This process enabled the creation of elements such as hydrogen, helium, and lithium.",
+			"idol\_group\_dynamics": "Idol Group Dynamics in Kpop also require high temperatures and densities, in the form of intense training, rehearsals, and performances, to allow for the combination of individual talents into a cohesive group, and eventually into a successful and stable group. This process enables the creation of a successful and popular group, just as nucleosynthesis enables the creation of elements."
+		},
+		{
+			"metaphor": "both Nucleosynthesis in big bang theory and Idol Group Dynamics in Kpop are driven by a Strong Nuclear Force (string)",
+			"nucleosynthesis": "The strong nuclear force is responsible for holding the atomic nuclei together, allowing them to form and become stable. This force enables the creation of elements such as hydrogen, helium, and lithium.",
+			"idol\_group\_dynamics": "Idol Group Dynamics in Kpop are also driven by a strong force, in the form of teamwork, communication, and mutual support. These elements enable the group to form and become stable, and to overcome challenges and setbacks. This force enables the group to become successful and popular."
+		},
+		{
+			"metaphor": "both Nucleosynthesis in big bang theory and Idol Group Dynamics in Kpop are governed by Nuclear Reaction Physics (string)",
+			"nucleosynthesis": "The relative abundances of the elements produced in the early universe can be calculated using the physics of nuclear reactions, which helps to support the theory of big bang nucleosynthesis and the idea that these events occurred in the first few minutes after the big bang.",
+			"idol\_group\_dynamics": "Idol Group Dynamics in Kpop can also be analyzed and understood using the principles of physics, such as the laws of motion, thermodynamics, and statistical mechanics. These principles can help to explain how the group functions, how it interacts with its environment, and how it can be optimized for success. Just as nuclear reaction physics supports the theory of big bang nucleosynthesis, physics can support the theory of idol group dynamics in Kpop."
+		}
+	]
+}

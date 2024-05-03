@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Compact, stable, and efficient",
+      "mechanism": "The double helix structure compacts genetic information, provides stability through hydrogen bonds between base pairs, and ensures efficient storage and transmission of information."
+    },
+    {
+      "description": "Geometrically optimized design",
+      "mechanism": "The helical shape, resembling a spiral staircase or twisted ladder, optimizes the structure for efficient packaging of long DNA molecules within cells."
+    },
+    {
+      "description": "Hydrogen bonds",
+      "mechanism": "The use of hydrogen bonds to connect complementary base pairs (A-T and C-G) ensures precise pairing and sequencing of nucleotides, providing a mathematical framework for encoding and decoding genetic information."
+    },
+    {
+      "description": "Helical shape",
+      "mechanism": "The helical shape of the double helix structure facilitates the transport and manipulation of DNA molecules within cells, and ensures robustness, scalability, and fault-tolerance."
+    }
+  ]
+}

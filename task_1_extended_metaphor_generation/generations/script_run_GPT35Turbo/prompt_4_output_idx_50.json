@@ -1,0 +1,24 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Redundancy",
+      "mechanism": "Ensuring stability and reliability through redundancy"
+    },
+    {
+      "description": "Division of Tasks",
+      "mechanism": "Dividing tasks among different entities"
+    },
+    {
+      "description": "Decentralization",
+      "mechanism": "Nodes spread out like vertices of a mathematical graph, each responsible for specific computations or tasks"
+    },
+    {
+      "description": "Message Passing",
+      "mechanism": "Facilitating communication and coordination between nodes using message passing mechanisms"
+    },
+    {
+      "description": "Seamless Interaction and Synchronization",
+      "mechanism": "Ensuring seamless interaction and synchronization between nodes"
+    }
+  ]
+}

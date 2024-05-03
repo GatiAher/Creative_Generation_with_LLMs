@@ -1,0 +1,24 @@
+ ```
+Gas giants serve as massive gravitational anchors for their respective planetary systems, stabilizing planetary orbits and protecting inner worlds from asteroid impacts. They also provide a reservoir for volatile elements like hydrogen and helium, which helps regulate the formation of terrestrial planets. Gas giants are primarily composed of {{{hydrogen}}} and {{{helium}}}, with dense cores and extensive atmospheres. Their large mass and gravity allow them to capture numerous satellites, debris, and asteroids, shielding inner planets from collisions. The gas giant's size and composition create a strong gravitational pull, which influences the system's orbital dynamics and helps maintain stability.
+```
+Surrounded in double curly braces are words related to Astronomy and scientific jargon:
+
+* gas giants
+* planetary systems
+* terrestrial planets
+* hydrogen
+* helium
+* dense cores
+* extensive atmospheres
+* satellite
+* debris
+* asteroids
+* inner planets
+* collisions
+* gravitational pull
+* orbital dynamics
+* stability
+
+Surrounded in square braces are words related to geometry, math, engineering, and design:
+
+* none

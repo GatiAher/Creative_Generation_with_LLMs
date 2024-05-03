@@ -1,0 +1,24 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Contour Lines",
+      "definition": "Lines on a map connecting points of equal elevation"
+    },
+    {
+      "name": "Scale",
+      "definition": "Ratio of distance on the map to actual distance on the ground"
+    },
+    {
+      "name": "Legend",
+      "definition": "Key providing information on symbols used in the map"
+    },
+    {
+      "name": "Topographic Profiles",
+      "definition": "Cross-sectional view of the terrain along a specific line"
+    },
+    {
+      "name": "Relief",
+      "definition": "Representation of the height and depth of terrain features"
+    }
+  ]
+}

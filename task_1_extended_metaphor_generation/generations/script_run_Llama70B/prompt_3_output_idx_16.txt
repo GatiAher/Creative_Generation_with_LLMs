@@ -1,0 +1,13 @@
+ ```
+{{ Double Curly Braces }}
+Dark Energy serves as a driving force behind the accelerating expansion of the universe, allowing it to continue expanding indefinitely and shaping the large-scale structure of the cosmos. Dark Energy operates through modifying the fabric of spacetime itself, permeating all corners of existence with an ever-present pressure that pushes matter apart at an increasing rate, causing the expansion of the universe to accelerate over time.
+{{/Double Curly Braces}}
+
+{ Square Braces }
+spacetime
+{/Square Braces}
+```
+Explanation:
+
+* {{ Double Curly Braces }} indicates words, phrases, and adjectives related to astronomy, chemistry, or scientific jargon. In this case, "Dark Energy," "universe," "cosmos," "expansion," and "spacetime" are all terms related to astronomy and cosmology.
+* { Square Braces } indicates words, phrases, and adjectives related to geometry, math, engineering, and design. In this case, "spacetime" is a term related to geometry and physics.

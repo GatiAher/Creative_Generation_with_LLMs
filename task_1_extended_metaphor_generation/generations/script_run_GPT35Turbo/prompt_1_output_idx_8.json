@@ -1,0 +1,20 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Reaction rate",
+      "definition": "The speed at which reactants are converted into products in a chemical reaction."
+    },
+    {
+      "name": "Rate laws",
+      "definition": "Mathematical expressions that relate the rate of a reaction to the concentration of reactants."
+    },
+    {
+      "name": "Rate-determining step",
+      "definition": "The slowest step in a reaction mechanism that determines the overall rate of the reaction."
+    },
+    {
+      "name": "Catalysis",
+      "definition": "The process of increasing the rate of a chemical reaction by adding a substance known as a catalyst."
+    }
+  ]
+}

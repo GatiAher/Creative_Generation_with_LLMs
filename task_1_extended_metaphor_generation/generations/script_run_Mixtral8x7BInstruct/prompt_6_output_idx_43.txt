@@ -1,0 +1,9 @@
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "both Oort Cloud in solar system and Diversified Investment Portfolio in money act as a sacrificial barrier and absorber of external threats and risks.",
+			"oort_cloud": "The Oort Cloud, located at the outer edge of the solar system, serves as a protective barrier against interstellar objects and cosmic radiation that could harm the inner planets. Its outer layer of icy bodies sacrifices itself by absorbing these threats and protecting the inner components.",
+			"diversified_investment_portfolio": "Similarly, a Diversified Investment Portfolio protects against financial risks by allocating assets across various investment types, such as stocks, bonds, and real estate. This strategy absorbs potential losses in one area by spreading the risk among different investments, shielding the overall portfolio from significant harm."
+		},
+		{
+	

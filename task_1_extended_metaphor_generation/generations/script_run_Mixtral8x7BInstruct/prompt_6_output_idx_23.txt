@@ -1,0 +1,26 @@
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "both Comets in solar system and Monetary policy tools and indicators in money utilize ",
+			"comets": "observation of certain features, like the brightness and tail direction, to gain valuable information about the early stages of a comet's journey and its composition",
+			"monetary_policy_tools_and_indicators": "monetary policy tools and indicators, such as interest rates and inflation, to gain valuable information about the current state of the economy and to make predictions about its future direction"
+		},
+		{
+			"metaphor": "both Comets in solar system and Monetary policy tools and indicators in money employ ",
+			"comets": "material selection, choosing materials that can withstand specific conditions or processes, such as the unchanged materials in comets",
+			"monetary_policy_tools_and_indicators": "monetary policy tools, such as currency and bonds, that are carefully selected to withstand economic conditions and processes"
+		},
+		{
+			"metaphor": "both Comets in solar system and Monetary policy tools and indicators in money optimize ",
+			"comets": "redistribution of matter and energy within the system, like comets redistributing matter and energy",
+			"monetary_policy_tools_and_indicators": "redistribution of wealth and resources within the economy, managing the flow and transformation of money to optimize performance and function"
+		},
+		{
+			"metaphor": "both Comets in solar system and Monetary policy tools and indicators in money harness ",
+			"comets": "nuclear fusion, forcing atomic nuclei to combine, releasing immense energy, as observed in comets' nuclei composed of rock and ice",
+			"monetary_policy_tools_and_indicators": "the power of monetary policy tools, like interest rates and quantitative easing, to combine and release immense economic energy"
+		},
+		{
+			"metaphor": "both Comets in solar system and Monetary policy tools and indicators in money take advantage of ",
+			"comets": "radiation pressure, utilizing the pressure exerted by electromagnetic radiation to generate force or motion, as seen in the tail direction of a comet",
+	

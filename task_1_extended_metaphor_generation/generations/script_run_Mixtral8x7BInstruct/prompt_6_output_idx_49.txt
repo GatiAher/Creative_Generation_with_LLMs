@@ -1,0 +1,5 @@
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "both the Expanding Universe and Standardized field dimensions and proportions in baseball exhibit the principle of homogeneity and isotropy (string)",
+	

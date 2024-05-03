@@ -1,0 +1,24 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Concurrency in distributed computing and Collaborative Kpop Covers in Kpop have Parallelism as a key element",
+      "concurrency": "Parallelism in distributed computing enables different tasks to run simultaneously, maximizing resource utilization and reducing wait times.",
+      "collaborative_kpop_covers": "Similarly, in Collaborative Kpop Covers, multiple singers work together on a song cover, each contributing their part simultaneously to create a harmonious piece."
+    },
+    {
+      "metaphor": "both Concurrency in distributed computing and Collaborative Kpop Covers in Kpop exhibit Modularity",
+      "concurrency": "Modularity in distributed computing allows tasks to function independently but can interact when needed, forming a network of interconnected bridges.",
+      "collaborative_kpop_covers": "In Collaborative Kpop Covers, each member can showcase their individual skills and style, but they come together to create a unified cover performance like interconnected bridges forming a network."
+    },
+    {
+      "metaphor": "both Concurrency in distributed computing and Collaborative Kpop Covers in Kpop emphasize Resource Sharing",
+      "concurrency": "Resource Sharing in distributed computing ensures efficient sharing of resources among tasks for optimal performance.",
+      "collaborative_kpop_covers": "Similarly, in Collaborative Kpop Covers, group members share their talents and resources (like vocal abilities, dance skills, etc.) to achieve a harmonious cover performance, highlighting the efficient sharing of resources."
+    },
+    {
+      "metaphor": "both Concurrency in distributed computing and Collaborative Kpop Covers in Kpop are designed with Non-Blocking Design in mind",
+      "concurrency": "Non-Blocking Design in distributed computing prevents one task from blocking the progress of others, ensuring smooth operation.",
+      "collaborative_kpop_covers": "Likewise, in Collaborative Kpop Covers, each member's contribution is designed to complement others without hindering the overall performance, similar to how Non-Blocking Design prevents blockages in distributed computing."
+    }
+  ]
+}

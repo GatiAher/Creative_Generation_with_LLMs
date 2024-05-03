@@ -1,0 +1,19 @@
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "both Oort Cloud in solar system and Dedicated Fanbase in Kpop act as a sacrificial barrier and absorbent layer, protecting the inner components from external threats such as interstellar objects and negative public opinions.",
+			"oort_cloud": "The Oort Cloud, located at the outer edge of the solar system, is designed to absorb and deflect incoming interstellar objects and cosmic radiation, thereby protecting the inner planets from potential damage.",
+			"dedicated_fanbase": "Dedicated Kpop fanbases act as a protective barrier for their idols, absorbing and deflecting negative public opinions and criticism, thereby allowing the idols to focus on their craft and growth without being affected by external threats."
+		},
+		{
+			"metaphor": "both Oort Cloud in solar system and Dedicated Fanbase in Kpop form a large protective zone, dissipating and deflecting external threats before they reach the inner region where planets reside or idols operate.",
+			"oort_cloud": "The theoretical spherical formation of icy bodies in the Oort Cloud provides a large protective zone, dissipating and deflecting external threats before they reach the inner region where planets reside.",
+			"dedicated_fanbase": "Dedicated Kpop fanbases form a large protective zone around their idols, dissipating and deflecting negative public opinions and criticism before they reach the idols and cause any harm."
+		},
+		{
+			"metaphor": "both Oort Cloud in solar system and Dedicated Fanbase in Kpop utilize collective gravitational forces to attract and capture incoming objects, further enhancing their protective function.",
+			"oort_cloud": "The collective gravitational forces of icy bodies within the protective structure of the Oort Cloud can attract and capture incoming objects, further enhancing the protective function of this structure.",
+			"dedicated_fanbase": "Dedicated Kpop fanbases utilize their collective influence and power to attract and capture incoming negative public opinions and criticism, further enhancing their protective function and ensuring the well-being and success of their idols."
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Isotopic composition",
+      "definition": "The proportion of different isotopes present in a sample."
+    },
+    {
+      "name": "Isotopic abundance",
+      "definition": "The relative amount of a particular isotope present in a sample."
+    },
+    {
+      "name": "Isotopic fractionation",
+      "definition": "The process by which the isotopic composition of a substance changes as it moves through the Earth's geochemical cycles."
+    },
+    {
+      "name": "Stable isotopes",
+      "definition": "Isotopes that do not radioactively decay and have a constant abundance in a given sample."
+    },
+    {
+      "name": "Radioactive isotopes",
+      "definition": "Isotopes that radioactively decay and have a half-life, which can be used to determine the age of a sample."
+    },
+    {
+      "name": "Isotope dating",
+      "definition": "Techniques used to determine the age of rocks or minerals based on the decay rate of radioactive isotopes."
+    },
+    {
+      "name": "Isotope paleohydrology",
+      "definition": "The study of past hydroclimatic conditions using stable isotope analysis of water molecules."
+    },
+    {
+      "name": "Isotope biogeochemistry",
+      "definition": "The study of the cycling and distribution of elements and their isotopes in the Earth's lithosphere, atmosphere, and hydrosphere."
+    }
+  ]
+}

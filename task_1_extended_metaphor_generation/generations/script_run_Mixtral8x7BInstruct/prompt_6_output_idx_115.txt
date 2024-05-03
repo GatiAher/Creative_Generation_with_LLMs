@@ -1,0 +1,9 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Food chains in ecosystems and circular economy in money optimize resource allocation and waste management by minimizing waste and maximizing efficiency through a linear structure.",
+"food\_chains": "In food chains, the linear structure with each vector representing a species and the direction of energy flow indicated by arrowheads facilitates the efficient use and cycling of resources by minimizing competition and maximizing efficiency. The length and magnitude of vectors reflect the biomass and trophic level of organisms, which helps optimize resource allocation and waste management.",
+"circular\_economy": "Similarly, in a circular economy, resources are kept in use for as long as possible, the maximum value is extracted from them whilst in use, and then the materials are recovered and regenerated at the end of each service life. This is done through a linear structure that mirrors the food chain, optimizing resource allocation and waste management by minimizing waste and maximizing efficiency."
+}
+]
+}

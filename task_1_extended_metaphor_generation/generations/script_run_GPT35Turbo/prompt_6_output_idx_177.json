@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Programming Languages in computer program and Umpire hand signals in baseball are structured with syntax and rules, providing a precise way to communicate instructions",
+      "programming_languages": "Programming Languages are designed with syntax rules and proper structure to ensure clear communication of instructions to the computer. By adhering to these rules, programmers can convey their logic effectively.",
+      "umpire_hand_signals": "Similarly, Umpire hand signals in baseball follow a structured set of gestures and rules to communicate calls and decisions during the game. These signals provide a precise way to convey messages to both players and spectators, ensuring clarity and consistency in the game."
+    },
+    {
+      "metaphor": "both Programming Languages in computer program and Umpire hand signals in baseball make use of standardized symbols and conventions to convey complex information to builders",
+      "programming_languages": "In Programming Languages, standardized symbols and conventions are used to represent different functionalities and data structures. This allows developers to understand and build complex systems efficiently.",
+      "umpire_hand_signals": "Umpire hand signals in baseball rely on a set of standardized gestures and conventions to convey important information to players and coaches. These signals communicate complex decisions, such as strikes, balls, or outs, in a concise and universally understood manner."
+    },
+    {
+      "metaphor": "both Programming Languages in computer program and Umpire hand signals in baseball rely on a consistent set of symbols and commands to convey logical sequences of actions",
+      "programming_languages": "Programming Languages rely on a consistent set of symbols and commands to define logical sequences of actions within a program. This ensures that the computer can execute the instructions in the correct order to achieve the desired outcome.",
+      "umpire_hand_signals": "Umpire hand signals in baseball also depend on a consistent set of gestures and commands to convey the logical flow of the game. These signals dictate the actions to be taken by players, such as signaling a safe or out call, based on predefined rules and sequences."
+    }
+  ]
+}

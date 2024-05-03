@@ -1,0 +1,44 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Consumers in ecosystems and Idol Training System in Kpop have Transformation (string)",
+"consumers": "Consumers transform prey into forms that support the survival and growth of other organisms, through the process of digestion and absorption (string)",
+"idol\_training\_system": "The Idol Training System transforms trainees into successful idols, by shaping their talents, personalities, and appearances to meet the demands of the entertainment industry (string)"
+},
+{
+"metaphor": "both Consumers in ecosystems and Idol Training System in Kpop have Specialization (string)",
+"consumers": "Consumers have specialized structures and functions to locate, capture, and process prey (string)",
+"idol\_training\_system": "The Idol Training System has specialized trainers, facilities, and curriculums to develop the talents and skills of trainees, such as singing, dancing, and acting (string)"
+},
+{
+"metaphor": "both Consumers in ecosystems and Idol Training System in Kpop have Sensory Detection (string)",
+"consumers": "Consumers use sensory structures to detect prey (string)",
+"idol\_training\_system": "The Idol Training System uses sensory mechanisms such as auditions, evaluations, and competitions to detect talented trainees (string)"
+},
+{
+"metaphor": "both Consumers in ecosystems and Idol Training System in Kpop have Physical Capture (string)",
+"consumers": "Consumers use physical structures for capturing and consuming prey, such as jaws, teeth, and claws (string)",
+"idol\_training\_system": "The Idol Training System uses physical mechanisms such as rehearsals, performances, and tours to showcase the talents of idols and attract fans (string)"
+},
+{
+"metaphor": "both Consumers in ecosystems and Idol Training System in Kpop have Digestion and Absorption (string)",
+"consumers": "Consumers have structures for digesting and absorbing nutrients from prey (string)",
+"idol\_training\_system": "The Idol Training System has structures for developing and promoting the talents and skills of idols, such as PR, marketing, and branding (string)"
+},
+{
+"metaphor": "both Consumers in ecosystems and Idol Training System in Kpop have Optimization of Hunting and Foraging Strategies (string)",
+"consumers": "Consumers use geometry and mathematical relationships to optimize hunting and foraging strategies (string)",
+"idol\_training\_system": "The Idol Training System uses geometry and mathematical relationships to optimize the training and promotion strategies of idols, such as scheduling, targeting, and positioning (string)"
+},
+{
+"metaphor": "both Consumers in ecosystems and Idol Training System in Kpop have Efficiency (string)",
+"consumers": "Consumers ensure that the body can withstand the demands of capturing and consuming prey through efficient design (string)",
+"idol\_training\_system": "The Idol Training System ensures that the idols can withstand the demands of performing and entertaining through efficient design, such as time management, workload allocation, and rest management (string)"
+},
+{
+"metaphor": "both Consumers in ecosystems and Idol Training System in Kpop have Durability (string)",
+"consumers": "Consumers ensure that the body can withstand the demands of capturing and consuming prey through durable design (string)",
+"idol\_training\_system": "The Idol Training System ensures that the idols can withstand the demands of performing and entertaining through durable design, such as health management, injury prevention, and resilience building (string)"
+}
+]
+}

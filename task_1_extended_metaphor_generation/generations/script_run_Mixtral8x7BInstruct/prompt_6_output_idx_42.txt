@@ -1,0 +1,19 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "a celestial shield and a technological force field both employ",
+			"oort\_cloud": "the Oort Cloud's outer layer of icy bodies acts as a sacrificial barrier, absorbing and deflecting interstellar objects and cosmic radiation to protect the inner solar system.",
+			"energy-absorbing,\_self-sacrificing,\_spherical\_force-field": "Iron Man's energy-absorbing, self-sacrificing, spherical force-field uses an outer layer designed to absorb and sacrifice itself to protect the suit's inner components from external threats."
+		},
+		{
+			"metaphor": "a spherical design and a protective bubble both provide",
+			"oort\_cloud": "the Oort Cloud's theoretical spherical formation of icy bodies creates a large protective zone, dissipating and deflecting external threats before they reach the inner solar system.",
+			"energy-absorbing,\_self-sacrificing,\_spherical\_force-field": "Iron Man's energy-absorbing, self-sacrificing, spherical force-field provides a protective bubble around the suit, absorbing and deflecting external threats before they reach the inner components."
+		},
+		{
+			"metaphor": "a gravitational attraction and a repelling barrier both maintain",
+			"oort\_cloud": "the collective gravitational forces of the icy bodies in the Oort Cloud can attract and capture incoming objects, maintaining the stability of the protective structure.",
+			"energy-absorbing,\_self-sacrificing,\_spherical\_force-field": "Iron Man's energy-absorbing, self-sacrificing, spherical force-field uses a repelling barrier to maintain the stability of the protective field and prevent external threats from breaching the suit's defenses."
+		}
+	]
+}

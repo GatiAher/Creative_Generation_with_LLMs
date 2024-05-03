@@ -1,0 +1,26 @@
+{
+"extended\_metaphor": \[
+{
+"metaphor": "both Hubble's Law in big bang theory and Statistical analysis of player performance trends over distance (e.g. home runs hit by a player over their career) to inform predictions of future performance and player value. in baseball have Proportionality (string)",
+"hubble's\_law": "Hubble's Law states that the speed at which a celestial object is moving away from us is directly proportional to its distance from us. This relationship allows us to estimate the distance of a celestial object by measuring its redshift.",
+"statistical\_analysis\_of\_player\_performance\_trends\_over\_distance_(e.g._home\_runs\_hit\_by\_a\_player\_over\_their\_career)_to\_inform\_predictions\_of\_future\_performance\_and\_player\_value.": "In baseball, the number of home runs hit by a player over their career may also show a proportional relationship to the distance the ball is hit. By analyzing this trend, we can estimate the distance a player's home run will travel based on their past performance."
+},
+{
+"metaphor": "both Hubble's Law in big bang theory and Statistical analysis of player performance trends over distance (e.g. home runs hit by a player over their career) to inform predictions of future performance and player value. in baseball have Predictive Modeling (string)",
+"hubble's\_law": "Hubble's Law uses a linear relationship to model the expansion of the universe, providing a framework for understanding and predicting the behavior of celestial objects.",
+"statistical\_analysis\_of\_player\_performance\_trends\_over\_distance_(e.g._home\_runs\_hit\_by\_a\_player\_over\_their\_career)_to\_inform\_predictions\_of\_future\_performance\_and\_player\_value.": "In baseball, statistical analysis of player performance trends over distance can be used to create a predictive model for a player's future performance and potential value to a team."
+},
+{
+"metaphor": "both Hubble's Law in big bang theory and Statistical analysis of player performance trends over distance (e.g. home runs hit by a player over their career) to inform predictions of future performance and player value. in baseball have Observation and Measurement (string)",
+"hubble's\_law": "The measurement of redshift in light emitted by a celestial object as an indicator of its movement and distance is a key aspect of Hubble's Law.",
+"statistical\_analysis\_of\_player\_performance\_trends\_over\_distance_(e.g._home\_runs\_hit\_by\_a\_player\_over\_their\_career)_to\_inform\_predictions\_of\_future\_performance\_and\_player\_value.": "In baseball, observation and measurement of the distance a player's home runs travel is used to identify trends and make predictions about future performance."
+},
+{
+"metaphor": "both Hubble's Law in big bang theory and Statistical analysis of player performance trends over distance (e.g. home runs hit by a player over their career) to inform predictions of future performance and player value. in baseball have Scientific Inquiry (string)",
+"hubble's\_law": "The use of evidence from observations of the universe to support scientific theories, such as the theory of the expanding universe, is an important aspect of Hubble's Law.",
+"statistical\_analysis\_of\_player\_performance\_trends\_over\_distance_(e.g._home\_runs\_hit\_by\_a\_player\_over\_their\_career)_to\_inform\_predictions\_of\_future\_performance\_and\_player\_value.": "In baseball, statistical analysis of player performance trends over distance is a form of scientific inquiry that uses evidence from observations to support theories and make predictions about future performance."
+}
+\]
+}
+
+In this metaphor, Hubble's Law and statistical analysis of player performance trends over distance are compared in terms of their use of proportionality, predictive modeling, observation and measurement, and scientific inquiry. Both Hubble's Law and statistical analysis use proportionality to make estimates and predictions. Hubble's Law uses the relationship between the speed at which a celestial object is moving away from us and

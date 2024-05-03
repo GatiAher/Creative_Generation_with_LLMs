@@ -1,0 +1,24 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "are governed by invisible hands that shape their form and function",
+"dwarf\_planets": "Gravitational forces, like the invisible hand, determine the shape of dwarf planets by pulling material towards the center of mass, resulting in a spherical shape that maximizes surface area for a given volume and allows for better detection and study.",
+"interconnectedness\_of\_global\_economies": "Economic forces, like the invisible hand, govern the interconnectedness of global economies by pulling money towards areas of high demand, resulting in a dynamic and ever-changing system that can be described and predicted using mathematical equations."
+},
+{
+"metaphor": "can be described and predicted through mathematical equations",
+"dwarf\_planets": "The orbits of dwarf planets can be described and predicted using mathematical equations, allowing astronomers to analyze and understand their motion.",
+"interconnectedness\_of\_global\_economies": "The movements and interactions of the global economy can be described and predicted using mathematical equations, allowing economists to analyze and understand its behavior."
+},
+{
+"metaphor": "are constantly intersecting and influencing one another",
+"dwarf\_planets": "The orbits of dwarf planets often intersect with other celestial bodies and debris, demonstrating the dynamic and ever-changing nature of the solar system.",
+"interconnectedness\_of\_global\_economies": "The global economy is constantly intersecting and influencing other economies, demonstrating the interconnectedness and interdependence of the global financial system."
+},
+{
+"metaphor": "share common principles and definitions",
+"dwarf\_planets": "Despite not meeting all the criteria to be classified as a full-fledged planet, dwarf planets still meet many of the same geometric, mathematical, and engineering principles that define other planets.",
+"interconnectedness\_of\_global\_economies": "Despite not having a central authority or single governing body, the global economy still operates under common principles and definitions, allowing for a unified understanding and analysis of the system."
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Cosmic Microwave Background Radiation",
+      "definition": "The residual heat from the Big Bang, now cooled to a few degrees above absolute zero."
+    },
+    {
+      "name": "Expanding Universe",
+      "definition": "The observation that the universe is not static, but instead is expanding."
+    },
+    {
+      "name": "Inflationary Universe",
+      "definition": "A period of extremely rapid expansion of the universe during its early stages."
+    },
+    {
+      "name": "Hubble's Law",
+      "definition": "The observation that the speed at which a galaxy is moving away from us is proportional to its distance from us."
+    },
+    {
+      "name": "Redshift",
+      "definition": "The shifting of light towards longer, redder wavelengths as it travels through an expanding universe."
+    },
+    {
+      "name": "Nucleosynthesis",
+      "definition": "The process by which the lightest elements (hydrogen, helium, and lithium) were formed in the early universe."
+    }
+  ]
+}

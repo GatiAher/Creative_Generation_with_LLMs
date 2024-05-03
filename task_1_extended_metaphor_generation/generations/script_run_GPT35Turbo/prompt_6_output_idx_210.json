@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Parallel Computing in distributed computing and J.A.R.V.I.S. (Just A Rather Very Intelligent System) in Iron Man have Divide and Conquer as a design principle and mechanism",
+      "parallel_computing": "Divide and Conquer in Parallel Computing involves breaking down complex problems into smaller, more manageable parts that can be independently or simultaneously solved. This approach enables efficient utilization of resources and faster processing.",
+      "j.a.r.v.i.s._(just_a_rather_very_intelligent_system)": "Similarly, J.A.R.V.I.S. in Iron Man exhibits Divide and Conquer by analyzing and tackling various tasks in a sequential and parallel manner. By breaking down the workload into smaller segments, J.A.R.V.I.S. optimizes decision-making and problem-solving capabilities similar to how Parallel Computing divides tasks for faster computation."
+    },
+    {
+      "metaphor": "both Parallel Computing in distributed computing and J.A.R.V.I.S. (Just A Rather Very Intelligent System) in Iron Man have Parallel Processing as a design principle and mechanism",
+      "parallel_computing": "Parallel Processing in distributed computing involves harnessing multiple processors to work on different parts of a problem simultaneously, resulting in enhanced performance and faster computation speeds.",
+      "j.a.r.v.i.s._(just_a_rather_very_intelligent_system)": "Likewise, J.A.R.V.I.S. demonstrates Parallel Processing by efficiently multitasking and handling numerous operations concurrently. By leveraging its computational power and multitasking abilities, J.A.R.V.I.S. optimizes task completion and response times akin to the way Parallel Computing accelerates processing through simultaneous tasks."
+    },
+    {
+      "metaphor": "both Parallel Computing in distributed computing and J.A.R.V.I.S. (Just A Rather Very Intelligent System) in Iron Man have Collaborative Engineering as a design principle and mechanism",
+      "parallel_computing": "Collaborative Engineering encourages specialists in different areas to collaborate and work on specific portions of a project, fostering efficiency and accelerating the overall design and development process.",
+      "j.a.r.v.i.s._(just_a_rather_very_intelligent_system)": "In a similar manner, J.A.R.V.I.S. embodies Collaborative Engineering by coordinating and orchestrating interactions between different systems and components to achieve common goals. By integrating various specialized functions seamlessly, J.A.R.V.I.S. streamlines operations and enhances overall system performance just like how Collaborative Engineering expedites processes in Parallel Computing."
+    }
+  ]
+}

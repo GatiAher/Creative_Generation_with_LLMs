@@ -1,0 +1,28 @@
+{
+  "sub_concepts": [
+    {
+      "name": " Cosmic Microwave Background Radiation",
+      "definition": "The thermal radiation left over from the Big Bang, which is detectable in the microwave range of the electromagnetic spectrum."
+    },
+    {
+      "name": "Redshift",
+      "definition": "A phenomenon where light emitted by distant galaxies is observed to have longer wavelengths than it would have if it were emitted from a nearby source, due to the expansion of the universe."
+    },
+    {
+      "name": "Hubble's Law",
+      "definition": "A mathematical relationship that describes how the distance of a galaxy is related to its recessional velocity, which states that the farther away a galaxy is, the faster it moves away from us."
+    },
+    {
+      "name": "Galaxy Evolution",
+      "definition": "The study of how galaxies change over time, including their formation, growth, and interactions with other galaxies."
+    },
+    {
+      "name": "Dark Matter",
+      "definition": "A hypothetical form of matter that does not emit or reflect any electromagnetic radiation, but whose presence can be inferred by its gravitational effects on visible matter."
+    },
+    {
+      "name": "Dark Energy",
+      "definition": "A hypothetical form of energy that is thought to be responsible for the accelerating expansion of the universe, which cannot be directly detected but whose presence can be inferred by its gravitational effects on visible matter."
+    }
+  ]
+}

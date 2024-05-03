@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Rate-determining step in chemical kinetics and Pitching staff in baseball have the characteristic of bottleneck",
+      "rate-determining_step": "In chemical kinetics, the Rate-determining step acts as a bottleneck that controls the overall speed of the reaction by determining the slowest step in the mechanism. It regulates the efficiency and outcome of the reaction, ensuring that the process rate is limited by the slowest individual component.",
+      "pitching_staff": "Similarly, the Pitching staff in baseball can be seen as a bottleneck that controls the game's pace and outcome. Just like the Rate-determining step, the Pitching staff influences the overall performance by regulating the speed and efficiency of the game through the control and strategy of pitch selection."
+    },
+    {
+      "metaphor": "both Rate-determining step in chemical kinetics and Pitching staff in baseball act as a barrier",
+      "rate-determining_step": "The Rate-determining step introduces an elevated barrier to slow down a specific component significantly, making it the limiting factor in the overall process rate. This barrier alters the reaction pathway and determines the overall speed and extent of the reaction.",
+      "pitching_staff": "Similarly, the Pitching staff in baseball serves as a barrier to the opposing team's progress. By strategically controlling the flow of the game and slowing down the opposing team's offense, the Pitching staff becomes the limiting factor that determines the outcome of the game."
+    },
+    {
+      "metaphor": "both Rate-determining step in chemical kinetics and Pitching staff in baseball serve as a constraint",
+      "rate-determining_step": "The Rate-determining step acts as a constraint that limits the rate at which reactants can progress through a mechanism, thereby influencing the speed and extent of the process. By constraining the reaction pathway, it shapes the overall rate and efficiency of the chemical reaction.",
+      "pitching_staff": "Likewise, the Pitching staff in baseball imposes constraints on the opposing team's scoring opportunities and offensive progress. Through strategic decisions and control over the game pace, the Pitching staff limits the opposing team's ability to advance, influencing the speed and outcome of the game."
+    }
+  ]
+}

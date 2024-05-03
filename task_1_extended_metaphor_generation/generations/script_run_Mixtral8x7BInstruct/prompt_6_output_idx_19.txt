@@ -1,0 +1,29 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Asteroids in solar system and Leveraging Transaction Data for Improved Financial Systems in money treat data as an asset",
+"asteroids": "Asteroids leave behind leftover data in the form of space debris and orbits, which can provide valuable insights into the behavior and history of the solar system",
+"leveraging\_transaction\_data\_for\_improved\_financial\_systems": "Transaction data in financial systems provide valuable insights into financial behavior and trends, which can be used to improve the overall system's performance and security"
+},
+{
+"metaphor": "both Asteroids in solar system and Leveraging Transaction Data for Improved Financial Systems in money utilize redundancy",
+"asteroids": "Multiple asteroids and celestial bodies in the solar system provide redundancy, ensuring that the system can continue to function even if one component fails",
+"leveraging\_transaction\_data\_for\_improved\_financial\_systems": "Multiple sources of transaction data in financial systems provide redundancy, ensuring that the system can continue to function even if one source fails"
+},
+{
+"metaphor": "both Asteroids in solar system and Leveraging Transaction Data for Improved Financial Systems in money benefit from interdisciplinary collaboration",
+"asteroids": "Studying the interactions between asteroids and celestial bodies requires collaboration between different scientific disciplines, such as physics, astronomy, and mathematics",
+"leveraging\_transaction\_data\_for\_improved\_financial\_systems": "Leveraging transaction data for improved financial systems requires collaboration between different disciplines, such as data science, computer science, and finance, to fully understand and optimize the system's behavior"
+},
+{
+"metaphor": "both Asteroids in solar system and Leveraging Transaction Data for Improved Financial Systems in money use feedback loops",
+"asteroids": "Monitoring the behavior and orbits of asteroids provides feedback for understanding and predicting potential collisions and other hazards in the solar system",
+"leveraging\_transaction\_data\_for\_improved\_financial\_systems": "Monitoring and analyzing transaction data provides feedback for understanding and predicting financial trends and potential risks in the system"
+},
+{
+"metaphor": "both Asteroids in solar system and Leveraging Transaction Data for Improved Financial Systems in money are adaptive systems",
+"asteroids": "The solar system is constantly changing due to external factors, such as the influence of other celestial bodies, requiring asteroids and other components to adapt to changing conditions",
+"leveraging\_transaction\_data\_for\_improved\_financial\_systems": "Financial systems are constantly changing due to external factors, such as market conditions and economic trends, requiring transaction data analysis and system adaptation to maintain optimal performance and security"
+}
+]
+}

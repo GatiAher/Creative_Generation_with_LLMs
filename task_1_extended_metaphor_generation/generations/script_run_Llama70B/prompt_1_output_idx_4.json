@@ -1,0 +1,28 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Nucleotides",
+      "definition": "The building blocks of DNA, consisting of a sugar molecule, a phosphate group, and one of four nitrogenous bases - adenine, thymine, guanine, or cytosine."
+    },
+    {
+      "name": "Base pairing",
+      "definition": "The process by which nucleotides are paired together to form a complementary base pair, with adenine pairing with thymine and guanine pairing with cytosine."
+    },
+    {
+      "name": "DNA structure",
+      "definition": "The double helix structure of DNA, composed of two complementary strands of nucleotides that are twisted together."
+    },
+    {
+      "name": "Replication",
+      "definition": "The process by which DNA is copied, involving the unwinding of the double helix and the synthesis of new strands."
+    },
+    {
+      "name": "Transcription",
+      "definition": "The process by which DNA is transcribed into RNA, involving the synthesis of an RNA copy of a DNA sequence."
+    },
+    {
+      "name": "Translation",
+      "definition": "The process by which proteins are synthesized from RNA, involving the decoding of the genetic code in mRNA and the assembly of amino acids into polypeptide chains."
+    }
+  ]
+}

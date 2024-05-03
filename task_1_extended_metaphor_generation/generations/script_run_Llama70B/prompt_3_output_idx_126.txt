@@ -1,0 +1,21 @@
+ {{{"Tectonic Plate Interactions"}}} describe the dynamics of how large rigid plates on Earth's surface interact with one another, influencing their motion and deformation. This understanding helps predict natural disasters, geological events, and Earth's history. Tectonic Plate Interactions operate through various plate boundaries, classified into three types: {{{divergent}}}, {{{convergent}}}, and {{{transform}}} boundaries. Divergent boundaries are areas where plates move apart, resulting in new crust creation as magma rises from Earth's mantle. Convergent boundaries have plates moving towards each other, causing subduction or collision, and potentially forming mountains, volcanoes, or earthquakes. Transform boundaries involve plates sliding past one another horizontally, without creating or destroying crust. The interactions result from the combination of these boundary types and the changing plate geometries, which drive the continuous process of plate tectonics.
+
+Surrounded by double curly braces are terms related to Geology, chemistry, and scientific jargon:
+
+* "Tectonic Plate Interactions"
+* "plate boundaries"
+* "divergent boundaries"
+* "convergent boundaries"
+* "transform boundaries"
+* "Earth's mantle"
+* "magma"
+* "subduction"
+* "collision"
+* "mountains"
+* "volcanoes"
+* "earthquakes"
+* "plate tectonics"
+
+Surrounded by square brackets are terms related to geometry, math, engineering, and design:
+
+* none

@@ -1,0 +1,26 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Black Holes in the theory of naked singularity and Black Hole Concept in Kpop Music Videos in Kpop concentrate mass and density, leading to intense gravitational pull that warps spacetime.",
+      "black_holes": {
+        "description": "Concentration of Mass and Density",
+        "mechanism": "Designing with concentrated mass and density leading to intense gravitational pull that warps spacetime."
+      },
+      "black_hole_concept_in_kpop_music_videos": {
+        "description": "Concentration of Mass and Density",
+        "mechanism": "Creating visually striking scenes with concentrated mass and density, such as groups of dancers or elaborate sets, resulting in captivating and intense visuals that draw the viewers into the video."
+      }
+    },
+    {
+      "metaphor": "both Black Holes in the theory of naked singularity and Black Hole Concept in Kpop Music Videos in Kpop feature an event horizon, a boundary that prevents light from escaping and traps matter and energy within.",
+      "black_holes": {
+        "description": "Event Horizon",
+        "mechanism": "Creating a structure with an event horizon, a boundary that prevents light from escaping and traps matter and energy within."
+      },
+      "black_hole_concept_in_kpop_music_videos": {
+        "description": "Event Horizon",
+        "mechanism": "Designing scenes with strong visual focal points, like charismatic performers or stunning choreography, that captivate the audience's attention and immerse them in the world of the music video, creating a boundary that captures the viewers' focus and energy within the video."
+      }
+    }
+  ]
+}

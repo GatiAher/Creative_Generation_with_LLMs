@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Efficient use and cycling of resources",
+      "mechanism": "The linear structure of food webs, with each vector representing a species and the direction of energy flow indicated by arrowheads, facilitates the efficient use and cycling of resources by minimizing competition and maximizing efficiency."
+    },
+    {
+      "description": "Optimization of resource allocation and waste management",
+      "mechanism": "The linear structure of food webs, with the length and magnitude of vectors reflecting the biomass and trophic level of organisms, optimizes resource allocation and waste management by minimizing competition and maximizing efficiency."
+    }
+  ]
+}

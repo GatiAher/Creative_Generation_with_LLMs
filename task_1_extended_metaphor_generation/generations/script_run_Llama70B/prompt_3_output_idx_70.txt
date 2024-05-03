@@ -1,0 +1,26 @@
+ ```
+"Algorithms provide a step-by-step process for solving problems or completing tasks. They act as a roadmap to guide the computer through the necessary calculations and decisions required to reach a desired outcome. In essence, they allow computers to make informed decisions based on data and criteria, much like humans do when solving problems. The structure of an algorithm consists of inputs, outputs, and a series of well-defined steps that transform the inputs into the desired outputs. Each step follows a specific pattern, such as repetition, branching, or iteration, which allows the algorithm to navigate and manipulate data in a predictable manner. The specific pattern used depends on the type of problem being solved and the desired outcome. For example, a sorting algorithm might use a repetitive pattern to arrange data in ascending order, while a search algorithm might use branching to explore different paths until it finds the desired result."
+```
+Double curly braces:
+
+* Algorithm
+* Step-by-step process
+* Calculations
+* Decisions
+* Data
+* Criteria
+* Inputs
+* Outputs
+* Well-defined steps
+* Pattern
+* Repetition
+* Branching
+* Iteration
+* Navigate
+* Manipulate
+* Predictable manner
+
+Square braces:
+
+* Sorting algorithm
+* Search algorithm

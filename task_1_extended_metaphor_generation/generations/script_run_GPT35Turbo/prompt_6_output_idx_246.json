@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Legend in topographic maps and Heads-Up Display (HUD) in Iron Man have Symbolization as a key design principle",
+      "legend": "The Symbolization aspect of Legend involves categorizing symbols through type, color, size, and pattern to systematically organize them for clear interpretation and correlation with real-world features on a map.",
+      "heads-up_display_(hud)": "Similarly, the Heads-Up Display (HUD) in Iron Man employs Symbolization by categorizing digital information with different visuals like colors, sizes, and patterns, aiding Tony Stark in interpreting and correlating data in his suits for real-time decision-making."
+    },
+    {
+      "metaphor": "both Legend in topographic maps and Heads-Up Display (HUD) in Iron Man have Standardization as a key design principle",
+      "legend": "The Standardization in Legend ensures consistency and a standardized method of interpreting map information by structuring the approach for differentiation and identification of various features based on graphical representation.",
+      "heads-up_display_(hud)": "In comparison, the Heads-Up Display (HUD) in Iron Man relies on Standardization to present data in a consistent and easily interpretable manner, enabling Tony Stark to quickly differentiate and identify key information displayed in his suit's digital interface."
+    }
+  ]
+}

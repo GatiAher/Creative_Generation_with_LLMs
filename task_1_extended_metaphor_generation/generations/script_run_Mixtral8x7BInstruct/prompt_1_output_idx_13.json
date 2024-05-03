@@ -1,0 +1,36 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Contour lines",
+      "definition": "Contour lines are lines on a map that connect points of equal elevation, helping to visualize the shape and slope of the terrain."
+    },
+    {
+      "name": "Scale",
+      "definition": "Scale on a topographic map shows the relationship between distance on the map and distance in the real world, usually expressed as a representative fraction or a bar scale."
+    },
+    {
+      "name": "Symbols",
+      "definition": "Topographic maps use standardized symbols to represent various features like buildings, roads, rivers, and vegetation, allowing users to quickly understand the map."
+    },
+    {
+      "name": "Gradient",
+      "definition": "Gradient in the context of topographic maps refers to the rate of change in elevation, often conveyed through the closeness of contour lines or color shading."
+    },
+    {
+      "name": "Relief",
+      "definition": "Relief on a topographic map is the difference in height between various points on the map, often visualized using shading, hypsometric tints, or exaggerated vertical relief."
+    },
+    {
+      "name": "Grid system",
+      "definition": "A grid system on a topographic map is a network of intersecting lines, usually at right angles, that help users determine coordinates and locate features precisely."
+    },
+    {
+      "name": "Map key",
+      "definition": "The map key, or legend, on a topographic map explains the meaning of the symbols, lines, and colors used on the map, allowing users to interpret the map correctly."
+    },
+    {
+      "name": "Hydrography",
+      "definition": "Hydrography on a topographic map includes the depiction of water features like rivers, lakes, and wetlands, as well as underwater features like contour intervals and depth curves."
+    }
+  ]
+}

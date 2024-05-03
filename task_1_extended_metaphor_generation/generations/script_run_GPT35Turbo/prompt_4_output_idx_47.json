@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Blueprint Design",
+      "mechanism": "Acts as a precise blueprint that outlines dimensions, shapes, and materials required for constructing a geometric structure by connecting various components in a systematic manner"
+    },
+    {
+      "description": "Standardized Message Format",
+      "mechanism": "Specifies a standardized format for messages sent and received when interacting with web services, employing a structured format to define the data being transmitted"
+    }
+  ]
+}

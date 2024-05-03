@@ -1,0 +1,48 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Planets",
+      "definition": "Large celestial bodies that orbit around the Sun."
+    },
+    {
+      "name": "Dwarf Planets",
+      "definition": "Small celestial bodies that orbit around the Sun and have enough mass to be rounded by their own gravity but have not cleared their orbits."
+    },
+    {
+      "name": "Asteroids",
+      "definition": "Small rocky objects that orbit around the Sun."
+    },
+    {
+      "name": "Comets",
+      "definition": "Icy bodies that release gas and dust as they approach the inner solar system."
+    },
+    {
+      "name": "Meteors",
+      "definition": "Small rocks or pieces of debris that enter the Earth's atmosphere and burn up, producing shooting stars or meteors."
+    },
+    {
+      "name": "Black Holes",
+      "definition": "Regions of spacetime where the gravitational pull is so strong that nothing, including light, can escape."
+    },
+    {
+      "name": "Gas Giants",
+      "definition": "Planets primarily composed of hydrogen and helium, such as Jupiter and Saturn."
+    },
+    {
+      "name": "Terrestrial Planets",
+      "definition": "Planets with a solid surface, like Earth, Mars, Venus, and Mercury."
+    },
+    {
+      "name": "Moons",
+      "definition": "Natural satellites that orbit planets."
+    },
+    {
+      "name": "Rings",
+      "definition": "Thin, circular structures made of ice and rock particles that orbit around some planets."
+    },
+    {
+      "name": "Space Weather",
+      "definition": "The study of the effects of solar activity on the Earth's magnetic field, atmosphere, and climate."
+    }
+  ]
+}

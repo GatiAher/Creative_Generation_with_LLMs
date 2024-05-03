@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "High Temperatures and Densities",
+      "mechanism": "The formation of atomic nuclei was driven by the high temperatures and densities of the early universe, allowing for the combination of quarks into protons and neutrons, and eventually into atomic nuclei."
+    },
+    {
+      "description": "Strong Nuclear Force",
+      "mechanism": "The strong nuclear force was responsible for holding the atomic nuclei together, allowing them to form and become stable, thus enabling the creation of elements such as hydrogen, helium, and lithium."
+    },
+    {
+      "description": "Nuclear Reaction Physics",
+      "mechanism": "The relative abundances of the elements produced in the early universe can be calculated using the physics of nuclear reactions, which helps to support the theory of big bang nucleosynthesis and the idea that these events occurred in the first few minutes after the big bang."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "purpose": "Load balancing ensures that no single server is overwhelmed with requests, which helps maintain response times, reduce latency, and avoid crashes. It's like a traffic manager for your infrastructure, directing cars (requests) to different routes (servers) to prevent congestion and optimize travel time.",
+  "mechanism": "Load balancing works by dispersing incoming requests across multiple servers, similar to how a bridge distributes weight across multiple support beams. This distribution ensures that no single point is overstressed, increasing overall stability and resilience. The load balancer acts as a smart router, analyzing incoming requests and redirecting them to the best available server based on factors such as server capacity, location, and availability. By spreading the workload evenly, load balancing enables greater scalability, redundancy, and fault tolerance in distributed systems."
+}

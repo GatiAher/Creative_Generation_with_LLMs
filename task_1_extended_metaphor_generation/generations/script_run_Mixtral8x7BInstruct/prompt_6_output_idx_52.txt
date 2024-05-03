@@ -1,0 +1,24 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Inflationary Universe in big bang theory and Explosive Popularity Growth of Kpop Bands in Kpop have Identification and Addressing of Issues (string)",
+			"inflationary\_universe": "The theory of cosmic inflation addresses issues such as the horizon problem and flatness problem in the early universe, providing a solution for these problems and leading to a more complete understanding of the universe's history.",
+			"explosive\_popularity\_growth\_of\_kpop\_bands": "Kpop bands often start with a small group of dedicated fans, and as they gain popularity, they address any issues or criticisms that arise, such as accusations of cultural appropriation or over-sexualization, in order to appeal to a wider audience and continue their rapid growth."
+		},
+		{
+			"metaphor": "both Inflationary Universe in big bang theory and Explosive Popularity Growth of Kpop Bands in Kpop have Use of a Driving Force (string)",
+			"inflationary\_universe": "A negative-pressure vacuum energy density, or dark energy, drives the rapid, accelerated expansion of the universe, leading to the formation of large-scale structures such as galaxies and clusters of galaxies.",
+			"explosive\_popularity\_growth\_of\_kpop\_bands": "The driving force behind the explosive popularity growth of Kpop bands is often a combination of catchy music, visually appealing music videos, and charismatic performers, which attracts a large number of fans and leads to rapid growth in popularity."
+		},
+		{
+			"metaphor": "both Inflationary Universe in big bang theory and Explosive Popularity Growth of Kpop Bands in Kpop have Exponential Growth (string)",
+			"inflationary\_universe": "The scale factor increases exponentially with time during the period of inflation, leading to rapid expansion of the universe and the formation of structures on large scales.",
+			"explosive\_popularity\_growth\_of\_kpop\_bands": "Kpop bands often experience exponential growth in popularity, with their fan base growing rapidly in a short period of time, leading to widespread recognition and success."
+		},
+		{
+			"metaphor": "both Inflationary Universe in big bang theory and Explosive Popularity Growth of Kpop Bands in Kpop have Preservation of Symmetry (string)",
+			"inflationary\_universe": "The homogeneity and isotropy of the universe are preserved during the period of inflation, leading to the uniformity of the cosmic microwave background radiation and the large-scale structure of the universe.",
+			"explosive\_popularity\_growth\_of\_kpop\_bands": "Kpop bands often maintain a consistent image and style, preserving their symmetry and appeal to their fan base, leading to the uniformity of their fan culture and the large-scale structure of the Kpop fandom."
+		}
+	]
+}

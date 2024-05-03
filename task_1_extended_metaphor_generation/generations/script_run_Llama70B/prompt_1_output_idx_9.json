@@ -1,0 +1,40 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Algorithms",
+      "definition": "A set of instructions used to solve a problem or perform a specific task."
+    },
+    {
+      "name": "Data Structures",
+      "definition": "Organized ways to store and manipulate data in a computer program."
+    },
+    {
+      "name": "Software Engineering",
+      "definition": "The application of engineering principles and techniques to the design, development, testing, and maintenance of software systems."
+    },
+    {
+      "name": "Programming Languages",
+      "definition": "Formal languages for expressing computations that can be performed by a computer."
+    },
+    {
+      "name": "Computer Architecture",
+      "definition": "The design and organization of a computer's hardware components, including the CPU, memory, input/output devices, and other peripherals."
+    },
+    {
+      "name": "Operating Systems",
+      "definition": "Software that manages computer hardware resources and provides common services for computer programs."
+    },
+    {
+      "name": "Databases",
+      "definition": "Collections of data that are organized and managed by a database management system."
+    },
+    {
+      "name": "Artificial Intelligence",
+      "definition": "The study of how to create machines that can perform tasks that would normally require human intelligence."
+    },
+    {
+      "name": "Human-Computer Interaction",
+      "definition": "The study of how people interact with computers and how to design user interfaces that are intuitive and easy to use."
+    }
+  ]
+}

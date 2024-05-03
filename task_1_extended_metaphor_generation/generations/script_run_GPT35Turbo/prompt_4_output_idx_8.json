@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Redundancy",
+      "mechanism": "Provide additional support (gravitational force) to ensure structural integrity and stability"
+    },
+    {
+      "description": "Resilience",
+      "mechanism": "Enabling the universe's structure to hold together despite external forces (laws of geometry and physics)"
+    }
+  ]
+}

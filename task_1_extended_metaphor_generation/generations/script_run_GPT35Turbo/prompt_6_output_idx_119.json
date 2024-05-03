@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "Both Equilibrium in a chemical reaction and Central Bank in money have a balancing point that acts to maintain stability.",
+      "equilibrium": "In a chemical reaction, the balancing point of equilibrium ensures that the concentrations of reactants and products reach a stable state, preventing any further changes.",
+      "central_bank": "Similarly, the Central Bank serves as a balancing point in the monetary system by regulating interest rates and money supply to maintain economic stability and prevent drastic fluctuations."
+    },
+    {
+      "metaphor": "Both Equilibrium in a chemical reaction and Central Bank in money are structured based on the principle of dynamic equilibrium.",
+      "equilibrium": "Dynamic equilibrium ensures that the forward and reverse reactions in a chemical system occur at the same rate, maintaining a stable concentration of reactants and products over time.",
+      "central_bank": "Likewise, the Central Bank's implementation of dynamic equilibrium involves adjusting interest rates and monetary policies continuously to balance inflation and unemployment rates, maintaining economic stability."
+    },
+    {
+      "metaphor": "Both Equilibrium in a chemical reaction and Central Bank in money operate similarly to a feedback control system.",
+      "equilibrium": "The feedback control system in a chemical reaction continuously monitors the system's conditions and adjusts reaction rates to maintain the desired equilibrium state.",
+      "central_bank": "In a financial context, the Central Bank also functions as a feedback control system, monitoring economic indicators and adjusting policies to steer inflation and employment rates towards the desired levels, ensuring monetary stability."
+    }
+  ]
+}

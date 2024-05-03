@@ -1,0 +1,20 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Naked Singularity",
+      "definition": "A type of singularity that is not hidden behind an event horizon in a black hole"
+    },
+    {
+      "name": "Singularities",
+      "definition": "Points in space where the laws of physics break down and the quantities like density and gravity become infinite"
+    },
+    {
+      "name": "Event Horizon",
+      "definition": "The boundary surrounding a black hole beyond which nothing can escape, not even light"
+    },
+    {
+      "name": "Black Holes",
+      "definition": "Objects in space with extremely strong gravitational fields that not even light can escape from within its boundary"
+    }
+  ]
+}

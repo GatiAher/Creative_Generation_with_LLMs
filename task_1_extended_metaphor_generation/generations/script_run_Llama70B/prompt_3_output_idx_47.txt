@@ -1,0 +1,14 @@
+ ```
+"Prolactin's purpose is to optimize the efficiency of the {mammary glands} during {lactation}, ensuring the successful nourishment of {newborns}. It also plays a role in fostering emotional bonds between {sexual partners}, promoting feelings of {satisfaction} and {attachment}. Prolactin's mechanism involves its ability to regulate and balance various {physiological processes}, including {milk production}, {hormone secretion}, and {neurotransmitter activity}. Its unique structure allows it to interact with specific {receptors} on target cells, triggering a cascade of downstream effects that ultimately achieve the desired outcome."
+```
+Words surrounded by double curly braces relate to biology, chemistry, or scientific jargon:
+
+* mammary glands
+* lactation
+* hormone secretion
+* neurotransmitter activity
+* receptors
+
+Words surrounded by square braces relate to geometry, math, engineering, and design:
+
+* none

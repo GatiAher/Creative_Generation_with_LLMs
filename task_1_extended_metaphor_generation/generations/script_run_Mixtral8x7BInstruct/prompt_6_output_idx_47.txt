@@ -1,0 +1,5 @@
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "a baseline for measuring uniformity and consistency",
+		

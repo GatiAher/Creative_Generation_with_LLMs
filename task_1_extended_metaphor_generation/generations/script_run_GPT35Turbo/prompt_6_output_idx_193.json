@@ -1,0 +1,37 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "Both GraphQL API in API and Inning scoring system in baseball have a similar approach to the Single Responsibility Principle.",
+      "graphql_api": {
+        "purpose": "The Single Responsibility Principle is akin to a versatile mathematical function that allows users to specify data and requirements in a single request.",
+        "mechanism": "This mechanism in GraphQL API promotes efficient retrieval and manipulation of information."
+      },
+      "inning_scoring_system": {
+        "mirror": "In the Inning scoring system, each inning has the singular responsibility of scoring runs and determining the outcome of that specific part of the game.",
+        "reflection": "This mirrors the efficiency in communication and retrieval seen in GraphQL API, where only the requested data is retrieved and delivered."
+      }
+    },
+    {
+      "metaphor": "The Modularity Principle is a shared characteristic between GraphQL API in API and Inning scoring system in baseball.",
+      "graphql_api": {
+        "purpose": "For GraphQL API, the Modularity Principle operates as a customizable geometry calculator, allowing users to provide specific coordinates, equations, or constraints in the query language.",
+        "mechanism": "This promotes flexibility and separability of components within the system."
+      },
+      "inning_scoring_system": {
+        "mirror": "Similarly, in the Inning scoring system, the components of each inning can be customized based on the players, strategy, and dynamics of that specific part of the game.",
+        "reflection": "This promotes adaptability and flexibility that are akin to the modularity seen in GraphQL API."
+      }
+    },
+    {
+      "metaphor": "Another common characteristic is the Separation of Concerns principle shared by GraphQL API in API and Inning scoring system in baseball.",
+      "graphql_api": {
+        "purpose": "In GraphQL API, the Separation of Concerns principle processes user inputs in a structured manner, retrieving and delivering only the requested data.",
+        "mechanism": "This leads to streamlined communication and retrieval of various data types like geometry, math, engineering, and design data."
+      },
+      "inning_scoring_system": {
+        "mirror": "In the Inning scoring system, each aspect such as pitching, batting, and fielding has a distinct concern and operates independently within the inning.",
+        "reflection": "This structured approach mirrors the streamlined process in GraphQL API, ensuring that each part of the system handles specific tasks efficiently."
+      }
+    }
+  ]
+}

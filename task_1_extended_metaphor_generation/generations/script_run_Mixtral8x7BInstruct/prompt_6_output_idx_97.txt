@@ -1,0 +1,9 @@
+{
+"extended\_metaphor": \[
+{
+"metaphor": "the ability to harness and store solar energy through intricate systems",
+"producers": "Producers in ecosystems, such as plants, utilize complex structures like chloroplasts and pigments to absorb light energy from the sun, converting and storing it as chemical energy in the form of organic compounds.",
+"artificial\_turf\_with\_energy-absorbing\_properties": "Artificial turf with energy-absorbing properties in baseball incorporates advanced materials and designs to capture and utilize solar energy, often by integrating photovoltaic cells or other energy-harvesting technologies into the turf, providing a sustainable and eco-friendly alternative to traditional grass surfaces."
+}
+\]
+}

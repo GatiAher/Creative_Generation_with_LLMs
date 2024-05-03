@@ -1,0 +1,24 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Data as an Asset",
+      "mechanism": "Leftover data from previous processes provide valuable insights into the system and its behavior, making data collection and analysis crucial for understanding and improving the system."
+    },
+    {
+      "description": "Redundancy",
+      "mechanism": "Redundant components, such as multiple satellites, can provide backup and continuity in case of failure, increasing the reliability and robustness of the system."
+    },
+    {
+      "description": "Interdisciplinary Collaboration",
+      "mechanism": "Studying the interactions between different components, such as satellites and their orbits, can help us understand and improve the overall system."
+    },
+    {
+      "description": "Feedback Loops",
+      "mechanism": "Monitoring and analyzing the behavior of the system, such as the orbits of satellites, can provide valuable feedback for improving the system and avoiding collisions."
+    },
+    {
+      "description": "Adaptive Systems",
+      "mechanism": "Designing systems that can adapt to changing conditions, such as the influence of external factors on satellite orbits, can increase the resilience and longevity of the system."
+    }
+  ]
+}

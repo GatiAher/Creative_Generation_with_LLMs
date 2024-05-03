@@ -1,0 +1,6 @@
+"Standardized Currency Denominations"
+
+Modularity: Individual currency denominations act as fundamental building blocks of money, similar to how nucleotides in DNA.
+Standardization: The consistent value and size of each currency denomination allow for predictable and reliable exchange between denominations.
+Scalability: The ability to combine different denominations to make a transaction enables the encoding of a wide range of monetary values in a single transaction.
+Abstraction: The specific monetary value encoded in a currency denomination abstracts the value from the physical form of the money itself.

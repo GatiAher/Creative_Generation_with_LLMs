@@ -1,0 +1,6 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "are both captured by an invisible force field that guides their trajectory and significance",
+			"meteorites": "Meteoroids are captured by the gravitational field of a celestial body and become meteors as they enter the atmosphere.",
+	

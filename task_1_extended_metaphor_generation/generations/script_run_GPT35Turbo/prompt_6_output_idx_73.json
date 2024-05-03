@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Nucleotides in DNA and Baseball Bat in baseball have modularity as a design principle",
+      "nucleotides": "Nucleotides in DNA exhibit modularity through the use of individual nucleotide units that serve as the building blocks for genetic information storage and transmission. Each nucleotide, consisting of a sugar molecule, a phosphate group, and a nitrogenous base, can be arranged in various combinations to encode specific genetic instructions with precision.",
+      "baseball_bat": "Similarly, a Baseball Bat in baseball demonstrates modularity as it is composed of individual sections that can be modularly assembled to form the complete bat. The handle, barrel, and end cap of the bat can be customized and combined to create a baseball bat that suits the player's preferences, enabling efficient and effective hitting during the game."
+    },
+    {
+      "metaphor": "both Nucleotides in DNA and Baseball Bat in baseball have redundancy as a design principle",
+      "nucleotides": "The composite structure of Nucleotides in DNA, comprising a sugar molecule, a phosphate group, and a nitrogenous base, provides redundancy in the genetic information system. This redundancy ensures the robustness and reliability of genetic encoding and replication processes, reducing the likelihood of errors and mutations.",
+      "baseball_bat": "In a similar fashion, a Baseball Bat in baseball possesses redundancy through its composite construction using sturdy materials like wood or metal. The redundant structural integrity of the baseball bat ensures its durability and strength, allowing players to rely on the bat during hitting without the risk of breakage or failure."
+    },
+    {
+      "metaphor": "both Nucleotides in DNA and Baseball Bat in baseball have precision as a design principle",
+      "nucleotides": "The arrangement of components within Nucleotides in DNA enables precise encoding and replication of genetic instructions. The specific pairing of nitrogenous bases and the sugar-phosphate backbone structure ensure that genetic information is accurately transcribed and replicated, showcasing a high level of precision in genetic processes.",
+      "baseball_bat": "Equally, a Baseball Bat in baseball exemplifies precision in design through its carefully engineered shape, weight distribution, and grip. The precise balance and dimensions of a baseball bat are crucial for a player's performance, offering precise control and power during hitting actions, aligning with the precision required in genetic instructions encoding and replication."
+    }
+  ]
+}

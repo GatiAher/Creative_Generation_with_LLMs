@@ -1,0 +1,28 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Magma chamber",
+      "definition": "A large underground reservoir of molten rock that feeds a volcano."
+    },
+    {
+      "name": "Volcanic arc",
+      "definition": "A chain of volcanoes that forms when an oceanic plate is being subducted beneath a continental plate."
+    },
+    {
+      "name": "Shield volcano",
+      "definition": "A type of volcano that has a broad, gently sloping shape and is typically formed by the eruption of fluid lava flows."
+    },
+    {
+      "name": "Stratovolcano",
+      "definition": "A tall, conical volcano composed of alternating layers of lava, tephra, and other pyroclastic material."
+    },
+    {
+      "name": "Cinder cone",
+      "definition": "A small, steep-sided volcano that is formed by the accumulation of ash and cinder from small-scale eruptions."
+    },
+    {
+      "name": "Caldera",
+      "definition": "A large depression in the Earth's surface that forms when a magma chamber collapses or is drained."
+    }
+  ]
+}

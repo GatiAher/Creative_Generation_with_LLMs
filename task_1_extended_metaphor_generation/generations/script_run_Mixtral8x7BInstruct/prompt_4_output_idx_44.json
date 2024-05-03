@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Control system",
+      "mechanism": "The Adrenal Glands act as a control system, constantly monitoring the body's internal and external environment and releasing hormones as needed to maintain balance."
+    },
+    {
+      "description": "Dual structure",
+      "mechanism": "The Adrenal Glands have a dual structure, with the cortex and medulla acting as sensors and actuators, allowing for the glands to respond to a wide range of stimuli and maintain homeostasis through the release of specific hormones."
+    },
+    {
+      "description": "Hormones as control signals",
+      "mechanism": "The hormones produced by the Adrenal Glands can be thought of as control signals, which travel through the body and affect the function of various organs and systems."
+    },
+    {
+      "description": "Engineering control system",
+      "mechanism": "The structure and function of the Adrenal Glands can be compared to that of an engineering control system, with the input being the body's internal and external environment, and the output being the hormones that are released to maintain homeostasis."
+    }
+  ]
+}

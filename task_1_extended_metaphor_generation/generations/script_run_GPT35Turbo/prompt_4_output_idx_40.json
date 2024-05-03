@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Catalysis",
+      "mechanism": "Enlisting a specialized agent (catalyst) to speed up a transformation process by lowering activation energy"
+    },
+    {
+      "description": "Geometric Configuration",
+      "mechanism": "Structuring catalyst and reactants in a strategic geometric configuration to facilitate smoother path for reaction"
+    },
+    {
+      "description": "Optimization",
+      "mechanism": "Designing for optimized efficiency in the transformation process"
+    }
+  ]
+}

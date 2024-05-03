@@ -1,0 +1,4 @@
+{
+  "purpose": "The Scale provides a mathematical representation of the relationships between distances on a two-dimensional surface, allowing for accurate measurements and comparisons to be made between points and distances in a way that is not possible by relying solely on visual observations.",
+  "mechanism": "The Scale utilizes a system of units and ratios to establish a consistent relationship between distances on a map and their real-world counterparts. This is achieved through the use of cartesian coordinates, which enable the mapping of points and distances onto a grid system, facilitating calculations and comparisons across different locations and distances."
+}

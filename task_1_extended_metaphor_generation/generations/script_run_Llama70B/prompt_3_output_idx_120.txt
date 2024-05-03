@@ -1,0 +1,24 @@
+ Here is the annotated text with the requested surroundings:
+
+"{The purpose of a caldera is to provide a means for the release of pressure and magma buildup in the Earth's crust, allowing for the stabilization of the surrounding landscape and preventing potentially catastrophic eruptions. A caldera is structured as a large depression in the Earth's surface, formed by the collapse or drainage of a magma chamber. This depression creates a space for magma and gases to accumulate and dissipate, thereby regulating the pressure and preventing it from building up to dangerous levels. The shape and size of the caldera are determined by the geometry of the magma chamber and the surrounding rock formations, ensuring that the pressure is evenly distributed and the caldera remains stable over time.}".
+
+Words surrounded by double curly braces:
+
+* Caldera
+* Magma
+* Chamber
+* Pressure
+* Buildup
+* Stabilization
+* Landscape
+* Eruptions
+
+Words surrounded by square braces:
+
+* Geometry
+* Depression
+* Formed
+* Collapse
+* Drainage
+* Shape
+* Size

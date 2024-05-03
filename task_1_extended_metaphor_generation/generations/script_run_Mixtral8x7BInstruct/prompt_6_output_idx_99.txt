@@ -1,0 +1,7 @@
+Here is the output in the desired format:
+
+```json
+{
+	"extended_metaphor": [
+		{
+	

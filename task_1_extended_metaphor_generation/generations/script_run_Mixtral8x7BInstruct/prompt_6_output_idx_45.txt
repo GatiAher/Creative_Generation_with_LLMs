@@ -1,0 +1,5 @@
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "Both Cosmic Microwave Background Radiation in big bang theory and symmetry in baseball serve as a baseline for measuring uniformity.",
+		

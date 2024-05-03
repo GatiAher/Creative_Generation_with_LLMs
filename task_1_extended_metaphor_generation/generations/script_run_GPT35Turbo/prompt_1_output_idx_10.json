@@ -1,0 +1,20 @@
+{
+  "sub_concepts": [
+    {
+      "name": "RESTful API",
+      "definition": "A type of web API that follows the principles of REST (Representational State Transfer) architecture for designing networked applications"
+    },
+    {
+      "name": "SOAP API",
+      "definition": "A protocol for exchanging structured information in the implementation of web services in computer networks"
+    },
+    {
+      "name": "GraphQL API",
+      "definition": "A query language for APIs and runtime for executing those queries written in a server-side runtime environment"
+    },
+    {
+      "name": "RPC API",
+      "definition": "Remote Procedure Call API allows a program to execute code on another address space in a network"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+ ```
+"Regulation of Sexual Development, Reproduction, and Lactation"
+{Gonadal hormones} {ovaries} {testes} {signalings molecules} {growth and development} {metabolism} {reproductive functions} {sexual development} {reproduction} {lactation} {reproductive organs} {pregnancy} {milk production}
+```
+Surrounded in double curly braces are words related to biology, chemistry, and scientific jargon:
+
+* Gonadal hormones
+* Ovaries
+* Testes
+* Signaling molecules
+* Growth and development
+* Metabolism
+* Reproductive functions
+* Sexual development
+* Reproduction
+* Lactation
+* Reproductive organs
+* Pregnancy
+* Milk production
+
+No words were surrounded in square braces as there were no words related to geometry, math, engineering, or design in the given text.

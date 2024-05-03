@@ -1,0 +1,36 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Continental Drift",
+      "definition": "A theory that the continents have drifted slowly over the surface of the Earth over geologic time."
+    },
+    {
+      "name": "Seafloor Spreading",
+      "definition": "The process by which new oceanic lithosphere is created at mid-ocean ridges."
+    },
+    {
+      "name": "Transform Boundary",
+      "definition": "A boundary between two tectonic plates that is characterized by lateral motion."
+    },
+    {
+      "name": "Convergent Boundary",
+      "definition": "A boundary between two tectonic plates that are moving towards each other, which can result in the formation of mountain ranges or volcanic activity."
+    },
+    {
+      "name": "Divergent Boundary",
+      "definition": "A boundary between two tectonic plates that are moving away from each other, which can result in the formation of mid-ocean ridges or rift valleys."
+    },
+    {
+      "name": "Lithosphere",
+      "definition": "The rigid outer layer of the Earth, including the crust and the uppermost part of the mantle."
+    },
+    {
+      "name": "Asthenosphere",
+      "definition": "The semi-fluid layer of the Earth's mantle below the lithosphere."
+    },
+    {
+      "name": "Plate Motion",
+      "definition": "The movement of the large plates that make up the Earth's lithosphere."
+    }
+  ]
+}

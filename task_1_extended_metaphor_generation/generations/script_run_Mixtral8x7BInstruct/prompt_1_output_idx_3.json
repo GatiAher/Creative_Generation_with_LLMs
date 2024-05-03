@@ -1,0 +1,44 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Abiotic factors",
+      "definition": "The non-living components of an ecosystem that influence the organisms living there, including temperature, light, water, and soil composition."
+    },
+    {
+      "name": "Biotic factors",
+      "definition": "The living components of an ecosystem, including plants, animals, and microorganisms, that interact with one another and their non-living environment."
+    },
+    {
+      "name": "Producers",
+      "definition": "Organisms, typically photosynthetic plants and algae, that convert energy from the sun into chemical energy through the process of photosynthesis."
+    },
+    {
+      "name": "Consumers",
+      "definition": "Organisms that consume other organisms for energy and nutrients, classified as herbivores (plant-eaters), carnivores (meat-eaters), and omnivores (eating both plants and animals)."
+    },
+    {
+      "name": "Decomposers",
+      "definition": "Organisms, such as fungi and bacteria, that break down dead organic material and waste, recycling essential nutrients back into the ecosystem."
+    },
+    {
+      "name": "Trophic levels",
+      "definition": "The feeding levels in an ecosystem, starting with producers at the bottom and progressing to herbivores, carnivores, and decomposers."
+    },
+    {
+      "name": "Food chains",
+      "definition": "A linear sequence of organisms in an ecosystem, where each organism consumes the one below it, starting with producers and ending with top carnivores."
+    },
+    {
+      "name": "Food webs",
+      "definition": "A complex network of interconnected food chains in an ecosystem, showing the feeding relationships between various organisms."
+    },
+    {
+      "name": "Biodiversity",
+      "definition": "The variety of life in an ecosystem, including the number of different species, their genetic diversity, and the variety of ecosystems themselves."
+    },
+    {
+      "name": "Ecosystem services",
+      "definition": "The benefits provided by ecosystems to humans, including clean air and water, soil formation, climate regulation, and natural resources."
+    }
+  ]
+}

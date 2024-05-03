@@ -1,0 +1,20 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Calabi-Yau manifolds",
+      "definition": "Complex manifolds studied in superstring theory for compactification"
+    },
+    {
+      "name": "Extra dimensions",
+      "definition": "The additional dimensions beyond the usual three that are posited in superstring theory"
+    },
+    {
+      "name": "String compactification",
+      "definition": "The process of reducing the dimensions of strings from ten to four in order to describe our observable universe"
+    },
+    {
+      "name": "D-branes",
+      "definition": "Extended objects in string theory that can exist in various dimensions and play a key role in superstring theory"
+    }
+  ]
+}

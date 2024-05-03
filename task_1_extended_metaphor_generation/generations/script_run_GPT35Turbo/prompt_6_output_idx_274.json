@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Lava in volcano and Arc Reactor in Iron Man have heat redistribution",
+      "lava": "Lava in a volcano redistributes heat and pressure from within the Earth's mantle to the surface through a fluid medium, allowing it to maintain equilibrium and avoid catastrophic explosions.",
+      "arc_reactor": "Similarly, the Arc Reactor in Iron Man redistributes energy throughout the suit, ensuring Tony Stark's safety and providing the power needed for his heroic deeds."
+    },
+    {
+      "metaphor": "both Lava in volcano and Arc Reactor in Iron Man have density contrast",
+      "lava": "Lava is structured as molten rock that is less dense than the surrounding solid rocks, enabling it to rise and flow through fractures in the Earth's crust.",
+      "arc_reactor": "Likewise, the Arc Reactor is designed to be compact yet powerful, creating a density contrast within the suit that allows it to efficiently power Iron Man's actions."
+    },
+    {
+      "metaphor": "both Lava in volcano and Arc Reactor in Iron Man have fluid flow",
+      "lava": "Lava's fluid flow enables it to move through fractures and weak points in the Earth's crust, following the principle of buoyancy to reach the surface.",
+      "arc_reactor": "Similarly, the Arc Reactor's energy flow is controlled and directed throughout Iron Man's suit, providing the necessary power for his operations while emphasizing fluidity and efficiency."
+    }
+  ]
+}

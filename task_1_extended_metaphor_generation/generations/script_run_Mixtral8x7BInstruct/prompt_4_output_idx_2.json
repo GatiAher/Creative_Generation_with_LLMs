@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Gravitational forces determine shape",
+      "mechanism": "Gravitational forces and material composition result in spherical shape, which maximizes surface area for a given volume and allows for better detection and study."
+    },
+    {
+      "description": "Use of mathematical equations to describe motion",
+      "mechanism": "Orbits of celestial bodies can be described using mathematical equations, allowing for prediction and analysis of motion."
+    },
+    {
+      "description": "Intersection of orbits",
+      "mechanism": "Orbits of celestial bodies often intersect with other debris, demonstrating the dynamic and ever-changing nature of celestial systems."
+    },
+    {
+      "description": "Geometric and mathematical principles in planet definition",
+      "mechanism": "Despite not having cleared their orbits, celestial bodies can still meet many of the same geometric, mathematical, and engineering principles that define other planets."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Use of indicators",
+      "mechanism": "Observing and using certain features as indicators or evidence to gain valuable information about the early stages of a phenomenon"
+    },
+    {
+      "description": "Material selection",
+      "mechanism": "Choosing materials that can withstand specific conditions or processes, such as the unchanged materials in comets"
+    },
+    {
+      "description": "Redistribution of matter and energy",
+      "mechanism": "Managing the flow and transformation of matter and energy within a system to optimize performance or function, like comets redistributing matter and energy"
+    },
+    {
+      "description": "Nuclear fusion",
+      "mechanism": "Forcing atomic nuclei to combine, releasing immense energy, as observed in comets' nuclei composed of rock and ice"
+    },
+    {
+      "description": "Radiation pressure",
+      "mechanism": "Utilizing the pressure exerted by electromagnetic radiation to generate force or motion, as seen in the tail direction of a comet"
+    },
+    {
+      "description": "Mathematical calculations and engineering concepts",
+      "mechanism": "Applying mathematical and engineering principles to explain and predict natural phenomena, such as comet orbits, tail direction, and brightness"
+    }
+  ]
+}

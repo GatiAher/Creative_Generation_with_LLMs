@@ -1,0 +1,36 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Covalent Bonding",
+      "definition": "A type of chemical bond where two atoms share electrons to achieve stability."
+    },
+    {
+      "name": "Ionic Bonding",
+      "definition": "A type of chemical bond where one atom donates an electron to another atom, resulting in two ions with opposite charges."
+    },
+    {
+      "name": "Lewis Structures",
+      "definition": "A way of representing the valence electrons of an atom to predict the formation of molecular compounds."
+    },
+    {
+      "name": "Formal Charge",
+      "definition": "A charge assigned to an atom in a molecule, calculated by taking the difference between the number of valence electrons of the atom and the number of electrons assigned to it in the Lewis structure."
+    },
+    {
+      "name": "Resonance Structures",
+      "definition": "Multiple Lewis structures that describe the delocalization of electrons in a molecule, used when a single Lewis structure cannot accurately represent the electronic structure."
+    },
+    {
+      "name": "Polarity",
+      "definition": "A property of a molecule that results from the uneven distribution of electron density, creating a dipole moment."
+    },
+    {
+      "name": "Molecular Geometry",
+      "definition": "The three-dimensional arrangement of atoms in a molecule, determined by the shape of the electron pairs around the central atom."
+    },
+    {
+      "name": "Valence Shell Electron Pair Repulsion (VSEPR) Theory",
+      "definition": "A model used to predict the shape of a molecule based on the repulsion of electron pairs in the valence shell of the central atom."
+    }
+  ]
+}

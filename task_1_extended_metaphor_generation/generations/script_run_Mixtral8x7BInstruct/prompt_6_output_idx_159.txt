@@ -1,0 +1,19 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Transcription in DNA and Computerized Financial Algorithms in money have a Master Blueprint",
+"transcription": "In Transcription, DNA serves as the master blueprint that contains all the necessary information to create a specific protein structure.",
+"computerized\_financial\_algorithms": "Similarly, in Computerized Financial Algorithms, the financial model or set of rules acts as the master blueprint, guiding the algorithm in making financial decisions and calculations."
+},
+{
+"metaphor": "both Transcription in DNA and Computerized Financial Algorithms in money utilize a Specialized Engineering Tool",
+"transcription": "During Transcription, the RNA polymerase is the specialized engineering tool that moves along the DNA template, unzipping the double helix and mathematically translating the geometric pattern of nucleotide bases into a complementary RNA sequence.",
+"computerized\_financial\_algorithms": "In Computerized Financial Algorithms, the programming language and software tools are the specialized engineering tools that are used to translate the financial model into a set of instructions that can be executed by a computer."
+},
+{
+"metaphor": "both Transcription in DNA and Computerized Financial Algorithms in money require Precise Geometrical Movements and Calculations",
+"transcription": "Transcription requires precise geometrical movements and calculations to ensure the accurate conversion of genetic information from DNA to RNA, as even a single mistake can lead to a non-functional protein.",
+"computerized\_financial\_algorithms": "Likewise, Computerized Financial Algorithms require precise geometrical movements and calculations to ensure accurate financial decisions, as even a small error can lead to significant financial losses."
+}
+]
+}

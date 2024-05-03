@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Modularity",
+      "mechanism": "Breaking down the overall design into smaller, manageable pieces (modules) that can be systematically crafted, tested, and refined."
+    },
+    {
+      "description": "Hierarchy",
+      "mechanism": "Arranging and interconnecting modules within a well-defined framework (architecture) to ensure the final product functions as intended."
+    }
+  ]
+}

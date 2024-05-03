@@ -1,0 +1,1 @@
+"Advanced Propulsion and Navigation System" that uses redshift for measuring distance and speed, follows a predictive model for movement, involves constant observation and measurement of the surroundings for navigation, and is based on scientific theories and evidence.

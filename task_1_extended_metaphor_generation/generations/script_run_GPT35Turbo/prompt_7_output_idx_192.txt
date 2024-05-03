@@ -1,0 +1,14 @@
+Just as a Kpop team with a job for each,
+GraphQL API follows a similar reach.
+Single Responsibility keeps things clear,
+Efficiently retrieving, with no need to fear.
+
+Modularity, like Kpop's diverse teams,
+Allows for remixes and multiple themes.
+Different aspects, each with their part,
+Separating concerns for a customizable start.
+
+In Kpop, feedback on lyrics and more,
+Separation of Concerns, keeping things in store.
+Just like GraphQL, fetching only what's needed,
+Streamlining communication, all data conceded.

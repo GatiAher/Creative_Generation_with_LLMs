@@ -1,0 +1,11 @@
+Layered Architecture of Monetary Systems
+
+Modularity: Different components of monetary systems (e.g. physical currency, digital payments, financial institutions) can operate independently and be modified without affecting the entire system.
+
+Standardization: Consistent and universally accepted units of currency, transaction methods, and regulatory frameworks enable reliable and efficient exchange of monetary value.
+
+Redundancy: Multiple layers of the monetary system (e.g. physical cash, digital payments, backup systems) ensure continued functionality even in the event of failures or disruptions.
+
+Abstraction: Monetary systems encode information at various levels of abstraction, from individual transactions to macroeconomic indicators and policy decisions.
+
+Hierarchy: The layered architecture of monetary systems follows a hierarchical structure, with foundational components (e.g. physical currency) supporting higher-level functions (e.g. digital payments and financial services).

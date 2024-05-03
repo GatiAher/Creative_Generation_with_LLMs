@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Stability and Organization",
+      "mechanism": "Maximizing stability and organization within a system to ensure efficient packing and arrangement of molecules without altering their individual characteristics directly"
+    },
+    {
+      "description": "Intermolecular Forces",
+      "mechanism": "Utilizing forces such as dipole-dipole interactions, van der Waals forces, and hydrogen bonding to facilitate intermolecular interactions and positioning based on energetically favorable configurations"
+    }
+  ]
+}

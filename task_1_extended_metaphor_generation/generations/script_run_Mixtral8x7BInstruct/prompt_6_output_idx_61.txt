@@ -1,0 +1,24 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "are both grounded in the principle of observation and measurement.",
+			"redshift": "In Redshift, scientists use telescopes to observe and measure the light emitted from distant galaxies, which appear redder as they move away from us due to the expansion of the universe.",
+			"pitch\_velocity\_measurement\_and\_distance\_estimation\_using\_doppler\_effect.": "In baseball, coaches and players use radar guns to observe and measure the speed of a pitched ball, which appears to shift in frequency as it moves towards or away from the observer, due to the Doppler effect."
+		},
+		{
+			"metaphor": "utilize the redshift effect to understand the universe's expansion and estimate the time elapsed since the Big Bang.",
+			"redshift": "In Redshift, scientists observe that the wavelength of light from distant galaxies appears to stretch as it moves away from us, shifting it towards longer, redder wavelengths. This redshift effect allows scientists to understand the universe's expansion and estimate the time elapsed since the Big Bang.",
+			"pitch\_velocity\_measurement\_and\_distance\_estimation\_using\_doppler\_effect.": "In baseball, coaches and players observe that the frequency of the pitched ball appears to shift as it moves towards or away from the observer, due to the Doppler effect. This shift in frequency allows them to determine the pitch's velocity and distance."
+		},
+		{
+			"metaphor": "rely on the principle of determining the distance and speed of distant galaxies.",
+			"redshift": "In Redshift, scientists use the redshift effect to determine the distance and speed of distant galaxies, providing valuable insights into the history and evolution of the universe.",
+			"pitch\_velocity\_measurement\_and\_distance\_estimation\_using\_doppler\_effect.": "In baseball, coaches and players use the Doppler effect to determine the pitch's velocity and distance, allowing them to make strategic decisions during the game."
+		},
+		{
+			"metaphor": "incorporate concepts from geometry and physics, such as the Doppler effect, to explain the redshift effect and the universe's expansion.",
+			"redshift": "In Redshift, scientists use the Doppler effect as a tool to explain the redshift effect and the universe's expansion, providing a deeper understanding of the universe's history and evolution.",
+			"pitch\_velocity\_measurement\_and\_distance\_estimation\_using\_doppler\_effect.": "In baseball, coaches and players use the Doppler effect as a tool to measure the pitch's velocity and distance, providing a deeper understanding of the ball's movement and allowing for more strategic decisions during the game."
+		}
+	]
+}

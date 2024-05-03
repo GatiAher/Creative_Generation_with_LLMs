@@ -1,0 +1,29 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Contour Lines in topographic maps and Heads-up Display (HUD) in Iron Man have Visualization as a key design principle",
+      "contour_lines": "Contour Lines serve to visually represent shape and elevation changes of land surface in a concise and intuitive manner.",
+      "heads-up_display_(hud)": "Heads-up Display in Iron Man visually displays critical information such as maps, targets, and diagnostics in a concise and intuitive manner."
+    },
+    {
+      "metaphor": "both Contour Lines in topographic maps and Heads-up Display (HUD) in Iron Man have Simplification as a key design principle",
+      "contour_lines": "Contour Lines aid in understanding terrain's topography without the need for detailed numerical data.",
+      "heads-up_display_(hud)": "Heads-up Display in Iron Man simplifies information presentation, allowing Tony Stark to quickly comprehend complex scenarios without needing to sift through extensive data."
+    },
+    {
+      "metaphor": "both Contour Lines in topographic maps and Heads-up Display (HUD) in Iron Man have Connectivity as a key design principle",
+      "contour_lines": "Contour Lines are structured as closed curves on a grid, connecting points at the same elevation above a reference datum.",
+      "heads-up_display_(hud)": "Heads-up Display in Iron Man connects various sets of data and information, providing a seamless and integrated view of critical elements in Tony Stark's surroundings."
+    },
+    {
+      "metaphor": "both Contour Lines in topographic maps and Heads-up Display (HUD) in Iron Man have Regularization as a key design principle",
+      "contour_lines": "By spacing lines at regular intervals, density and proximity of contour lines indicate the steepness and gradient of the terrain.",
+      "heads-up_display_(hud)": "Heads-up Display in Iron Man organizes and presents information in a structured manner, with the density and arrangement of data elements conveying critical aspects of the environment."
+    },
+    {
+      "metaphor": "both Contour Lines in topographic maps and Heads-up Display (HUD) in Iron Man have Dimensionality Reduction as a key design principle",
+      "contour_lines": "Contour Lines provide a 3D representation of the land's surface on a 2D grid.",
+      "heads-up_display_(hud)": "Heads-up Display in Iron Man condenses complex 3D information into a 2D display, enabling Tony Stark to grasp the spatial layout and dynamics of his surroundings efficiently."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Redundancy",
+      "mechanism": "Facilitate the expansion of the Earth's crust by forming new oceanic crust at the diverging boundaries to ensure continuous generation of new crust"
+    },
+    {
+      "description": "Resilience",
+      "mechanism": "Help maintain the balance of the Earth's crust by continuously generating new crust at the diverging boundaries"
+    }
+  ]
+}

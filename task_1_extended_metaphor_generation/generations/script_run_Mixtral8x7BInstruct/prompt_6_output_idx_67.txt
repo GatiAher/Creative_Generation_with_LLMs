@@ -1,0 +1,19 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Nucleosynthesis in big bang theory and High-value, widely-accepted digital currencies in money have High Temperatures and Densities (mechanism: the formation of atomic nuclei was driven by the high temperatures and densities of the early universe, allowing for the combination of quarks into protons and neutrons, and eventually into atomic nuclei)",
+			"nucleosynthesis": "In Nucleosynthesis, high temperatures and densities were the driving forces for the formation of atomic nuclei. This process began with the combination of quarks into protons and neutrons, which then formed atomic nuclei. This allowed for the creation of elements such as hydrogen, helium, and lithium.",
+			"high-value,\_widely-accepted\_digital\_currencies": "Similarly, in High-value, widely-accepted digital currencies, high temperatures and densities are metaphorically represented by the large number of users and transactions taking place. This high level of activity and adoption allows for the creation and stability of the digital currency, similar to how high temperatures and densities enabled the formation of atomic nuclei in Nucleosynthesis."
+		},
+		{
+			"metaphor": "both Nucleosynthesis in big bang theory and High-value, widely-accepted digital currencies in money have Strong Nuclear Force (mechanism: The strong nuclear force was responsible for holding the atomic nuclei together, allowing them to form and become stable, thus enabling the creation of elements such as hydrogen, helium, and lithium)",
+			"nucleosynthesis": "In Nucleosynthesis, the strong nuclear force was responsible for holding the atomic nuclei together, allowing them to form and become stable. This enabled the creation of elements such as hydrogen, helium, and lithium.",
+			"high-value,\_widely-accepted\_digital\_currencies": "In High-value, widely-accepted digital currencies, the strong nuclear force is metaphorically represented by the underlying technology and infrastructure that supports the digital currency. This includes the security measures, such as cryptography, that hold the digital currency together and allow it to function properly, thus enabling its stability and adoption."
+		},
+		{
+			"metaphor": "both Nucleosynthesis in big bang theory and High-value, widely-accepted digital currencies in money have Nuclear Reaction Physics (mechanism: The relative abundances of the elements produced in the early universe can be calculated using the physics of nuclear reactions, which helps to support the theory of big bang nucleosynthesis and the idea that these events occurred in the first few minutes after the big bang)",
+			"nucleosynthesis": "In Nucleosynthesis, the relative abundances of the elements produced can be calculated using the physics of nuclear reactions. This helps to support the theory of big bang nucleosynthesis and the idea that these events occurred in the first few minutes after the big bang.",
+			"high-value,\_widely-accepted\_digital\_currencies": "In High-value, widely-accepted digital currencies, the relative adoption and usage of the digital currency can be calculated using the physics of market dynamics and economic principles. This helps to support the value and stability of the digital currency, and the idea that it is widely accepted and used."
+		}
+	]
+}

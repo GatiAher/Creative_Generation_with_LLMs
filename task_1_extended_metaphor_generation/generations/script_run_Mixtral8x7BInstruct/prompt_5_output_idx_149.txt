@@ -1,0 +1,5 @@
+"Baseball Diamond Layout"
+
+Modularity: The baseball diamond layout is modular in that it separates different areas of the field for specific aspects of the game, such as the batter's box, pitcher's mound, and bases.
+
+Standardization: The layout of a baseball diamond is standardized, with specific distances and locations for the bases, pitcher's mound, and other features.

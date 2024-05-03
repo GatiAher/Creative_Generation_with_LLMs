@@ -1,0 +1,4 @@
+Debugging is like J.A.R.V.I.S. in Iron Man,
+Both use logic to troubleshoot, they can.
+Systematic approaches to solve errors they employ,
+Testing and reasoning to ensure everything's a joy.

@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "Both Thermal Energy in energy and Pitching speed in baseball have a mechanism to quantify and understand the internal dynamics.",
+      "thermal_energy": "Thermal energy in energy utilizes thermodynamics to quantify the kinetic energy of particles within a system by considering temperature and specific heat capacities to understand internal dynamics.",
+      "pitching_speed": "Similarly, pitching speed in baseball relies on understanding the dynamics of a pitcher's motion and mechanics to quantify and optimize the speed at which they can throw a pitch."
+    },
+    {
+      "metaphor": "Both Thermal Energy in energy and Pitching speed in baseball facilitate the transfer of energy to account for the vibrational, rotational, and translational motions.",
+      "thermal_energy": "In heat transfer, Thermal Energy facilitates the transfer of heat within a system, accounting for the vibrational, rotational, and translational motions of particles.",
+      "pitching_speed": "Pitching speed in baseball also involves transferring energy from the pitcher's body to the baseball through their movements, accounting for the rotational and translational motions to optimize the speed of the pitch."
+    }
+  ]
+}

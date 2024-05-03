@@ -1,0 +1,9 @@
+Like nodes in a network, we stand,
+Concurrency and Kpop covers hand in hand.
+Parallelism, Modularity, Resource Sharing unite,
+In distributed computing and music, their light shines bright.
+
+Tasks run simultaneously, singers harmonize,
+Independent yet connected, each part vital, each voice wise.
+Efficient sharing of resources, talents on display,
+Non-blocking design, smooth operation, in both realms they sway.

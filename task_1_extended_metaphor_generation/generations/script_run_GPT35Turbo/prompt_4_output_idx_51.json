@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Parallelism",
+      "mechanism": "Enable different tasks to run at the same time, maximizing resource utilization and reducing wait times"
+    },
+    {
+      "description": "Modularity",
+      "mechanism": "Structured like a network of interconnected bridges where each task can run independently"
+    },
+    {
+      "description": "Resource Sharing",
+      "mechanism": "Ensures resources can be shared efficiently among tasks"
+    },
+    {
+      "description": "Non-Blocking Design",
+      "mechanism": "Prevents one task from blocking the progress of others"
+    }
+  ]
+}

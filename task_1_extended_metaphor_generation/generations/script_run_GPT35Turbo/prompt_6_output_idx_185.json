@@ -1,0 +1,24 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both RESTful API in API and Baseball scoreboard in baseball have Modularity",
+      "restful_api": "In RESTful API design, modularity is essential for breaking down complex systems into smaller, manageable components. Each module represents a specific functionality or resource and has clear interfaces to interact with other modules independently.",
+      "baseball_scoreboard": "Similarly, a Baseball scoreboard breaks down the game into individual components such as runs, hits, and errors. Each component has a specific function and contributes to the overall score independently, just like how modules in a RESTful API operate autonomously."
+    },
+    {
+      "metaphor": "both RESTful API in API and Baseball scoreboard in baseball have Standardization",
+      "restful_api": "Standardization in RESTful API design involves defining uniform specifications and formats for requests and responses. This ensures interoperability and consistency across different systems and client applications.",
+      "baseball_scoreboard": "The Baseball scoreboard also follows standardization by using specific symbols and formats to display scores, innings, and game statistics. This consistency allows spectators and players to interpret the information easily and accurately, much like how standardized APIs enable seamless communication between different software components."
+    },
+    {
+      "metaphor": "both RESTful API in API and Baseball scoreboard in baseball have Hierarchy",
+      "restful_api": "Hierarchy plays a crucial role in structuring information in a RESTful API. Resources are organized in a clear order based on their importance or relationship, creating a logical flow of data and functionalities.",
+      "baseball_scoreboard": "Similarly, the Baseball scoreboard organizes game information hierarchically, displaying critical details like the score and inning prominently at the top, followed by supplementary statistics like hits and errors. This structured approach enhances clarity and allows viewers to quickly grasp the current state of the game, mirroring the hierarchical organization in RESTful API design."
+    },
+    {
+      "metaphor": "both RESTful API in API and Baseball scoreboard in baseball have Communication",
+      "restful_api": "Communication is the cornerstone of a RESTful API, enabling effective exchange of information between clients and servers. Clear communication protocols and channels ensure that data is transmitted accurately and securely throughout the system.",
+      "baseball_scoreboard": "Likewise, the Baseball scoreboard serves as a communication tool during the game, providing real-time updates on player performances and game progress. Spectators rely on this information to stay informed and engaged with the ongoing events, highlighting the importance of clear communication pathways in both RESTful APIs and Baseball scoreboards."
+    }
+  ]
+}

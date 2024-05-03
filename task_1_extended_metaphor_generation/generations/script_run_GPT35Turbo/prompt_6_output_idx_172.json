@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Software Development in computer program and Collaboration in Kpop have Modularity as a key aspect",
+      "software_development": "In software development, modularity involves breaking down the overall design into smaller, manageable pieces (modules) that can be systematically crafted, tested, and refined. This approach helps in maintaining code readability, reusability, and ease of maintenance.",
+      "collaboration": "Similarly, in the world of Kpop collaboration, modularity is evident in how the artists work together by focusing on their individual strengths and talents. Each member contributes to the group's overall success, much like how modules contribute to the functionality of a software program. This enables the group to create harmonious performances and produce high-quality music that resonates with their audience."
+    },
+    {
+      "metaphor": "both Software Development in computer program and Collaboration in Kpop have Hierarchy as an integral element",
+      "software_development": "Hierarchy in software development involves arranging and interconnecting modules within a well-defined framework (architecture) to ensure the final product functions as intended. This structured approach helps in organizing the codebase, managing dependencies, and ensuring scalability.",
+      "collaboration": "Similarly, Collaboration in Kpop follows a hierarchical structure where each member has designated roles and responsibilities within the group. The arrangement and interconnection of talents and skills within this framework enable the group to produce cohesive music, synchronized choreography, and captivating performances. This hierarchy ensures that every member contributes towards the common goal of creating impactful music and building a strong connection with fans."
+    }
+  ]
+}

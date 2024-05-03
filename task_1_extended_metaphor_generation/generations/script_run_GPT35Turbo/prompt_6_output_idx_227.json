@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Atmospheric Layers in atmosphere and Blockchain in money have Modularity",
+      "atmospheric_layers": "Atmospheric Layers partition the atmosphere into distinct regions based on temperature and composition, enabling better understanding of weather patterns and atmospheric phenomena.",
+      "blockchain": "Similarly, Blockchain partitions the financial transactions into distinct blocks for efficient control and analysis, allowing secure and transparent recording of monetary transactions."
+    },
+    {
+      "metaphor": "both Atmospheric Layers in atmosphere and Blockchain in money have Hierarchy",
+      "atmospheric_layers": "Atmospheric Layers organize the atmosphere into horizontal divisions based on variations in physical properties like temperature and pressure, aiding in the analysis of atmospheric dynamics.",
+      "blockchain": "Blockchain structures financial transactions into a hierarchical design, forming a chain of blocks with each block representing a specific transaction, facilitating better understanding and tracking of money flow."
+    },
+    {
+      "metaphor": "both Atmospheric Layers in atmosphere and Blockchain in money have Boundary delimitation",
+      "atmospheric_layers": "Atmospheric Layers define boundaries where temperature and composition abruptly change, simplifying the analysis of weather patterns and atmospheric behavior.",
+      "blockchain": "Similarly, Blockchain establishes boundaries where key parameters change abruptly, ensuring secure transactions and simplifying the monitoring and verification of financial activities."
+    }
+  ]
+}

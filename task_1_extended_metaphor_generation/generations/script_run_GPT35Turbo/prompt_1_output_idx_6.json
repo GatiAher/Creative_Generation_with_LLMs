@@ -1,0 +1,28 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Reactants",
+      "definition": "Substances that undergo a chemical change in a reaction."
+    },
+    {
+      "name": "Products",
+      "definition": "Substances formed as a result of a chemical reaction."
+    },
+    {
+      "name": "Catalysts",
+      "definition": "Substances that increase the rate of a chemical reaction without being consumed in the process."
+    },
+    {
+      "name": "Equilibrium",
+      "definition": "A state in which the rate of the forward reaction equals the rate of the reverse reaction."
+    },
+    {
+      "name": "Exothermic Reaction",
+      "definition": "A reaction that releases heat energy to its surroundings."
+    },
+    {
+      "name": "Endothermic Reaction",
+      "definition": "A reaction that absorbs heat energy from its surroundings."
+    }
+  ]
+}

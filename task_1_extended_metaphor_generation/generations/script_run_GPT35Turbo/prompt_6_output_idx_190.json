@@ -1,0 +1,26 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both SOAP API in API and J.A.R.V.I.S. in Iron Man have a blueprint design that acts as a precise blueprint outlining dimensions, shapes, and materials required for constructing a geometric structure by connecting various components in a systematic manner",
+      "soap_api": {
+        "purpose": "Defines the structure and functionality of the API",
+        "mechanism": "Utilizes WSDL (Web Services Description Language) to provide a detailed specification of the API's functionalities and message formats"
+      },
+      "j.a.r.v.i.s.": {
+        "purpose": "Guides Tony Stark in his operations and interactions, providing critical information and executing commands",
+        "mechanism": "Serves as a virtual assistant with an advanced AI system that understands and responds to Tony's needs and commands."
+      }
+    },
+    {
+      "metaphor": "both SOAP API in API and J.A.R.V.I.S. in Iron Man have a standardized message format that specifies a standardized format for messages sent and received when interacting with web services, employing a structured format to define the data being transmitted",
+      "soap_api": {
+        "purpose": "Ensures interoperability and consistency in communication between different systems",
+        "mechanism": "Implements XML (eXtensible Markup Language) for defining a common message format and data structures"
+      },
+      "j.a.r.v.i.s.": {
+        "purpose": "Facilitates seamless communication between Tony Stark and his various suits, devices, and systems",
+        "mechanism": "Uses advanced algorithms and protocols to interpret and process complex data inputs and outputs efficiently"
+      }
+    }
+  ]
+}

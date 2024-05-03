@@ -1,0 +1,3 @@
+ {{Double Curly Braces}}{{Geography}}{{Atmospheric Circulation}}{{Climate}}{{Weather Pattern}}{{Temperature}}{{Pressure}}{{Warm Air}}{{Convection Currents}}{{Winds}}{{Ocean Currents}}{{Heat}}{{Moisture}}{{Equator}}{{Polars}}{{Rotation Earth}}{{Large-Scale Vortices}}{{Polar Vortex}}{{Regional Climates}}{{/Double Curly Braces}}
+
+[Square Braces][]:[/Square Braces]  (No annotations found)

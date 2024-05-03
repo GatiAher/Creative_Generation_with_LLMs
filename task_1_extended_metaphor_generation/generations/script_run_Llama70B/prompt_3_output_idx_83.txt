@@ -1,0 +1,18 @@
+ Here is the annotated text with the requested surroundings:
+
+{ "API Documentation" : blueprint for interacting with the API, providing step-by-step instructions for successful communication between the client and server. } { "correctly" : used correctly, efficiently, and safely, much like a set of building plans guarantees a structure's integrity and functionality. } { "hierarchical manner" : structured in a hierarchical manner, with endpoints grouped by functional categories, such as 'users' or 'products.' } { "endpoints" : include detailed information on the requested method (GET, POST, PUT, DELETE), URL parameters, request body schemas, and response examples. } { "efficiently" : enables developers to quickly locate relevant information and understand how to effectively utilize the API, similar to how a well-organized set of blueprints allows architects and engineers to easily reference necessary details during construction. }
+
+The words and phrases related to Computer Science, chemistry, or scientific jargon that are surrounded by double curly braces are:
+
+* "API Documentation"
+* "correctly"
+* "hierarchical manner"
+* "endpoints"
+* "efficiency"
+
+The words and phrases related to geometry, math, engineering, and design that are surrounded by square braces are:
+
+* "blueprint"
+* "building plans"
+* "structure's integrity and functionality"
+* "well-organized set of blueprints"

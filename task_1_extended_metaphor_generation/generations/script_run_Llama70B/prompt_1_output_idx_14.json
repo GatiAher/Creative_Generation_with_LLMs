@@ -1,0 +1,28 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Atmospheric Circulation",
+      "definition": "The movement of air in the atmosphere, including wind patterns and ocean currents."
+    },
+    {
+      "name": "Weather Patterns",
+      "definition": "The temporary and local weather conditions, including temperature, humidity, cloudiness, wind speed, and precipitation."
+    },
+    {
+      "name": "Climate",
+      "definition": "The long-term average weather conditions in a particular area, including temperature, precipitation, and wind patterns."
+    },
+    {
+      "name": "Jet Stream",
+      "definition": "A fast-moving band of air that flows across the upper atmosphere, playing a significant role in shaping weather patterns and the Polar Vortex."
+    },
+    {
+      "name": "Arctic Oscillation",
+      "definition": "An atmospheric pressure pattern that affects the Northern Hemisphere, influencing the strength and position of the Polar Vortex."
+    },
+    {
+      "name": "El Ni\u00f1o-Southern Oscillation (ENSO)",
+      "definition": "A natural climate cycle that impacts global weather patterns, including the strength and position of the Polar Vortex."
+    }
+  ]
+}

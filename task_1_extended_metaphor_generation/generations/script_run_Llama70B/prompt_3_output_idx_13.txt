@@ -1,0 +1,7 @@
+ ```
+Hubble's Law provides a mathematical foundation for understanding the expansion of the universe, specifically how galaxies move away from each other as they get farther apart. This relationship allows us to infer the history and fate of the cosmos, helping us better understand the scale and evolution of the universe. The law takes the form of a linear equation that relates the distance of a galaxy to its radial velocity (the speed at which it moves away from us). Specifically, it states that the velocity of a galaxy increases proportionally with its distance from us. The constant of proportionality is known as Hubble's constant. This means that if we know the distance to a galaxy, we can calculate its velocity, and vice versa. The equation is simple yet powerful, allowing astronomers to infer the expansion history of the universe and make predictions about its future.
+```
+
+{astronomy} Hubble's Law {/astronomy} {chemistry} {scientic jargon}
+
+[math] linear equation [/math] [design] distance of a galaxy [design] radial velocity [design] constant of proportionality [design] Hubble's constant [design] calculus

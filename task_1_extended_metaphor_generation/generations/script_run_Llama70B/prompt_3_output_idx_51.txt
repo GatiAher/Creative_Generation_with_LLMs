@@ -1,0 +1,5 @@
+ ```
+"The molar mass serves as a conversion factor between the amount of a substance and the number of moles it represents. This allows for accurate calculations of reactant quantities in chemical reactions, ensuring proper stoichiometry and predicting the outcome of the reaction. The molar mass is calculated by dividing the atomic mass of an element or compound by its Avogadro's number, which represents the number of particles per mole. This creates a consistent ratio between the mass of a substance and the number of moles it contains, allowing for quantitative predictions in chemical reactions."
+```
+
+{molar mass} {conversion factor} {substance} {amount} {number of moles} {chemical reactions} {stoichiometry} {predicting} {outcome} {atomic mass} {element} {compound} {Avogadro's number} {particles per mole} {consistent ratio} {mass} {quantitative predictions}

@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Orthogonality",
+      "mechanism": "Design elements are set at right angles to each other to provide a coherent and standard unit of measure, enabling elegant representation and deconstruction of patterns and relationships."
+    },
+    {
+      "description": "Structured arrangement",
+      "mechanism": "Bases are meticulously crafted as a set of vectors with a structured arrangement, forming the foundation for expressing complex transformations in an orderly manner."
+    }
+  ]
+}

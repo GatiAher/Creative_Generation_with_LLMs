@@ -1,0 +1,4 @@
+{
+  "purpose": "API Security acts as a shield for APIs, guarding against malicious attacks and safeguarding sensitive information. It ensures that only authorized entities can access the API and that all data exchanged between the API and legitimate users is encrypted and secure.",
+  "mechanism": "The API Security mechanism is built upon a foundation of authentication and authorization. Authentication verifies the identity of those seeking access to the API, while authorization determines which actions they are allowed to perform. Encryption scrambles data to prevent eavesdropping, and input validation ensures that user inputs are clean and safe. These components work together to create a robust defense system, protecting the API from potential vulnerabilities and threats."
+}

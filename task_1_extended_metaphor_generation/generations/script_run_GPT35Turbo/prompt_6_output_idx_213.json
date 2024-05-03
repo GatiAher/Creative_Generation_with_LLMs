@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Cluster Computing in distributed computing and Pitch Framing in baseball have Divide and Conquer as a common characteristic",
+      "cluster_computing": "Divide and Conquer in Cluster Computing involves dividing a large-scale task into smaller, manageable sub-tasks to coordinate computational power and enable quicker processing.",
+      "pitch_framing": "Similarly, in Pitch Framing, catchers divide the strike zone into smaller target areas to effectively receive and frame pitches, maximizing the chances of getting a favorable call from the umpire."
+    },
+    {
+      "metaphor": "both Cluster Computing in distributed computing and Pitch Framing in baseball have Parallel Processing as a common characteristic",
+      "cluster_computing": "Parallel Processing in Cluster Computing utilizes multiple interconnected nodes for collaboration and parallel processing to handle assigned sub-tasks efficiently.",
+      "pitch_framing": "In baseball, Pitch Framing involves catchers working in parallel with the pitcher to optimize the presentation of each pitch within the strike zone, aiming to influence the umpire's decision in favor of strikes."
+    },
+    {
+      "metaphor": "both Cluster Computing in distributed computing and Pitch Framing in baseball have Load Balancing as a common characteristic",
+      "cluster_computing": "Load Balancing in Cluster Computing entails distributing workloads across multiple nodes to reduce overall processing time and enhance system capacity for intricate computations.",
+      "pitch_framing": "Similarly, Pitch Framing requires catchers to balance and distribute their movements effectively to receive each pitch in a way that maximizes the chances of framing it as a strike, making it more appealing to the umpire."
+    }
+  ]
+}

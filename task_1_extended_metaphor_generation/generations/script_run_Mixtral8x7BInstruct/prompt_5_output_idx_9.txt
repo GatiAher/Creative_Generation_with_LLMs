@@ -1,0 +1,11 @@
+"Trajectory of a pitched ball"
+
+Explanation:
+
+1. Gravitational forces determine shape: Although the shape of a baseball is not determined by its orbit, understanding the spherical shape of the ball is crucial for analyzing its motion, as it determines the air resistance and gravitational forces acting on it.
+
+2. Use of mathematical equations to describe motion: The trajectory of a pitched ball can be described using mathematical equations, such as projectile motion equations, allowing for prediction and analysis of the ball's motion.
+
+3. Intersection of orbits: While not celestial orbits, the paths of a pitched ball and a swung bat can intersect, resulting in a hit and demonstrating the dynamic and ever-changing nature of baseball plays.
+
+4. Geometric and mathematical principles in planet definition: While baseballs do not meet the definition of a planet, they still meet many of the same geometric, mathematical, and engineering principles that define a planet, such as the use of geometric shapes, mass, and motion.

@@ -1,0 +1,24 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Algorithms",
+      "definition": "Step-by-step instructions to solve a specific problem or perform a specific task."
+    },
+    {
+      "name": "Data Structures",
+      "definition": "Organized collection of data that allows efficient access, modification, and storage."
+    },
+    {
+      "name": "Software Development",
+      "definition": "Process of designing, coding, testing, and maintaining software applications."
+    },
+    {
+      "name": "Programming Languages",
+      "definition": "Formal languages used to communicate instructions to a computer."
+    },
+    {
+      "name": "Debugging",
+      "definition": "Process of identifying and fixing errors or bugs in a computer program."
+    }
+  ]
+}

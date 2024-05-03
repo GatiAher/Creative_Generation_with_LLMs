@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Geometric Arrangement",
+      "mechanism": "Structuring components in a specific way to enable effective interaction and collision for facilitating a transformation process"
+    },
+    {
+      "description": "Energy and Orientation Control",
+      "mechanism": "Ensuring components have the required energy and correct orientation for smooth progression of the process"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+ {{ thermodynamics }} Thermal Energy provides a means to transfer energy from one body to another by exploiting temperature differences. It enables efficient heating or cooling of objects, allowing for regulation of temperature and manipulation of energy across systems. The thermal energy relies on the concept of heat capacity, which dictates how much energy is required to raise the temperature of a substance by a certain amount. This energy can be transferred through three main methods: {{ conduction }}, {{ convection }}, and {{ radiation }}. Conduction occurs when two objects are in direct contact, while convection involves the movement of fluids. Radiation, on the other hand, is the transfer of energy through electromagnetic waves. By understanding and leveraging these mechanisms, engineers can design systems that efficiently manage thermal energy for various applications such as heating, cooling, and power generation.
+
+[Mathematics and Engineering Annotations]
+
+{{ geometry }} {{ math }} {{ engineering }} {{ design }}

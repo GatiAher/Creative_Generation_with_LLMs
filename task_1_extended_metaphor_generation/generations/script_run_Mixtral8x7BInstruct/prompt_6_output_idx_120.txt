@@ -1,0 +1,26 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Biodiversity in ecosystems and Idol training system in Kpop have Redundancy (providing multiple ways for a system to perform vital functions and recover from disturbances).",
+			"biodiversity": "In Biodiversity, Redundancy is achieved through the presence of multiple species that can perform similar functions, allowing for the system to continue functioning even if one species is removed or disturbed.",
+			"idol\_training\_system": "In Idol training system, Redundancy is achieved by training multiple idols with similar skills, allowing the system to continue functioning even if one idol leaves or is unable to perform."
+		},
+		{
+			"metaphor": "both Biodiversity in ecosystems and Idol training system in Kpop have Interconnected network (connecting each element to and interacting with many others, allowing for multiple pathways for flow of energy and nutrients).",
+			"biodiversity": "In Biodiversity, an Interconnected network is formed through the interactions between different species, allowing for the flow of energy and nutrients between them and creating a resilient system.",
+			"idol\_training\_system": "In Idol training system, an Interconnected network is formed through the interactions between idols and staff, allowing for the flow of information, ideas, and support between them and creating a cohesive system."
+		},
+		{
+			"metaphor": "both Biodiversity in ecosystems and Idol training system in Kpop have Design matrix (creating a structure where each element is connected to and interacts with many others, allowing for robustness and adaptability).",
+			"biodiversity": "In Biodiversity, a Design matrix is created through the connections between different species and their environment, allowing for robustness and adaptability in the system.",
+			"idol\_training\_system": "In Idol training system, a Design matrix is created through the connections between idols, staff, and management, allowing for robustness and adaptability in the system."
+		},
+		{
+			"metaphor": "both Biodiversity in ecosystems and Idol training system in Kpop have Complex system (structuring a system with various components fulfilling different roles and functions, leading to a robust and adaptable system).",
+			"biodiversity": "In Biodiversity, a Complex system is formed through the presence of various species, each fulfilling different roles and functions, leading to a robust and adaptable system.",
+			"idol\_training\_system": "In Idol training system, a Complex system is formed through the presence of various idols, each fulfilling different roles and functions, leading to a robust and adaptable system."
+		}
+	]
+}
+
+Please note that this is a metaphor and the mechanisms in biodiversity and idol training system are not exactly the same but have some similarities.

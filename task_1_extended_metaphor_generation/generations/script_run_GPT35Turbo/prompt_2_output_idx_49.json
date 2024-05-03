@@ -1,0 +1,4 @@
+{
+  "purpose": "RPC API serves as a tool for delegating specific tasks or calculations in a distributed system network, similar to how different parts of a complex geometric design rely on specialized measurements and calculations.",
+  "mechanism": "The RPC API operates by enabling one program to request the execution of a specific procedure on another program within the network, facilitating communication and collaboration akin to interconnected geometric components working together to form a cohesive design."
+}

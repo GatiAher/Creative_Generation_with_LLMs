@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Gravitational Equilibrium",
+      "mechanism": "Contributing to overall gravitational equilibrium and stability through precise geometric positions and movements."
+    },
+    {
+      "description": "Elliptical Paths",
+      "mechanism": "Dictating planetary bodies' movement along specific elliptical paths around a central body for predicted motion."
+    },
+    {
+      "description": "Mathematical Principles (e.g., Kepler's laws of planetary motion and Newton's law of universal gravitation)",
+      "mechanism": "Using mathematical laws to determine and predict planetary motion and gravitational interactions."
+    },
+    {
+      "description": "Orbital Configurations",
+      "mechanism": "Resulting in stable orbital configurations due to gravitational interactions between celestial bodies."
+    }
+  ]
+}

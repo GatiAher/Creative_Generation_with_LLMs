@@ -1,0 +1,6 @@
+"Monetary policy" is a feature in the domain of money that satisfies all the features of the spec.
+
+* Monetary policy acts as a control system for the economy, constantly monitoring economic indicators such as inflation, employment, and growth to maintain stability.
+* Monetary policy has a dual structure, with central banks acting as sensors and actuators, allowing them to respond to a wide range of economic conditions and maintain stability through the use of various policy tools such as interest rates, reserve requirements, and open market operations.
+* The monetary policy tools can be thought of as control signals, which affect the supply and demand for money, and in turn, the function of various economic actors and systems.
+* The structure and function of monetary policy can be compared to that of an engineering control system, with the input being economic indicators, and the output being the policy tools that are used to maintain stability.

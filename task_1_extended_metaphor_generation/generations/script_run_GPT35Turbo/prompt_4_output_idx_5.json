@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Foundational blueprint",
+      "mechanism": "Provides critical insight into early stages and overall design"
+    },
+    {
+      "description": "Uniformity and isotropy",
+      "mechanism": "Uniform and isotropic radiation field supporting understanding through residual signal"
+    },
+    {
+      "description": "Initial conditions",
+      "mechanism": "Offering a snapshot of initial conditions and evolution for detailed analysis"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "sub_concepts": [
+    {
+      "name": "String Theory",
+      "definition": "A theoretical framework in which the point-like particles of particle physics are replaced by one-dimensional objects called strings."
+    },
+    {
+      "name": "Bosonic String Theory",
+      "definition": "The original version of string theory, which only includes bosons."
+    },
+    {
+      "name": "Superstring Theory",
+      "definition": "A type of string theory that includes both bosons and fermions in its spectrum."
+    },
+    {
+      "name": "Type I String Theory",
+      "definition": "A superstring theory that includes open and closed strings."
+    },
+    {
+      "name": "Type IIA String Theory",
+      "definition": "A superstring theory that includes only closed strings and has two supersymmetries."
+    },
+    {
+      "name": "Type IIB String Theory",
+      "definition": "A superstring theory that includes only closed strings and has two supersymmetries, with one of them chiral."
+    },
+    {
+      "name": "Heterotic String Theory",
+      "definition": "A superstring theory that includes both open and closed strings, and has one supersymmetry."
+    },
+    {
+      "name": "M-Theory",
+      "definition": "A conjectured theory that unifies the five consistent string theories and 11-dimensional supergravity."
+    },
+    {
+      "name": "Branes",
+      "definition": "Objects in string theory that generalize the concept of a point particle to higher dimensions."
+    },
+    {
+      "name": "D-Branes",
+      "definition": "A specific type of brane that is electrically charged under the Ramond-Ramond fields."
+    }
+  ]
+}

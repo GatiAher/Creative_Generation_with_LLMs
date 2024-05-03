@@ -1,0 +1,24 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "are governed by gravitational forces that determine their shape",
+"dwarf\_planets": "Their spherical shape is a result of the gravitational forces and material composition, which maximizes surface area for a given volume, making them easier to detect and study.",
+"iron\_man's\_unibeam\_repulsor's\_orbital\_motion\_mechanism": "Iron Man's Unibeam Repulsor's Orbital Motion Mechanism is also subject to the laws of gravity, which dictate its movement and behavior."
+},
+{
+"metaphor": "are described by mathematical equations that predict and analyze their motion",
+"dwarf\_planets": "The orbits of dwarf planets can be accurately predicted and described using mathematical equations, providing valuable insights into their motion and behavior.",
+"iron\_man's\_unibeam\_repulsor's\_orbital\_motion\_mechanism": "Iron Man's Unibeam Repulsor's Orbital Motion Mechanism is also subject to mathematical analysis, as its motion and trajectory can be described using mathematical equations and principles."
+},
+{
+"metaphor": "intersect with other debris, demonstrating the dynamic and ever-changing nature of celestial systems",
+"dwarf\_planets": "Dwarf planets often intersect with other debris in space, such as asteroids and comets, highlighting the dynamic and ever-changing nature of celestial systems.",
+"iron\_man's\_unibeam\_repulsor's\_orbital\_motion\_mechanism": "Iron Man's Unibeam Repulsor's Orbital Motion Mechanism can also intersect with other objects in its path, demonstrating the dynamic and unpredictable nature of motion in the universe."
+},
+{
+"metaphor": "meet the same geometric, mathematical, and engineering principles that define other planets",
+"dwarf\_planets": "Despite not meeting all the criteria to be classified as a full-fledged planet, dwarf planets still meet many of the same geometric, mathematical, and engineering principles that define other planets.",
+"iron\_man's\_unibeam\_repulsor's\_orbital\_motion\_mechanism": "Iron Man's Unibeam Repulsor's Orbital Motion Mechanism also meets many of the same engineering and mathematical principles that define other motion systems in the universe."
+}
+]
+}

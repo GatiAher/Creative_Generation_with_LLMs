@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Insulation",
+      "mechanism": "Regulating temperature by retaining heat within a structure, similar to how insulation works in buildings"
+    },
+    {
+      "description": "Greenhouse effect",
+      "mechanism": "Involves trapping heat by certain gases, acting like a blanket to prevent heat loss into space"
+    }
+  ]
+}

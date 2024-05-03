@@ -1,0 +1,32 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Black Hole",
+      "definition": "A region in space where the gravitational pull is so strong that not even light can escape."
+    },
+    {
+      "name": "Event Horizon",
+      "definition": "The point of no return around a black hole, beyond which anything that enters cannot escape."
+    },
+    {
+      "name": "Gravitational Lensing",
+      "definition": "The bending of light around a massive object, such as a star or black hole, due to its gravitational field."
+    },
+    {
+      "name": "Frame Dragging",
+      "definition": "The effect where the rotation of a rotating body causes the fabric of spacetime around it to rotate along with it."
+    },
+    {
+      "name": "Gravitomagnetism",
+      "definition": "The gravitational analogue of magnetism, which describes the interaction between gravitational fields and moving charges."
+    },
+    {
+      "name": "Cosmic Censorship Hypothesis",
+      "definition": "The idea that any information that falls into a black hole is lost forever, and that the event horizon acts as a boundary beyond which information cannot be retrieved."
+    },
+    {
+      "name": "Holographic Principle",
+      "definition": "The idea that the information contained in a region of spacetime can be encoded on the surface of that region, known as the holographic principle."
+    }
+  ]
+}

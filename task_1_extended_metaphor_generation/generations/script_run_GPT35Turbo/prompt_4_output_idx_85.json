@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Motion and energy transfer",
+      "mechanism": "Facilitates efficient transfer of motion and energy between objects through strategic application of force over time."
+    },
+    {
+      "description": "Optimization",
+      "mechanism": "Enables the optimization of changes in dynamic systems and supports controlled acceleration or deceleration of objects."
+    },
+    {
+      "description": "Integration",
+      "mechanism": "Mathematically defined as the integral of force with respect to time, demonstrating the geometric relationship between force, time, and resulting change in motion."
+    },
+    {
+      "description": "Control and manipulation",
+      "mechanism": "Allows for precise control and manipulation of alterations in a system by varying the force magnitude or duration of application."
+    }
+  ]
+}

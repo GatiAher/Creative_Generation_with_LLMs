@@ -1,0 +1,8 @@
+"Scoreboard design"
+
+Explanation:
+
+* A scoreboard is a stable and durable framework that provides the structure for displaying game information.
+* The design of a scoreboard allows for efficient and accurate storage and transmission of information, such as runs, hits, and errors.
+* The compact structure of a scoreboard allows it to display a large amount of information in a small space.
+* The double helix structure of a scoreboard can be compared to the organized and systematic layout of the information displayed, making it easily readable and understandable to spectators.

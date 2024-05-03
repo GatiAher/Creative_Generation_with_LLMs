@@ -1,0 +1,19 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "an efficient and specialized system for converting and transferring resources",
+			"trophic\_levels": "The trophic system in an ecosystem can be thought of as a hierarchical system for converting and transferring energy, similar to a supply chain in engineering or manufacturing. This structure allows for an efficient distribution and use of energy within the ecosystem, maximizing the potential for growth and survival of the organisms within it.",
+			"the\_farm\_system\_for\_player\_development": "The farm system in baseball is a hierarchical system for developing and transferring talent, similar to a supply chain in manufacturing. Players are scouted, recruited, and trained at lower levels of the system before being promoted to higher levels based on their performance and potential. This structure allows for an efficient distribution and use of resources, maximizing the potential for growth and success of the players and the organization as a whole."
+		},
+		{
+			"metaphor": "a modular and self-organizing system with a high degree of resilience and adaptability",
+			"trophic\_levels": "The trophic system can be seen as a modular and self-organizing system, where the addition or removal of species at one level does not necessarily affect the functioning of the other levels. This allows for a high degree of resilience and adaptability within the ecosystem.",
+			"the\_farm\_system\_for\_player\_development": "The farm system in baseball can also be seen as a modular and self-organizing system, where the addition or removal of players at one level does not necessarily affect the functioning of the other levels. This allows for a high degree of resilience and adaptability within the organization, as the system can continue to produce talent even if a player is traded or released."
+		},
+		{
+			"metaphor": "a pyramid with a decreasing amount of resources available at each higher level",
+			"trophic\_levels": "The trophic system can be visualized as a pyramid, with the producers at the base and the decomposers at the top. This pyramid shape represents the decreasing amount of energy and biomass available at each higher level.",
+			"the\_farm\_system\_for\_player\_development": "The farm system in baseball can also be visualized as a pyramid, with the rookie leagues at the base and the major league team at the top. As players progress through the system, they have access to more resources and opportunities, but the competition also increases. The pyramid shape represents the decreasing number of players who are able to reach the top level of the system."
+		}
+	]
+}

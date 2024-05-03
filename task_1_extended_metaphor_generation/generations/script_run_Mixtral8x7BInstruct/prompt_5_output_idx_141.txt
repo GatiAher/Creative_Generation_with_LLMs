@@ -1,0 +1,11 @@
+"Standardized baseball rules and regulations"
+
+Modularity: The rules and regulations can be broken down into fundamental units (individual rules) that govern different aspects of the game.
+
+Standardized Interfaces: The rules and regulations provide standardized interfaces between players, teams, and officials, ensuring proper conduct and fair play.
+
+Redundancy: The redundancy of rules and regulations ensures that the game remains fair and consistent, even if some rules are not enforced or followed correctly.
+
+Scalability: The rules and regulations allow for the game to be scaled up or down, depending on the level of play, without losing its fundamental nature.
+
+Modifiability: The rules and regulations can be modified over time to adapt to changing circumstances, new technologies, or to improve the game.

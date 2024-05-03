@@ -1,0 +1,5 @@
+ Here's the annotated text with the requested surroundings:
+
+{Distributed File Systems} are used to store and manage large amounts of data across multiple machines, allowing for improved performance and reliability by spreading the workload and reducing the risk of a single point of failure. The system is designed as a network of interconnected nodes, each with its own storage capacity and processing power. The data is broken down into smaller chunks, called blocks, and each block is replicated across multiple nodes to ensure that there is always a copy available if one node fails or becomes unavailable. This allows for efficient data retrieval and writing, as well as load balancing and fault tolerance.
+
+[network of interconnected nodes] [storage capacity] [processing power] [data retrieval] [writing] [load balancing] [fault tolerance]

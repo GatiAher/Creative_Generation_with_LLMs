@@ -1,0 +1,9 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Moons (or Satellites) in solar system and Influence of interest rates on economy in money serve as a stabilizing force, providing balance and consistency to their respective systems.",
+			"moons\_(or\_satellites)": "Moons orbiting around a planet due to gravitational pull can help stabilize the rotation of the planet, providing a more stable environment for potential life and other geological processes.",
+			"influence\_of\_interest\_rates\_on\_economy": "Interest rates, set by central banks, help maintain economic stability by influencing inflation, employment, and economic growth, providing a consistent environment for businesses and individuals to make financial decisions."
+		},
+		{
+	

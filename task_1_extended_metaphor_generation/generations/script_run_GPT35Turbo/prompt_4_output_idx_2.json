@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Gravitational Forces",
+      "mechanism": "Gravitational forces are utilized for interacting with celestial bodies, altering trajectories, and ensuring stability of planetary systems."
+    },
+    {
+      "description": "Orbital Mechanics",
+      "mechanism": "Utilizing various orbits to organize celestial objects and influence their positions and interactions."
+    }
+  ]
+}

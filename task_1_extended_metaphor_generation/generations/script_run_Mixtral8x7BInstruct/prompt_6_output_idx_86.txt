@@ -1,0 +1,14 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Spaghettification in theory of the naked singularity and Artificial black hole technology in Iron Man utilize the curvature of spacetime to determine gravitational force, (string)
+			"spaghettification": "in the case of Spaghettification, this principle is used to demonstrate extreme gravitational forces near a massive object, where the curvature of spacetime becomes infinite and leads to a drastic difference in the gravitational force experienced by different parts of an object. This can result in the stretching and deformation of the object, causing it to be 'spaghettified'. (string)
+			"artificial\_black\_hole\_technology": "similarly, in Iron Man's artificial black hole technology, the curvature of spacetime is used to create a concentrated area of extreme gravitational force. This can be used for various purposes, such as powering the suit or providing a means of propulsion. However, it also presents the challenge of understanding and controlling the behavior of the black hole within the framework of classical physics. (string)"
+		},
+		{
+			"metaphor": "both Spaghettification in theory of the naked singularity and Artificial black hole technology in Iron Man utilize differential force to cause stretching and deformation, (string)
+			"spaghettification": "in the case of Spaghettification, the differential force caused by the extreme gravitational force leads to the stretching and deformation of an object, with one end being pulled towards the massive object and the other end being pushed away. This illustrates the extreme conditions that can occur in the vicinity of a massive object and the challenges in understanding its behavior within the framework of classical physics. (string)
+			"artificial\_black\_hole\_technology": "similarly, in Iron Man's artificial black hole technology, the differential force caused by the extreme gravitational force can lead to stretching and deformation of objects in its vicinity. This can be used for various purposes, such as manipulating or destroying objects, but it also presents the challenge of understanding and controlling the behavior of the black hole and its effects on its surroundings. (string)"
+		}
+	]
+}

@@ -1,0 +1,4 @@
+{
+  "purpose": "The API Key serves as a unique identifier for a client, allowing the server to recognize and track the client's requests. It ensures accountability and security by enabling the server to monitor and control the client's access and usage.",
+  "mechanism": "The API Key is a string of characters, similar to a coordinate in geometry or an identifier in math. It is generated and assigned to a client by the server. The client then includes this key in each request it makes to the server, acting as a 'digital key' that allows the server to authenticate and validate the request. The key's unique and unchanging nature provides a consistent and reliable means of identifying and tracking the client, much like a fixed point in engineering or a consistent design element in a blueprint."
+}

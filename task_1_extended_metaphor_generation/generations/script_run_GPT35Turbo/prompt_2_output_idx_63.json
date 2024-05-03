@@ -1,0 +1,4 @@
+{
+  "purpose": "Relief provides a visual understanding of the vertical dimension of terrain features, aiding in the interpretation of spatial relationships and elevations in a two-dimensional representation of the land.",
+  "mechanism": "The Relief is structured using contour lines and shading techniques to depict the varying elevations and gradients across the terrain. By carefully spacing contour lines based on specific intervals of elevation difference, the Relief creates a visual representation of the topography's height and depth. Shading techniques, such as hachures and layering, further enhance the depiction of relief by simulating the effects of light and shadow on the terrain's surfaces based on their relative elevations."
+}

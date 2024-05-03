@@ -1,0 +1,5 @@
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "Both Event Horizon in theory of the naked singularity and Strike Zone in baseball have Demarcation Points, establishing a limit beyond which matter and energy cannot return to the external universe, ensuring isolation and preservation of a system.",
+	

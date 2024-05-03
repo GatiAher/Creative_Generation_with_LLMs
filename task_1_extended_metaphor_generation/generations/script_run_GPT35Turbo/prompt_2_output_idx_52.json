@@ -1,0 +1,4 @@
+{
+  "purpose": "Parallel computing is akin to breaking down complex geometric problems into smaller, manageable parts that can be solved simultaneously. This approach allows for faster computation by harnessing the combined power of multiple processors to tackle different aspects of a problem concurrently.",
+  "mechanism": "In parallel computing, multiple processing units work together to divide a large computational task into smaller sub-tasks, each handling a portion of the overall workload. Each processor operates independently and communicates with others to collectively arrive at a solution. This division of labor and collaborative effort among processors expedite the overall computation process, mirroring the efficiency gained in engineering and design when different specialists concurrently contribute to different aspects of a project."
+}

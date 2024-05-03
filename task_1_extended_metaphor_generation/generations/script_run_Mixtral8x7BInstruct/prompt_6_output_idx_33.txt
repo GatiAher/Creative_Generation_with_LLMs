@@ -1,0 +1,9 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Meteorites in solar system and The use of spin and air resistance to curve pitches in baseball act as captivating forces that draw in observers with their awe-inspiring displays.",
+			"meteorites": "Meteorites are captivating forces that draw in observers as they are captured by the gravitational field of a celestial body and become meteors as they enter the atmosphere, creating mesmerizing meteor showers as friction generates heat and causes them to glow.",
+			"the\_use\_of\_spin\_and\_air\_resistance\_to\_curve\_pitches": "The use of spin and air resistance to curve pitches in baseball is a captivating force that draws in observers as the pitcher imparts spin on the ball, causing it to move in unpredictable ways as it interacts with the air resistance, resulting in a mesmerizing display of skill and strategy."
+		},
+		{
+		

@@ -1,0 +1,24 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Hormones",
+      "definition": "Chemical messengers produced by endocrine glands and secreted directly into the bloodstream"
+    },
+    {
+      "name": "Endocrine Glands",
+      "definition": "Ductless glands that secrete hormones directly into the bloodstream"
+    },
+    {
+      "name": "Pituitary Gland",
+      "definition": "Master gland that controls other endocrine glands and regulates various body functions"
+    },
+    {
+      "name": "Thyroid Gland",
+      "definition": "Regulates metabolism, growth, and development"
+    },
+    {
+      "name": "Adrenal Glands",
+      "definition": "Produce hormones that help regulate stress response, metabolism, and blood pressure"
+    }
+  ]
+}

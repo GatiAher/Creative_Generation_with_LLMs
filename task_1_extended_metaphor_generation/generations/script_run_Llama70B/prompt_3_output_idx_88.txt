@@ -1,0 +1,5 @@
+ Here's the annotated text with the requested surroundings:
+
+{Peer-to-Peer Networking, direct communication, intermediaries, efficient, resilient, data, resources, services} {triangle, vertices, sides, strong, stable} {distributed computing model, nodes, peers, clients, servers, mesh, vertices, edges, network, interconnected}
+
+{Each node, neighboring nodes, communication, directly, efficiently, exchanged, overall system reliability, scalability} {mesh, interconnected, strength, flexibility}

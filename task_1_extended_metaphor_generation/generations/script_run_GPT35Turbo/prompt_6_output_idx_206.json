@@ -1,0 +1,24 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Concurrency in distributed computing and Jarvis in Iron Man have Parallelism",
+      "concurrency": "Concurrency enables different tasks to run simultaneously in distributed computing, maximizing resource utilization and reducing wait times.",
+      "jarvis": "Similarly, Jarvis in Iron Man can handle multiple tasks at the same time, like processing information and carrying out commands concurrently, optimizing Tony Stark's efficiency."
+    },
+    {
+      "metaphor": "both Concurrency in distributed computing and Jarvis in Iron Man have Modularity",
+      "concurrency": "In distributed computing, Concurrency is structured like a network of interconnected bridges where each task can operate independently without impacting others.",
+      "jarvis": "Jarvis, the AI assistant, functions modularly in Iron Man by compartmentalizing different tasks and components, allowing seamless communication and execution of diverse functions to aid Tony Stark in various missions."
+    },
+    {
+      "metaphor": "both Concurrency in distributed computing and Jarvis in Iron Man have Resource Sharing",
+      "concurrency": "Resource Sharing in distributed computing ensures efficient sharing of resources among tasks to optimize performance and avoid bottlenecks.",
+      "jarvis": "Jarvis, similarly to Concurrency, efficiently shares resources within the Iron Man suit to assist Tony Stark in combat and tactical decision-making, ensuring optimal utilization of available resources."
+    },
+    {
+      "metaphor": "both Concurrency in distributed computing and Jarvis in Iron Man have Non-Blocking Design",
+      "concurrency": "Non-Blocking Design in distributed computing prevents one task from hindering the progress of others, enabling seamless operation and efficient task completion.",
+      "jarvis": "Jarvis, with a non-blocking design akin to Concurrency, can handle multiple requests simultaneously without getting stuck on any particular task, ensuring continuous support to Tony Stark without delays."
+    }
+  ]
+}

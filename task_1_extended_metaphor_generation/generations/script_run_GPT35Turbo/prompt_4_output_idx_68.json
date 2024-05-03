@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "heat redistribution",
+      "mechanism": "redistribute heat and pressure from within the XXX XXX to the surface through a fluid medium"
+    },
+    {
+      "description": "density contrast",
+      "mechanism": "structured as a molten rock that is less dense than the surrounding solid rocks"
+    },
+    {
+      "description": "fluid flow",
+      "mechanism": "allowing it to rise and flow through fractures and weak points in the XXX XXX due to the principle of XXX"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+"extended\_metaphor": \[
+{
+"metaphor": "both Nucleotide in DNA and Standardized Currency Denominations in money have Modularity, allowing individual units to be combined to form a complete system",
+"nucleotide": "Nucleotides, the individual building blocks of DNA, consist of a sugar molecule, a phosphate group, and a nitrogenous base. They connect to form a long chain, encoding genetic information in the specific sequence of nitrogenous bases.",
+"standardized\_currency\_denominations": "Standardized currency denominations, such as dollars or euros, are modular in that they can be combined in various quantities to represent the value of a transaction, allowing for a wide range of financial exchanges."
+},
+{
+"metaphor": "both Nucleotide in DNA and Standardized Currency Denominations in money have Standardization, ensuring predictable and reliable interaction between units",
+"nucleotide": "Each nucleotide has a consistent composition, allowing for predictable and reliable interaction between nucleotides when they connect to form a long chain. This consistent structure enables the accurate encoding and decoding of genetic information.",
+"standardized\_currency\_denominations": "Standardized currency denominations have a consistent value and composition, enabling users to predictably and reliably exchange and calculate amounts, regardless of the specific denominations involved."
+},
+{
+"metaphor": "both Nucleotide in DNA and Standardized Currency Denominations in money have Scalability, allowing for the representation of large amounts of information or value in a single unit",
+"nucleotide": "The ability to connect the phosphate group of one nucleotide to the sugar molecule of the next allows for the creation of a long chain, enabling the encoding of a large amount of genetic information in a single DNA molecule.",
+"standardized\_currency\_denominations": "Standardized currency denominations can be combined in various quantities, allowing for the representation of large amounts of value in a single transaction or account balance. This scalability facilitates complex financial exchanges."
+},
+{
+"metaphor": "both Nucleotide in DNA and Standardized Currency Denominations in money have Abstraction, separating the representation of information or value from the physical units themselves",
+"nucleotide": "The specific sequence of nitrogenous bases in a DNA molecule encodes genetic information, abstracting the genetic instructions from the physical structure of the DNA molecule itself.",
+"standardized\_currency\_denominations": "Standardized currency denominations represent a specific value, abstracting the concept of value from the physical units of currency themselves. This abstraction enables users to easily exchange and calculate the value of goods and services."
+}
+\]
+}

@@ -1,0 +1,16 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Stable Isotope Analysis",
+      "definition": "A scientific technique used to determine the isotopic composition of elements in a sample, usually for the purpose of understanding various geological processes."
+    },
+    {
+      "name": "Radiogenic Isotope Analysis",
+      "definition": "A technique used to determine the isotopic composition of elements that have undergone radioactive decay, providing information on the age and origin of geological samples."
+    },
+    {
+      "name": "Isotope Fractionation",
+      "definition": "The process by which isotopes of an element are separated or fractionated during natural processes, allowing scientists to study the mechanisms behind these fractionations."
+    }
+  ]
+}

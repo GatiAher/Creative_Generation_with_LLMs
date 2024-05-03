@@ -1,0 +1,8 @@
+"Pitch velocity measurement and distance estimation using Doppler effect."
+
+Explanation:
+
+* Observation and Measurement: The use of technology to measure the velocity of a pitched ball is a common practice in baseball.
+* Redshift Effect: The Doppler effect, which is the principle behind the redshift effect in physics, can be used to explain the change in frequency (and thus the perceived speed) of a pitched ball as it moves towards or away from the observer.
+* Distance and Speed Determination: By measuring the change in frequency of the pitched ball using the Doppler effect, the distance and speed of the ball can be estimated.
+* Use of Geometric and Physical Concepts: The Doppler effect is a concept from physics that describes how the frequency of a wave changes as the source of the wave moves relative to the observer. In the case of baseball, the concept is used to estimate the speed and distance of a pitched ball.

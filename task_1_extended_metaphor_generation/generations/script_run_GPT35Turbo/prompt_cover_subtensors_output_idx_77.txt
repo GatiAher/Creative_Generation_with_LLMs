@@ -1,0 +1,5 @@
+Linear momentum in baseball can be likened to a towering home run hit by a power hitter. Just as the ball leaves the bat with incredible speed and force, linear momentum carries an object, such as a baseball player running the bases, forward with great velocity. The initial force applied to the ball sets it in motion, just as the player's speed and power propel them along the base path.
+
+Impulse in baseball is akin to a pitcher's fastball racing toward the plate. The sudden change in momentum caused by the release of the pitch creates a force that impacts the movement of the ball as it hurtles toward the batter. Just as a ball player must react quickly to a speeding pitch, objects in motion must adjust to impulse in order to change their course or speed.
+
+Angular momentum in baseball can be likened to a curveball spinning through the air. The rotation of the ball creates a force that causes it to curve, deceiving the batter and changing its trajectory. Just as a spinning ball can confound a hitter, angular momentum can alter the direction of an object in motion, causing it to turn or pivot in response to the forces acting upon it.

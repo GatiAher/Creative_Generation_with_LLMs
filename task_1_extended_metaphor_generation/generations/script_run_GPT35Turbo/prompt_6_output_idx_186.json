@@ -1,0 +1,24 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both RESTful API in API and J.A.R.V.I.S. (Just A Rather Very Intelligent System) in Iron Man have Modularity which involves Dividing a system into smaller parts/modules and defining clear interfaces to facilitate independent development and maintenance.",
+      "restful_api": "RESTful API leverages modularity by breaking down functionalities into smaller, manageable components with well-defined interfaces, allowing developers to work on different parts independently and maintain the system efficiently.",
+      "j.a.r.v.i.s._(just_a_rather_very_intelligent_system)": "Similarly, J.A.R.V.I.S. in Iron Man embodies modularity by partitioning its intelligent system into distinct modules that handle specific tasks or information processing, enabling seamless integration and maintenance, much like how RESTful API achieves modularity."
+    },
+    {
+      "metaphor": "both RESTful API in API and J.A.R.V.I.S. (Just A Rather Very Intelligent System) in Iron Man have Standardization which involves Establishing uniform specifications and formats for components to promote interoperability and consistency.",
+      "restful_api": "In RESTful API, standardization ensures that all components adhere to agreed-upon specifications and formats, enhancing interoperability between different systems and ensuring consistency in data exchange.",
+      "j.a.r.v.i.s._(just_a_rather_very_intelligent_system)": "Likewise, J.A.R.V.I.S. adheres to standardization by following uniform specifications and formats across its functionalities, allowing seamless integration with other technology and promoting consistency in processing information, mirroring the standardization principles of RESTful API."
+    },
+    {
+      "metaphor": "both RESTful API in API and J.A.R.V.I.S. (Just A Rather Very Intelligent System) in Iron Man have Hierarchy which involves Organizing information or components in a structured order based on importance or function to enhance clarity and efficiency.",
+      "restful_api": "Within RESTful API, hierarchy dictates the structured organization of components based on their importance or function, creating a clear and efficient system design that enables better understanding and utilization of resources.",
+      "j.a.r.v.i.s._(just_a_rather_very_intelligent_system)": "Similarly, J.A.R.V.I.S. implements hierarchy by organizing its functions and information in a structured order, prioritizing tasks based on importance or relevance, thereby enhancing clarity and efficiency in operations, echoing the hierarchical approach in RESTful API."
+    },
+    {
+      "metaphor": "both RESTful API in API and J.A.R.V.I.S. (Just A Rather Very Intelligent System) in Iron Man have Communication which involves Facilitating effective exchange of information between components by specifying clear communication protocols and channels.",
+      "restful_api": "Communication in RESTful API ensures seamless information exchange between components through clear communication protocols and channels, promoting effective data flow and interaction within the system.",
+      "j.a.r.v.i.s._(just_a_rather_very_intelligent_system)": "Likewise, J.A.R.V.I.S. facilitates communication between its modules by establishing clear communication protocols and channels for effective information exchange, mirroring the communication mechanisms employed in RESTful API to enable efficient data transmission and collaboration."
+    }
+  ]
+}

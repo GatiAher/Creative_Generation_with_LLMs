@@ -1,0 +1,4 @@
+{
+  "purpose": "Fault Tolerance ensures that a distributed system can continue functioning optimally even when one or more components fail. It's like having a backup plan for when things go wrong, so the system can still perform its intended function.",
+  "mechanism": "Fault Tolerance uses redundancy and error detection/correction techniques to achieve this goal. Redundancy means that there are multiple copies of data or functions spread across different nodes in the system, so if one node fails, another can take over. Error detection/correction codes, like checksums or parity bits, help detect and fix errors that might occur during data transmission or storage. These techniques work together to ensure that the system remains stable and functional even when some parts fail."
+}

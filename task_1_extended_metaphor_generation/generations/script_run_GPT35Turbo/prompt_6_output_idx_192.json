@@ -1,0 +1,28 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both GraphQL API in API and Collaborative Songwriting and Production Teams in Kpop have Single Responsibility Principle as a core design principle",
+      "graphql_api": {
+        "description": "Single Responsibility Principle",
+        "mechanism": "Versatile mathematical function (XXX XXX XXX) allows users to specify data and requirements in a single request, promoting efficient retrieval and manipulation of information."
+      },
+      "collaborative_songwriting_and_production_teams": "In Kpop teams, each member has a specific responsibility such as writing lyrics, composing music, or choreographing dance moves. This clear division of roles ensures that each individual contributes to the final product effectively, just as the Single Responsibility Principle in GraphQL API ensures that each query serves a specific purpose."
+    },
+    {
+      "metaphor": "both GraphQL API in API and Collaborative Songwriting and Production Teams in Kpop have Modularity Principle ingrained in their operations",
+      "graphql_api": {
+        "description": "Modularity Principle",
+        "mechanism": "The system (XXX XXX XXX) operates as a customizable geometry calculator, where users provide specific coordinates, equations, or constraints in the query language, promoting flexibility and separability of components."
+      },
+      "collaborative_songwriting_and_production_teams": "Similarly, in Kpop, different teams are responsible for various aspects of a song's production, like melody composition, arrangement, and choreography. This separation allows for flexibility in creating multiple versions or remixes of a song, akin to the modularity promoted by GraphQL API in separating concerns and components for easier customization and maintenance."
+    },
+    {
+      "metaphor": "both GraphQL API in API and Collaborative Songwriting and Production Teams in Kpop embrace Separation of Concerns as a guiding principle",
+      "graphql_api": {
+        "description": "Separation of Concerns",
+        "mechanism": "XXX XXX processes user inputs in a structured manner, retrieving and delivering only the requested data, leading to streamlined communication and retrieval of geometry, math, engineering, and design data."
+      },
+      "collaborative_songwriting_and_production_teams": "In Kpop, the production process involves requesting and providing specific feedback on lyrics, melody, and harmonies separately, ensuring that each aspect of the song is addressed appropriately. This mimics the Separation of Concerns principle in GraphQL API, where queries retrieve only the necessary data, reducing unnecessary information retrieval and simplifying communication."
+    }
+  ]
+}

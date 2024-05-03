@@ -1,0 +1,4 @@
+{
+  "purpose": "Cluster Computing effectively divides a large-scale task into smaller, manageable sub-tasks by coordinating the computational power of multiple interconnected nodes. This enables quicker and more efficient processing of complex computational operations often encountered in geometry, math, engineering, and design.",
+  "mechanism": "Nodes in Cluster Computing are organized in a way that encourages collaboration and parallel processing to handle the assigned sub-tasks. This structure allows for the distribution of workloads across multiple nodes, thereby reducing the overall processing time and enhancing the system's capacity to handle intricate computations."
+}

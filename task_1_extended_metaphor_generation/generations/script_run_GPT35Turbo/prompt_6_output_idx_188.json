@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both SOAP API in API and Concept Albums in Kpop have a Blueprint Design that acts as a precise blueprint outlining dimensions, shapes, and materials for construction",
+      "soap_api": "In SOAP API, the Blueprint Design serves as a detailed plan specifying the structure and components required for seamless communication between different software applications.",
+      "concept_albums": "Similarly, Concept Albums in Kpop serve as a comprehensive plan that outlines the themes, narratives, and musical elements required for constructing a cohesive and impactful album that resonates with the audience."
+    },
+    {
+      "metaphor": "both SOAP API in API and Concept Albums in Kpop employ a Standardized Message Format that specifies a structured format for data transmission",
+      "soap_api": "SOAP API uses a Standardized Message Format to define the exact layout and content of messages exchanged between systems, ensuring consistent and reliable communication.",
+      "concept_albums": "Concept Albums in Kpop also rely on a Standardized Message Format through the coherent and consistent presentation of musical themes, styles, and messages within the album, creating a unified listening experience for fans."
+    }
+  ]
+}

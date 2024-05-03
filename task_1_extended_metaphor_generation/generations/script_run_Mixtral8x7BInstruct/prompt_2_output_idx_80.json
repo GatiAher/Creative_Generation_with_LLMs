@@ -1,0 +1,4 @@
+{
+  "purpose": "Facilitates the modularization and reuse of specific actions or calculations within a program, similar to how a blueprint in engineering or design outlines a specific component or process that can be replicated multiple times",
+  "mechanism": "A function is defined by a name, which can be called upon multiple times within a program to execute a specific sequence of instructions. This is similar to how a mathematical function, such as f(x) = x^2, can be repeatedly applied to different input values to produce corresponding output values. The structure of a function in computer programming often includes defined inputs (parameters), a sequence of instructions, and an output (return value). This allows for the creation of reusable code components that can be easily integrated into larger systems, much like how standardized components are used in engineering and design to build more complex structures."
+}

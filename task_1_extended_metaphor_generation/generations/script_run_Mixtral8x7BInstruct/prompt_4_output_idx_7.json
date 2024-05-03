@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Natural method of transport",
+      "mechanism": "Meteoroids serve as a natural method for transporting extraterrestrial material through space and depositing it onto a planet's surface, contributing to the planet's geological and biological evolution."
+    },
+    {
+      "description": "Friction-based propulsion",
+      "mechanism": "Friction generated between a meteoroid and atmospheric gases causes the meteoroid to heat up and vaporize, producing a bright streak of light and propelling the meteoroid towards the planet's surface."
+    },
+    {
+      "description": "Size and speed-dependent brightness",
+      "mechanism": "The size of the meteoroid and its speed determine the brightness and duration of the meteor, allowing for a visible indication of the meteoroid's size and speed."
+    },
+    {
+      "description": "Survivability of larger meteoroids",
+      "mechanism": "Larger meteoroids may survive the journey through the atmosphere and strike the ground as meteorites, delivering extraterrestrial material to the planet's surface."
+    }
+  ]
+}

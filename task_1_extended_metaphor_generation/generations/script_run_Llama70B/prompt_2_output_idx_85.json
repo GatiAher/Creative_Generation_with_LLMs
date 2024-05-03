@@ -1,0 +1,4 @@
+{
+  "purpose": "The API Gateway acts as a guardian for the API, ensuring that only authorized and appropriate requests are allowed to pass through to the server. It serves as a shield, protecting the server from malicious or excessive requests, and providing a layer of security and control.",
+  "mechanism": "The API Gateway is designed like a multi-layered pyramid, with each layer serving a specific function. The first layer is responsible for authentication, verifying the identity of incoming requests and ensuring that they come from trusted sources. The second layer performs rate limiting, controlling the frequency of requests to prevent overload and abuse. Finally, the third layer terminates SSL connections, encrypting data and protecting it from eavesdropping and tampering. This hierarchical structure allows the API Gateway to efficiently manage and monitor traffic, ensuring that only legitimate requests reach the server."
+}

@@ -1,0 +1,9 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "Both Stars in a solar system and a Central Bank (as a centralized energy source), Interest Rates (as a gravitational force), Seigniorage (as nuclear fusion), and Monetary Policy Transmission (as energy propagation) share the characteristic of being a centralized and concentrated source of power and influence.",
+"stars": "Stars, such as our Sun, are massive celestial bodies that serve as the central and dominant source of light, heat, and energy for the planets and other celestial bodies in their orbit. They are the heart of the solar system, providing the essential energy that sustains life and shapes the conditions of the surrounding environment.",
+"central\_bank\_(describes\_a\_centralized\_energy\_source),\_interest\_rates\_(describes\_a\_gravitational\_force),\_seigniorage\_(describes\_nuclear\_fusion),\_and\_monetary\_policy\_transmission\_(describes\_energy\_propagation).": "Similarly, a Central Bank serves as the dominant and controlling institution in the financial system, responsible for managing the money supply, setting interest rates, and implementing monetary policy. Like a star, a Central Bank exerts a powerful and far-reaching influence over the economy, shaping the conditions and opportunities for growth and development. Interest rates, set by the Central Bank, act as a gravitational force, pulling or pushing the economy in a certain direction, while Seigniorage, or the profit earned by a government from issuing currency, is akin to the nuclear fusion that powers stars, providing the energy and resources needed to sustain the economy. Monetary Policy Transmission, or the process by which changes in monetary policy affect the economy, is the energy propagation that carries the influence of the Central Bank outward, shaping the conditions and opportunities for growth and development."
+}
+]
+}

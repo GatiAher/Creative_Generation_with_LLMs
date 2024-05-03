@@ -1,0 +1,17 @@
+"The {}Parathyroid Glands{} are responsible for maintaining the balance of {}calcium{} in the body, which is crucial for many bodily functions such as muscle contractions, nerve impulse transmission, and bone health. This is achieved by producing {}parathyroid hormone (PTH){} which regulates the levels of {}calcium{} in the blood by increasing or decreasing the amount of calcium that is released from bones or absorbed by the intestines. The Parathyroid Glands are typically four in number, each about the size of a grain of rice, and are strategically located near the thyroid gland in the neck. They are {}endocrine glands{}, meaning they release hormones directly into the bloodstream. The glands are made up of specialized cells called {}chief cells{}, which are responsible for producing and releasing PTH. When the {}calcium{} levels in the blood are low, the {}chief cells{} detect this and release PTH, which then triggers a series of reactions to increase the {}calcium{} levels in the blood. This includes increasing the reabsorption of {}calcium{} from the kidneys, increasing the absorption of {}calcium{} from the intestines, and decreasing the amount of {}calcium{} that is stored in the bones. Conversely, when the {}calcium{} levels in the blood are high, the Parathyroid Glands decrease the release of PTH, which helps to decrease the {}calcium{} levels in the blood. This feedback mechanism allows for the precise regulation of {}calcium{} levels in the body, ensuring optimal functioning of various physiological processes."
+
+Annotated text: (string)
+"The {}Parathyroid Glands{} are responsible for maintaining the balance of {}calcium{} in the body, which is crucial for many bodily functions such as muscle contractions, nerve impulse transmission, and bone health. This is achieved by producing {}parathyroid hormone (PTH){} which regulates the levels of {}calcium{} in the blood by increasing or decreasing the amount of calcium that is released from bones or absorbed by the intestines. The Parathyroid Glands are typically four in number, each about the size of a grain of rice, and are strategically located near the thyroid gland in the neck. They are {}endocrine glands{}, meaning they release hormones directly into the bloodstream. The glands are made up of specialized cells called {}chief cells{}, which are responsible for producing and releasing PTH. When the {}calcium{} levels in the blood are low, the {}chief cells{} detect this and release PTH, which then triggers a series of reactions to increase the {}calcium{} levels in the blood. This includes increasing the reabsorption of {}calcium{} from the kidneys, increasing the absorption of {}calcium{} from the intestines, and decreasing the amount of {}calcium{} that is stored in the bones. Conversely, when the {}calcium{} levels in the blood are high, the Parathyroid Glands decrease the release of PTH, which helps to decrease the {}calcium{} levels in the blood. This feedback mechanism allows for the precise regulation of {}calcium{} levels in the body, ensuring optimal functioning of various physiological processes."
+
+Pairs:
+{}Parathyroid Glands{} - Biology
+{}calcium{} - Chemistry, Biology
+{}parathyroid hormone (PTH){} - Biology, Chemistry
+{}endocrine glands{} - Biology
+{}chief cells{} - Biology
+{}calcium{} - Chemistry, Biology
+{}calcium{} - Chemistry, Biology
+{}calcium{} - Chemistry, Biology
+{}calcium{} - Chemistry, Biology
+{}calcium{} - Chemistry, Biology
+{}calcium{} - Chemistry, Biology

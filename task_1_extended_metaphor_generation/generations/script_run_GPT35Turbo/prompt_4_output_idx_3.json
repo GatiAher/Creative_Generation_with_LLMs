@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Orbital Mechanics",
+      "mechanism": "Utilizes gravitational forces to determine the movement and path of objects in space."
+    },
+    {
+      "description": "Material Science",
+      "mechanism": "Study and manipulation of materials like icy materials and dust particles to understand their properties and use in different environments."
+    }
+  ]
+}

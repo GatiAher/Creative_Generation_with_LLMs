@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Relief in topographic maps and Encryption in money have Contour Lines in common",
+      "relief": "Contour Lines in topographic maps create a visual representation of height and depth by spacing contour lines according to specific intervals of elevation difference.",
+      "encryption": "Similarly, in Encryption in money, specific patterns and intervals are used to encode the value of currency and protect it from unauthorized access."
+    },
+    {
+      "metaphor": "both Relief in topographic maps and Encryption in money have Shading Techniques in common",
+      "relief": "Shading Techniques in topographic maps enhance the depiction of terrain features by simulating light and shadow effects based on relative elevations.",
+      "encryption": "Likewise, in Encryption in money, different shading techniques, such as encryption algorithms, are used to enhance security and protect the value of currency from unauthorized access."
+    }
+  ]
+}

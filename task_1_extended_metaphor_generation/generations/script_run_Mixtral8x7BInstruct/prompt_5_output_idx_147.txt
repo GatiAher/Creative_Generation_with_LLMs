@@ -1,0 +1,7 @@
+"Digital Ledger Technology" (e.g. Blockchain)
+
+Explanation:
+
+* Storage and Transmission Device: A digital ledger technology like blockchain acts as a storage and transmission device for financial information, allowing for the preservation and passing down of financial transactions across a network of users. It is similar to a database, where all transactions are recorded and can be accessed by authorized parties.
+* Efficient and Organized Packaging: Digital ledger technology is designed to efficiently and securely package financial data by using cryptographic hashing and data structures such as Merkle Trees. This allows for the verification and validation of transactions, ensuring their accuracy and preventing fraud.
+* Stable Structure: Digital ledger technology provides a stable structure for financial data to be replicated and divided equally among network participants. This ensures the accuracy and integrity of financial transactions and enables a decentralized and trustless system for exchanging value.

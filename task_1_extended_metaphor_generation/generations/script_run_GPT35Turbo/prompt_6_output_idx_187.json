@@ -1,0 +1,24 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "Both RESTful API in API and Digital currency in money have Modularity",
+      "restful_api": "RESTful API promotes modularity by dividing functionality into smaller, independent modules accessed through defined interfaces.",
+      "digital_currency": "Digital currency achieves modularity by breaking down transactions into smaller, independent units that can be exchanged through standardized protocols."
+    },
+    {
+      "metaphor": "Both RESTful API in API and Digital currency in money have Standardization",
+      "restful_api": "RESTful API ensures standardization by defining uniform specifications and formats for data exchange, enabling interoperability among different systems.",
+      "digital_currency": "Digital currency relies on standardization to establish uniform rules and formats for transactions, ensuring compatibility across various platforms and currencies."
+    },
+    {
+      "metaphor": "Both RESTful API in API and Digital currency in money have Hierarchy",
+      "restful_api": "RESTful API employs hierarchy by organizing resources and endpoints in a structured manner based on their importance and relation to one another, improving usability and navigation.",
+      "digital_currency": "Digital currency utilizes hierarchy by categorizing transactions and accounts in a structured order based on their significance and function, facilitating efficient management and tracking of funds."
+    },
+    {
+      "metaphor": "Both RESTful API in API and Digital currency in money have Communication",
+      "restful_api": "RESTful API enables effective communication by specifying clear protocols and channels for data exchange between clients and servers, ensuring reliable information flow.",
+      "digital_currency": "Digital currency facilitates communication through secure protocols and channels for transferring funds between accounts, guaranteeing transparent and trustworthy transactions."
+    }
+  ]
+}

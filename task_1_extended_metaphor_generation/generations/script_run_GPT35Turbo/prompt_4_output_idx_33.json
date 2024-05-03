@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Visualization and Modeling",
+      "mechanism": "Using visual blueprints to predict and understand spatial arrangement and bonding patterns, enabling precise modeling of interactions and behaviors."
+    },
+    {
+      "description": "Geometric Representation",
+      "mechanism": "Indicating atom connections and shared electron pairs using lines and dots for visualizing geometric relationships and electron distributions."
+    },
+    {
+      "description": "2D Structural Analysis",
+      "mechanism": "Representing electronic framework of molecules in a 2D format for systematic analysis and manipulation of molecular structures."
+    }
+  ]
+}

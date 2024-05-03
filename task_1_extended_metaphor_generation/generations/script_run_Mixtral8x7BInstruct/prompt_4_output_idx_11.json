@@ -1,0 +1,24 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Baseline for measuring uniformity",
+      "mechanism": "Using the 'fossil record' of the early universe as a baseline, any deviations from this uniformity can suggest the presence of previously undetected matter or energy."
+    },
+    {
+      "description": "Utilization of electromagnetic radiation",
+      "mechanism": "Cosmic microwave background radiation, a form of electromagnetic radiation, is used to study the early universe, similar to how light or radio waves are used in other applications."
+    },
+    {
+      "description": "High degree of symmetry",
+      "mechanism": "The high degree of symmetry in the early universe maintained a uniform temperature in the cosmic microwave background radiation."
+    },
+    {
+      "description": "Temperature and density variations",
+      "mechanism": "Small variations in temperature and density in the cosmic microwave background radiation provide valuable information about the universe's geometry, composition, and evolution."
+    },
+    {
+      "description": "Mathematical tools and engineering techniques",
+      "mechanism": "Mathematical tools, such as statistical analysis, and engineering techniques, such as multi-frequency measurements and map-making algorithms, are used to extract valuable information from the cosmic microwave background radiation."
+    }
+  ]
+}

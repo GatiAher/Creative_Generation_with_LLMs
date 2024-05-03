@@ -1,0 +1,17 @@
+ ```
+Black Holes serve as cosmic gatekeepers, regulating the flow of matter and energy within the universe by dictating what can and cannot pass through their boundaries. They are nature's way of ensuring that the fabric of spacetime remains intact and stable. The extreme gravitational forces at play within a Black Hole create a boundary known as the event horizon. This boundary acts as a one-way membrane, allowing matter and energy to enter but preventing them from escaping. The event horizon is shaped like a sphere, with its surface area proportional to the mass of the Black Hole. The larger the Black Hole, the greater its gravitational pull and the more matter it can absorb. The singularity at the center of the Black Hole, where the curvature of spacetime is infinite, is the point of no return. Any object that crosses the event horizon will be pulled towards the singularity, never to escape.
+```
+Double curly braces (```) surround terms related to astronomy, chemistry, or scientific jargon:
+
+* Black Holes
+* Cosmic gatekeepers
+* Spacetime
+* Gravitational forces
+* Event horizon
+* Singularity
+
+Square brackets (`[]`) surround terms related to geometry, math, engineering, and design:
+
+* Sphere
+* Surface area
+* Mass

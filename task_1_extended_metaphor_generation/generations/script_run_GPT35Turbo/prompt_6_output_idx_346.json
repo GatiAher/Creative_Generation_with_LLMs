@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Angular momentum in momentum and Repulsors in Iron Man have Moment of Inertia as a key concept and mechanism",
+      "angular_momentum": "The Moment of Inertia in Angular momentum is a measure of how much a rotating object resists changes in its rotational motion by considering the distribution of mass around its axis of rotation. It essentially determines how difficult it is to change the speed of rotation of an object.",
+      "repulsors": "Similarly, the Repulsors in Iron Man serve as a technology that generates a repelling force to push against other objects. This force acts as a resistance to changes in Iron Man's motion, much like how Moment of Inertia resists changes in rotational motion in Angular momentum. The Repulsors, by generating thrust, stabilize and control Iron Man's movements in a similar manner to how Moment of Inertia affects the rotational stability of an object."
+    },
+    {
+      "metaphor": "both Angular momentum in momentum and Repulsors in Iron Man have Angular Velocity as a key concept and mechanism",
+      "angular_momentum": "Angular Velocity describes the rate at which an object rotates around its axis, combined with the Moment of Inertia to understand the rotational motion of the object. It provides information on how fast the object is spinning.",
+      "repulsors": "In Iron Man's suit, the Repulsors allow Tony Stark to control his flight and movement with precision. By adjusting the intensity and direction of the Repulsor blasts, Iron Man can change his speed and direction mid-flight. This ability to manipulate his movement mirrors the role of Angular Velocity in understanding and controlling the rotational motion of an object. Both Angular Velocity and the Repulsors are essential for maintaining stability and control in complex motions."
+    }
+  ]
+}

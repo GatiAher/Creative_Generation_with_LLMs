@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Buoyancy",
+      "mechanism": "Utilized by creating a less dense reservoir (XXX) that experiences upward force, allowing it to rise towards the surface due to buoyant forces"
+    },
+    {
+      "description": "Heat Transfer",
+      "mechanism": "Facilitated by the structural design of XXX that allows heat to be carried from the mantle to the crust, enabling volcanic activity"
+    },
+    {
+      "description": "Material Transport",
+      "mechanism": "Achieved through the ability of XXX to flow and carry material from the mantle to the crust, leading to the formation of new land features"
+    }
+  ]
+}

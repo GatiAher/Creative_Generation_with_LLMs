@@ -1,0 +1,24 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Planets",
+      "definition": "Celestial bodies that orbit the Sun"
+    },
+    {
+      "name": "Moons",
+      "definition": "Natural satellites that orbit planets"
+    },
+    {
+      "name": "Asteroids",
+      "definition": "Small rocky bodies that orbit the Sun"
+    },
+    {
+      "name": "Comets",
+      "definition": "Small icy bodies that orbit the Sun"
+    },
+    {
+      "name": "Dwarf Planets",
+      "definition": "Celestial bodies that are not considered full-fledged planets"
+    }
+  ]
+}

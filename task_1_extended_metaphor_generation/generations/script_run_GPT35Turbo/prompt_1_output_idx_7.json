@@ -1,0 +1,24 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Covalent Bonds",
+      "definition": "Bonds formed by sharing electrons between atoms"
+    },
+    {
+      "name": "Lewis Structures",
+      "definition": "Structural formulas that represent the arrangement of atoms and electrons in a molecule"
+    },
+    {
+      "name": "Molecular Geometry",
+      "definition": "The 3D arrangement of atoms in a molecule"
+    },
+    {
+      "name": "Intermolecular Forces",
+      "definition": "Forces of attraction between molecules"
+    },
+    {
+      "name": "Isomerism",
+      "definition": "Compounds with the same molecular formula but different structures"
+    }
+  ]
+}

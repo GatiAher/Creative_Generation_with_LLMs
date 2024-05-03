@@ -1,0 +1,24 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "are like historians documenting events",
+"reactants": "Reactants in a chemical reaction each have unique properties and behaviors, such as molecular geometry and chemical composition, that determine how they will interact with other substances.",
+"quantitative\_financial\_analysis": "In quantitative financial analysis, different financial instruments and data points also have unique properties and behaviors that must be understood in order to determine how they will interact with one another in financial models and predictions."
+},
+{
+"metaphor": "use the language of mathematics to communicate",
+"reactants": "Reactants in a chemical reaction are represented using variables and coefficients in a chemical equation, which indicate stoichiometric relationships between them.",
+"quantitative\_financial\_analysis": "Quantitative financial analysis also uses mathematical variables and coefficients to represent different financial instruments and data points, and to indicate their relationships with one another in financial models and predictions."
+},
+{
+"metaphor": "conduct experiments and analyze data to optimize outcomes",
+"reactants": "Reactants in a chemical reaction can be manipulated through the design of experiments to optimize reaction conditions and improve reaction efficiency, and the resulting data can be analyzed to refine the process.",
+"quantitative\_financial\_analysis": "Quantitative financial analysis also involves conducting experiments, such as running simulations or what-if scenarios, to optimize financial outcomes and improve efficiency. The resulting data can be analyzed to refine the financial models and predictions."
+},
+{
+"metaphor": "are governed by underlying principles",
+"reactants": "Reactants in a chemical reaction are governed by geometric and mathematical principles that determine how they will interact with one another.",
+"quantitative\_financial\_analysis": "Quantitative financial analysis is also governed by underlying geometric and mathematical principles, such as probability theory and statistical analysis, that determine how financial instruments and data points will interact with one another in financial models and predictions."
+}
+]
+}

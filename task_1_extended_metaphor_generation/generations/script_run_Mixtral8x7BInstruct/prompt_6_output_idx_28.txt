@@ -1,0 +1,24 @@
+{
+"extended\_metaphor": \[
+{
+"metaphor": "both Meteors (or Shooting Stars) in the solar system and Stage Presence of Idols in Kpop utilize a natural method of transport (string)",
+"meteors\_(or\_shooting\_stars)": "Meteoroids serve as a natural method for transporting extraterrestrial material through space and depositing it onto a planet's surface, contributing to the planet's geological and biological evolution.",
+"stage\_presence\_of\_idols": "Idols in Kpop use their stage presence to transport their energy and emotions to the audience, connecting with them and leaving a lasting impact, contributing to their popularity and success."
+},
+{
+"metaphor": "both Meteors (or Shooting Stars) in the solar system and Stage Presence of Idols in Kpop utilize friction-based propulsion (string)",
+"meteors\_(or\_shooting\_stars)": "Friction generated between a meteoroid and atmospheric gases causes the meteoroid to heat up and vaporize, producing a bright streak of light and propelling the meteoroid towards the planet's surface.",
+"stage\_presence\_of\_idols": "Idols in Kpop use their stage presence to generate excitement and energy, propelling their performance and captivating the audience with their charisma and talent."
+},
+{
+"metaphor": "both Meteors (or Shooting Stars) in the solar system and Stage Presence of Idols in Kpop have size and speed-dependent brightness (string)",
+"meteors\_(or\_shooting\_stars)": "The size of the meteoroid and its speed determine the brightness and duration of the meteor, allowing for a visible indication of the meteoroid's size and speed.",
+"stage\_presence\_of\_idols": "The level of confidence, skill, and energy displayed by the idols determine the brightness and impact of their stage presence, allowing the audience to gauge their talent and potential."
+},
+{
+"metaphor": "both Meteors (or Shooting Stars) in the solar system and Stage Presence of Idols in Kpop can result in survivability of larger entities (string)",
+"meteors\_(or\_shooting\_stars)": "Larger meteoroids may survive the journey through the atmosphere and strike the ground as meteorites, delivering extraterrestrial material to the planet's surface.",
+"stage\_presence\_of\_idols": "Idols with a strong stage presence are more likely to leave a lasting impression on the audience and have a successful career, delivering their talents and contributions to the world of Kpop."
+}
+\]
+}

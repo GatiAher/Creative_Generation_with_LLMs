@@ -1,0 +1,5 @@
+ ```
+"Distributed Databases" surround({{computer science}}, {{database}}), designed to expand the capacity and reliability of data storage and retrieval by diving data into smaller pieces and distributing them among multiple machines. This enables more simultaneous requests for information to be handled, making it easier for users to access and modify large volumes of data quickly. Think of it like a big library where books are split into many branches, each branch has its own copy of the books so that readers can access them easily without overwhelming any one location. 
+
+Distributed databases work by breaking down data into smaller chunks called shards, which are then replicated across multiple servers. Each server only needs to store a portion of the total data, allowing for greater storage capacity and faster query response times. When a user makes a request to the database, it's routed to the appropriate server based on a unique identifier, ensuring that the request is processed efficiently and in parallel. It's similar to a team of librarians working together to find and retrieve books from different locations to fill a patron's request.
+```

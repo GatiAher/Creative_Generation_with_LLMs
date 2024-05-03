@@ -1,0 +1,24 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Kinetic Energy",
+      "definition": "Energy possessed by an object due to its motion."
+    },
+    {
+      "name": "Potential Energy",
+      "definition": "Energy that is stored in an object due to its position."
+    },
+    {
+      "name": "Mechanical Energy",
+      "definition": "Sum of kinetic energy and potential energy in an object."
+    },
+    {
+      "name": "Thermal Energy",
+      "definition": "Internal energy of a system that arises from the motion of its particles."
+    },
+    {
+      "name": "Chemical Energy",
+      "definition": "Energy stored in the bonds of chemical compounds."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+ Here's the annotated text with the requested surroundings:
+
+{Galaxy Evolution} {astronomy} {hierarchical clustering} {gravitational attraction} {collapse of gas and dust} {ram pressure stripping} {tidal forces} {galaxy mergers} {morphology} {composition} {galaxy populations} {universe}
+
+[engineering] {stability} {dynamics} {galaxy clusters} {telescopes} {observation methods}

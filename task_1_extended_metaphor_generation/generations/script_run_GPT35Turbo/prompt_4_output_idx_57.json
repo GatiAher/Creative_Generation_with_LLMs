@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Temperature regulation",
+      "mechanism": "Equalizing temperature imbalances, regulating heat distribution, maintaining a stable climate system"
+    },
+    {
+      "description": "Complex systems engineering",
+      "mechanism": "Managing a system driven by temperature differences, forming pressure gradients, inducing wind patterns"
+    },
+    {
+      "description": "Heat transport mechanisms",
+      "mechanism": "Utilizing wind patterns like Hadley, Ferrel, and Polar cells to transport heat between equator and poles"
+    },
+    {
+      "description": "Global scale energy redistribution",
+      "mechanism": "Redistributing thermal energy on a global scale using wind patterns"
+    }
+  ]
+}

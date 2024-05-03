@@ -1,0 +1,25 @@
+ Here's the annotated text with the requested surroundings:
+
+{{{"The Jet Stream plays a crucial role in regulating global climate by circulating cold air from the poles towards the equator, thereby maintaining a stable temperature gradient. Additionally, it influences the formation and movement of weather systems such as high and low pressure systems, fronts, and storms. The Jet Stream is a narrow band of air that flows rapidly across the upper atmosphere, typically between 20,000 to 50,000 feet above the Earth's surface. Its shape and position are influenced by the rotation of the Earth, gravitational forces, and thermal winds. The jet stream is characterized by strong wind speeds, sometimes exceeding 200 mph, which results in a significant impact on the surrounding atmospheric conditions. The jet stream's speed and direction also contribute to the formation of various types of waves, including Rossby waves, which play a key role in steering the jet stream and influencing weather patterns."}}}
+
+Surrounded in double curly braces are words related to geography, chemistry, or scientific jargon:
+
+* "Jet Stream"
+* "global climate"
+* "atmosphere"
+* "poles"
+* "equator"
+* "temperature gradient"
+* "weather systems"
+* "fronts"
+* "storms"
+* "upper atmosphere"
+* "Earth's surface"
+* "rotation of the Earth"
+* "gravitational forces"
+* "thermal winds"
+* "Rossby waves"
+
+Surrounded in square braces are words related to geometry, math, engineering, and design:
+
+* none

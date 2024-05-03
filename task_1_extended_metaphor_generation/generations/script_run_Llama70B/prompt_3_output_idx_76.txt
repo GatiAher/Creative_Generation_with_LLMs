@@ -1,0 +1,18 @@
+ ```
+"{ Database }" acts as a centralized repository for storing, managing, and retrieving large amounts of { Data }. They provide a way to organize and structure data in a meaningful way, making it easier to access, manipulate, and analyze. In essence, databases serve as a map or blueprint for navigating and interacting with data. Databases consist of multiple layers, each serving a specific purpose. The underlying layer is the { Storage Layer }, which is responsible for physically storing the data on disk. Above this lies the { File System Layer }, which manages the organization and fragmentation of data across multiple disks. Next is the { Query Processor Layer }, which interprets and executes requests for data from applications. Finally, there's the { Interface Layer }, which provides a common language and set of commands for communicating with the database. This hierarchical structure enables efficient data retrieval and manipulation, much like a well-designed building has a clear floor plan and functional divisions.
+```
+Surrounded in double curly braces are terms related to Computer Science, chemistry, or scientific jargon:
+
+* Database
+* Data
+* Storage Layer
+* File System Layer
+* Query Processor Layer
+* Interface Layer
+
+Surrounded in square braces are terms related to geometry, math, engineering, and design:
+
+* Map
+* Blueprint
+* Floor plan
+* Functional divisions

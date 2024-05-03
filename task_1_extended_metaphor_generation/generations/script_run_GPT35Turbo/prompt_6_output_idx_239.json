@@ -1,0 +1,29 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Contour Lines in topographic maps and Infographic in money have Visualization as a key design principle, serving to visually represent shape and elevation changes in a concise and intuitive manner",
+      "contour_lines": "Contour Lines in topographic maps serve the purpose of visually displaying the shape and elevation changes of the land's surface through a series of continuous lines with varying elevations.",
+      "infographic": "Infographic in money is designed to visually represent complex financial data and insights in a clear and simple manner, similar to how Contour Lines simplify the understanding of terrain's topography without the need for detailed numerical data."
+    },
+    {
+      "metaphor": "both Contour Lines in topographic maps and Infographic in money have Simplification as a key design principle, aiding in understanding without the need for detailed numerical data",
+      "contour_lines": "Contour Lines simplify the understanding of terrain's topography by providing a visual representation that shows elevation changes without requiring the viewer to analyze large sets of numerical data.",
+      "infographic": "Infographic in money simplifies complex financial information and data, making it more understandable and accessible to a wider audience, much like how Contour Lines aid in understanding terrain without the need for detailed numerical information."
+    },
+    {
+      "metaphor": "both Contour Lines in topographic maps and Infographic in money have Connectivity as a key design principle, structured to connect points at the same elevation above a reference datum",
+      "contour_lines": "Contour Lines are structured as closed curves on a grid, connecting points that share the same elevation above a specific reference point, showcasing the interconnectedness of different elevations on the terrain.",
+      "infographic": "Infographic in money is designed to establish connections and relationships between different financial data points and insights, allowing viewers to see how various elements are related and connected, similar to how Contour Lines connect points at the same elevation above a reference datum."
+    },
+    {
+      "metaphor": "both Contour Lines in topographic maps and Infographic in money have Regularization as a key design principle, using density and proximity to indicate terrain gradient",
+      "contour_lines": "Contour Lines are spaced at regular intervals, with the density and proximity of the lines indicating the steepness and gradient of the terrain, providing a clear visual representation of the landscape's features.",
+      "infographic": "Infographic in money employs a structured layout and design elements to indicate the importance and relationships of different financial data points, using visual cues such as size, shape, and position to convey information effectively, akin to how Contour Lines use density and proximity to illustrate terrain gradient."
+    },
+    {
+      "metaphor": "both Contour Lines in topographic maps and Infographic in money have Dimensionality Reduction as a key design principle, providing a 3D representation on a 2D grid",
+      "contour_lines": "Contour Lines offer a simplified 2D representation of the land's 3D surface, allowing viewers to understand the terrain's elevation changes and features in a two-dimensional format.",
+      "infographic": "Infographic in money condenses complex financial concepts and data into a visually appealing and informative 2D format, reducing the dimensions of complex financial information into an easily understandable visual form, similar to how Contour Lines simplify the 3D representation of the terrain into a 2D grid."
+    }
+  ]
+}

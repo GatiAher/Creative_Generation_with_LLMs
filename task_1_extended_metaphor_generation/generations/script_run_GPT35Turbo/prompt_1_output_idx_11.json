@@ -1,0 +1,24 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Distributed Systems",
+      "definition": "A system in which components located on networked computers communicate and coordinate their actions by passing messages."
+    },
+    {
+      "name": "Concurrency",
+      "definition": "The ability of a system to deal with multiple tasks executing simultaneously."
+    },
+    {
+      "name": "Parallel Computing",
+      "definition": "A type of computation in which many calculations or processes are carried out simultaneously."
+    },
+    {
+      "name": "Cluster Computing",
+      "definition": "A type of computing in which multiple computers (often called nodes) work together as a single system."
+    },
+    {
+      "name": "Grid Computing",
+      "definition": "A distributed computing approach that involves coordinating and sharing computing resources across multiple administrative domains."
+    }
+  ]
+}

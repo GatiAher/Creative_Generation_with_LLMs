@@ -1,0 +1,10 @@
+ Here is the annotated text with the requested surroundings:
+
+{ Geography: Precipitation, Earth's hydrological cycle, climate patterns }
+{ Chemistry: Water vapor, condensation, liquid droplets, solid ice crystals }
+{ Scientific jargon: Atmosphere, temperature, pressure, evaporation, condensation, frontal systems, tropical cyclones, localized convection, topography, wind patterns }
+
+{ Geometry: Shape, size }
+{ Math: Temperature, humidity, wind conditions }
+{ Engineering: Distribution, intensity }
+{ Design: Life-sustaining processes, agriculture, drinking water supply, ecosystem health }

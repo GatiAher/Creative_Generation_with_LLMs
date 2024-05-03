@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Optimization",
+      "mechanism": "Facilitating faster pathways and enhancing system efficiency without altering the process by recalibrating energy barriers and minima to achieve optimal performance"
+    },
+    {
+      "description": "Simplification",
+      "mechanism": "Enabling a more streamlined route for reactants to traverse by redesigning a complex system to achieve optimal performance with minimal resources"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+"extended\_metaphor": \[
+{
+"metaphor": "both Pituitary Gland in endocrine system and Umpire's calls and signaling system in baseball have Coordination and Regulation (string)",
+"pituitary\_gland": "The pituitary gland coordinates and regulates the functions of other endocrine glands through the release of hormones, ensuring the body maintains homeostasis and proper growth and development.",
+"umpire's\_calls\_and\_signaling\_system": "Similarly, the umpire's calls and signaling system in baseball coordinates and regulates the game by signaling strikes, balls, outs, and safe or out calls, ensuring the game runs smoothly and efficiently."
+},
+{
+"metaphor": "both Pituitary Gland in endocrine system and Umpire's calls and signaling system in baseball have Modular Design (string)",
+"pituitary\_gland": "The pituitary gland is divided into two parts, the anterior and posterior pituitary, each with a unique set of hormones and functions, working together to maintain the body's equilibrium and growth.",
+"umpire's\_calls\_and\_signaling\_system": "Similarly, the umpire's calls and signaling system in baseball has different signals for balls, strikes, outs, and safe or out calls, each serving a unique purpose and working together to maintain the integrity of the game."
+},
+{
+"metaphor": "both Pituitary Gland in endocrine system and Umpire's calls and signaling system in baseball have Feedback Control (string)",
+"pituitary\_gland": "The hypothalamus receives information from the body and uses this information to produce releasing hormones that stimulate or inhibit the pituitary gland to release its own hormones, creating a feedback control system.",
+"umpire's\_calls\_and\_signaling\_system": "Similarly, the umpire receives feedback from the players, coaches, and other umpires and uses this information to make accurate calls, adjusting their signals and calls as needed based on the feedback they receive."
+},
+{
+"metaphor": "both Pituitary Gland in endocrine system and Umpire's calls and signaling system in baseball have Efficient Communication (string)",
+"pituitary\_gland": "Hormones are transported through the bloodstream to target glands and organs, allowing for efficient communication and coordination between different parts of the body.",
+"umpire's\_calls\_and\_signaling\_system": "Similarly, the umpire's calls and signals are easily visible and audible to all players and coaches on the field, allowing for efficient communication and coordination between different parts of the game."
+}
+\]
+}

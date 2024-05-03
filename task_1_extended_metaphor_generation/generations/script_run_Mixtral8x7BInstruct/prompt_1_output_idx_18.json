@@ -1,0 +1,36 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Kinetic Energy",
+      "definition": "The energy possessed by an object due to its motion."
+    },
+    {
+      "name": "Potential Energy",
+      "definition": "The energy possessed by an object due to its position or configuration."
+    },
+    {
+      "name": "Thermal Energy",
+      "definition": "The energy associated with the random motion of particles in a substance."
+    },
+    {
+      "name": "Electrical Energy",
+      "definition": "The energy associated with the movement of electric charge."
+    },
+    {
+      "name": "Light Energy",
+      "definition": "The energy associated with electromagnetic radiation in the visible spectrum."
+    },
+    {
+      "name": "Sound Energy",
+      "definition": "The energy associated with sound waves, or vibrations in a medium."
+    },
+    {
+      "name": "Chemical Energy",
+      "definition": "The energy stored in the bonds of chemical compounds."
+    },
+    {
+      "name": "Nuclear Energy",
+      "definition": "The energy stored in the nucleus of an atom."
+    }
+  ]
+}

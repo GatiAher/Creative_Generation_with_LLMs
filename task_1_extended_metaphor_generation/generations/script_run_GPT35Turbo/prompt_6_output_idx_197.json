@@ -1,0 +1,37 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "Both RPC API in API and Pitch selection in baseball have Decomposition as a design principle.",
+      "rpc_api": {
+        "purpose": "Breaking down a complex system into smaller, manageable parts that can be independently designed and delegated.",
+        "mechanism": "RPC API accomplishes this by allowing different services or functions to be called independently over a network, similar to how specialized measurements and calculations operate on different parts of a geometric design."
+      },
+      "pitch_selection": {
+        "purpose": "Selecting the type and location of each pitch to optimize performance and strategy.",
+        "mechanism": "Pitch selection in baseball involves breaking down the pitching strategy into different types of pitches and selecting the most appropriate one for a given situation, similar to how specialized measurements and calculations operate on different parts of a geometric design in Decomposition."
+      }
+    },
+    {
+      "metaphor": "Both RPC API in API and Pitch selection in baseball have Abstraction as a design principle.",
+      "rpc_api": {
+        "purpose": "Enabling one program to request the execution of a specific procedure on another program within the network, abstracting away the internal details and facilitating communication and collaboration.",
+        "mechanism": "RPC API achieves this by providing a way for programs to interact with each other through defined interfaces and protocols, similar to how interconnected geometric components enable communication and collaboration in a design."
+      },
+      "pitch_selection": {
+        "purpose": "Abstracting the pitching strategy to enable effective communication and coordination with the catcher and other players.",
+        "mechanism": "Pitch selection in baseball involves abstracting the pitching strategy into different pitch types and making decisions based on the situation and player coordination, similar to abstracting away internal details in Abstraction to facilitate communication and collaboration in RPC API."
+      }
+    },
+    {
+      "metaphor": "Both RPC API in API and Pitch selection in baseball have Modularity as a design principle.",
+      "rpc_api": {
+        "purpose": "Designing the network system as interconnected components that work together to form a cohesive design.",
+        "mechanism": "RPC API structures different functions or services as modular components that can interact with each other, similar to how different parts of a complex geometric design rely on specialized measurements and calculations for a cohesive outcome in Modularity."
+      },
+      "pitch_selection": {
+        "purpose": "Organizing the pitching strategy into interchangeable components to adapt and optimize performance.",
+        "mechanism": "Pitch selection in baseball involves organizing the pitching strategy into modular components like pitch types and sequences that can be interchanged based on the game situation, similar to interconnected geometric components working together for a cohesive design in Modularity."
+      }
+    }
+  ]
+}

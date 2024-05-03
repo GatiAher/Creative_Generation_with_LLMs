@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "Both Rate-determining step in chemical kinetics and Interest Rate in money act as bottlenecks.",
+      "rate-determining_step": "The Rate-determining step acts as a bottleneck by controlling the speed at which a process proceeds, ensuring that the overall rate is determined by the slowest individual component.",
+      "interest_rate": "Similarly, the Interest Rate in money serves as a bottleneck by regulating the efficiency and outcome of financial transactions, influencing the overall economic rate based on the set interest rate."
+    },
+    {
+      "metaphor": "Both Rate-determining step in chemical kinetics and Interest Rate in money act as barriers.",
+      "rate-determining_step": "In chemical kinetics, the Rate-determining step introduces an elevated barrier to slow down a specific component significantly, making it the limiting factor in the overall process rate.",
+      "interest_rate": "Likewise, the Interest Rate in money sets an elevated barrier by influencing the cost of borrowing money or the return on investment, effectively controlling the speed of economic activities."
+    },
+    {
+      "metaphor": "Both Rate-determining step in chemical kinetics and Interest Rate in money act as constraints.",
+      "rate-determining_step": "The Rate-determining step constrains the rate at which reactants can progress through a mechanism, influencing the speed and extent of the process.",
+      "interest_rate": "The Interest Rate in money also acts as a constraint by limiting the rate at which capital can flow in the economy, affecting borrowing, investing, and spending patterns."
+    }
+  ]
+}

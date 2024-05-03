@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Diverse range of environments for potential life support",
+      "mechanism": "Creation of various celestial bodies with different masses, sizes, and compositions to allow for unique gravitational effects and atmospheric conditions that can potentially support life."
+    },
+    {
+      "description": "Study of celestial phenomena",
+      "mechanism": "Design of celestial bodies following laws of geometry and mathematics, specifically Kepler's laws of planetary motion, to enable the study of orbital shapes, sizes, and times, contributing to the understanding of the universe."
+    },
+    {
+      "description": "Dynamic stability and structure",
+      "mechanism": "Design of celestial bodies' movement in their orbits and their interactions with other celestial bodies to contribute to the overall dynamic stability and structure of the celestial system, making it a complex and fascinating system to study."
+    }
+  ]
+}

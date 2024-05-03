@@ -1,0 +1,6 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Nitrogenous Bases in DNA and Standardized baseball rules and regulations in baseball exhibit Modularity through",
+			"nitrogenous\_bases": "the use of fundamental units called Nitrogenous Bases that store genetic information, enabling precise replication and construction of biological organisms.",
+	

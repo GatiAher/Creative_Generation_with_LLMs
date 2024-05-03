@@ -1,0 +1,20 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Composition of the Atmosphere",
+      "definition": "The gases present in the Earth's atmosphere and their respective proportions."
+    },
+    {
+      "name": "Atmospheric Layers",
+      "definition": "The different layers of the Earth's atmosphere, such as troposphere, stratosphere, mesosphere, thermosphere, and exosphere."
+    },
+    {
+      "name": "Atmospheric Circulation",
+      "definition": "Global patterns of wind and pressure systems that redistribute heat around the Earth."
+    },
+    {
+      "name": "Greenhouse Effect",
+      "definition": "The process by which gases in the atmosphere trap heat and warm the Earth's surface."
+    }
+  ]
+}

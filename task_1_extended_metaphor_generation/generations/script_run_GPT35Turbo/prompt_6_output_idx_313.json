@@ -1,0 +1,15 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "Both Isotope Fractionation in isotope analysis and Pitch velocity in baseball involve differentiation based on atomic properties to achieve their goals",
+      "isotope_fractionation": {
+        "purpose": "In Isotope Fractionation, the varying atomic properties of elements are leveraged to separate them, enabling the analysis of fractions for a deeper understanding",
+        "mechanism": "This process involves recognizing the behavior discrepancies of isotopes during natural processes and using these differences to study the underlying mechanisms"
+      },
+      "pitch_velocity": {
+        "purpose": "Similarly, in baseball, Pitch velocity is determined by the unique properties of the pitcher's arm action, speed, and release point",
+        "mechanism": "Pitch velocity analysis relies on recognizing the differences in how pitchers generate speed, spin, and movement on the ball, allowing for insights into performance and strategy"
+      }
+    }
+  ]
+}

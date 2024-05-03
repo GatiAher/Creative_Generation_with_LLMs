@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both RPC API in API and Blockchain in money have Decomposition that involves breaking down a complex system into smaller, manageable parts",
+      "rpc_api": "Decomposition in RPC API allows breaking down complex functionalities into smaller components that can be independently designed and handled, just like specialized measurements and calculations operate on different parts of a geometric design.",
+      "blockchain": "In Blockchain, Decomposition occurs as the system is broken down into smaller units like blocks, enabling the decentralized network to handle transactions independently and efficiently, similar to how specialized measurements and calculations operate on different parts of a geometric design."
+    },
+    {
+      "metaphor": "both RPC API in API and Blockchain in money have Abstraction that enables one program to request a specific procedure from another program within the network",
+      "rpc_api": "Abstraction in RPC API allows programs to communicate and collaborate by abstracting away internal details, similar to interconnected geometric components facilitating communication and collaboration between different parts of a design.",
+      "blockchain": "In Blockchain, Abstraction simplifies interactions by allowing users to request transactions without needing to understand the complexities of the underlying technology, similar to how interconnected geometric components enable communication and collaboration in a design."
+    },
+    {
+      "metaphor": "both RPC API in API and Blockchain in money have Modularity which designs interconnected components working together to form a cohesive structure",
+      "rpc_api": "Modularity in RPC API involves interconnected components collaborating to create an efficient network, akin to how different parts of a complex geometric design rely on specialized measurements and calculations for the overall structure.",
+      "blockchain": "In Blockchain, Modularity is seen in interconnected blocks forming an immutable ledger, each contributing to the secure and transparent network similar to how various specialized measurements and calculations come together to create a complex geometric design."
+    }
+  ]
+}

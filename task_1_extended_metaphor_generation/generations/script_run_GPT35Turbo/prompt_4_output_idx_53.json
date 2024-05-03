@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Divide and Conquer",
+      "mechanism": "Dividing a large-scale task into smaller, manageable sub-tasks to coordinate computational power and enable quicker processing."
+    },
+    {
+      "description": "Parallel Processing",
+      "mechanism": "Utilizing multiple interconnected nodes for collaboration and parallel processing to handle assigned sub-tasks efficiently."
+    },
+    {
+      "description": "Load Balancing",
+      "mechanism": "Distributing workloads across multiple nodes to reduce overall processing time and enhance system capacity for intricate computations."
+    }
+  ]
+}

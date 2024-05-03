@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Angular momentum in momentum and Bat Swing in baseball have Moment of Inertia as a key design principle",
+      "angular_momentum": "In Angular momentum, Moment of Inertia is the measure of how much a rotating object resists changes in its rotational motion by considering the distribution of mass around its axis of rotation. It helps determine how easily an object's rotation can be altered.",
+      "bat_swing": "Similarly, in Bat Swing in baseball, the Moment of Inertia comes into play in terms of how the weight distribution of the bat affects the ease and speed of swinging. A bat with a lower Moment of Inertia would allow for quicker swing changes, just like how a rotating object with lower inertia can change its rotational speed more easily."
+    },
+    {
+      "metaphor": "both Angular momentum in momentum and Bat Swing in baseball have Angular Velocity as a crucial factor",
+      "angular_momentum": "Angular Velocity in Angular momentum refers to the rate at which an object rotates around its axis and is combined with Moment of Inertia to understand the rotational motion. It helps in determining the speed and direction of the rotation.",
+      "bat_swing": "Similarly, in Bat Swing in baseball, the Angular Velocity plays a vital role in how fast the bat moves through the swing. The speed and accuracy of the swing depend on the angular velocity of the bat as it moves through the hitting zone, just like how the rotation speed of an object determines its overall rotational motion."
+    }
+  ]
+}

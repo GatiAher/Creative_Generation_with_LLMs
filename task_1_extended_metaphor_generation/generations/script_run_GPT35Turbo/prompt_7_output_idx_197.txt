@@ -1,0 +1,14 @@
+In the game of baseball, like an API so true,
+Pitch selection is just like RPC, through and through.
+Decomposition breaks it down, piece by piece,
+Optimizing performance, making strategies increase.
+
+Abstraction in both, simplifies the way,
+Communicating clearly in what they convey.
+From geometric designs to pitching coordination,
+RPC and baseball share this abstraction.
+
+Modularity ties them, like a unified thread,
+Interconnected components, working together instead.
+From specialized measurements to interchangeable pitch types,
+Both systems rely on modularity's delights.

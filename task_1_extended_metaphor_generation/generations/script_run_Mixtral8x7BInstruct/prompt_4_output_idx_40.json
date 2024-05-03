@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "blueprint-to-product assembly line",
+      "mechanism": "Conversion of genetic code into a physical protein product through a series of precise steps and calculations, similar to a manufacturing process in engineering."
+    },
+    {
+      "description": "systematic mapping process",
+      "mechanism": "Translation of genetic code into amino acids using a 'reader' (Ribosome) and 'instructional guides' (tRNA molecules) that interact in a coordinated and geometrically-constrained manner."
+    },
+    {
+      "description": "start-stop mechanism",
+      "mechanism": "A strict mechanism to ensure accurate and controlled protein synthesis, similar to a programming language."
+    }
+  ]
+}

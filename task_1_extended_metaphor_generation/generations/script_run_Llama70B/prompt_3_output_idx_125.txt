@@ -1,0 +1,20 @@
+ {{{"The Hotspots play a crucial role in regulating the Earth's temperature and maintaining the balance of its internal energy. They act as vents that allow excess heat from the Earth's core to escape, preventing a buildup of thermal energy that could have catastrophic consequences for the planet. The Hotspots are located at strategic points on the Earth's surface where the crust is thinnest or most fractured, allowing the upwelling of hot mantle rock to penetrate through. This upwelling creates a reservoir of magma that can be tapped into by volcanoes, providing a means for the excess heat to dissipate. The resulting volcanic activity not only helps to cool the Earth but also shapes the landscape, creating new landforms and altering the geography over time."}}}
+
+Surrounded in double curly braces are words related to Geology and scientific jargon:
+
+* "Hotspots"
+* "Earth's core"
+* "mantle rock"
+* "magma"
+* "volcanoes"
+* "geography"
+
+Surrounded in square braces are words related to geometry, math, engineering, and design:
+
+* "strategic points"
+* "thinnest"
+* "most fractured"
+* "upwelling"
+* "reservoir"
+* "means"
+* "dissipate"

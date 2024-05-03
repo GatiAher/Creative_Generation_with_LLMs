@@ -1,0 +1,16 @@
+ Here's the annotated text with the requested surroundings:
+
+"The Potential Energy provides a way to quantify the energy associated with the position or configuration of an object. By calculating the work required to move the object from its reference position to its actual position, we can determine the potential energy available for useful work. This allows us to make informed decisions about the efficiency and effectiveness of energy use in various systems, such as {{{ Mechanical }}}, {{{ Electrical }}}, and {{{ Thermal }}}. The Potential Energy is based on the concept of work, which is calculated as the product of force and displacement. When a force is applied to an object, it can cause the object to move or change its configuration. The work done by the force is equal to the product of the magnitude of the force and the distance over which the force is applied. In the case of Potential Energy, the work is calculated as the difference between the initial and final positions of the object. The resulting energy is then stored in the system and can be used to perform useful work later on."
+
+Here's a breakdown of the annotations:
+
+* Double curly braces (```) enclose terms related to physics, chemistry, or scientific jargon:
+	+ "Potential Energy"
+	+ "work"
+	+ "force"
+	+ "displacement"
+	+ "mechanical"
+	+ "electrical"
+	+ "thermal"
+* Square brackets (`[]`) enclose terms related to geometry, math, engineering, and design:
+	+ none in this text

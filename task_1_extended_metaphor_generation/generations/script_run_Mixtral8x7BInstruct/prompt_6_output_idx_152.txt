@@ -1,0 +1,34 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Replication in DNA and Standardized training system in Kpop utilize Redundancy to ensure accurate transmission of information",
+"replication": "Having two strands of DNA that are complementary to each other ensures accurate transmission of genetic information by providing a backup copy.",
+"standardized\_training\_system": "Standardized training system in Kpop ensures accurate transmission of performance techniques and choreography by having multiple trainees learn the same routines and songs, providing a backup in case of absences or injuries."
+},
+{
+"metaphor": "both Replication in DNA and Standardized training system in Kpop have a Modular Design for easy replacement and repair",
+"replication": "The use of identical base pairs and geometric design in the resulting replicated DNA molecules allows for easy replacement and repair of damaged or mutated parts.",
+"standardized\_training\_system": "The standardized training system in Kpop uses a modular design by breaking down complex choreography into smaller, manageable parts, allowing for easy replacement or repair of mistakes during performance."
+},
+{
+"metaphor": "both Replication in DNA and Standardized training system in Kpop have Standardization for compatibility and accurate transmission",
+"replication": "The use of a standardized base pairing mechanism (A-T, C-G) ensures compatibility and accurate transmission of genetic information.",
+"standardized\_training\_system": "The standardized training system in Kpop uses a standardized curriculum and evaluation system to ensure compatibility and accurate transmission of performance techniques and choreography to all trainees."
+},
+{
+"metaphor": "both Replication in DNA and Standardized training system in Kpop utilize Segregation to reduce the chance of errors",
+"replication": "The separation of the two strands during replication ensures that each new DNA molecule contains only one original strand and one newly synthesized strand, reducing the chance of errors.",
+"standardized\_training\_system": "The standardized training system in Kpop segregates trainees into different groups based on their skill level, reducing the chance of errors by preventing advanced trainees from being held back by beginners and vice versa."
+},
+{
+"metaphor": "both Replication in DNA and Standardized training system in Kpop utilize Automation to reduce the chance of human error",
+"replication": "The use of enzymes to facilitate the assembly of new strands ensures that the process is automated, reducing the chance of human error.",
+"standardized\_training\_system": "The standardized training system in Kpop utilizes automation by using technology such as video recordings and playback to help trainees perfect their performance techniques and choreography, reducing the chance of human error."
+},
+{
+"metaphor": "both Replication in DNA and Standardized training system in Kpop have Fault Tolerance to increase overall reliability",
+"replication": "The use of a semi-conservative replication mechanism ensures that the new DNA molecule contains at least one correct strand, reducing the chance of errors and increasing the overall reliability of the system.",
+"standardized\_training\_system": "The standardized training system in Kpop has fault tolerance by having multiple trainees learn the same routines and songs, ensuring that the performance can continue even if one trainee is unable to perform."
+}
+]
+}

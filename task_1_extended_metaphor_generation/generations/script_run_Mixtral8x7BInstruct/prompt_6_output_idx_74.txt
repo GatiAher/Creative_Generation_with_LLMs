@@ -1,0 +1,9 @@
+{
+	"extended\_metaphor": \[
+		{
+			"metaphor": "both Gravitational Singularity in theory of the naked singularity and Iron Man's hyperdense Arc Reactor in Iron Man represent an extreme concentration of mass that warps the fabric of reality and infinitely intensifies, playing a crucial role in understanding and modeling the behavior of massive objects.",
+			"gravitational\_singularity": "Gravitational Singularity in theory of the naked singularity represents an extreme concentration of mass that warps the fabric of reality and infinitely intensifies, playing a crucial role in understanding and modeling the behavior of massive objects, particularly in the context of black holes.",
+			"iron\_man's\_hyperdense\_arc\_reactor": "Iron Man's hyperdense Arc Reactor in Iron Man mirrors this mechanism by representing an extreme concentration of energy that powers his suit and protects his heart, playing a crucial role in the storyline and functioning of the suit."
+		},
+		{
+		

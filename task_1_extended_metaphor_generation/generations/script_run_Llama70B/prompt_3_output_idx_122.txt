@@ -1,0 +1,23 @@
+ {{{"The Seafloor Spreading is a process that helps maintain the balance of the Earth's crust, by creating new oceanic crust at mid-ocean ridges and moving it away from the ridge, thereby preventing the crust from becoming too dense or unstable. This process also plays a crucial role in the formation of new landmasses and islands. The Seafloor Spreading operates through a combination of geometric, mathematical, engineering, and design principles. At mid-ocean ridges, magma from the Earth's mantle rises and cools, creating new oceanic crust that is pushed away from the ridge by the movement of tectonic plates. This process is facilitated by the principle of plate tectonics, which describes the movement of large rigid plates that make up the Earth's surface. The rate of seafloor spreading is controlled by the speed at which the tectonic plates move, with faster-moving plates resulting in wider ridges and slower-moving plates resulting in narrower ridges. Additionally, the geometry of the mid-ocean ridges is designed to minimize the risk of catastrophic failure, ensuring that the process can continue for millions of years without interruption."}}}
+
+Surrounded in double curly braces are terms related to Geology, chemistry, and scientific jargon:
+
+* Seafloor Spreading
+* Oceanic crust
+* Mid-ocean ridges
+* Magma
+* Earth's mantle
+* Tectonic plates
+* Plate tectonics
+
+Surrounded in square braces are terms related to geometry, math, engineering, and design:
+
+* Geometric
+* Mathematical
+* Engineering
+* Design
+* Principles
+* Speed
+* Movement
+* Risk
+* Failure

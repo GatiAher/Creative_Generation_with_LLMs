@@ -1,0 +1,32 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Hypothalamic-pituitary-adrenal axis",
+      "definition": "The complex interaction between the hypothalamus, pituitary gland, and adrenal glands that regulates stress response, energy metabolism, and immune function."
+    },
+    {
+      "name": "Insulin resistance",
+      "definition": "A condition in which the body's cells become less responsive to insulin, leading to high blood sugar levels and increasing the risk of developing type 2 diabetes."
+    },
+    {
+      "name": "Thyroid hormone regulation",
+      "definition": "The process by which the thyroid gland produces and regulates the levels of triiodothyronine (T3) and thyroxine (T4), which play a crucial role in metabolism, growth, and development."
+    },
+    {
+      "name": "Adrenal cortical steroid hormones",
+      "definition": "The glucocorticoids, mineralocorticoids, and androgens produced by the adrenal cortex that regulate a wide range of physiological processes, including metabolism, electrolyte balance, and inflammation."
+    },
+    {
+      "name": "Pancreatic hormones",
+      "definition": "The hormones produced by the pancreas, including insulin, glucagon, somatostatin, and pancreatic polypeptide, which regulate various aspects of carbohydrate and fat metabolism."
+    },
+    {
+      "name": "Gonadal hormones",
+      "definition": "The sex hormones produced by the ovaries and testes, including estrogen, progesterone, testosterone, and inhibin, which regulate sexual development, reproduction, and lactation."
+    },
+    {
+      "name": "Prolactin",
+      "definition": "A hormone produced by the pituitary gland that stimulates milk production in lactating women and plays a role in sexual satisfaction and bonding."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Use of curvature of spacetime to determine gravitational force",
+      "mechanism": "Gravitational force is determined by the curvature of spacetime, which is described by the metric tensor. This principle is used to demonstrate extreme gravitational forces near a massive object, where the curvature of spacetime becomes infinite and leads to a drastic difference in the gravitational force experienced by different parts of an object."
+    },
+    {
+      "description": "Use of differential force to cause stretching and deformation",
+      "mechanism": "The differential force caused by the extreme gravitational force leads to the stretching and deformation of an object, with one end being pulled towards the massive object and the other end being pushed away. This principle is used to illustrate the extreme conditions that can occur in the vicinity of a massive object and the challenges in understanding its behavior within the framework of classical physics."
+    }
+  ]
+}

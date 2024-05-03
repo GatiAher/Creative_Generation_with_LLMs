@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Potential Energy",
+      "mechanism": "The principle of storing energy in an object based on its spatial orientation, which can later be converted into useful work or motion."
+    },
+    {
+      "description": "Gravitational Potential Energy",
+      "mechanism": "The principle that an object's position in a gravitational field determines the amount of potential energy it possesses, with higher positioning resulting in greater potential energy."
+    },
+    {
+      "description": "Conversion of Potential Energy to Kinetic Energy",
+      "mechanism": "The principle of releasing stored potential energy as an object moves to a lower position, thereby converting it into kinetic energy for motion."
+    }
+  ]
+}

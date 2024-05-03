@@ -1,0 +1,7 @@
+ Here is the annotated text with the requested surroundings:
+
+"The Le Chatelier's Principle is a guiding concept in understanding how systems in equilibrium respond to changes in their environment. In essence, it helps us predict how a system will adjust its state to maintain balance when faced with external factors that could disrupt this balance. The principle works by analyzing the {{{chemistry}}} relationships within a system and identifying the 'fulcrum' or pivot point around which the system can rotate to offset any external forces applied to it. This pivot point is where the system finds its new equilibrium position."
+
+The double curly braces surround the word "chemistry" to indicate that it is related to chemistry.
+
+The square braces are not used in this case because there are no words, phrases, or adjectives related to geometry, math, engineering, or design in the given text.

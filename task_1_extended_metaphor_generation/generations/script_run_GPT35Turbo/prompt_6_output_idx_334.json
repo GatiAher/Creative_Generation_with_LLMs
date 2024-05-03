@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Chemical Energy in energy and Arc Reactor in Iron Man have the Storage and Release Principle in common",
+      "chemical_energy": "Chemical Energy utilizes the Storage and Release Principle by enabling the storage of potential energy within atomic bonds and its subsequent release during chemical reactions.",
+      "arc_reactor": "Similarly, the Arc Reactor in Iron Man functions by storing and releasing energy as needed, resembling the mechanism of storing and releasing potential energy in chemical reactions in Chemical Energy."
+    },
+    {
+      "metaphor": "both Chemical Energy in energy and Arc Reactor in Iron Man have the Structural Design Principle in common",
+      "chemical_energy": "In Chemical Energy, the Structural Design Principle involves designing specific arrangements of atoms and molecules in a compound to store potential energy in bonds.",
+      "arc_reactor": "Likewise, the Arc Reactor in Iron Man is designed with specific arrangements to contain and release energy, akin to the Structural Design Principle used in Chemical Energy."
+    },
+    {
+      "metaphor": "both Chemical Energy in energy and Arc Reactor in Iron Man have the Transformation Principle in common",
+      "chemical_energy": "The Transformation Principle in Chemical Energy facilitates the conversion of energy forms for various uses through chemical reactions.",
+      "arc_reactor": "Similarly, the Arc Reactor in Iron Man acts as a transformation device, converting energy for powering Iron Man's suit, reflecting the Transformation Principle found in Chemical Energy."
+    }
+  ]
+}

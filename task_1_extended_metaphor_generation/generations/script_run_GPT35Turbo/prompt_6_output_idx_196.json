@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both RPC API in API and Collaboration in Kpop have Decomposition as a key principle",
+      "rpc_api": "Decomposition in RPC API involves breaking down a complex system into smaller, manageable parts that can be independently designed and delegated. This allows for specialized measurements and calculations to operate on different parts of a geometric design, enhancing efficiency and scalability.",
+      "collaboration": "Similarly, Collaboration in Kpop involves breaking down a song or performance into different parts assigned to individual members. Each member brings their own unique talents and skills to create a cohesive and harmonious final product, similar to how specialized measurements and calculations operate on different components of a geometric design."
+    },
+    {
+      "metaphor": "both RPC API in API and Collaboration in Kpop have Abstraction as a key principle",
+      "rpc_api": "Abstraction in RPC API enables one program to request the execution of specific procedures on another program within the network. This abstracts away the internal details and facilitates communication and collaboration, similar to interconnected geometric components seamlessly working together.",
+      "collaboration": "In Collaboration in Kpop, abstraction occurs when different members with specific roles come together to create a cohesive performance without needing to know all the intricate details of each other's contributions. Each member focuses on their part, much like how RPC API abstracts away internal complexities to enable smooth communication within a network."
+    },
+    {
+      "metaphor": "both RPC API in API and Collaboration in Kpop have Modularity as a key principle",
+      "rpc_api": "Modularity in RPC API involves designing the network system as interconnected components that work together to form a cohesive design. Just like different parts of a complex geometric design rely on specialized measurements and calculations, modularity in RPC API ensures that each component can function independently while contributing to the overall system.",
+      "collaboration": "Collaboration in Kpop embraces modularity by having each member play a distinct role that contributes to the overall success of the group. Each member's unique talents and contributions are essential to creating a well-rounded performance, much like how interconnected components in RPC API rely on each other to build a robust and scalable network system."
+    }
+  ]
+}

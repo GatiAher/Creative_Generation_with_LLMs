@@ -1,0 +1,26 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Linear momentum in momentum and Financial Modeling in money have the principle of Motion Analysis as a design principle",
+      "linear_momentum": {
+        "purpose": "The principle of Motion Analysis in Linear momentum is used to understand and predict the behavior of objects in motion by analyzing mass and velocity.",
+        "mechanism": "It results in a vector quantity that indicates both the direction and magnitude of the object's motion."
+      },
+      "financial_modeling": {
+        "purpose": "Similarly, in Financial Modeling, the principle of Motion Analysis is applied to analyze and predict the movement of money and financial assets.",
+        "mechanism": "Using this analysis, financial modelers can predict the direction and magnitude of financial movements."
+      }
+    },
+    {
+      "metaphor": "both Linear momentum in momentum and Financial Modeling in money have the Mechanical Design Principles as a design principle",
+      "linear_momentum": {
+        "purpose": "Mechanical Design Principles in Linear momentum enable analysis and manipulation of object motion based on principles of mechanics.",
+        "mechanism": "It allows engineers to systematically manipulate the motion of objects in a mathematically defined way."
+      },
+      "financial_modeling": {
+        "purpose": "In Financial Modeling, the Mechanical Design Principles are applied to systematically analyze and manipulate financial movements based on mathematical principles.",
+        "mechanism": "This enables financial modelers to predict and control financial outcomes in a structured and rigorous manner."
+      }
+    }
+  ]
+}

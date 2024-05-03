@@ -1,0 +1,4 @@
+{
+  "purpose": "Radioactive isotopes are used to determine the age of a sample by measuring the amount of time it takes for half of the isotope to decay. This process allows for an accurate measurement of time passage, which is essential in various fields such as archaeology, geology, and environmental science.",
+  "mechanism": "The radioactive isotope is chosen based on its half-life, which is the time it takes for half of the isotope to decay. The isotope is then incorporated into a sample, and the amount of time that passes is measured. By comparing the amount of time passed to the amount of isotope remaining, the age of the sample can be calculated."
+}

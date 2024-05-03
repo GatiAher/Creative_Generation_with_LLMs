@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Structured with syntax and rules",
+      "mechanism": "Provide a precise way to communicate instructions"
+    },
+    {
+      "description": "Use of standardized symbols and conventions",
+      "mechanism": "To convey complex information to builders"
+    },
+    {
+      "description": "Rely on a consistent set of symbols and commands",
+      "mechanism": "To convey logical sequences of actions"
+    }
+  ]
+}

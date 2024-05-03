@@ -1,0 +1,32 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Kinetic Energy",
+      "definition": "The energy of motion, defined as the work done by a force to move an object from its initial position to its final position."
+    },
+    {
+      "name": "Potential Energy",
+      "definition": "The energy of position or configuration, defined as the work done by a force to move an object from its reference position to its actual position."
+    },
+    {
+      "name": "Mechanical Energy",
+      "definition": "The sum of kinetic energy and potential energy of an object or system."
+    },
+    {
+      "name": "Thermal Energy",
+      "definition": "The energy associated with the temperature of an object or system, which can be transferred between objects through heat transfer processes."
+    },
+    {
+      "name": "Electrical Energy",
+      "definition": "The energy associated with the movement of charged particles, such as electrons in a conductor."
+    },
+    {
+      "name": "Chemical Energy",
+      "definition": "The energy stored in chemical bonds between atoms or molecules, which can be released through chemical reactions."
+    },
+    {
+      "name": "Nuclear Energy",
+      "definition": "The energy stored in the nucleus of an atom, which can be released through nuclear reactions such as fission or fusion."
+    }
+  ]
+}

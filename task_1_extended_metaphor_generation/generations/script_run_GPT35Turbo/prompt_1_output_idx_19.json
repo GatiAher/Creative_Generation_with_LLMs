@@ -1,0 +1,16 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Linear momentum",
+      "definition": "The quantity of motion of an object, which is the product of its mass and velocity."
+    },
+    {
+      "name": "Impulse",
+      "definition": "The change in momentum of an object when a force is applied over a period of time."
+    },
+    {
+      "name": "Angular momentum",
+      "definition": "The quantity of rotational motion of an object, which is the product of its moment of inertia and angular velocity."
+    }
+  ]
+}

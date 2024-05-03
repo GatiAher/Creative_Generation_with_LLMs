@@ -1,0 +1,21 @@
+ Here's the annotated text with the requested surroundings for Computer Science, chemistry, scientific jargon, geometry, math, engineering, and design:
+
+"The purpose of {{{Artificial Intelligence}}} is to enable machines to perform tasks that typically require human intelligence, such as recognizing patterns, learning from experience, and making decisions based on context. AI aims to augment human capabilities and enhance problem-solving processes across various domains like {geometry}, {math}, {engineering}, and {design}. Artificial Intelligence operates by combining computational power, statistical models, and domain-specific knowledge to create intelligent systems. These systems are designed to analyze data, identify patterns, and make predictions or decisions based on those patterns. In essence, AI leverages mathematical concepts and algorithms to replicate and augment human cognition, enabling machines to learn from data and adapt to new situations."
+
+The words and phrases related to Computer Science, chemistry, and scientific jargon surrounded in double curly braces are:
+
+* Artificial Intelligence
+* Computational power
+* Statistical models
+* Domain-specific knowledge
+* Intelligent systems
+* Data analysis
+* Pattern recognition
+* Predictions or decisions
+
+The words and phrases related to geometry, math, engineering, and design surrounded in square braces are:
+
+* Geometry
+* Math
+* Engineering
+* Design

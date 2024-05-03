@@ -1,0 +1,15 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Greenhouse Effect in atmosphere and Cryptocurrency in money involve insulation mechanisms",
+      "greenhouse_effect": {
+        "purpose": "The Greenhouse Effect regulates temperature by retaining heat within the atmosphere, similar to how insulation works in buildings.",
+        "mechanism": "It involves trapping heat by certain gases, acting like a blanket to prevent heat loss into space."
+      },
+      "cryptocurrency": {
+        "purpose": "Cryptocurrency regulates the flow and value of money by creating a system that retains financial transactions within a decentralized network, similar to how insulation retains heat.",
+        "mechanism": "Cryptocurrency functions by securely storing transaction data in a blockchain, preventing unauthorized access and enhancing transparency."
+      }
+    }
+  ]
+}

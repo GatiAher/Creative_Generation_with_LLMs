@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Pressure Release",
+      "mechanism": "Serve as a natural mechanism for the release of internal pressure within a system to prevent potential explosive build-up of gases and magma."
+    },
+    {
+      "description": "Structural Design for Eruption",
+      "mechanism": "Structure the system for the eruption of magma, gases, and ash through a vent or fissure in the crust to allow the materials to rise and escape, relieving internal pressure."
+    },
+    {
+      "description": "Conduit Formation",
+      "mechanism": "Utilize the pressure from accumulating materials beneath the surface to form a conduit, which allows the volcanic materials to rise and escape, ultimately relieving internal pressure."
+    }
+  ]
+}

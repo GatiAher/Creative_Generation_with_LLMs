@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "geometric arrangement and mathematical relationships",
+      "mechanism": "provide the physical conditions necessary for living organisms to survive, thrive, and interact within an environment"
+    },
+    {
+      "description": "stable or dynamic framework",
+      "mechanism": "composed of various measurable elements such as temperature, light, water, and soil composition"
+    },
+    {
+      "description": "geometric and mathematical constraints",
+      "mechanism": "define the specific values and ranges of temperature, light, water, and soil composition within which living organisms must adapt and optimize their growth, reproduction, and resource utilization"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Singular value decomposition is like a kpop group, where each member represents a different aspect of the group's success. The orthonormal bases can be likened to the individual talents and abilities of the group members. Just like how each member brings their unique skills to the group, the orthonormal bases in SVD represent the orthogonal vectors that form the foundation of the decomposition.
+
+The singular values in SVD can be compared to the popularity and influence of each member in the kpop group. Just as certain members may stand out more and have a larger impact on the group's success, the singular values in SVD indicate the importance and significance of each basis vector in representing the original data.
+
+Overall, just as a kpop group relies on the combination of individual talents to create a successful performance, singular value decomposition utilizes orthonormal bases and singular values to decompose and represent complex data in a meaningful way.

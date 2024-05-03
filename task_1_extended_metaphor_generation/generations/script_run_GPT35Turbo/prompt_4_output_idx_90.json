@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Boundary Conditions",
+      "mechanism": "Servce as boundaries or surfaces that interact with strings to study behavior and properties of string in relation to higher dimensions and mathematical spaces."
+    },
+    {
+      "description": "Flexibility",
+      "mechanism": "Represent like flexible membranes that can vibrate and interact with strings in multiple dimensions."
+    },
+    {
+      "description": "Geometric Framework",
+      "mechanism": "Provides a framework for analyzing dynamics of strings and underlying structure of spacetime."
+    }
+  ]
+}

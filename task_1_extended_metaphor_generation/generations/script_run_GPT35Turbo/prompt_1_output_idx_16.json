@@ -1,0 +1,24 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Plate Boundaries",
+      "definition": "The boundaries where tectonic plates interact with each other, leading to various geological phenomena."
+    },
+    {
+      "name": "Subduction Zones",
+      "definition": "Areas where one tectonic plate is forced underneath another plate, often leading to seismic activity and volcanic eruptions."
+    },
+    {
+      "name": "Mid-Ocean Ridges",
+      "definition": "Underwater mountain ranges formed by tectonic plates moving apart, allowing magma to rise and create new oceanic crust."
+    },
+    {
+      "name": "Plate Movements",
+      "definition": "The ways in which tectonic plates shift and interact, driving geological processes such as earthquakes and mountain formation."
+    },
+    {
+      "name": "Continental Drift",
+      "definition": "The theory that continents have moved and shifted over time due to the movement of tectonic plates."
+    }
+  ]
+}

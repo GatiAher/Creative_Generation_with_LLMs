@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Stabilization",
+      "mechanism": "Providing gravitational balance to the planets they orbit"
+    },
+    {
+      "description": "Orbital mechanics",
+      "mechanism": "Continuously revolving around their host planet in specific orbits"
+    },
+    {
+      "description": "Equilibrium",
+      "mechanism": "Maintaining equilibrium through gravitational forces in a system of interlocking cycles similar to gears in machinery"
+    }
+  ]
+}

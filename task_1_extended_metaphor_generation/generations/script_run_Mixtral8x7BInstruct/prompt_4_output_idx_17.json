@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Utilizing extreme environments as natural laboratories",
+      "mechanism": "Studying and learning from extreme environments such as black holes to understand and develop technologies for observing and measuring intense phenomena"
+    },
+    {
+      "description": "Studying limitations of current physical theories and technologies",
+      "mechanism": "Exploring the limitations of existing physical theories and technologies to develop new methods and techniques for understanding and measuring extreme phenomena"
+    },
+    {
+      "description": "Applying mathematical models and advanced geometrical concepts",
+      "mechanism": "Using complex mathematical equations and advanced geometrical concepts, such as tensors and curvature invariants, to describe and predict the behavior of matter and energy under extreme conditions"
+    },
+    {
+      "description": "Understanding the curvature of spacetime",
+      "mechanism": "Investigating the curvature of spacetime caused by mass and energy, as described by general relativity, to understand the behavior of intense gravitational forces and their impact on the fabric of spacetime"
+    }
+  ]
+}

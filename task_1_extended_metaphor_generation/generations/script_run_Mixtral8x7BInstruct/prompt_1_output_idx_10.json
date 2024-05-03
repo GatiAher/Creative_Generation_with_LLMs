@@ -1,0 +1,32 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Web API",
+      "definition": "A Web API is a development in Web technology that provides an application program interface (API) for RESTful web services which is based on HTTP and JSON or XML for data interchange."
+    },
+    {
+      "name": "RESTful API",
+      "definition": "A RESTful API (also known as a REST API) is an application program interface (API) that uses HTTP requests to access and use data. It is based on representational state transfer (REST) technology, an architectural style and approach to communications often used in web services development."
+    },
+    {
+      "name": "GraphQL API",
+      "definition": "GraphQL is an open-source data query and manipulation language for APIs, and a runtime for executing those queries with your existing data."
+    },
+    {
+      "name": "gRPC",
+      "definition": "gRPC is a high-performance, open-source universal RPC framework developed by Google. It uses HTTP/2 for transport, Protocol Buffers as the interface description language, and provides features such as authentication, load balancing, and more."
+    },
+    {
+      "name": "API Key",
+      "definition": "An API key is a code passed in by a client to identify the client and authenticate the request. It is a simple way to provide identifiable information about the client without having to deal with the complexities of OAuth."
+    },
+    {
+      "name": "OpenAPI",
+      "definition": "OpenAPI Specification (OAS) is a specification for machine-readable interface files for describing, producing, consuming, and visualizing RESTful Web APIs."
+    },
+    {
+      "name": "API Gateway",
+      "definition": "An API Gateway is a server that acts as a reverse proxy to receive API requests, aggregate or transform them, and route them to the appropriate backend services."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "sub_concepts": [
+    {
+      "name": "stoichiometry",
+      "definition": "The study of the quantitative relationships between reactants and products in a chemical reaction."
+    },
+    {
+      "name": "mole concept",
+      "definition": "The idea that matter can be expressed in terms of moles, which are units of substance that contain Avogadro's number of particles."
+    },
+    {
+      "name": "balancing equations",
+      "definition": "The process of ensuring that the number of atoms of each element is the same on both the reactant and product sides of a chemical equation."
+    },
+    {
+      "name": "molar mass",
+      "definition": "The mass of a mole of a substance, used to calculate the amount of substance needed for a reaction."
+    },
+    {
+      "name": "limiting reagents",
+      "definition": "The reactant that runs out first in a chemical reaction, determining the amount of product that can be formed."
+    },
+    {
+      "name": "theoretical yield",
+      "definition": "The maximum amount of product that can be obtained from a chemical reaction, based on the limiting reagent and the balanced equation."
+    },
+    {
+      "name": "percentage yield",
+      "definition": "The ratio of the actual yield to the theoretical yield, expressing the efficiency of a chemical reaction."
+    }
+  ]
+}

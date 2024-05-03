@@ -1,0 +1,7 @@
+ Here is the annotated text with the requested surroundings for biology, chemistry, scientific jargon, geometry, math, engineering, and design-related words, phrases, and adjectives:
+
+"The {Keystone species} plays a crucial role in maintaining the stability and integrity of its {ecosystem}, much like a {keystone} holds up an {archway}. By exerting a disproportionate influence on its environment relative to its abundance, the Keystone species helps create and sustain a balanced and functional ecological system. The Keystone species' unique {characteristics} and behaviors enable it to act as a {linchpin} within its ecosystem. Its {structural elements} - such as physical adaptations or social organization - allow it to modulate the interactions between other species and their environment, creating a harmonious network of relationships that support {biodiversity} and {resilience}."
+
+Double curly braces enclose terms related to biology, chemistry, or scientific jargon, such as "Keystone species," "ecosystem," "adaptations," and "resilience."
+
+Square brackets enclose terms related to geometry, mathematics, engineering, and design, such as "keystone," "archway," and "structural elements".

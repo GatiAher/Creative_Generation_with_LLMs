@@ -1,0 +1,15 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Linear momentum in momentum and Power Armor Technology in Iron Man have a principle of motion analysis and mechanical design principles that enable understanding and manipulation of motion in a systematic way based on mechanics",
+      "linear_momentum": {
+        "purpose": "Linear momentum in momentum is used to understand and predict the behavior of objects in motion by analyzing mass and velocity, resulting in a vector quantity for direction and magnitude of motion",
+        "mechanism": "It involves analyzing the mass and velocity of an object to determine the direction and magnitude of its motion, allowing for precise predictions and calculations."
+      },
+      "power_armor_technology": {
+        "purpose": "Power Armor Technology in Iron Man functions similarly by enabling engineers to analyze and manipulate the motion of the power armor in a mathematical and systematic way based on the principles of mechanics",
+        "mechanism": "Just like in Linear momentum, the engineers in Iron Man analyze the mass and velocity of the power armor to control its movements effectively, ensuring efficient and accurate performance."
+      }
+    }
+  ]
+}

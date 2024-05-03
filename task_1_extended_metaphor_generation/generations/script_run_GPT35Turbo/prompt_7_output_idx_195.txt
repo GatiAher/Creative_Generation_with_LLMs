@@ -1,0 +1,14 @@
+In the realm of APIs and money's domain,
+Single Responsibility Principle shall reign,
+Like a versatile function, a key to unlock,
+Efficient retrieval, manipulation to rock.
+
+Modularity Principle, a geometry of sorts,
+Customizable system, with users' retorts,
+In GraphQL API, in Cryptocurrency's might,
+Flexibility and separability, shining bright.
+
+Separation of Concerns, structured and neat,
+Retrieving only what's requested, a feat,
+Efficient communication, retrieval refined,
+In APIs and currency, principles aligned.

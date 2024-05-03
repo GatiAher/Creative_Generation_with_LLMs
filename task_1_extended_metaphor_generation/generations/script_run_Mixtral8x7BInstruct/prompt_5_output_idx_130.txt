@@ -1,0 +1,3 @@
+"Interchangeable Weapon Systems"
+
+This feature in Iron Man's suit allows for modularity, as individual weapons can be added or removed as needed. The weapon systems are standardized, as they all connect to the suit in the same way and can be used interchangeably. The suit can be scaled up in terms of firepower by adding more weapons or switching to more powerful ones. Lastly, the weapon systems allow for abstraction, as they encapsulate the functionality of the weapon without requiring the user to understand the underlying mechanics.

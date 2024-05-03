@@ -1,0 +1,24 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Stars in solar system and BIGBANG's Influence on the Kpop Industry in Kpop serve as a Centralized Energy Source (string)",
+"stars": "Stars provide light, heat, and energy to planets and other celestial bodies, enabling life and various processes to occur (string)",
+"bigbang's\_influence\_on\_the\_kpop\_industry": "BIGBANG has been a centralized energy source for the Kpop industry, providing inspiration, innovation, and creativity, influencing the music, style, and direction of the genre (string)"
+},
+{
+"metaphor": "both Stars in solar system and BIGBANG's Influence on the Kpop Industry in Kpop maintain structural integrity through Gravitational Force (string)",
+"stars": "Stars maintain their spherical shape and stability through their own gravitational forces, holding together the celestial bodies within their system (string)",
+"bigbang's\_influence\_on\_the\_kpop\_industry": "BIGBANG's influence on the Kpop industry has created a gravitational pull, shaping the direction and style of the genre, while also holding together the industry and its fans (string)"
+},
+{
+"metaphor": "both Stars in solar system and BIGBANG's Influence on the Kpop Industry in Kpop harness Energy through Nuclear Fusion (string)",
+"stars": "Stars harness energy through nuclear fusion of hydrogen atoms, producing heat, light, and other forms of energy (string)",
+"bigbang's\_influence\_on\_the\_kpop\_industry": "BIGBANG harnesses energy through the fusion of musical genres, producing innovative and creative music, while also influencing the industry and shaping its future (string)"
+},
+{
+"metaphor": "both Stars in solar system and BIGBANG's Influence on the Kpop Industry in Kpop transmit Energy through Propagation (string)",
+"stars": "Stars transmit energy from their core to the surrounding environment, affecting celestial bodies in their vicinity (string)",
+"bigbang's\_influence\_on\_the\_kpop\_industry": "BIGBANG's influence propagates outward, impacting the Kpop industry and its fans, shaping the music, style, and direction of the genre (string)"
+}
+]
+}

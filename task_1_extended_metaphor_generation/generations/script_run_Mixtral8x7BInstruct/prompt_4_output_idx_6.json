@@ -1,0 +1,24 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Use of components for natural space debris removal",
+      "mechanism": "Utilization of specific components that serve as important parts of the debris removal process, contributing to a cleaner orbital environment"
+    },
+    {
+      "description": "Data collection and analysis for scientific insights",
+      "mechanism": "Collection and analysis of data from these components to provide valuable insights about the composition and properties of other celestial bodies such as comets and asteroids"
+    },
+    {
+      "description": "Design for extreme conditions",
+      "mechanism": "Creation of components that can withstand the harsh conditions of space, such as high-speed motion, friction, and heat generation during entry into a planet's atmosphere"
+    },
+    {
+      "description": "Force analysis and countermeasures",
+      "mechanism": "Study of various forces acting upon meteoroids in space, such as gravity and radiation pressure, to develop appropriate countermeasures and protective designs"
+    },
+    {
+      "description": "Material selection for durability and performance",
+      "mechanism": "Choice of materials for the components, ensuring durability and optimal performance in the space environment, which are typically small, solid particles made up of rock, metal, or a combination of both"
+    }
+  ]
+}

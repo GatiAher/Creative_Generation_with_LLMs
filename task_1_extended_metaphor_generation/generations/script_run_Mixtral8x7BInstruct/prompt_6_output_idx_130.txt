@@ -1,0 +1,24 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Nucleotide in DNA and Interchangeable Weapon Systems in Iron Man exhibit Modularity through their individual components acting as fundamental building blocks, similar to how pixels or Lego bricks can be combined to form a complete system.",
+"nucleotide": "Nucleotides are the individual components of DNA that act as fundamental building blocks, providing the basic structure and information necessary for the creation and functioning of DNA.",
+"interchangeable\_weapon\_systems": "Interchangeable Weapon Systems in Iron Man are individual components that can be added or removed as needed, allowing for the creation and customization of various weapon configurations to fit specific combat scenarios."
+},
+{
+"metaphor": "both Nucleotide in DNA and Interchangeable Weapon Systems in Iron Man demonstrate Standardization through their consistent composition, allowing for predictable and reliable interaction between components.",
+"nucleotide": "Each nucleotide in DNA is composed of a sugar molecule, a phosphate group, and a nitrogenous base, which allows for predictable and reliable interaction between nucleotides in the creation of DNA.",
+"interchangeable\_weapon\_systems": "Interchangeable Weapon Systems in Iron Man are composed of standardized components, such as the barrel, magazine, and grip, which allow for reliable and consistent interaction between weapon systems."
+},
+{
+"metaphor": "both Nucleotide in DNA and Interchangeable Weapon Systems in Iron Man allow for Scalability by connecting components together, enabling the creation of a larger system that can encode a large amount of information or capabilities.",
+"nucleotide": "The ability to connect the phosphate group of one nucleotide to the sugar molecule of the next allows for the creation of a long chain, enabling the encoding of a large amount of genetic information in a single DNA molecule.",
+"interchangeable\_weapon\_systems": "Interchangeable Weapon Systems in Iron Man can be connected together, allowing for the creation of larger and more complex weapon configurations that can provide a wide range of capabilities and functions."
+},
+{
+"metaphor": "both Nucleotide in DNA and Interchangeable Weapon Systems in Iron Man utilize Abstraction by encoding information or instructions in the specific sequence of their components, abstracting the information from the physical structure of the system itself.",
+"nucleotide": "The specific sequence of nitrogenous bases in a DNA molecule encodes genetic information, abstracting the genetic instructions from the physical structure of the DNA molecule itself.",
+"interchangeable\_weapon\_systems": "The specific sequence and arrangement of weapon systems in Iron Man encodes information about the capabilities and functions of the weapon configuration, abstracting the information from the physical structure of the weapon systems themselves."
+}
+]
+}

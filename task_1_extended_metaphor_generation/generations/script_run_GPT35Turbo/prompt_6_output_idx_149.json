@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Reaction rate in chemical kinetics and Pitch prediction in baseball have Mathematical modeling as a design principle",
+      "reaction_rate": "In Reaction rate, mathematical modeling involves using concepts from differential equations and other mathematical tools to model the behavior and performance of chemical reactions.",
+      "pitch_prediction": "Similarly, in Pitch prediction in baseball, mathematical modeling is used to analyze factors like pitch speed, trajectory, and spin rate to forecast how a pitcher's pitch will behave and how a batter might respond."
+    },
+    {
+      "metaphor": "both Reaction rate in chemical kinetics and Pitch prediction in baseball have Predictive modeling as a design principle",
+      "reaction_rate": "For Reaction rate, predictive modeling entails utilizing equations to forecast how the rate of a chemical reaction may change under different reaction conditions, helping researchers understand reaction mechanisms and optimize reaction parameters.",
+      "pitch_prediction": "Likewise, in Pitch prediction in baseball, predictive modeling is used to anticipate the type of pitch a pitcher may throw based on historical data, game situation, and pitcher-batter matchups."
+    },
+    {
+      "metaphor": "both Reaction rate in chemical kinetics and Pitch prediction in baseball have Optimization as a design principle",
+      "reaction_rate": "Optimization in Reaction rate involves maximizing the efficiency of a chemical reaction by finding the best possible conditions, such as temperature, pressure, or catalyst concentration, to achieve the desired reaction rate.",
+      "pitch_prediction": "Similarly, in Pitch prediction in baseball, optimization is about analyzing a pitcher's repertoire and tendencies to strategize the best approach for a batter to optimize their chances of hitting the ball successfully."
+    }
+  ]
+}

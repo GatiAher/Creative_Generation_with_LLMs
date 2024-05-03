@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Programming Languages in computer program and Digital Banking in money have a structured design with syntax and rules that provide a precise way to communicate instructions",
+      "programming_languages": "In Programming Languages, the structured design with syntax and rules ensures that developers write code in a clear and understandable manner, enabling computers to execute instructions accurately based on the defined rules.",
+      "digital_banking": "Similarly, Digital Banking relies on a structured system with clear rules and syntax to process financial transactions accurately. This design ensures that the digital banking system can effectively communicate with different financial institutions and handle various banking operations securely and efficiently."
+    },
+    {
+      "metaphor": "both Programming Languages in computer program and Digital Banking in money use standardized symbols and conventions to convey complex information to builders",
+      "programming_languages": "Programming Languages employ standardized symbols and conventions to help developers express complex algorithms, data structures, and logic in a consistent and understandable manner. This standardization enables programmers to create sophisticated software systems with ease.",
+      "digital_banking": "Likewise, Digital Banking utilizes standardized symbols and conventions in the form of banking codes, identifiers, and protocols to facilitate the exchange of information between different financial entities. By adhering to these conventions, digital banking systems can efficiently process transactions and ensure seamless communication among various banking services and platforms."
+    },
+    {
+      "metaphor": "both Programming Languages in computer program and Digital Banking in money rely on a consistent set of symbols and commands to convey logical sequences of actions",
+      "programming_languages": "Programming Languages rely on a consistent set of symbols and commands to define the sequence of operations and behaviors within a software program. By following a specific order of instructions, developers can create functional and logical programs that perform tasks accurately.",
+      "digital_banking": "Similarly, Digital Banking depends on a consistent set of symbols and commands to execute logical sequences of financial transactions and operations. By adhering to predefined protocols and procedures, digital banking systems can ensure that funds are transferred securely, account balances are accurately maintained, and transactions are processed efficiently."
+    }
+  ]
+}

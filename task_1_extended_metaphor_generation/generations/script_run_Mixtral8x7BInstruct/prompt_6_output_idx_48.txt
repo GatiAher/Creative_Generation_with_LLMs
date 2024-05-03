@@ -1,0 +1,11 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Expanding Universe in big bang theory and Evolution of Kpop Genres in Kpop share a foundation of homogeneity and isotropy, assuming the largest scales of each to be the same in all points and directions, allowing for a uniform model of development and expansion.",
+			"expanding\_universe": "In the context of the Expanding Universe, this principle suggests that the universe appears the same regardless of where you look, and this uniformity has allowed scientists to develop a consistent and coherent model of the universe's origin and growth.",
+			"evolution\_of\_kpop\_genres": "Similarly, in the world of Kpop, homogeneity and isotropy can be seen in the fact that the industry tends to produce music that follows certain trends and styles, with different groups and artists adhering to similar conventions and formulas. This consistency allows for a more predictable and stable evolution of the genre, with new trends and styles emerging in a gradual and uniform manner."
+		},
+		{
+			"metaphor": "both Expanding Universe in big bang theory and Evolution of Kpop Genres in Kpop incorporate the concept of curvature to describe the geometry of their respective spaces, determining whether they are closed, flat, or open and their overall volume.",
+			"expanding\_universe": "In the context of the Expanding Universe, the concept of curvature is used to describe the shape of the universe and its rate of expansion. A flat universe, for example, would expand at a constant rate, while a closed universe would eventually collapse in on itself. By incorporating this concept, scientists have been able to develop a more nuanced and accurate understanding of the universe's history and future.",
+		

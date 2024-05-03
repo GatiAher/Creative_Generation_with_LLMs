@@ -1,0 +1,8 @@
+"Fandom Growth Patterns"
+
+Explanation:
+
+* Proportionality: The size and growth rate of a Kpop group's fandom can be directly proportional to the group's success and exposure, allowing for the estimation of a group's popularity by measuring the size of their fandom.
+* Predictive Modeling: A linear relationship can be used to model the growth of a Kpop group's fandom over time, providing a framework for understanding and predicting the group's future success.
+* Observation and Measurement: The measurement of a Kpop group's fandom size (e.g. through social media followers, album sales, concert attendance) can serve as an indicator of their popularity and success, and can be used to estimate the group's growth rate.
+* Scientific Inquiry: Evidence from observations of Kpop fandoms can be used to support theories about the factors that contribute to a group's success, such as the quality of their music, their visual appeal, and their level of promotion.

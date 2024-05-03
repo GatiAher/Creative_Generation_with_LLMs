@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Blueprint",
+      "mechanism": "The use of a master plan (DNA molecule) to create a blueprint (RNA molecule) for the construction of specific protein structures."
+    },
+    {
+      "description": "Specialization",
+      "mechanism": "The use of a specialized engineering tool, the RNA polymerase, to move along the DNA template, unzipping the double helix and mathematically translating the geometric pattern of nucleotide bases into a complementary RNA sequence."
+    },
+    {
+      "description": "Precision",
+      "mechanism": "The implementation of precise geometrical movements and calculations to ensure the accurate conversion of genetic information from DNA to RNA."
+    }
+  ]
+}

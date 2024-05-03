@@ -1,0 +1,10 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Biodiversity in ecosystems and The baseball lineup and batting order in baseball have Redundancy (providing multiple ways for a system to perform vital functions and recover from disturbances)",
+			"biodiversity": "Biodiversity in ecosystems have redundancy through multiple species that can perform similar functions, allowing the ecosystem to continue functioning even if one species is lost or disturbed.",
+			"the\_baseball\_lineup\_and\_batting\_order": "The baseball lineup and batting order also have redundancy, with multiple players that can perform different roles, such as power hitters, contact hitters, and base stealers. This allows the team to adapt and recover from the loss of a player due to injury or ejection."
+		},
+		{
+			"metaphor": "both Biodiversity in ecosystems and The baseball lineup and batting order in baseball have Interconnected network (connecting each element to and interacting with many others, allowing for multiple pathways for flow of energy and nutrients)",
+		

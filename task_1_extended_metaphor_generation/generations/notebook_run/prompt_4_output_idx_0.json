@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Gravitational Force",
+      "mechanism": "Provides the necessary force to keep planets in stable orbits by being an anchor and creating a central point of attraction"
+    },
+    {
+      "description": "Elliptical Orbits",
+      "mechanism": "Planets move in elliptical paths around a central point of attraction based on gravitational forces"
+    },
+    {
+      "description": "Thermodynamics",
+      "mechanism": "Design of the star as a massive ball of hot plasma generating energy through nuclear fusion to maintain internal pressure and emit light and heat"
+    },
+    {
+      "description": "Sustainability",
+      "mechanism": "Enables sustaining life on the planet by emitting light and heat necessary for life"
+    }
+  ]
+}

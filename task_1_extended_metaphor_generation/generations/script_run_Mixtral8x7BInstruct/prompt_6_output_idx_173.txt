@@ -1,0 +1,24 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Parathyroid Glands in endocrine system and Umpire's Called Strikes in baseball utilize a Feedback Mechanism to regulate their respective systems.",
+			"parathyroid\_glands": "Parathyroid Glands detect changes in calcium levels in the body, and release or decrease the release of parathyroid hormone (PTH) to maintain optimal calcium levels.",
+			"umpire's\_called\_strikes": "Umpire's Called Strikes provide feedback to the batter and pitcher about the success of the pitch, helping to adjust future pitches and swings."
+		},
+		{
+			"metaphor": "both Parathyroid Glands in endocrine system and Umpire's Called Strikes in baseball utilize Specialized Cells to perform specific functions.",
+			"parathyroid\_glands": "Chief cells in the Parathyroid Glands are responsible for producing and releasing PTH in response to changes in calcium levels.",
+			"umpire's\_called\_strikes": "Umpires, with their specialized training and experience, are responsible for making the Called Strikes decision in baseball."
+		},
+		{
+			"metaphor": "both Parathyroid Glands in endocrine system and Umpire's Called Strikes in baseball utilize Hormonal Regulation to regulate various physiological processes.",
+			"parathyroid\_glands": "Parathyroid Glands release PTH to regulate calcium levels in the body.",
+			"umpire's\_called\_strikes": "Umpire's Called Strikes regulate the number of pitches a batter must swing at, and the pace of the game."
+		},
+		{
+			"metaphor": "both Parathyroid Glands in endocrine system and Umpire's Called Strikes in baseball utilize Precise Regulation to maintain optimal functioning.",
+			"parathyroid\_glands": "Parathyroid Glands regulate calcium levels through a feedback mechanism that adjusts the release of PTH in response to changes in calcium levels.",
+			"umpire's\_called\_strikes": "Umpire's Called Strikes maintain the balance between the pitcher and batter, and ensure the game progresses smoothly."
+		}
+	]
+}

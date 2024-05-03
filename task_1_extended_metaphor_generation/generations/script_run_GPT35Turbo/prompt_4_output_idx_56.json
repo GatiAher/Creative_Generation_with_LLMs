@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Modularity",
+      "mechanism": "Partitioning the system into distinct regions with specific characteristics and functions for efficient control, modeling, and analysis."
+    },
+    {
+      "description": "Hierarchy",
+      "mechanism": "Structuring the design as distinct horizontal divisions based on variations in physical properties to facilitate analysis and understanding."
+    },
+    {
+      "description": "Boundary delimitation",
+      "mechanism": "Defining specific boundaries where key parameters change abruptly to simplify geometric and mathematical analysis of behavior and dynamics."
+    }
+  ]
+}

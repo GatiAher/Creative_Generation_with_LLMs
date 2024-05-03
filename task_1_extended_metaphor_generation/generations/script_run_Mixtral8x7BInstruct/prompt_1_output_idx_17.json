@@ -1,0 +1,32 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Stable isotopes",
+      "definition": "Isotopes of an element that have the same number of protons but different number of neutrons, and do not undergo radioactive decay."
+    },
+    {
+      "name": "Radiogenic isotopes",
+      "definition": "Isotopes of an element that are produced by the radioactive decay of other isotopes."
+    },
+    {
+      "name": "Isotope geochemistry",
+      "definition": "The study of the distribution and abundance of isotopes in geological materials, used to understand Earth's history and processes."
+    },
+    {
+      "name": "Isotope fractionation",
+      "definition": "The process by which isotopes of an element are separated and distributed unequally in a system, due to differences in mass and energy."
+    },
+    {
+      "name": "Isotope dating",
+      "definition": "The use of the decay rates of radioactive isotopes to determine the age of rocks, minerals, and other geological materials."
+    },
+    {
+      "name": "Isotope tracers",
+      "definition": "The use of isotopes as tracers to study the movement and transformation of elements in geological systems."
+    },
+    {
+      "name": "Mass spectrometry",
+      "definition": "An analytical technique used to measure the mass-to-charge ratio of ions, used to determine the isotopic composition of geological materials."
+    }
+  ]
+}

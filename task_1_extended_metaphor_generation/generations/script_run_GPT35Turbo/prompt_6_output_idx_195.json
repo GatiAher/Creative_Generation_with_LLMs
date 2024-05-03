@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both GraphQL API in API and Cryptocurrency in money have the Single Responsibility Principle - a versatile mathematical function that allows users to specify data and requirements in a single request, promoting efficient retrieval and manipulation of information.",
+      "graphql_api": "In GraphQL API, the Single Responsibility Principle is embodied by the versatile mathematical function that allows users to request specific data and requirements through a single query, enabling efficient data retrieval and manipulation.",
+      "cryptocurrency": "Similarly, in Cryptocurrency, the Single Responsibility Principle is like a key that allows users to specify their financial transactions and requirements in a single transaction, promoting efficient exchange and manipulation of digital assets."
+    },
+    {
+      "metaphor": "both GraphQL API in API and Cryptocurrency in money have the Modularity Principle - the system operates as a customizable geometry calculator where users provide specific coordinates, equations, or constraints in the query language, promoting flexibility and separability of components.",
+      "graphql_api": "With the Modularity Principle in GraphQL API, the system operates as a customizable geometry calculator where users can specify specific data requirements, equations, or constraints in the query language, enabling flexible and separable components.",
+      "cryptocurrency": "Likewise, in Cryptocurrency, the Modularity Principle acts as a customizable financial system where users can define specific financial parameters, transactions, or constraints, promoting flexibility and separability of monetary components."
+    },
+    {
+      "metaphor": "both GraphQL API in API and Cryptocurrency in money have the Separation of Concerns - processes user inputs in a structured manner, retrieving and delivering only the requested data, leading to streamlined communication and retrieval of geometry, math, engineering, and design data.",
+      "graphql_api": "Through the Separation of Concerns in GraphQL API, user inputs are processed in a structured manner, ensuring that only the requested data is retrieved and delivered, resulting in streamlined communication and retrieval of various data types.",
+      "cryptocurrency": "Similarly, in Cryptocurrency, the concept of Separation of Concerns involves processing user transactions in a structured manner, ensuring that only the necessary data is retrieved and delivered, leading to efficient communication and exchange of financial information."
+    }
+  ]
+}

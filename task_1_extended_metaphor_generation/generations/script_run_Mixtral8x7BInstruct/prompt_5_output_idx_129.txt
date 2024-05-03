@@ -1,0 +1,9 @@
+"Pre-defined baseball positions"
+
+Modularity: The individual positions (e.g. pitcher, catcher, first baseman, etc.) act as fundamental building blocks that can be combined to form a complete baseball team.
+
+Standardization: Each position has a consistent set of responsibilities and expectations, allowing for predictable and reliable interaction between players during the game.
+
+Scalability: The number of players in each position can be adjusted based on the game situation, enabling a team to adapt to different strategies and opponents.
+
+Abstraction: The pre-defined positions encapsulate the roles and responsibilities of each player, abstracting the overall team strategy from the individual players' actions.

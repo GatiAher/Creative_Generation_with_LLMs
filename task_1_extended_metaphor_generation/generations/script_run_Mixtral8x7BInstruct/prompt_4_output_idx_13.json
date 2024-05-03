@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Identification and Addressing of Issues",
+      "mechanism": "The theory of cosmic inflation addresses issues such as the horizon problem and flatness problem in the early universe."
+    },
+    {
+      "description": "Use of a Driving Force",
+      "mechanism": "A negative-pressure vacuum energy density, or dark energy, drives the rapid, accelerated expansion of the universe."
+    },
+    {
+      "description": "Exponential Growth",
+      "mechanism": "The scale factor increases exponentially with time, leading to rapid inflation of the universe."
+    },
+    {
+      "description": "Preservation of Symmetry",
+      "mechanism": "The homogeneity and isotropy of the universe are preserved during the period of inflation, leading to the uniformity of the cosmic microwave background radiation and the large-scale structure of the universe."
+    }
+  ]
+}

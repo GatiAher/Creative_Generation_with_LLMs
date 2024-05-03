@@ -1,0 +1,7 @@
+"Central Bank Independence"
+
+Central bank independence is the concept where a country's central bank is insulated from political interference and has the authority to make its own monetary policy decisions. This abstraction barrier separates the complex underlying systems and processes of monetary policy from direct political intervention, maintaining predictability and orderliness in the economy.
+
+Central bank independence also leverages fundamental laws, specifically the laws of supply and demand, to achieve the desired outcome of price stability. By controlling the money supply and interest rates, central banks can influence the overall direction of the economy.
+
+Finally, central bank independence creates a buffer zone between the central bank and the external environment, preventing direct interaction and insulating it from political pressures and short-term considerations. This allows the central bank to focus on its long-term goals and maintain the stability of the financial system.

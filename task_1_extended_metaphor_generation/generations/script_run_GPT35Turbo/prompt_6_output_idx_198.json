@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both RPC API in API and Arc Reactor in Iron Man have Decomposition, breaking down a complex system into smaller, manageable parts that can be independently designed and delegated, similar to how specialized measurements and calculations operate on different parts of a geometric design.",
+      "rpc_api": "The RPC API decomposes complex operations into smaller, manageable procedures that can be independently designed and executed, akin to how specialized measurements and calculations are utilized on distinct components of a geometric design.",
+      "arc_reactor": "The Arc Reactor in Iron Man decomposes energy generation into specific components that work together seamlessly, similar to how specialized measurements and calculations operate on different parts of a geometric design, ensuring efficient power production and utilization."
+    },
+    {
+      "metaphor": "both RPC API in API and Arc Reactor in Iron Man have Abstraction, enabling one program to request the execution of a specific procedure on another program within the network, abstracting away the internal details and facilitating communication and collaboration similar to interconnected geometric components.",
+      "rpc_api": "The RPC API abstracts the internal details of communication and allows one program to request and trigger specific procedures on another program, similar to how interconnected geometric components obscure their internal workings to enable seamless collaboration and communication.",
+      "arc_reactor": "The Arc Reactor abstracts the complexities of energy generation and distribution within Iron Man's suit, enabling seamless power management and utilization without revealing the intricate details, akin to how interconnected geometric components abstract away their internal workings to facilitate efficient collaboration and operation."
+    },
+    {
+      "metaphor": "both RPC API in API and Arc Reactor in Iron Man have Modularity, designing the network system as interconnected components that work together to form a cohesive design, similar to how different parts of a complex geometric design rely on specialized measurements and calculations.",
+      "rpc_api": "The RPC API structures the network system as modular components that interact seamlessly to achieve a cohesive system design, akin to how different components of a geometric design rely on specialized measurements and calculations to fit together harmoniously.",
+      "arc_reactor": "The Arc Reactor in Iron Man consists of modular components that interconnect to create a functional energy generation and distribution system, much like how specialized measurements and calculations allow distinct parts of a geometric design to work together harmoniously, ensuring the overall design is cohesive and functional."
+    }
+  ]
+}

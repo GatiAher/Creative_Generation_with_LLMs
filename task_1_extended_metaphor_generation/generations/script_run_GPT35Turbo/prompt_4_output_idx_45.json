@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Debugging",
+      "mechanism": "Ensures the final design functions correctly by discovering and correcting errors, similar to troubleshooting a complex system or mathematical equation. Involves analyzing, identifying errors, and applying corrections step by step."
+    },
+    {
+      "description": "Systematic approach",
+      "mechanism": "Follows a systematic approach similar to solving a complex mathematical problem. Helps in analyzing the system, identifying errors, and applying corrections step by step to achieve the desired result."
+    },
+    {
+      "description": "Logical reasoning",
+      "mechanism": "Relies on logical reasoning to isolate and address issues efficiently in the engineering design process. Helps in understanding the system and determining the best course of action for corrections."
+    },
+    {
+      "description": "Testing methodologies",
+      "mechanism": "Involves using testing methodologies to verify the functionality of the design and ensure that potential failures or inaccuracies are avoided. Testing helps in validating the corrections applied to the system."
+    }
+  ]
+}

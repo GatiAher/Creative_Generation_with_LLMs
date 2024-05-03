@@ -1,0 +1,48 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Abiotic factor",
+      "definition": "A non-living component of an ecosystem that can affect the living organisms within it, such as temperature, light, water, soil, and air."
+    },
+    {
+      "name": "Biome",
+      "definition": "A large region characterized by a specific type of vegetation and climate, such as desert, grassland, tropical rainforest, or tundra."
+    },
+    {
+      "name": "Biosphere",
+      "definition": "The part of the planet where all living organisms exist, including plants, animals, fungi, protists, and microorganisms."
+    },
+    {
+      "name": "Ecosystem",
+      "definition": "A community of living and non-living components interacting with each other in a specific environment, such as a forest, coral reef, or freshwater lake."
+    },
+    {
+      "name": "Habitat",
+      "definition": "The natural environment in which a particular species lives, including the physical conditions and the other organisms that share that environment."
+    },
+    {
+      "name": "Niche",
+      "definition": "The unique position or role that a species occupies in its environment, including its food preferences, predators, competitors, and other interactions."
+    },
+    {
+      "name": "Population",
+      "definition": "A group of interbreeding individuals of the same species living in a particular area, such as a herd of deer or a school of fish."
+    },
+    {
+      "name": "Community",
+      "definition": "All the populations of different species living together in a particular ecosystem, interacting with each other and their environment."
+    },
+    {
+      "name": "Ecological niche",
+      "definition": "The position or role that an organism occupies in its environment, including its resource use, habitat, and other ecological relationships."
+    },
+    {
+      "name": "Ecosystem services",
+      "definition": "Benefits provided by functioning ecosystems to humans and other organisms, such as air and water purification, soil formation, and climate regulation."
+    },
+    {
+      "name": "Keystone species",
+      "definition": "A species that has a disproportionate impact on its environment relative to its abundance, often maintaining the structure of its ecosystem."
+    }
+  ]
+}

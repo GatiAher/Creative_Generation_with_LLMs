@@ -1,0 +1,36 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Transformation",
+      "mechanism": "Transforming prey into forms that support the survival and growth of other organisms."
+    },
+    {
+      "description": "Specialization",
+      "mechanism": "Having specialized structures and functions to locate, capture, and process prey."
+    },
+    {
+      "description": "Sensory Detection",
+      "mechanism": "Using sensory structures to detect prey."
+    },
+    {
+      "description": "Physical Capture",
+      "mechanism": "Using physical structures for capturing and consuming prey, such as jaws, teeth, and claws."
+    },
+    {
+      "description": "Digestion and Absorption",
+      "mechanism": "Having structures for digesting and absorbing nutrients from prey."
+    },
+    {
+      "description": "Optimization of Hunting and Foraging Strategies",
+      "mechanism": "Using geometry and mathematical relationships to optimize hunting and foraging strategies."
+    },
+    {
+      "description": "Efficiency",
+      "mechanism": "Ensuring that the body can withstand the demands of capturing and consuming prey through efficient design."
+    },
+    {
+      "description": "Durability",
+      "mechanism": "Ensuring that the body can withstand the demands of capturing and consuming prey through durable design."
+    }
+  ]
+}

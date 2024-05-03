@@ -1,0 +1,24 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Adrenal Glands in endocrine system and Iron Man's suit control system in Iron Man have a control system mechanism that constantly monitors and responds to the body's internal and external environment",
+"adrenal\_glands": "The Adrenal Glands act as a control system, constantly monitoring the body's internal and external environment and releasing hormones as needed to maintain balance.",
+"iron\_man's\_suit\_control\_system": "Iron Man's suit control system is constantly scanning and analyzing its surroundings and the pilot's inputs, and making adjustments as needed to maintain optimal performance and keep Iron Man safe."
+},
+{
+"metaphor": "both Adrenal Glands in endocrine system and Iron Man's suit control system in Iron Man have a dual structure with sensors and actuators that allow for a wide range of responses",
+"adrenal\_glands": "The Adrenal Glands have a dual structure, with the cortex and medulla acting as sensors and actuators, allowing for the glands to respond to a wide range of stimuli and maintain homeostasis through the release of specific hormones.",
+"iron\_man's\_suit\_control\_system": "Iron Man's suit control system has a dual structure as well, with sensors that detect changes in the environment and actuators that adjust the suit's systems accordingly, allowing for a wide range of responses to different situations."
+},
+{
+"metaphor": "both Adrenal Glands in endocrine system and Iron Man's suit control system in Iron Man use hormones and control signals to affect the function of various organs and systems",
+"adrenal\_glands": "The hormones produced by the Adrenal Glands can be thought of as control signals, which travel through the body and affect the function of various organs and systems.",
+"iron\_man's\_suit\_control\_system": "Iron Man's suit control system also uses control signals, in the form of electrical impulses and communication with other systems, to control the suit's functions and keep Iron Man safe."
+},
+{
+"metaphor": "both Adrenal Glands in endocrine system and Iron Man's suit control system in Iron Man function as engineering control systems, with inputs and outputs that maintain homeostasis",
+"adrenal\_glands": "The structure and function of the Adrenal Glands can be compared to that of an engineering control system, with the input being the body's internal and external environment, and the output being the hormones that are released to maintain homeostasis.",
+"iron\_man's\_suit\_control\_system": "Iron Man's suit control system can also be thought of as an engineering control system, with the input being the pilot's commands and the environment, and the output being the suit's responses and adjustments to maintain optimal performance and keep Iron Man safe."
+}
+]
+}

@@ -1,0 +1,25 @@
+ Here's the annotated text with the requested surroundings for words, phrases, and adjectives related to chemistry, geometry, math, engineering, and design:
+
+"The {mole concept} provides a way to express the amount of a substance in a way that is easy to work with and understand, similar to how a {dozen} or a {liter} are used to represent quantities of everyday objects. It allows for simple and consistent measurements and calculations of amounts of substances, making it easier to study and predict the behavior of materials and their interactions. The {mole concept} is based on the idea that each substance has a unique number of particles, called {Avogadro's number}, which can be used as a conversion factor between different units of measurement. This means that no matter the size or shape of a sample of a substance, it can be represented by a single unit, the {mole}, which makes calculations and comparisons simpler and more accurate. Additionally, the {mole concept} enables scientists to easily calculate amounts of substances needed for reactions, allowing them to better control and predict outcomes."
+
+Here's a breakdown of the annotations:
+
+* Chemistry-related terms:
+	+ "mole concept"
+	+ "substance"
+	+ "particles"
+	+ "Avogadro's number"
+	+ "mole"
+* Geometry-related terms:
+	+ "size"
+	+ "shape"
+* Math-related terms:
+	+ "measurements"
+	+ "calculations"
+	+ "conversion factor"
+* Engineering-related terms:
+	+ "units of measurement"
+* Design-related terms:
+	+ none
+
+I hope this helps! Let me know if you have any further questions or requests.

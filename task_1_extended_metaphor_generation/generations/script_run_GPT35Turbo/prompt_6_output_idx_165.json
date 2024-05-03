@@ -1,0 +1,15 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Algorithms in computer program and Pitch sequencing in baseball have a structured approach",
+      "algorithms": {
+        "description": "Breaking down a problem into smaller parts and using mathematical processes and patterns to guide the design and execution of a solution",
+        "mechanism": "Organizing design steps as a series of well-defined instructions for consistent outcomes and ease of replication and optimization"
+      },
+      "pitch_sequencing": {
+        "description": "In baseball, pitch sequencing involves strategically selecting and ordering different types of pitches to outwit batters",
+        "mechanism": "Similar to algorithms, pitch sequencing breaks down the challenge of facing a batter into smaller parts, using a structured approach to guide the selection and execution of pitches for desired outcomes"
+      }
+    }
+  ]
+}

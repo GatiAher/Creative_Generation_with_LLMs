@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Structural Redundancy",
+      "mechanism": "Utilizing two intertwined spirals to increase stability and redundancy in storing genetic information"
+    },
+    {
+      "description": "Efficient Use of Space",
+      "mechanism": "Compact geometric configuration for high data density and efficient storage of genetic information"
+    },
+    {
+      "description": "Modularity",
+      "mechanism": "Encoding genetic information along the length of the strands allowing for easy separation during replication or protein synthesis"
+    }
+  ]
+}

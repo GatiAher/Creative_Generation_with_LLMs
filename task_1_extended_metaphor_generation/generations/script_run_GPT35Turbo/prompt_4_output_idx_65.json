@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Dynamic boundary",
+      "mechanism": "Creates a separation between two different regions in the atmosphere, influencing the behavior and distribution of atmospheric phenomena."
+    },
+    {
+      "description": "Concentration of energy and momentum",
+      "mechanism": "Allows for the efficient transport of energy and momentum across large distances, aiding in driving the movement and behavior of weather systems."
+    },
+    {
+      "description": "Formation of high winds",
+      "mechanism": "High winds form along boundaries in the atmosphere, contributing to the concentrated structure that enables the transport and regulation of global weather patterns."
+    }
+  ]
+}

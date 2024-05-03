@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Radiogenic Isotope Analysis in isotope analysis and Statcast in baseball utilize mathematical modeling",
+      "radiogenic_isotope_analysis": "In Radiogenic Isotope Analysis, mathematical models are employed to calculate the time since the radioactive decay process began, enabling researchers to determine the age of samples and trace their geological history.",
+      "statcast": "Similarly, Statcast in baseball makes use of mathematical modeling to analyze player performance metrics, such as exit velocity and launch angle, providing insights into player capabilities and performance trends."
+    },
+    {
+      "metaphor": "both Radiogenic Isotope Analysis in isotope analysis and Statcast in baseball employ precision engineering",
+      "radiogenic_isotope_analysis": "Radiogenic Isotope Analysis offers precise age estimation and the ability to trace the origins of materials with high accuracy, allowing scientists to reconstruct past environments and understand Earth's geological processes.",
+      "statcast": "Likewise, Statcast in baseball delivers precise data on player movements and performance, enabling teams to evaluate players' skills and make strategic decisions based on accurate information."
+    }
+  ]
+}

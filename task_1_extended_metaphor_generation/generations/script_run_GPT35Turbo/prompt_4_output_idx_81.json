@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Kinetic and Potential Energy",
+      "mechanism": "Quantify the object's ability to perform work (kinetic energy) and store energy (potential energy) based on its motion and position within a force field."
+    },
+    {
+      "description": "Mechanical Energy",
+      "mechanism": "Combine kinetic and potential energy to provide a comprehensive measure of the object's mechanical capabilities."
+    }
+  ]
+}

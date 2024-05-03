@@ -1,0 +1,8 @@
+Here is the output in the desired format:
+
+```json
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "Both the study of Black Holes and Quantum Economics Theory utilize extreme environments as natural laboratories to understand and measure intense phenomena.",
+		

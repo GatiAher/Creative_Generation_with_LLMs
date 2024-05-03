@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Blueprints",
+      "mechanism": "Blueprints act as the guide providing a detailed plan and structure for the construction of proteins, similar to architectural blueprints for buildings."
+    },
+    {
+      "description": "Organized Sequences",
+      "mechanism": "Organized sequences within molecules represent the arrangement of elements in a structured and systematic way, ensuring specific segmentations and order."
+    }
+  ]
+}

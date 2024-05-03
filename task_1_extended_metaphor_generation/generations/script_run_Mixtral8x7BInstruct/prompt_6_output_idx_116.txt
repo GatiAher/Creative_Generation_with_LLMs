@@ -1,0 +1,19 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Food webs in ecosystems and Kpop agency training systems in Kpop have Efficient distribution and utilization (modeling the flow of energy and resources within a system, similar to a distribution network in engineering or logistics)",
+			"food\_webs": "In Food webs, energy and resources flow from one organism to another through a complex network of interactions, with each organism occupying a specific position and playing a unique role in the distribution and utilization of resources. This allows for an efficient flow of energy and resources, with minimal waste and maximum benefit for the entire ecosystem.",
+			"kpop\_agency\_training\_systems": "Similarly, in Kpop agency training systems, resources such as time, money, and effort are carefully distributed and utilized to train and develop trainees into successful idols. Each trainee is given the opportunity to develop their skills and abilities in a systematic and efficient manner, with the goal of maximizing their potential and success in the Kpop industry."
+		},
+		{
+			"metaphor": "both Food webs in ecosystems and Kpop agency training systems in Kpop have Redundancy (complex geometric structure that allows for multiple pathways for energy and resource flow, increasing overall resilience and stability of the system)",
+			"food\_webs": "In Food webs, redundancy is achieved through the presence of multiple species and interactions, which allows for the flow of energy and resources to continue even if one species or interaction is disrupted. This increases the overall resilience and stability of the ecosystem, allowing it to withstand disturbances and maintain its function.",
+			"kpop\_agency\_training\_systems": "Similarly, in Kpop agency training systems, redundancy is achieved through the training of multiple trainees, each with their own unique skills and abilities. This allows the agency to continue to produce successful idols even if one trainee is unable to debut or is no longer active in the industry. Additionally, the presence of multiple trainers and mentors provides multiple pathways for learning and development, further increasing the resilience and stability of the system."
+		},
+		{
+			"metaphor": "both Food webs in ecosystems and Kpop agency training systems in Kpop have Analysis and prediction (geometric structure that enables the analysis of its structure and properties using mathematical tools, allowing for understanding and prediction of the system's behavior under various conditions)",
+			"food\_webs": "In Food webs, the geometric structure of the network can be analyzed using mathematical tools, allowing for a better understanding of the flow of energy and resources within the ecosystem. This enables scientists to predict the behavior of the ecosystem under various conditions, such as changes in climate or the introduction of new species.",
+			"kpop\_agency\_training\_systems": "Similarly, in Kpop agency training systems, the structure and properties of the system can be analyzed using mathematical tools, such as data analysis and modeling. This allows for a better understanding of the development and success of trainees, and enables the agency to predict their behavior and potential under various conditions, such as changes in the Kpop industry or the emergence of new trends."
+		}
+	]
+}

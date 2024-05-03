@@ -1,0 +1,19 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Nucleosynthesis in big bang theory and Interaction between Ball and Bat in baseball are driven by",
+			"nucleosynthesis": "the high temperatures and densities of the early universe, which allowed for the combination of quarks into protons and neutrons, and eventually into atomic nuclei.",
+			"interaction\_between\_ball\_and\_bat": "the high kinetic energy and pressure between the ball and bat, which allows for the transfer of energy and momentum, resulting in the ball changing direction and speed."
+		},
+		{
+			"metaphor": "both Nucleosynthesis in big bang theory and Interaction between Ball and Bat in baseball rely on",
+			"nucleosynthesis": "the strong nuclear force, which is responsible for holding the atomic nuclei together, allowing them to form and become stable.",
+			"interaction\_between\_ball\_and\_bat": "the strong electromagnetic force between the atoms in the ball and bat, which allows them to attract and repel each other, thus creating the necessary contact for the ball to change direction and speed."
+		},
+		{
+			"metaphor": "both Nucleosynthesis in big bang theory and Interaction between Ball and Bat in baseball can be understood through",
+			"nucleosynthesis": "the physics of nuclear reactions, which allows scientists to calculate the relative abundances of the elements produced in the early universe.",
+			"interaction\_between\_ball\_and\_bat": "the physics of motion and mechanics, which allows engineers to design and optimize the performance of baseball bats and balls."
+		}
+	]
+}

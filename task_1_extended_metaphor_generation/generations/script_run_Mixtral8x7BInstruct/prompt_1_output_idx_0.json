@@ -1,0 +1,48 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Stars",
+      "definition": "A massive, luminous sphere of plasma held together by its own gravity. The nearest star to Earth is the Sun."
+    },
+    {
+      "name": "Planets",
+      "definition": "A celestial body moving in an elliptical orbit around a star, which is not illuminated by its own light, and has cleared its orbit of other debris."
+    },
+    {
+      "name": "Dwarf Planets",
+      "definition": "A celestial body that orbits the sun, is spherical in shape, but has not cleared its orbit of other debris."
+    },
+    {
+      "name": "Moons (or Satellites)",
+      "definition": "A natural satellite is a celestial body that orbits a planet or a minor planet (a dwarf planet)."
+    },
+    {
+      "name": "Asteroids",
+      "definition": "A small, rocky body that orbits the Sun, generally larger than 1 meter in diameter but smaller than a planet."
+    },
+    {
+      "name": "Comets",
+      "definition": "A comet is a small body in the solar system that orbits the Sun. They are made up of ice and rock, and when they get close to the Sun, they vaporize to create an atmosphere or coma, and dust and gas form a tail that points away from the Sun."
+    },
+    {
+      "name": "Meteoroids",
+      "definition": "A meteoroid is a small particle from a comet or asteroid that is moving through space."
+    },
+    {
+      "name": "Meteors (or Shooting Stars)",
+      "definition": "A meteor is the light phenomenon that occurs when a meteoroid enters the Earth's atmosphere and vaporizes."
+    },
+    {
+      "name": "Meteorites",
+      "definition": "A meteorite is a meteoroid that survives its passage through the Earth's atmosphere and hits the ground."
+    },
+    {
+      "name": "Kuiper Belt",
+      "definition": "The Kuiper Belt is a region of the solar system beyond the orbit of Neptune. It is a disk-shaped region, extending from the orbit of Neptune (at 30 astronomical units) to approximately 55 AU from the Sun. It is home to many dwarf planets, including Pluto."
+    },
+    {
+      "name": "Oort Cloud",
+      "definition": "The Oort Cloud is a theoretical spherical cloud of icy bodies surrounding the Sun at distances ranging from 2,000 to 100,000 AU."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "both Event Horizon in theory of the naked singularity and Idol Training System in Kpop have Demarcation Point (string)",
+	

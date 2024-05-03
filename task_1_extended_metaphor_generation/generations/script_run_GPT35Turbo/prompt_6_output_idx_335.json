@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "Both Chemical Energy in energy and Cryptocurrency in money have a Storage and Release Principle",
+      "chemical_energy": "Chemical energy enables the storage of potential energy within atomic bonds and releases it during chemical reactions.",
+      "cryptocurrency": "Similarly, Cryptocurrency allows for the storage of value in digital form, which can be released and transferred during transactions."
+    },
+    {
+      "metaphor": "Both Chemical Energy in energy and Cryptocurrency in money have a Structural Design Principle",
+      "chemical_energy": "In Chemical Energy, the specific arrangements of atoms and molecules in a compound are designed to store potential energy in bonds.",
+      "cryptocurrency": "Likewise, Cryptocurrency utilizes specific cryptographic structures and algorithms to securely store and transfer value across a decentralized network."
+    },
+    {
+      "metaphor": "Both Chemical Energy in energy and Cryptocurrency in money have a Transformation Principle",
+      "chemical_energy": "Chemical energy facilitates the transformation of energy forms for various uses through chemical reactions.",
+      "cryptocurrency": "Cryptocurrency enables the transformation of value through digital transactions, allowing for secure exchanges and transfers of assets."
+    }
+  ]
+}

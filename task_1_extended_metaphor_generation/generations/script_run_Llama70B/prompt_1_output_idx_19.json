@@ -1,0 +1,36 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Mass",
+      "definition": "The amount of matter in an object, which contributes to its resistance to changes in motion."
+    },
+    {
+      "name": "Velocity",
+      "definition": "The rate of change of an object's position with respect to time."
+    },
+    {
+      "name": "Acceleration",
+      "definition": "The rate of change of an object's velocity with respect to time."
+    },
+    {
+      "name": "Force",
+      "definition": "A push or pull that causes an object to accelerate."
+    },
+    {
+      "name": "Newton's First Law",
+      "definition": "An object at rest remains at rest, and an object in motion remains in motion, unless acted upon by an external force."
+    },
+    {
+      "name": "Newton's Second Law",
+      "definition": "The relationship between an object's mass, acceleration, and the force acting upon it: F = ma."
+    },
+    {
+      "name": "Momentum",
+      "definition": "The product of an object's mass and velocity: p = m*v."
+    },
+    {
+      "name": "Conservation of Momentum",
+      "definition": "The total momentum of a closed system remains constant over time, unless acted upon by an external force."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "both Cosmic Microwave Background Radiation in big bang theory and Repulsor Technology's Symmetry and Uniformity in Iron Man serve as a baseline for measuring uniformity, similar to a 'fossil record' of the early universe, any deviations from this uniformity can suggest the presence of previously undetected matter or energy.",
+			"cosmic\_microwave\_background\_radiation": "Cosmic Microwave Background Radiation provides a baseline for measuring uniformity in the early universe, any deviations from this uniformity can suggest the presence of previously undetected matter or energy.",
+			"repulsor\_technology's\_symmetry\_and\_uniformity": "Repulsor Technology's Symmetry and Uniformity in Iron Man serves as a baseline for measuring uniformity in the suit's systems, any deviations from this uniformity can suggest the presence of previously undetected issues or malfunctions."
+		},
+		{
+			"metaphor": "both Cosmic Microwave Background Radiation in big bang theory and Repulsor Technology's Symmetry and Uniformity in Iron Man utilize electromagnetic radiation, specifically cosmic microwave background radiation, to study the early universe, similar to how light or radio waves are used in other applications.",
+			"cosmic\_microwave\_background\_radiation": "Cosmic Microwave Background Radiation, a form of electromagnetic radiation, is used to study the early universe and provides valuable information about the universe's composition and evolution.",
+			"repulsor\_technology's\_symmetry\_and\_uniformity": "Repulsor Technology's Symmetry and Uniformity in Iron Man utilizes electromagnetic radiation to maintain the suit's systems and provide valuable information about the suit's performance and condition."
+		},
+		{
+			"metaphor": "both Cosmic Microwave Background Radiation in big bang theory and Repulsor Technology's Symmetry and Uniformity in Iron Man maintain a high degree of symmetry, which helps to maintain a uniform temperature in the cosmic microwave background radiation.",
+			"cosmic\_microwave\_background\_radiation": "Cosmic Microwave Background Radiation maintains a high degree of symmetry in the early universe, which helps to maintain a uniform temperature throughout the universe.",
+			"repulsor\_technology's\_symmetry\_and\_uniformity": "Repulsor Technology's Symmetry and Uniformity in Iron Man maintains a high degree of symmetry in the suit's systems, which helps to maintain a uniform performance and condition throughout the suit."
+		},
+		{
+			"metaphor": "both Cosmic Microwave Background Radiation in big bang theory and Repulsor Technology's Symmetry and Uniformity in Iron Man have temperature and density variations, which provide valuable information about the universe's geometry, composition, and evolution.",
+			"cosmic\_microwave\_background\_radiation": "Cosmic Microwave Background Radiation has temperature and density variations, which provide valuable information about the universe's geometry, composition, and evolution.",
+			"repulsor\_technology's\_symmetry\_and\_uniformity": "Repulsor Technology's Symmetry and Uniformity in Iron Man have temperature and density variations, which provide valuable information about the suit's performance and condition."
+		},
+		{
+			"metaphor": "both Cosmic Microwave Background Radiation in big bang theory and Repulsor Technology's Symmetry and Uniformity in Iron Man use mathematical tools, such as statistical analysis, and engineering techniques, such as multi-frequency measurements and map-making algorithms, to extract valuable information from the cosmic microwave background radiation.",
+			"cosmic\_microwave\_background\_radiation": "Cosmic Microwave Background Radiation uses mathematical tools, such as statistical analysis, and engineering techniques, such as multi-frequency measurements and map-making algorithms, to extract valuable information about the universe's geometry, composition, and evolution.",
+			"repulsor\_technology's\_symmetry\_and\_uniformity": "Repulsor Technology's Symmetry and Uniformity in Iron Man uses mathematical tools, such as statistical analysis, and

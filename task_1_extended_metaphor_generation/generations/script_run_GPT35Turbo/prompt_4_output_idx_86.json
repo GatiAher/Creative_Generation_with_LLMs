@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Moment of Inertia",
+      "mechanism": "Measure of how much a rotating object resists changes in its rotational motion by considering the distribution of mass around its axis of rotation"
+    },
+    {
+      "description": "Angular Velocity",
+      "mechanism": "Rate at which an object rotates around its axis, combined with the moment of inertia to understand the rotational motion of the object"
+    }
+  ]
+}

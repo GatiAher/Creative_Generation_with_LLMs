@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Topographic Profiles in topographic maps and Pitch trajectory analysis in baseball have detailed visualization",
+      "topographic_profiles": "Topographic Profiles provide detailed visualization of elevation changes along a path to offer insights into vertical variations in terrain.",
+      "pitch_trajectory_analysis": "Similarly, Pitch trajectory analysis in baseball offers a detailed visual representation of the ball's path through the air, providing insights into the vertical variations in its trajectory."
+    },
+    {
+      "metaphor": "both Topographic Profiles in topographic maps and Pitch trajectory analysis in baseball have cross-sectional representation",
+      "topographic_profiles": "Topographic Profiles structure elevation values as a cross-sectional view of the terrain, plotted against distance for analysis of gradients and slopes.",
+      "pitch_trajectory_analysis": "Pitch trajectory analysis in baseball represents the trajectory of the pitch as a cross-sectional view, plotting the ball's path against time to analyze the pitch's speed, movement, and location."
+    },
+    {
+      "metaphor": "both Topographic Profiles in topographic maps and Pitch trajectory analysis in baseball have geometric analysis",
+      "topographic_profiles": "Topographic Profiles facilitate understanding of terrain features through geometric and mathematical perspective.",
+      "pitch_trajectory_analysis": "Pitch trajectory analysis in baseball employs geometric and mathematical analysis to understand the ball's flight path, spin rate, release point, and other relevant factors that influence the pitch's trajectory."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "purpose": "The Valence Shell Electron Pair Repulsion (VSEPR) Theory provides a method for predicting and explaining the three-dimensional shape of molecular compounds, which is crucial in the fields of engineering and design for understanding the properties and behavior of materials.",
+  "mechanism": "The VSEPR Theory is based on the concept that electron pairs in the valence shell of the central atom of a molecule will arrange themselves in such a way as to minimize repulsion between them. This results in a specific geometry for the molecule, which can be calculated using mathematical principles. The number of electron pairs (including both bonding and non-bonding pairs) determines the geometry, with a lone pair taking up more space than a bonding pair. The shapes that result from this repulsion can be described using geometric terms such as linear, trigonal planar, tetrahedral, trigonal bipyramidal, and octahedral."
+}

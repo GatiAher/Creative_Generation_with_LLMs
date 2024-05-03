@@ -1,0 +1,33 @@
+ {{double curly braces}}
+
+* weather patterns
+* efficient transportation
+* mixing of mass, momentum, and energy
+* atmosphere
+* distinct regions
+* unique properties
+* temperature
+* humidity
+* wind direction
+* ecosystems
+* climate zones
+* life on Earth
+* fluid dynamics equations
+* Navier-Stokes equations
+* motion of fluids
+* forces
+* high and low pressure systems
+* fronts
+* jet streams
+* efficient transfer of energy and mass
+* globes
+* diverse climates
+* ecosystems
+{{/double curly braces}}
+
+[square braces]
+
+* geometry
+* math
+* engineering
+* design

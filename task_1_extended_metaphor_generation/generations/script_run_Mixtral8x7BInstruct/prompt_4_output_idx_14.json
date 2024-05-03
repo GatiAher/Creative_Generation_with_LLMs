@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Proportionality",
+      "mechanism": "The speed at which a celestial object is moving away from us is directly proportional to its distance from us, allowing for the estimation of the distance of a celestial object by measuring its redshift."
+    },
+    {
+      "description": "Predictive Modeling",
+      "mechanism": "The use of a linear relationship to model the expansion of the universe, providing a framework for understanding and predicting the behavior of celestial objects."
+    },
+    {
+      "description": "Observation and Measurement",
+      "mechanism": "The measurement of redshift in light emitted by a celestial object as an indicator of its movement and distance, and the use of this measurement to estimate the distance and speed of the object."
+    },
+    {
+      "description": "Scientific Inquiry",
+      "mechanism": "The use of evidence from observations of the universe to support scientific theories, such as the theory of the expanding universe."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Thermodynamics",
+      "mechanism": "Utilizing external thermal energy to maintain or increase system stability"
+    },
+    {
+      "description": "Heat Transfer",
+      "mechanism": "Consuming heat energy from surroundings to facilitate changes in internal system configuration"
+    }
+  ]
+}

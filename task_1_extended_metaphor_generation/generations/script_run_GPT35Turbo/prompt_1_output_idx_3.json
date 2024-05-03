@@ -1,0 +1,20 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Biome",
+      "definition": "A large geographical area of distinctive plant and animal groups, which are adapted to that particular environment."
+    },
+    {
+      "name": "Food Chain",
+      "definition": "A series of organisms each dependent on the next as a source of food."
+    },
+    {
+      "name": "Habitat",
+      "definition": "The natural home or environment of an organism."
+    },
+    {
+      "name": "Biodiversity",
+      "definition": "The variety of life forms present in different habitats and ecosystems."
+    }
+  ]
+}

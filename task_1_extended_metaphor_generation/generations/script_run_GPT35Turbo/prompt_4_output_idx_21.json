@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Modularity",
+      "mechanism": "Acting as signaling modules ensuring proper communication between different components of an interconnected system"
+    },
+    {
+      "description": "Precision",
+      "mechanism": "Designing entities with specific chemical compositions that enable precise navigation through the bloodstream to reach designated receptor sites"
+    },
+    {
+      "description": "Topology optimization",
+      "mechanism": "Creating geometrically structured designs allowing triggering of specific responses in target organs or tissues"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+"Compound interest" satisfies all the features of the spec in the domain of money.
+
+* Identification and Addressing of Issues: Compound interest addresses the issue of low returns on savings by allowing for exponential growth of money over time.
+* Use of a Driving Force: The driving force is the interest rate, which determines the rate of growth of the money.
+* Exponential Growth: Compound interest leads to exponential growth of the money over time, as the interest earned is added to the principal and earns interest in subsequent periods.
+* Preservation of Symmetry: The symmetry is preserved in the sense that the rate of growth is the same for all amounts of money, regardless of their size. This leads to a uniform increase in wealth over time, similar to the uniformity of the cosmic microwave background radiation in the early universe.

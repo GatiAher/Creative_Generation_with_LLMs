@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Bottleneck",
+      "mechanism": "Controls the speed at which a process proceeds by regulating the efficiency and outcome, ensuring that the overall rate is determined by the slowest individual component."
+    },
+    {
+      "description": "Barrier",
+      "mechanism": "Introduces an elevated barrier to slow down a specific component significantly, making it the limiting factor in the overall process rate."
+    },
+    {
+      "description": "Constraint",
+      "mechanism": "Limits the rate at which reactants can progress through a mechanism, influencing the speed and extent of the process."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+"extended\_metaphor": \[
+{
+"metaphor": "both Comets in solar system and Spin Rate & Movement of Baseballs in baseball utilize indicators to gain valuable information about their early stages (string)",
+"comets": "Comets use the presence of certain gases and the brightness of their coma as indicators of their composition and activity level",
+"spin\_rate\_&\_movement\_of\_baseballs": "Baseballs' spin rate and movement can be inferred from the trajectory and movement of the ball, helping to predict its behavior and performance"
+},
+{
+"metaphor": "both Comets in solar system and Spin Rate & Movement of Baseballs in baseball rely on selecting materials that can withstand specific conditions or processes (string)",
+"comets": "Comets are made up of unchanged materials like rock and ice, which can withstand the harsh conditions of space",
+"spin\_rate\_&\_movement\_of\_baseballs": "Baseballs are made of materials, such as leather and cork, that can withstand the impact of being thrown and hit, as well as varying weather conditions"
+},
+{
+"metaphor": "both Comets in solar system and Spin Rate & Movement of Baseballs in baseball manage the flow and transformation of matter and energy to optimize performance or function (string)",
+"comets": "Comets redistribute matter and energy as they travel through the solar system, releasing gases and creating a tail as they approach the sun",
+"spin\_rate\_&\_movement\_of\_baseballs": "Baseballs' spin and movement redistribute the force of impact and air resistance, affecting the ball's trajectory and speed"
+},
+{
+"metaphor": "both Comets in solar system and Spin Rate & Movement of Baseballs in baseball utilize nuclear fusion to release immense energy (string)",
+"comets": "Comets' nuclei are composed of rock and ice, which can undergo nuclear fusion and release immense energy as they approach the sun",
+"spin\_rate\_&\_movement\_of\_baseballs": "Baseballs' spin and movement can release immense energy as the ball is hit, causing it to travel at high speeds and distances"
+},
+{
+"metaphor": "both Comets in solar system and Spin Rate & Movement of Baseballs in baseball utilize radiation pressure to generate force or motion (string)",
+"comets": "Comets' tails are formed by radiation pressure exerted by the sun, causing the gases and dust to be pushed away from the sun",
+"spin\_rate\_&\_movement\_of\_baseballs": "Baseballs' spin and movement can be affected by radiation pressure from the sun, causing the ball to move in unexpected ways"
+},
+{
+"metaphor": "both Comets in solar system and Spin Rate & Movement of Baseballs in baseball apply mathematical and engineering principles to explain and predict natural phenomena (string)",
+"comets": "Comets' orbits, tail direction, and brightness can be explained and predicted using mathematical and engineering principles",
+"spin\_rate\_&\_movement\_of\_baseballs": "Baseballs' spin rate and movement can be explained and predicted using mathematical and engineering principles, such as the Magnus effect"
+}
+\]
+}

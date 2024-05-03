@@ -1,0 +1,19 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Transcription in DNA and Choreography in Kpop have a Blueprint (string)",
+"transcription": "In Transcription, the DNA molecule serves as the master blueprint that contains all the genetic information required to construct specific protein structures. This blueprint is used to create a complementary RNA molecule, which acts as a messenger to carry the genetic information to the site of protein synthesis.",
+"choreography": "Similarly, in Kpop, a choreography routine serves as a blueprint for a dance performance. The choreographer creates a sequence of movements and formations that are designed to visually communicate the song's message and emotions. This blueprint is then taught to the dancers, who memorize and rehearse the routine to ensure a precise and synchronized performance."
+},
+{
+"metaphor": "both Transcription in DNA and Choreography in Kpop have Specialization (string)",
+"transcription": "Transcription requires a specialized engineering tool, the RNA polymerase, to move along the DNA template, unzipping the double helix and mathematically translating the geometric pattern of nucleotide bases into a complementary RNA sequence. The RNA polymerase ensures that the process of transcription is carried out accurately and efficiently.",
+"choreography": "Likewise, in Kpop, choreography requires specialized skills and techniques to ensure that the dance routine is executed with precision and accuracy. Choreographers must have a deep understanding of movement, rhythm, and musicality to create a routine that is both visually stunning and musically cohesive. Dancers must also have specialized skills, such as flexibility, strength, and coordination, to execute the movements with precision and grace."
+},
+{
+"metaphor": "both Transcription in DNA and Choreography in Kpop have Precision (string)",
+"transcription": "Transcription is a highly precise process that requires careful implementation of geometrical movements and calculations to ensure the accurate conversion of genetic information from DNA to RNA. Any errors in this process can lead to serious consequences, such as the production of nonfunctional proteins.",
+"choreography": "Choreography also requires precision to ensure that the dance routine is executed with accuracy and synchronization. Dancers must be able to execute the movements with precision, both in terms of timing and spatial orientation. A small error in either of these areas can disrupt the flow of the performance and detract from its overall impact. Precision is therefore crucial to the success of any Kpop choreography routine."
+}
+]
+}

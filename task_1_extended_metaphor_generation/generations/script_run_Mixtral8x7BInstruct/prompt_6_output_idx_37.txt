@@ -1,0 +1,5 @@
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "Both the Kuiper Belt in the solar system and the optimized placement of baseball teams in a league maintain a balanced and stable arrangement through a 'Stable Orbit' principle.",
+	

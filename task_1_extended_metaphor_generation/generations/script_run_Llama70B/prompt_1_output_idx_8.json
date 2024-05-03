@@ -1,0 +1,32 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Rate of Reaction",
+      "definition": "The rate of a reaction is the speed at which it occurs, often measured by the amount of a reactant consumed or the amount of a product formed per unit time."
+    },
+    {
+      "name": "Reaction Mechanism",
+      "definition": "A reaction mechanism is a step-by-step explanation of how a chemical reaction occurs, including the sequence of bond-forming and bond-breaking processes involved."
+    },
+    {
+      "name": "Activation Energy",
+      "definition": "The activation energy is the minimum energy required to start a chemical reaction, and it is the energy barrier that must be overcome for the reaction to occur."
+    },
+    {
+      "name": "Catalysts",
+      "definition": "A catalyst is a substance that speeds up a chemical reaction without being consumed by the reaction, thus allowing the reaction to occur more quickly and efficiently."
+    },
+    {
+      "name": "Reaction Rates",
+      "definition": "Reaction rates are the speed at which chemical reactions occur, and they can be influenced by various factors such as concentration, temperature, and surface area."
+    },
+    {
+      "name": "Equilibrium Constants",
+      "definition": "Equilibrium constants are mathematical quantities that describe the state of equilibrium between reactants and products in a chemical reaction, and they are related to the thermodynamic properties of the system."
+    },
+    {
+      "name": "Le Chatelier's Principle",
+      "definition": "Le Chatelier's principle states that when a system in equilibrium is subjected to a change in conditions, the equilibrium will shift in a direction that tends to counteract the effect of the change."
+    }
+  ]
+}

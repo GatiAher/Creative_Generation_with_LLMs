@@ -1,0 +1,31 @@
+{
+"extended\_metaphor": \[
+{
+"metaphor": "both Nitrogenous Bases in DNA and Iconic Choreographies in Kpop exhibit Modularity, using fundamental units to store and transmit information.",
+"nitrogenous\_bases": "Nitrogenous Bases in DNA are the fundamental units that store genetic information, enabling precise replication and construction of biological organisms.",
+"iconic\_choreographies": "Iconic choreographies in Kpop are composed of fundamental units, or movements, that transmit cultural and musical information, allowing for precise replication and interpretation by dancers."
+},
+{
+"metaphor": "both Nitrogenous Bases in DNA and Iconic Choreographies in Kpop employ Standardized Interfaces, ensuring proper pairing and maintaining structure.",
+"nitrogenous\_bases": "The specific bonding pairs between Nitrogenous Bases (Adenine-Thymine and Guanine-Cytosine) ensure proper base pairing and maintain the structure of the DNA double helix.",
+"iconic\_choreographies": "Standardized interfaces in Kpop choreographies, such as synchronized movements and formations, ensure proper pairing and coordination between dancers, maintaining the structure of the performance."
+},
+{
+"metaphor": "both Nitrogenous Bases in DNA and Iconic Choreographies in Kpop incorporate Redundancy, stabilizing the structure and allowing faithful duplication.",
+"nitrogenous\_bases": "The presence of sugar-phosphate backbones on the outside of the DNA double helix stabilizes the structure and allows for faithful duplication of genetic information.",
+"iconic\_choreographies": "Redundancy in Kpop choreographies, such as repetition of movements and formations, stabilizes the performance and allows for faithful duplication and interpretation by audiences."
+},
+{
+"metaphor": "both Nitrogenous Bases in DNA and Iconic Choreographies in Kpop enable Scalability, allowing for growth and creation of new organisms and performances.",
+"nitrogenous\_bases": "The ability of the DNA double helix to replicate and transmit genetic information during cell division allows for the creation of new organisms and the growth of existing ones.",
+"iconic\_choreographies": "The ability of Kpop choreographies to be scaled, through addition of new dancers, locations, or elements, allows for the creation of new performances and the growth of existing ones."
+},
+{
+"metaphor": "both Nitrogenous Bases in DNA and Iconic Choreographies in Kpop allow for Modifiability, enabling genetic information to be used to modify and create new biological structures.",
+"nitrogenous\_bases": "Transcription of genetic codes into messenger RNA for protein synthesis enables genetic information to be used to modify and create new biological structures.",
+"iconic\_choreographies": "Modifiability in Kpop choreographies, through incorporation of new movements, music, or themes, allows for the creation of new performances and the modification of existing ones."
+}
+\]
+}
+
+Note: The above output is in the desired format of a json list of objects.

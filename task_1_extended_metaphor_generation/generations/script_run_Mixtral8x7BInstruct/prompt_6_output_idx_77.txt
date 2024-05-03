@@ -1,0 +1,9 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "Both the Cosmic Censorship Hypothesis in theory of the naked singularity and the strike zone in baseball act as an 'Abstraction Barrier' that postulates the existence of a barrier to hide complex underlying systems and processes, thereby maintaining predictability and orderliness.",
+			"cosmic\_censorship\_hypothesis": "The Cosmic Censorship Hypothesis posits the existence of an event horizon that hides the complex and chaotic nature of singularities, preventing any direct interaction with the outside world and preserving the predictability of general relativity.",
+			"the\_strike\_zone.": "The strike zone in baseball is a defined area above home plate where a pitched ball is considered a strike, abstracting the complex process of pitching and catching into a clear and consistent set of rules that maintain orderliness in the game."
+		},
+		{
+		

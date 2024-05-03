@@ -1,0 +1,24 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Visualization",
+      "mechanism": "Serve to visually represent shape and elevation changes of land surface in a concise and intuitive manner"
+    },
+    {
+      "description": "Simplification",
+      "mechanism": "Aiding in understanding terrain's topography without need for detailed numerical data"
+    },
+    {
+      "description": "Connectivity",
+      "mechanism": "Structured as closed curves on a grid, connecting points at same elevation above a reference datum"
+    },
+    {
+      "description": "Regularization",
+      "mechanism": "By spacing lines at regular intervals, density and proximity indicate steepness and gradient of terrain"
+    },
+    {
+      "description": "Dimensionality Reduction",
+      "mechanism": "Provides a 3D representation of land's surface on a 2D grid"
+    }
+  ]
+}

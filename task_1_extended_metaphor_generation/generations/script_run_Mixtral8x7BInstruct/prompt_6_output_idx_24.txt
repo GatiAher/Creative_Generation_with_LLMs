@@ -1,0 +1,24 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "Both Meteoroids in solar system and Space-themed Kpop music videos utilize specific components that serve as important parts of the debris removal process, contributing to a cleaner orbital environment and stage.",
+			"meteoroids": "Meteoroids, through their natural entry into a planet's atmosphere, disintegrate and burn up, reducing the amount of space debris and potentially harmful material that could impact other celestial bodies.",
+			"space-themed\_kpop\_music\_video\_utilizing\_realistic\_debris\_removal\_simulations,\_data-driven\_choreography,\_durable\_costumes,\_force-inspired\_dance\_movements,\_and\_meteoroid-like\_stage\_props.": "In Space-themed Kpop music videos, meteoroid-like stage props, made of durable materials, are used to simulate debris removal, contributing to a visually cleaner stage and emphasizing the importance of debris removal in space."
+		},
+		{
+			"metaphor": "Both Meteoroids in solar system and Space-themed Kpop music videos collect and analyze data from these components to provide valuable insights about the composition and properties of other celestial bodies such as comets and asteroids and the audience's reaction to the performance.",
+			"meteoroids": "Data collected from meteoroids, such as their composition and size, can provide valuable insights about the formation and evolution of the solar system and other celestial bodies.",
+			"space-themed\_kpop\_music\_video\_utilizing\_realistic\_debris\_removal\_simulations,\_data-driven\_choreography,\_durable\_costumes,\_force-inspired\_dance\_movements,\_and\_meteoroid-like\_stage\_props.": "Data collected from the audience's reaction to the Space-themed Kpop music video, such as their engagement and enthusiasm, can provide valuable insights about the performance's impact and the audience's preferences."
+		},
+		{
+			"metaphor": "Both Meteoroids in solar system and Space-themed Kpop music videos are designed to withstand the harsh conditions of space, such as high-speed motion, friction, and heat generation during entry into a planet's atmosphere and the intense physical demands of a performance.",
+			"meteoroids": "Meteoroids are designed by nature to withstand the harsh conditions of space, such as high-speed motion, friction, and heat generation during entry into a planet's atmosphere.",
+			"space-themed\_kpop\_music\_video\_utilizing\_realistic\_debris\_removal\_simulations,\_data-driven\_choreography,\_durable\_costumes,\_force-inspired\_dance\_movements,\_and\_meteoroid-like\_stage\_props.": "Space-themed Kpop music videos feature durable costumes and stage props that can withstand the intense physical demands of a performance, ensuring the safety and comfort of the performers and the longevity of the props."
+		},
+		{
+			"metaphor": "Both Meteoroids in solar system and Space-themed Kpop music videos study various forces acting upon meteoroids in space, such as gravity and radiation pressure, to develop appropriate countermeasures and protective designs and the forces of dance and audience engagement to create a captivating performance.",
+			"meteoroids": "Meteoroids are subject to various forces in space, such as gravity and radiation pressure, and scientists study these forces to develop appropriate countermeasures and protective designs.",
+			"space-themed\_kpop\_music\_video\_utilizing\_realistic\_debris\_removal\_simulations,\_data-driven\_choreography,\_durable\_costumes,\_force-inspired\_dance\_movements,\_and\_meteoroid-like\_stage\_props.": "Space-themed Kpop music videos study the forces of dance and audience engagement to create a captivating performance, incorporating data-driven choreography and force-inspired dance movements to create a visually stunning experience."
+		},
+		{
+	

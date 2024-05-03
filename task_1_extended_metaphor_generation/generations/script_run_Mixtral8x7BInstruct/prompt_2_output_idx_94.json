@@ -1,0 +1,4 @@
+{
+  "purpose": "The objective of load balancing is to optimize the use of distributed computing resources, thereby enhancing system efficiency, reducing response time, and preventing any one component from becoming a bottleneck. This is analogous to dividing a large geometric shape into smaller, manageable pieces to facilitate faster and more efficient processing.",
+  "mechanism": "Load balancing employs mathematical algorithms and engineering principles to distribute tasks evenly across available resources. This mechanism can be compared to the design of a truss bridge, where weight is distributed optimally across multiple load-bearing members to ensure stability and longevity. In load balancing, algorithms like round-robin, least connections, and IP hash are used to determine the destination of each task, ensuring an evenly distributed workload and promoting overall system performance."
+}

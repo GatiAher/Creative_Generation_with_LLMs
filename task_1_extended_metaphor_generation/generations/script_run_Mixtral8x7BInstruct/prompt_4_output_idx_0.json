@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Centralized Energy Source",
+      "mechanism": "A single, centrally located source of energy that provides power and support for surrounding systems or components, similar to how stars provide light, heat, and energy to planets and other celestial bodies."
+    },
+    {
+      "description": "Gravitational Force",
+      "mechanism": "The use of gravity to maintain the structural integrity and formation of a system, as demonstrated by the spherical shape and stability of stars due to their own gravitational forces."
+    },
+    {
+      "description": "Nuclear Fusion",
+      "mechanism": "The process of combining atomic nuclei to release a large amount of energy, which can then be harnessed and utilized for various purposes, as seen in the nuclear fusion of hydrogen atoms within stars to produce heat, light, and other forms of energy."
+    },
+    {
+      "description": "Energy Propagation",
+      "mechanism": "The transmission of energy from a source to its surrounding environment, allowing for the illumination, warming, and shaping of conditions in the vicinity, as observed in the way that energy from stars propagates outward and affects celestial bodies in their vicinity."
+    }
+  ]
+}

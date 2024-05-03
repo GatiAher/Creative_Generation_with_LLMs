@@ -1,0 +1,19 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Atmospheric Layers in atmosphere and Inning in baseball have modularity as a design principle",
+      "atmospheric_layers": "Atmospheric Layers partition the atmosphere into distinct regions based on temperature and composition to efficiently control and analyze weather patterns and atmospheric processes.",
+      "inning": "Similarly, Inning in baseball divides the game into distinct segments to control the flow, analyze player performance, and strategize effectively."
+    },
+    {
+      "metaphor": "both Atmospheric Layers in atmosphere and Inning in baseball have hierarchy as a design principle",
+      "atmospheric_layers": "The Atmospheric Layers structure the atmosphere into horizontal divisions based on variations in physical properties such as temperature and density, making it easier to understand and analyze different atmospheric phenomena.",
+      "inning": "Inning structures the baseball game into distinct frames or divisions based on a set of player actions, facilitating analysis of performance and strategic adaptations during the course of the game."
+    },
+    {
+      "metaphor": "both Atmospheric Layers in atmosphere and Inning in baseball have boundary delimitation as a design principle",
+      "atmospheric_layers": "Atmospheric Layers define specific boundaries where temperature, pressure, and composition change abruptly, simplifying the study and analysis of atmospheric dynamics at these transition zones.",
+      "inning": "Inning in baseball marks clear boundaries between offensive and defensive plays, defining key moments where the course of the game may change abruptly and facilitating strategic decisions and analysis."
+    }
+  ]
+}

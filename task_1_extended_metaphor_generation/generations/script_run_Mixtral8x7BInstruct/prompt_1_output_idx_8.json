@@ -1,0 +1,44 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Rate of Reaction",
+      "definition": "The speed at which a chemical reaction occurs, often expressed in terms of the change in concentration of reactants or products over time."
+    },
+    {
+      "name": "Reaction Mechanism",
+      "definition": "The detailed sequence of steps that occur at the molecular level during a chemical reaction."
+    },
+    {
+      "name": "Activation Energy",
+      "definition": "The minimum amount of energy required for a chemical reaction to occur. This energy is needed to break the bonds of the reactants and form the bonds of the products."
+    },
+    {
+      "name": "Rate Law",
+      "definition": "An equation that describes the relationship between the rate of a reaction and the concentration of the reactants."
+    },
+    {
+      "name": "Order of Reaction",
+      "definition": "A measure of how the rate of a reaction depends on the concentration of the reactants. The order of a reaction can be zero, first, second, or a fractional value."
+    },
+    {
+      "name": "Collision Theory",
+      "definition": "A theory that explains the mechanisms of chemical reactions in terms of the collisions between reactant molecules. For a reaction to occur, the colliding molecules must have a certain minimum energy (the activation energy) and the correct orientation."
+    },
+    {
+      "name": "Transition State",
+      "definition": "A high-energy state that exists briefly during a chemical reaction, representing the point at which the reactants have been transformed into products but have not yet separated."
+    },
+    {
+      "name": "Catalysis",
+      "definition": "The process of increasing the rate of a chemical reaction by using a substance called a catalyst, which is chemically unchanged by the reaction."
+    },
+    {
+      "name": "Inhibitors and Promoters",
+      "definition": "Substances that decrease (inhibitors) or increase (promoters) the rate of a chemical reaction by interacting with the reactants or the catalyst."
+    },
+    {
+      "name": "Temperature Effects",
+      "definition": "The effect of temperature on the rate of a chemical reaction, with most reactions proceeding faster at higher temperatures due to the increased kinetic energy of the reactant molecules."
+    }
+  ]
+}

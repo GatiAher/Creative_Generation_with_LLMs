@@ -1,0 +1,44 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Clustering",
+      "definition": "A method of grouping distributed systems together to provide a single system with increased performance and availability."
+    },
+    {
+      "name": "Load balancing",
+      "definition": "The distribution of workloads across multiple computing resources, such as servers, to ensure no single resource becomes overwhelmed."
+    },
+    {
+      "name": "Data replication",
+      "definition": "The process of storing the same data in multiple locations to ensure availability and consistency in the event of a failure."
+    },
+    {
+      "name": "Transparent failover",
+      "definition": "The ability for a distributed system to automatically switch to a backup system in the event of a failure, with no disruption to the user."
+    },
+    {
+      "name": "Concurrency control",
+      "definition": "The management of simultaneous access to shared resources in a distributed system to prevent conflicts and maintain consistency."
+    },
+    {
+      "name": "Fault tolerance",
+      "definition": "The ability of a distributed system to continue operating in the event of a failure, such as the loss of a single node or network link."
+    },
+    {
+      "name": "Distributed file systems",
+      "definition": "A file system that allows multiple computers to access and share files over a network as if they were on a local disk."
+    },
+    {
+      "name": "Distributed databases",
+      "definition": "A database that is spread across multiple computers, allowing for increased scalability and availability."
+    },
+    {
+      "name": "Message passing",
+      "definition": "A communication method in distributed systems where processes communicate by sending and receiving messages."
+    },
+    {
+      "name": "Remote procedure call (RPC)",
+      "definition": "A technique for implementing client-server communication in distributed systems, where a procedure call made by a client appears to be a local procedure call."
+    }
+  ]
+}

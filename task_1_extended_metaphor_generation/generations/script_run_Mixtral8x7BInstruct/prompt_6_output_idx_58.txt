@@ -1,0 +1,24 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Hubble's Law in big bang theory and Advanced Propulsion and Navigation System in Iron Man operate on the principle of proportionality, where the speed of an object is directly related to its distance",
+"hubble's\_law": "Hubble's Law states that the speed at which a celestial object is moving away from us is directly proportional to its distance from us. This allows scientists to estimate the distance of a celestial object by measuring its redshift.",
+"advanced\_propulsion\_and\_navigation\_system": "In Iron Man, the Advanced Propulsion and Navigation System uses a similar principle of proportionality, where the speed of the suit is directly related to the distance it travels. This allows Iron Man to accurately navigate through the air and space."
+},
+{
+"metaphor": "both Hubble's Law in big bang theory and Advanced Propulsion and Navigation System in Iron Man utilize predictive modeling to understand and predict the behavior of celestial objects and movements",
+"hubble's\_law": "Hubble's Law uses a linear relationship to model the expansion of the universe, providing a framework for understanding and predicting the behavior of celestial objects.",
+"advanced\_propulsion\_and\_navigation\_system": "In Iron Man, the Advanced Propulsion and Navigation System uses predictive modeling to understand and predict the movements and trajectory of the suit, allowing Iron Man to accurately navigate and move through the air and space."
+},
+{
+"metaphor": "both Hubble's Law in big bang theory and Advanced Propulsion and Navigation System in Iron Man rely on observation and measurement to estimate distances and make predictions",
+"hubble's\_law": "Hubble's Law uses the measurement of redshift in light emitted by a celestial object as an indicator of its movement and distance. This measurement is used to estimate the distance and speed of the object.",
+"advanced\_propulsion\_and\_navigation\_system": "In Iron Man, the Advanced Propulsion and Navigation System relies on the measurement and observation of the suit's movements and position to estimate distances and make predictions about its trajectory and movements. This allows Iron Man to accurately navigate and move through the air and space."
+},
+{
+"metaphor": "both Hubble's Law in big bang theory and Advanced Propulsion and Navigation System in Iron Man are based on scientific inquiry and the use of evidence to support theories",
+"hubble's\_law": "Hubble's Law is based on scientific inquiry and the use of evidence from observations of the universe to support the theory of the expanding universe.",
+"advanced\_propulsion\_and\_navigation\_system": "In Iron Man, the Advanced Propulsion and Navigation System is based on scientific inquiry and the use of evidence from observations and measurements of the suit's movements and position to support the theory of its accurate navigation and movement."
+}
+]
+}

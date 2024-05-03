@@ -1,0 +1,32 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Pituitary Gland",
+      "definition": "The pituitary gland is a small, pea-sized gland at the base of the brain that controls growth and development. It is also known as the master gland because it controls the functions of other endocrine glands."
+    },
+    {
+      "name": "Thyroid Gland",
+      "definition": "The thyroid gland is a butterfly-shaped gland located in the front of the neck that produces thyroid hormones, which regulate metabolism, growth, and development."
+    },
+    {
+      "name": "Parathyroid Glands",
+      "definition": "The parathyroid glands are four small glands located in the neck that produce parathyroid hormone, which helps regulate the level of calcium in the blood."
+    },
+    {
+      "name": "Adrenal Glands",
+      "definition": "The adrenal glands are two small gland located on top of the kidneys that produce hormones such as adrenaline, cortisol, and aldosterone, which help regulate stress response, metabolism, and blood pressure."
+    },
+    {
+      "name": "Pancreas",
+      "definition": "The pancreas is a gland located behind the stomach that produces hormones such as insulin and glucagon, which regulate blood sugar levels. It also produces digestive enzymes that help break down proteins, carbohydrates, and fats."
+    },
+    {
+      "name": "Pineal Gland",
+      "definition": "The pineal gland is a small gland located in the brain that produces melatonin, a hormone that helps regulate sleep-wake cycles. It is also known as the "
+    },
+    {
+      "name": "Reproductive Glands",
+      "definition": "The reproductive glands, also known as the gonads, include the ovaries in females and the testes in males. They produce sex hormones such as estrogen, progesterone, and testosterone, which are essential for sexual development and reproduction."
+    }
+  ]
+}

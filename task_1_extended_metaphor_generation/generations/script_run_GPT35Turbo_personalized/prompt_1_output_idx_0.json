@@ -1,0 +1,12 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Orthonormal Bases",
+      "definition": "An orthonormal basis is a set of vectors in a vector space that are orthogonal (perpendicular) to each other and have a unit length (norm of 1). These bases are often used in the context of singular value decomposition to represent the columns of the left and right singular matrices."
+    },
+    {
+      "name": "Singular Values",
+      "definition": "Singular values are the non-negative square roots of the eigenvalues of the matrix product A^T * A, where A is the matrix being decomposed. These values play a crucial role in singular value decomposition as they represent the scaling factors applied to the singular vectors to form the low-rank approximation of the original matrix."
+    }
+  ]
+}

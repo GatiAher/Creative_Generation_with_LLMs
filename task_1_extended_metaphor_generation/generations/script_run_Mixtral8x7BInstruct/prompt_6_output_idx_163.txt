@@ -1,0 +1,19 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Translation in DNA and Minting process in money are a blueprint-to-product assembly line",
+"translation": "In Translation, the genetic code in DNA is transcribed into mRNA, which is then translated into a physical protein product through a series of precise steps and calculations, similar to a manufacturing process in engineering.",
+"minting\_process": "In Minting, a design or blueprint is created and followed to produce coins or currency, with each step carefully controlled and monitored to ensure the final product meets the desired specifications."
+},
+{
+"metaphor": "both Translation in DNA and Minting process in money involve a systematic mapping process",
+"translation": "In Translation, genetic code is systematically mapped to specific amino acids using a 'reader' (Ribosome) and 'instructional guides' (tRNA molecules) that interact in a coordinated and geometrically-constrained manner.",
+"minting\_process": "In Minting, designs and patterns are systematically engraved onto the surface of coins or currency, using precise calculations and measurements to ensure the final product is consistent and of high quality."
+},
+{
+"metaphor": "both Translation in DNA and Minting process in money have a start-stop mechanism",
+"translation": "In Translation, there is a strict mechanism to ensure accurate and controlled protein synthesis, similar to a programming language, with specific start and stop signals that indicate the beginning and end of the coding region.",
+"minting\_process": "In Minting, there are also specific start and stop points in the production process, such as the beginning and end of the blanking, rimming, and striking stages, to ensure the final product is correctly formed and of the right size and shape."
+}
+]
+}

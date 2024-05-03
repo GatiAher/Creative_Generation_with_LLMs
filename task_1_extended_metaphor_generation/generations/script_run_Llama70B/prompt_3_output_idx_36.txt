@@ -1,0 +1,19 @@
+ \documentclass[10pt]{article}
+\begin{document}
+\begin{annotate}{}
+\usepackage{amsmath}
+\usepackage{graphicx} % Required for inserting math symbols
+\usepackage{adjustbox} % Required for adjusting box size
+\usepackage{wrapfig} % Required for wrapping figures
+\usepackage{float} % Required for floating environments
+
+\begin{document}
+
+{\doublecurlybrace}The base pairing's purpose is to create a stable and complementary partnership between two nucleotides, which allows for the formation of a double helix structure that can store and transmit genetic information. This partnership is crucial for the accuracy and integrity of genetic code, ensuring that the correct sequence of nucleotides is maintained and passed on to new cells. From a geometric perspective, the base pairing can be seen as a 'lock and key' system, where each nucleotide has a unique shape that fits perfectly with its complementary partner, creating a secure and precise connection. The mechanism of base pairing involves the formation of hydrogen bonds between nucleotides, which creates a strong and specific interaction between them. Adenine pairs with thymine through two hydrogen bonds, while guanine pairs with cytosine through three hydrogen bonds. These bonds are formed due to the unique shape and chemical properties of each nucleotide, which allow them to fit together like puzzle pieces. The double helix structure that forms as a result of these pairings is incredibly stable, allowing it to withstand the forces that would otherwise cause it to break apart or become tangled. Additionally, the specificity of the base pairing ensures that errors in DNA replication are rare, as the incorrect pairing of nucleotides would disrupt the stability of the double helix structure.\end{annotate}
+
+\begin{squarebrace}Therefore}, the stability of the double helix structure is crucial for maintaining the integrity of genetic information. The unique shapes of the nucleotides and their complementary pairing create a secure connection that allows for accurate DNA replication. The formation of hydrogen bonds between nucleotides further strengthens this connection, making it incredibly stable and resistant to disruptions. This stability also plays a vital role in ensuring that errors in DNA replication are rare, as any mistakes in the pairing of nucleotides would disrupt the stability of the double helix structure. Therefore, the design of the DNA molecule, with its complementary base pairing and stable double helix structure, is a marvel of biological engineering.}\closesquarebrace
+
+\end{document}
+\end{code}
+
+The output annotated text contains two environments: \doublecurlybrace} and \squarebrace}. The first environment highlights terms related to biology, chemistry, and scientific jargon using double curly braces, while the second environment highlights terms related to geometry, math, engineering, and design using square brackets.

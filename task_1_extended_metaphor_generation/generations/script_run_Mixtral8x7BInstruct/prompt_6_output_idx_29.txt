@@ -1,0 +1,24 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "Both Meteors (or Shooting Stars) in solar system and Sliding into home plate in baseball utilize a natural method of transport (string)",
+			"meteors\_(or\_shooting\_stars)": "Meteoroids serve as a natural method for transporting extraterrestrial material through space and depositing it onto a planet's surface, contributing to the planet's geological and biological evolution.",
+			"sliding\_into\_home\_plate": "Sliding into home plate is a natural method of transport for a baseball player to advance to the next base and potentially score a run, contributing to the team's overall score."
+		},
+		{
+			"metaphor": "Both Meteors (or Shooting Stars) in solar system and Sliding into home plate in baseball use friction-based propulsion (string)",
+			"meteors\_(or\_shooting\_stars)": "Friction generated between a meteoroid and atmospheric gases causes the meteoroid to heat up and vaporize, producing a bright streak of light and propelling the meteoroid towards the planet's surface.",
+			"sliding\_into\_home\_plate": "Friction generated between the sliding player's clothing and the base causes the player to accelerate, helping them reach the base faster and more efficiently."
+		},
+		{
+			"metaphor": "Both Meteors (or Shooting Stars) in solar system and Sliding into home plate in baseball have size and speed-dependent brightness (string)",
+			"meteors\_(or\_shooting\_stars)": "The size of the meteoroid and its speed determine the brightness and duration of the meteor, allowing for a visible indication of the meteoroid's size and speed.",
+			"sliding\_into\_home\_plate": "The speed and size of the sliding player can affect the visibility of their slide, with faster and larger players appearing more prominent and noticeable."
+		},
+		{
+			"metaphor": "Both Meteors (or Shooting Stars) in solar system and Sliding into home plate in baseball allow for survivability of larger bodies (string)",
+			"meteors\_(or\_shooting\_stars)": "Larger meteoroids may survive the journey through the atmosphere and strike the ground as meteorites, delivering extraterrestrial material to the planet's surface.",
+			"sliding\_into\_home\_plate": "Larger and more experienced players may have a better chance of surviving the slide and reaching the base safely, contributing to their team's success."
+		}
+	]
+}

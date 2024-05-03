@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Interfaces",
+      "mechanism": "Facilitating the exchange and redistribution of forces, energy, and material within a system by providing points of contact for interaction."
+    },
+    {
+      "description": "Structures",
+      "mechanism": "Organizing the components or elements of a system into distinct entities that serve specific functions or purposes."
+    },
+    {
+      "description": "Differentiation",
+      "mechanism": "Creating variations or differences between components within a system to accommodate diverse activities or functionalities."
+    }
+  ]
+}

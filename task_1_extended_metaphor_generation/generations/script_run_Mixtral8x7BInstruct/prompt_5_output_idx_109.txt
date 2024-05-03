@@ -1,0 +1,5 @@
+"The farm system for player development"
+
+* Efficient energy distribution and use: The farm system allows for the efficient distribution and development of talent, with players starting at the lower levels and working their way up as they improve their skills and gain experience.
+* Modular and self-organizing system: The farm system is modular, with individual teams at each level operating semi-independently. The addition or removal of players at one level does not necessarily affect the functioning of the other levels.
+* Geometric representation as a pyramid: The farm system can be visualized as a pyramid, with the minor league teams at the base and the major league team at the top, representing the decreasing number of players as they move up through the ranks.

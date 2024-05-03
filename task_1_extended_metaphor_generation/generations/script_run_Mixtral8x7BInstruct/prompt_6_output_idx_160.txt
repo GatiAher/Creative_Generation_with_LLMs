@@ -1,0 +1,19 @@
+{
+"extended\_metaphor": [
+{
+"metaphor": "both Translation in DNA and Choreography Creation Process in Kpop function as a blueprint-to-product assembly line",
+"translation": "In Translation, the genetic code serves as the blueprint that gets converted into a physical protein product through a series of precise steps and calculations, similar to a manufacturing process in engineering.",
+"choreography\_creation\_process": "Similarly, in Kpop, the initial concept and music serve as the blueprint that gets transformed into a choreographed performance through a series of coordinated movements, rehearsals, and staging."
+},
+{
+"metaphor": "both Translation in DNA and Choreography Creation Process in Kpop involve a systematic mapping process",
+"translation": "Translation utilizes a 'reader' (Ribosome) and 'instructional guides' (tRNA molecules) that interact in a coordinated and geometrically-constrained manner to translate genetic code into amino acids.",
+"choreography\_creation\_process": "Likewise, Choreography Creation Process in Kpop involves a systematic mapping process where the choreographer creates a sequence of movements that are mapped onto the music and the performers' abilities to execute them, with each movement being coordinated with the others to create a cohesive performance."
+},
+{
+"metaphor": "both Translation in DNA and Choreography Creation Process in Kpop employ a start-stop mechanism",
+"translation": "Translation has a strict mechanism to ensure accurate and controlled protein synthesis, similar to a programming language, with specific start and stop signals that indicate the beginning and end of the protein synthesis process.",
+"choreography\_creation\_process": "Choreography Creation Process in Kpop also employs a start-stop mechanism, where the choreographer uses specific transitions and formations to indicate the beginning and end of different sections of the performance, ensuring a smooth and cohesive flow throughout the entire routine."
+}
+]
+}

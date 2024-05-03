@@ -1,0 +1,20 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Geometric Boundary",
+      "mechanism": "Creates a physical boundary that marks the limit of a black hole's influence, preventing anything from escaping."
+    },
+    {
+      "description": "Barrier Function",
+      "mechanism": "Acts as a barrier that captures all matter and energy within the gravitational pull of the black hole, preventing anything from exiting beyond a certain point."
+    },
+    {
+      "description": "Mathematically Defined Radius",
+      "mechanism": "Structuring the design based on a mathematically defined radius derived from the mass of the black hole, determining the distance at which the gravitational pull becomes so strong that even light cannot escape."
+    },
+    {
+      "description": "Severe Spacetime Curvature",
+      "mechanism": "At a certain point, the curvature of spacetime becomes so severe due to the black hole's mass that the escape velocity required to overcome the gravitational pull exceeds the speed of light, creating a one-way boundary."
+    }
+  ]
+}

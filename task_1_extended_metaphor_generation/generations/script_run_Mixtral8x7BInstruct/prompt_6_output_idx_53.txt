@@ -1,0 +1,24 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "Both the Inflationary Universe and the hot streak phenomenon in baseball, driven by confidence and momentum, leading to exponential growth in performance and preservation of symmetry in statistics, while addressing issues of variability in player performance, involve the Identification and Addressing of Issues.",
+			"inflationary\_universe": "The theory of cosmic inflation addresses issues such as the horizon problem and flatness problem in the early universe.",
+			"the\_hot\_streak\_phenomenon\_in\_baseball,\_driven\_by\_confidence\_and\_momentum,\_leading\_to\_exponential\_growth\_in\_performance\_and\_preservation\_of\_symmetry\_in\_statistics,\_while\_addressing\_issues\_of\_variability\_in\_player\_performance.": "The hot streak phenomenon in baseball, driven by confidence and momentum, leads to exponential growth in performance and preservation of symmetry in statistics, while addressing issues of variability in player performance by boosting a player's confidence and allowing them to maintain a consistent level of performance, even when faced with challenges or setbacks."
+		},
+		{
+			"metaphor": "Both the Inflationary Universe and the hot streak phenomenon in baseball, driven by confidence and momentum, leading to exponential growth in performance and preservation of symmetry in statistics, while addressing issues of variability in player performance, involve the Use of a Driving Force.",
+			"inflationary\_universe": "A negative-pressure vacuum energy density, or dark energy, drives the rapid, accelerated expansion of the universe during the period of inflation.",
+			"the\_hot\_streak\_phenomenon\_in\_baseball,\_driven\_by\_confidence\_and\_momentum,\_leading\_to\_exponential\_growth\_in\_performance\_and\_preservation\_of\_symmetry\_in\_statistics,\_while\_addressing\_issues\_of\_variability\_in\_player\_performance.": "The driving force behind the hot streak phenomenon in baseball is the player's own confidence and momentum, which builds as they experience success and drives them to continue performing at a high level."
+		},
+		{
+			"metaphor": "Both the Inflationary Universe and the hot streak phenomenon in baseball, driven by confidence and momentum, leading to exponential growth in performance and preservation of symmetry in statistics, while addressing issues of variability in player performance, involve Exponential Growth.",
+			"inflationary\_universe": "The scale factor increases exponentially with time during the period of inflation, leading to rapid inflation of the universe.",
+			"the\_hot\_streak\_phenomenon\_in\_baseball,\_driven\_by\_confidence\_and\_momentum,\_leading\_to\_exponential\_growth\_in\_performance\_and\_preservation\_of\_symmetry\_in\_statistics,\_while\_addressing\_issues\_of\_variability\_in\_player\_performance.": "During a hot streak, a player's performance increases exponentially, leading to a prolonged period of success and high statistics."
+		},
+		{
+			"metaphor": "Both the Inflationary Universe and the hot streak phenomenon in baseball, driven by confidence and momentum, leading to exponential growth in performance and preservation of symmetry in statistics, while addressing issues of variability in player performance, involve the Preservation of Symmetry.",
+			"inflationary\_universe": "The homogeneity and isotropy of the universe are preserved during the period of inflation, leading to the uniformity of the cosmic microwave background radiation and the large-scale structure of the universe.",
+			"the\_hot\_streak\_phenomenon\_in\_baseball,\_driven\_by\_confidence\_and\_momentum,\_leading\_to\_exponential\_growth\_in\_performance\_and\_preservation\_of\_symmetry\_in\_statistics,\_while\_addressing\_issues\_of\_variability\_in\_player\_performance.": "The hot streak phenomenon in baseball also involves the preservation of symmetry, as a player's statistics remain consistent and evenly balanced during the period of exponential growth and success."
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"extended\_metaphor": [
+		{
+			"metaphor": "Both Reproductive Glands in the endocrine system and Specialized training system for Kpop idols have specialized cells for 'hormone' production.",
+			"reproductive\_glands": "The gonads contain specialized cells that are responsible for producing sex hormones, allowing for efficient and targeted hormone production.",
+	

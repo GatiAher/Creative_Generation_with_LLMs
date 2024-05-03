@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Thermodynamics",
+      "mechanism": "Quantify the kinetic energy of particles within a system by considering their temperature and specific heat capacities to understand the internal dynamics."
+    },
+    {
+      "description": "Heat Transfer",
+      "mechanism": "Facilitate the transfer of heat within a system to account for the vibrational, rotational, and translational motions of particles."
+    }
+  ]
+}

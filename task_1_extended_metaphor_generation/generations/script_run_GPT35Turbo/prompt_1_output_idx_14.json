@@ -1,0 +1,16 @@
+{
+  "sub_concepts": [
+    {
+      "name": "Arctic Oscillation",
+      "definition": "A climate pattern characterized by winds circulating counterclockwise around the Arctic that can influence the strength and position of the polar vortex."
+    },
+    {
+      "name": "Jet Stream",
+      "definition": "A narrow band of strong winds that circulate high in the atmosphere and can affect the movement and intensity of the polar vortex."
+    },
+    {
+      "name": "Stratosphere",
+      "definition": "The layer of the Earth's atmosphere above the troposphere where the polar vortex forms and is influenced by changes in temperature and wind patterns."
+    }
+  ]
+}

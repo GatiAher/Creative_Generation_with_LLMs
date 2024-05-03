@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Angular momentum in momentum and Compound Interest in money have Moment of Inertia as a key design principle",
+      "angular_momentum": "Moment of Inertia measures how much a rotating object resists changes in its rotational motion by considering the distribution of mass around its axis of rotation. This means that objects with higher Moment of Inertia require more force to change their rotational speed.",
+      "compound_interest": "Similarly, in Compound Interest, the initial investment amount acts as the 'mass' that generates interest, and the distribution of this 'mass' (investment) over time affects the overall growth of the investment. Just like objects with higher Moment of Inertia are harder to accelerate or decelerate, investments with higher initial amounts experience faster growth in Compound Interest."
+    },
+    {
+      "metaphor": "both Angular momentum in momentum and Compound Interest in money rely on Angular Velocity for understanding their respective systems",
+      "angular_momentum": "Angular Velocity is the rate at which an object rotates around its axis, and when combined with the Moment of Inertia, it helps in comprehending the object's rotational motion. Higher Angular Velocity means the object is rotating faster.",
+      "compound_interest": "Similarly, in Compound Interest, the frequency at which the interest is compounded (interest being the 'rotation') and added to the principal amount (the 'axis') determines how rapidly the investment grows. Higher compounding frequency leads to a faster increase in the overall wealth, mirroring the faster rotation of objects with higher Angular Velocity."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "Both Inflation Theory in big bang theory and Expansion teams in baseball have an initial phase of exponential expansion",
+      "inflation_theory": {
+        "description": "Exponential expansion",
+        "mechanism": "Proposes an initial phase of exponential expansion driven by a XXX XXX that resulted in smoothing out the universe's geometry"
+      },
+      "expansion_teams": {
+        "description": "Exponential expansion",
+        "mechanism": "Brings in new teams and players rapidly, expanding the league in a short period of time"
+      }
+    },
+    {
+      "metaphor": "Both Inflation Theory in big bang theory and Expansion teams in baseball aim at ensuring a more uniform and flat spacetime",
+      "inflation_theory": {
+        "description": "Uniform and flat spacetime",
+        "mechanism": "Ensuring a more uniform and flat spacetime by a mechanism grounded in engineering and design principles"
+      },
+      "expansion_teams": {
+        "description": "Uniform and flat spacetime",
+        "mechanism": "Ensuring a more level playing field for all teams by carefully selecting new teams and players to maintain competitiveness"
+      }
+    }
+  ]
+}

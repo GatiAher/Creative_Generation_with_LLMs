@@ -1,0 +1,16 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Regulating System",
+      "mechanism": "Maintains a balanced atmospheric circulation by controlling the flow of air, affecting weather patterns and temperatures"
+    },
+    {
+      "description": "Negative and Positive Phases",
+      "mechanism": "Utilizes fluctuations between negative and positive phases to confine or allow cold air to impact different regions"
+    },
+    {
+      "description": "Strength Variation",
+      "mechanism": "Varies the strength of the system to either confine cold air to certain regions or allow it to meander southward"
+    }
+  ]
+}

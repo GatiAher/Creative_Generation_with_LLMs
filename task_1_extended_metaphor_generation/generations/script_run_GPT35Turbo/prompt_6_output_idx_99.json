@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Thyroid Gland in endocrine system and Central Banking System in money have a Feedback Control System",
+      "thyroid_gland": "The Feedback Control System in the Thyroid Gland modulates the rate of hormone production to maintain balance within the body. It continuously monitors hormone levels in the blood and adjusts secretion accordingly based on feedback signals to regulate metabolism and other bodily functions.",
+      "central_banking_system": "Similarly, the Central Banking System functions as a Feedback Control System in the economic realm. It modulates interest rates, money supply, and other financial tools to maintain balance within the economy. By continuously monitoring key economic indicators, the Central Bank adjusts its policies to stabilize inflation, employment, and economic growth."
+    },
+    {
+      "metaphor": "both Thyroid Gland in endocrine system and Central Banking System in money have a Closed-loop System",
+      "thyroid_gland": "The Closed-loop System in the Thyroid Gland operates similar to an engineering closed-loop system. It monitors thyroid hormone levels in the blood and adjusts the secretion of hormones to regulate metabolic activities and maintain homeostasis.",
+      "central_banking_system": "Likewise, the Central Banking System in money functions as a Closed-loop System in the financial world. It continually monitors factors like inflation rates, economic growth, and financial stability, and then makes adjustments to interest rates and monetary policies to maintain a stable and sustainable economy."
+    }
+  ]
+}

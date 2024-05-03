@@ -1,0 +1,12 @@
+{
+  "engineering_design_principles": [
+    {
+      "description": "Compact Spaces",
+      "mechanism": "Compact spaces are used to hide or 'compactify' extra dimensions, allowing for a unified way for fundamental building blocks of nature to interact."
+    },
+    {
+      "description": "Complex Geometric Structure",
+      "mechanism": "Having a complex geometric structure with specific properties enables the spaces to curl up or 'compactify' the extra dimensions needed for interaction of fundamental building blocks."
+    }
+  ]
+}

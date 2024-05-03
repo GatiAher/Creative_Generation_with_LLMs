@@ -1,0 +1,14 @@
+{
+  "extended_metaphor": [
+    {
+      "metaphor": "both Relief in topographic maps and Heads-up display with augmented reality representation of topographic information in Iron Man have Contour Lines as a key design principle",
+      "relief": "In Relief, contour lines are used to create a visual representation of the topography's height and depth by spacing them based on specific intervals of elevation difference.",
+      "heads-up_display_with_augmented_reality_representation_of_topographic_information": "Similarly, in the Heads-up display with augmented reality representation of topographic information in Iron Man, contour lines are utilized to indicate varying elevations and create a 3D-like representation of the terrain."
+    },
+    {
+      "metaphor": "both Relief in topographic maps and Heads-up display with augmented reality representation of topographic information in Iron Man use Shading Techniques to enhance depiction of terrain features",
+      "relief": "In Relief, shading techniques are employed to simulate light and shadow effects on the surfaces based on their relative elevations, enhancing the visual representation of the terrain features.",
+      "heads-up_display_with_augmented_reality_representation_of_topographic_information": "Likewise, in the Heads-up display with augmented reality representation of topographic information in Iron Man, shading techniques are used to simulate light and shadow effects on the augmented reality representation of topographic features, making the terrain appear more realistic and detailed."
+    }
+  ]
+}

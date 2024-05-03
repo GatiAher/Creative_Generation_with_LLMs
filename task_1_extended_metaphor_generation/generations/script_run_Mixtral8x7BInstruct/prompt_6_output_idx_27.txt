@@ -1,0 +1,5 @@
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "Both Meteoroids in the solar system and Use of blockchain technology in financial transactions are built using specific components that serve as important parts of their respective systems.",
+	

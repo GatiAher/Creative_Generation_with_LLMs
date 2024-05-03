@@ -1,0 +1,4 @@
+{
+  "purpose": "Mass spectrometry serves as a tool for identifying and quantifying the isotopic composition of various elements within a sample, providing valuable data for geometric, mathematical, and engineering analysis. This information is crucial in understanding the formation, history, and behavior of geological materials.",
+  "mechanism": "Mass spectrometry functions by converting the sample into ions, which are then separated based on their mass-to-charge ratio in a vacuum environment. This is accomplished through the use of electric and magnetic fields, designed to create curvatures in the paths of ions with different mass-to-charge ratios. By measuring the time or position of these ions as they reach the detector, the mass-to-charge ratio can be determined. The resulting data is analyzed using mathematical algorithms and geometric principles, such as the center of mass and radius of curvature, to establish the isotopic composition of the sample."
+}

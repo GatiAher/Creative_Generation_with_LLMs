@@ -1,0 +1,24 @@
+{
+	"extended_metaphor": [
+		{
+			"metaphor": "both Gravitational Singularity in theory of the naked singularity and pitcher's mound in baseball represent an extreme concentration of their respective elements, playing a crucial role in their respective systems.",
+			"gravitational_singularity": "The Gravitational Singularity represents an extreme concentration of mass, warping the fabric of reality and infinitely intensifying the gravitational field, which is crucial in understanding and modeling the behavior of massive objects, particularly in the context of black holes.",
+			"pitcher's_mound": "The pitcher's mound represents an extreme concentration of dirt and clay on the baseball field, which plays a crucial role in the game of baseball by affecting the trajectory and speed of pitches thrown from this elevated surface."
+		},
+		{
+			"metaphor": "both Gravitational Singularity in theory of the naked singularity and pitcher's mound in baseball demonstrate a divergence of spacetime curvature and motion, respectively, that marks a breakdown of classical theories.",
+			"gravitational_singularity": "The Gravitational Singularity describes the geometry of spacetime through divergence, which indicates the breakdown of classical theories at certain curvature invariants, such as the Ricci scalar.",
+			"pitcher's_mound": "The pitcher's mound demonstrates a divergence of motion, as the ball thrown from the mound experiences a different trajectory and speed compared to the ball thrown from the flat surface of the field, marking a breakdown of classical theories of motion."
+		},
+		{
+			"metaphor": "both Gravitational Singularity in theory of the naked singularity and pitcher's mound in baseball are modeled by solutions to field equations, which describe their respective phenomena.",
+			"gravitational_singularity": "The Gravitational Singularity is modeled by analyzing solutions to Einstein's field equations, such as the Schwarzschild solution, which describes the geometry around a spherically symmetric, non-rotating mass.",
+			"pitcher's_mound": "The pitcher's mound is modeled by solutions to motion equations, which describe the trajectory and speed of the ball thrown from the mound, taking into account the elevation and composition of the mound."
+		},
+		{
+			"metaphor": "both Gravitational Singularity in theory of the naked singularity and pitcher's mound in baseball demonstrate a protective barrier, known as an event horizon and the pitching rubber, that prevents direct observation or interaction with the singularity and the pitcher.",
+			"gravitational_singularity": "The Gravitational Singularity demonstrates a protective barrier, known as an event horizon, that prevents direct observation or interaction with the singularity at the center of a black hole.",
+			"pitcher's_mound": "The pitcher's mound demonstrates a protective barrier, known as the pitching rubber, that prevents direct observation or interaction with the pitcher, as the pitcher must remain in contact with the rubber while delivering the pitch."
+		}
+	]
+}
